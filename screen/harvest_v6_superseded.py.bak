@@ -140,7 +140,7 @@ def spec(dsc, Tc_K=300.0, dim=2, R=1.0):
     U_req = 4 * Tc / lam
     coef = 0.2225 * C_STIFF if dim == 2 else 0.55 * C_STIFF
     M_req = lam / (4 * coef * R)
-    Mt = dsc['M_trg'] if 'M_trg' in dsc else dsc['M'] / (2*np.pi)**(dim-1)
+    Mt = dsc.get('M_trg', dsc['M'] / (2 * np.pi) ** (dim - 1))
     return dict(Tc_K=Tc_K, U_req=U_req, iso_req=2 * U_req,
                 M_req_trg=M_req, M_trg=Mt, R=R,
                 pass_iso=dsc['d_iso'] >= 2 * U_req,
@@ -171,7 +171,7 @@ def tc_max(dsc, dim=3, R=1.0, U_cap=None, w0=None):
                   R=0.55 -> oxide phonon,     90 meV -> U <= 0.18 eV
     """
     coef = 0.2225 * C_STIFF if dim == 2 else 0.55 * C_STIFF
-    Mt = dsc['M_trg'] if 'M_trg' in dsc else dsc['M'] / (2*np.pi)**(dim-1)
+    Mt = dsc.get('M_trg', dsc['M'] / (2 * np.pi) ** (dim - 1))
     if w0 is None:
         w0 = {1.00: 1.5, 0.85: 0.250, 0.55: 0.090}.get(round(R, 2), 1.5)
     if U_cap is None:
@@ -270,18 +270,11 @@ def read_wout_centres(path):
 
 # ---------------- multi-band manifolds (the actual target) ----------------
 
-def manifold_bands(Hk, nb=2, wmax=0.5, iso_min=0.05, ef=None, window=2.0):
-    """
-    Contiguous nb-band manifolds isolated from the REST of the spectrum.
-
-    `wmax` gates the WIDEST INDIVIDUAL BAND in the manifold, not the manifold's
-    total span. This matters and my first version had it wrong: the target is a
-    SPLIT doublet -- two narrow bands separated by a gap -- because an unsplit
-    manifold spanning the same orbitals has P = subspace identity and tr g = 0
-    identically. Gating on the span (hi-lo) therefore rejects exactly the
-    structures we want. The constant-|d| reference has two exactly flat bands
-    split by 2D: span 2D (large), max band width 0 (ideal).
-    """
+def manifold_bands(Hk, nb=2, wmax=1.0, iso_min=0.05, ef=None, window=2.0):
+    """Contiguous nb-band manifolds isolated from the REST of the spectrum.
+    Internal splitting inside the manifold is unconstrained -- an n_phi=2
+    doublet is degenerate at Gamma by site symmetry, so single-band isolation
+    is impossible by construction."""
     E = np.linalg.eigvalsh(Hk)
     nbnd = E.shape[-1]
     out = []
@@ -293,11 +286,8 @@ def manifold_bands(Hk, nb=2, wmax=0.5, iso_min=0.05, ef=None, window=2.0):
         gl = lo - E[..., b - 1].max() if b > 0 else np.inf
         gu = E[..., b + nb].min() - hi if b + nb < nbnd else np.inf
         iso = min(gl, gu)
-        wb = max(float(E[..., j].max() - E[..., j].min())
-                 for j in range(b, b + nb))
-        if wb <= wmax and iso >= iso_min:
-            out.append((tuple(range(b, b + nb)), wb, float(iso),
-                        float(hi - lo)))
+        if (hi - lo) <= wmax and iso >= iso_min:
+            out.append((tuple(range(b, b + nb)), float(hi - lo), float(iso)))
     return out
 
 
@@ -324,7 +314,6 @@ def descriptors_manifold(Hk, dks, bands):
                 M_trg=float(trg.mean()), M_trg_per_band=float(trg.mean() / r),
                 lam=lam_raw / r ** 2, lam_raw=lam_raw, rank=r,
                 nphi=float(r ** 2 / np.sum(w ** 2)),
-                W=max(float(E[..., j].max() - E[..., j].min()) for j in bands),
-                W_span=float(Es.max() - Es.min()), d_iso=float(min(gl, gu)),
+                W=float(Es.max() - Es.min()), d_iso=float(min(gl, gu)),
                 unif=float(np.max(np.abs(w - r / len(w)))),
                 w=w, Emid=float(Es.mean()))

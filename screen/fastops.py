@@ -205,7 +205,8 @@ def descriptors_manifold_fast(E, V, dks, bands):
                 M_trg_per_band=float(trg / r),
                 lam=lam_raw / r ** 2, lam_raw=lam_raw, rank=r,
                 nphi=float(r ** 2 / np.sum(w ** 2)),
-                W=float(Es.max() - Es.min()), d_iso=float(min(gl, gu)),
+                W=max(float(E[..., j].max() - E[..., j].min()) for j in bands),
+                W_span=float(Es.max() - Es.min()), d_iso=float(min(gl, gu)),
                 unif=float(np.max(np.abs(w - r / len(w)))),
                 w=w, Emid=float(Es.mean()))
 
@@ -236,3 +237,34 @@ def minimal_metric_manifold(dks, U, dim, centres=None, restarts=2, seed=0,
         if r.fun < best:
             best, bestx = float(r.fun), r.x
     return dict(M_min=best, M_naive=naive, shifts=bestx.reshape(norb - 1, dim))
+
+
+def read_hr_bytes(raw):
+    """harvest.read_hr from an in-memory buffer, so a 50 MB _hr.dat can be
+    streamed straight out of its zip without ever touching disk.
+
+    The body is parsed with np.fromstring rather than a Python list
+    comprehension: a 48-orbital material has 1,016,064 body lines, and the
+    per-line float() loop dominates everything else in the scan.
+    """
+    head, sep, body = raw.partition(b"\n")
+    lines = []
+    rest = raw
+    # header: comment, num_wann, nrpts, then ceil(nrpts/15) degeneracy lines
+    pos = 0
+    for _ in range(3):
+        pos = raw.index(b"\n", pos) + 1
+    nl = raw[:pos].split(b"\n")
+    n = int(nl[1].split()[0])
+    nr = int(nl[2].split()[0])
+    deg = []
+    while len(deg) < nr:
+        end = raw.index(b"\n", pos)
+        deg += [int(x) for x in raw[pos:end].split()]
+        pos = end + 1
+    deg = np.array(deg[:nr], float)
+    vals = np.fromstring(raw[pos:], sep=" ")
+    vals = vals[: (vals.size // 7) * 7].reshape(-1, 7)
+    R = vals[:, :3].astype(int).reshape(nr, n * n, 3)[:, 0, :]
+    hh = (vals[:, 5] + 1j * vals[:, 6]).reshape(nr, n, n)
+    return R, np.transpose(hh, (0, 2, 1)), deg
