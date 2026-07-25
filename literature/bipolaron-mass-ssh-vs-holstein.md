@@ -187,13 +187,16 @@ arXiv:[2511.06350](https://arxiv.org/abs/2511.06350) (2025).
 
 ## 3. Bipolarons in flat bands: does Lang-Firsov exponential scaling survive?
 
-**This exact intersection is a thin, largely open field.** No paper found directly computes a
-Holstein/SSH bipolaron mass on a lattice flat band and reports a replacement scaling law for
-exp(g²). What exists: (a) flat-band Holstein models studied for other observables, (b) a solid body
-of work proving quantum metric sets a *finite* composite-particle mass for non-phonon pairing
-(Cooper pairs, excitons) in flat bands, (c) evidence from ordinary dispersive-band SSH/Peierls
-models that off-diagonal coupling itself evades exponential Lang-Firsov scaling. Nobody has yet
-visibly stitched (b) and (c) together into an explicit flat-band bipolaron mass formula.
+**This exact intersection is a thin, largely open field — but it is actively being closed.** No
+*public* paper yet gives a Holstein/SSH bipolaron mass on a lattice flat band with a replacement
+scaling law for exp(g²). What exists: (a) flat-band Holstein models studied for other observables,
+(b) a solid body of work proving quantum metric sets a *finite* composite-particle mass for
+non-phonon pairing (Cooper pairs, excitons) in flat bands, (c) evidence from ordinary
+dispersive-band SSH/Peierls models that off-diagonal coupling itself evades exponential Lang-Firsov
+scaling. As of this search, no preprint has yet stitched (b) and (c) together into an explicit
+flat-band polaron mass formula — but §3.1 below (confirmed 2026-07-25) shows a team including
+J. Sous has already solved the exact single-polaron problem on a flat band and presented it; the
+preprint just isn't public yet.
 
 **My synthesis of why quantum geometry should matter (reasoning, not a quoted result):** Lang-Firsov
 band narrowing is multiplicative on the *bare* hopping, t_eff = t·exp(−S). On a lattice flat band
@@ -221,12 +224,32 @@ result — flagging it as such.
   (~50% in graphene, ~90% in MgB₂); general bands, not flat-band-specific, but suggests g² in
   Lang-Firsov could itself inherit geometric structure.
 
-**Unverified — flag explicitly, do not cite as fact:** a search snippet surfaced "Single-Polaron
-Physics in Flat Bands: Exact Solution and Spectral Properties" (Kienesberger, Herzog-Arbeitman, Yu
-et al., tentatively APS 2026), which would claim an exact single-polaron solution with e-ph coupling
-in a uniform-quantum-geometry flat band — exactly the sought result, if real. **Could not confirm**
-via arXiv listings, Semantic Scholar, or direct search; may be a very recent/unindexed abstract
-(e.g. APS March Meeting 2026) or a search artifact. Worth checking arXiv new-submissions directly.
+### 3.1 Confirmed: exact single-polaron solution on a flat band (no preprint yet)
+
+**Verified 2026-07-25 via the official APS archive — this is real, not a search artifact.**
+L. Kienesberger (Yale), J. Herzog-Arbeitman (Princeton), J. Yu (U. Florida), B. A. Bernevig
+(Princeton), J. Sous — **note: J. Sous is a co-author of the anchor PRX 2023 paper and most of
+§2**, directly linking this to the main line of research — "Single-Polaron Physics in Flat Bands:
+Exact Solution and Spectral Properties," APS Global Physics Summit 2026, session "Novel
+Superconductivity in Two-Dimensional Systems," Denver, March 17 2026 (oral). Archive page:
+[meetings-archive.aps.org/smt/2026/mar-g24/12](https://meetings-archive.aps.org/smt/2026/mar-g24/12/).
+
+**No arXiv preprint / free PDF found yet**, despite the talk having already occurred relative to
+today's date — checked the full arXiv listing of Herzog-Arbeitman's and Sous's papers, arXiv title
+search, and arXiv abstract search; no match. Not mirrored locally for this reason.
+
+**Result, quoted from the abstract:** they "solve the single-polaron problem exactly in a class of
+flat band models with uniform quantum geometry" under electron-phonon coupling; the spectral
+function is "nonperturbatively renormalized and exhibits exotic features like repeated poles with a
+non-integer power-law divergence" — framed as "a rare example of an exactly solvable
+electron-phonon problem."
+
+**What this settles and what it doesn't:** it confirms the physics is qualitatively *non*-Lang-Firsov
+— exact solvability plus non-analytic power-law spectral structure, not a smooth exponential
+mass-renormalization crossover. It does **not** state an explicit m\*/m scaling formula in the
+abstract; that requires the full paper. Watch arXiv listings for Kienesberger / Herzog-Arbeitman /
+Sous over the coming weeks, or check back — this is the single most direct answer to "does quantum
+geometry alter Lang-Firsov scaling in a flat band," once the preprint lands.
 
 **Terminology false-friends to avoid when searching further:** "bipolaron flat bands" in the
 Alexandrov school (e.g. *Phys. Rev. B* **53**, 2863) means an *emergent, narrow bipolaron band
