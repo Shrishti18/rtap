@@ -123,3 +123,80 @@ instance: the geometry that gives 185 K exists in a real, catalogued compound,
 
 - `constd.py` — the screen (eigenvalues only, 605 bands, 179 materials, 623 s)
 - `constd.csv` — per-band `unif_gap` (uncorrected), `M_trg`, `n_φ`, `d_iso`, gap
+
+---
+
+# RETRACTION: LiPbAu₂ is not 185 K, and is not winding
+
+Both claims in the section above fail on direct computation (`lipbau2.py`).
+
+## The 185 K was a rank-1/rank-2 mismatch — D1's fifth appearance
+
+The stored Tc pairs `M_trg` and `lam` from the **single-band** descriptors of
+band 24 with `d_iso = 0.390 eV`, the isolation gap of the two-band **group**.
+Different manifolds. Band 24's own nearest neighbour is band 25 at 0.024 eV.
+
+| treatment | U (eV) | M | lam | amp | geo | **Tc** |
+|---|---|---|---|---|---|---|
+| (a) rank-2 manifold, U ≤ iso/2 | 0.1952 | 1.0531 | 0.1931 | 109 | 879 | **109 K** |
+| (b) single band, U ≤ pair_gap/2 | 0.0097 | 0.5472 | 0.3285 | 9 | 23 | **9 K** |
+| STORED — (a)'s U with (b)'s M, lam | 0.1952 | 0.5472 | 0.3285 | 186 | 457 | ~~186 K~~ |
+
+**Self-consistency picks (b).** Treatment (a) assumes both bands pair coherently,
+which requires the intra-pair splitting ≲ Tc: 0.024 eV = 274 K against Tc = 109 K
+fails by 2.5×. Treatment (b) assumes band 25 is negligible, requiring splitting
+≫ Tc: 274 K against 9 K holds. **LiPbAu₂ gives 9 K.** The claim that it is the
+first material here to clear 100 K is withdrawn entirely.
+
+## The error is systematic across the whole stored scan
+
+Every stored Tc uses single-band `M_trg`/`lam` with the group's `d_iso`.
+Recomputing all 708 unique bands in the consistent manifold treatment:
+
+```
+stored   median 41.0 K   max 7615 K
+manifold median 33.2 K   max 3044 K
+ratio stored/manifold: median 1.063, 90th pct 4.67, max 374
+inflated by >1.5x : 239/708      deflated (<0.67) : 44/708
+```
+
+Median impact is small (1.06), **but the tail is where every candidate lives** —
+AgBr band 0 is inflated 26×, ZnPd₅Se 7.5×, Ba₃AsN 6.9×. The top of the stored
+ranking is the part most corrupted by this.
+
+## And it is not a winding structure
+
+For any two-band `H = d₀I + d·σ` the rank-1 metric is exactly
+`tr g = ¼Σ|∂d̂|²`. So if band 24's metric came from winding inside the 24/25
+pair, an effective two-band model built from that pair would reproduce it:
+
+```
+|d(k)|  min 0.0097  mean 0.0118  max 0.0140   uniformity 0.694  (winding: 1.000)
+M_trg, effective 2-band model : 0.1676
+M_trg, full Hamiltonian       : 0.5472        ratio 0.306
+```
+
+**70% of the metric comes from bands outside the group**, ≥ 0.39 eV away —
+consistent with the manifold cross term being only −0.034 (3%), since a rank-2
+projector removes exactly the intra-pair channel. `|d|` is not constant either.
+LiPbAu₂ is not an empirical instance of integer winding.
+
+## Where the winding class now stands
+
+- Integer winding **cannot be symmetry-enforced**: a non-symmorphic operation
+  with fractional translation 1/m gives winding n = 1/m, and half-integer
+  winding *is* the band-sticking degeneracy. Symmetry protection and isolation
+  are mutually exclusive.
+- So integer winding requires **fine-tuned hopping** — suppressed short-range,
+  dominant long-range — which is why it is rare.
+- The best of 605 real bands is not it.
+
+**The winding class is unrealized in any known material.** It is not closed by
+theorem — the 334 K for the model stands — but there is no material and no
+symmetry route to one.
+
+## Correction to the strategic reframe
+
+"Filling is dopable" was stated too broadly. It holds for shifts of ~0.1–0.3 eV.
+LiPbAu₂ needs E_F moved 0.98 eV — 4 band widths — in a metal with other bands
+already at E_F. That is not doping, it is a different compound.
