@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 380397
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Rubidium undecabromotetraniobate(II/III)'
+_chemical_formula_structural 'Rb Nb4 Br11'
+_chemical_formula_sum 'Br11 Nb4 Rb1'
+_exptl_crystal_density_diffrn 5.17
+_cell_measurement_temperature 170.
+_publ_section_title 'Crystal structure and physical properties of Rb Nb4 Br11'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2010
+636 50 53 ZAACAB
+loop_
+_publ_author_name
+'Habermehl, K.'
+'Kleinke, H.'
+'Meyer, G.'
+_cell_length_a 16.9946(11)
+_cell_length_b 7.2666(4)
+_cell_length_c 6.9445(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 857.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m a'
+_symmetry_Int_Tables_number 51
+_refine_ls_R_factor_all 0.0215
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x+1/2, y, -z'
+6 '-x+1/2, y, z'
+7 '-x, y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb2+ 2.5
+Br1- -1
+Rb1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb2+ 4 i 0.35931(2) 0. 0.37949(6) 0.01292(10) 1 0
+Nb2 Nb2+ 4 h 0.5 -0.20918(5) 0.5 0.01209(10) 1 0
+Br1 Br1- 4 i 0.41423(2) 0. 0.72372(7) 0.01450(11) 1 0
+Br2 Br1- 8 l 0.420743(18) 0.25614(4) 0.17730(5) 0.01699(10) 1 0
+Br3 Br1- 4 j 0.58461(2) 0.5 0.35705(7) 0.01678(11) 1 0
+Br4 Br1- 2 e 0.25 0. 0.08262(10) 0.01840(14) 1 0
+Br5 Br1- 4 k 0.25 -0.23840(6) 0.51872(7) 0.01835(12) 1 0
+Rb1 Rb1+ 2 f 0.25 0.5 0.00155(18) 0.0455(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb2+ 0.01034(16) 0.01223(16) 0.0162(2) 0. -0.00016(13) 0.
+Nb2 Nb2+ 0.01056(16) 0.01014(16) 0.01556(19) 0. 0.00034(13) 0.
+Br1 Br1- 0.01327(19) 0.01461(19) 0.0156(2) 0. 0.00127(15) 0.
+Br2 Br1- 0.01578(16) 0.01596(16) 0.01922(18) -0.00194(10) -0.00171(11)
+0.00279(12)
+Br3 Br1- 0.01345(19) 0.01219(19) 0.0247(2) 0. 0.00255(16) 0.
+Br4 Br1- 0.0132(3) 0.0230(3) 0.0190(3) 0. 0. 0.
+Br5 Br1- 0.0128(2) 0.0150(2) 0.0273(3) 0. 0. 0.00505(17)
+Rb1 Rb1+ 0.0295(4) 0.0361(4) 0.0710(8) 0. 0. 0.

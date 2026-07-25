@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 424468
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Platinum hexayttrium decaiodide'
+_chemical_formula_structural '(Pt Y6) I10'
+_chemical_formula_sum 'I10 Pt1 Y6'
+_chemical_name_structure_type Y6RuI10
+_exptl_crystal_density_diffrn 5.32
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+The prolific {Z R6} X12 R and {Z R6} X10 structure types with isolated
+endohedrally stabilized (Z) rare-earth metal (R) cluster halide (X) complexes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2012
+638 1922 1931 ZAACAB
+loop_
+_publ_author_name
+'Rustige, C.'
+'Bruehmann, M.'
+'Steinberg, S.'
+'Meyer, E.'
+'Daub, K.'
+'Zimmermann, S.'
+'Wolberg, M.'
+'Mudring, A.V.'
+'Meyer, G.'
+_cell_length_a 9.5497(14)
+_cell_length_b 9.5704(15)
+_cell_length_c 7.6047(11)
+_cell_angle_alpha 97.106(18)
+_cell_angle_beta 105.148(17)
+_cell_angle_gamma 107.616(18)
+_cell_volume 623.69
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0427
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt2+ 2
+I1- -1
+Y1+ 1.33
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt2+ 1 a 0. 0. 0. 0.01497(19) 1 0
+I1 I1- 2 i -0.46293(11) -0.27766(11) -0.36420(16) 0.0277(3) 1 0
+I2 I1- 2 i 0.37440(11) -0.18395(10) -0.91188(16) 0.0261(2) 1 0
+I3 I1- 2 i 0.18714(10) -0.09422(10) -0.45120(13) 0.0194(2) 1 0
+I4 I1- 2 i -0.09053(12) -0.46825(10) -0.26794(14) 0.0271(3) 1 0
+I5 I1- 2 i -0.26674(10) -0.35711(9) -0.78572(14) 0.0201(2) 1 0
+Y1 Y1+ 2 i 0.03956(15) -0.24583(14) -0.8846(2) 0.0162(3) 1 0
+Y2 Y1+ 2 i -0.12979(15) -0.16952(14) -0.35528(19) 0.0162(3) 1 0
+Y3 Y1+ 2 i -0.29132(15) -0.08893(14) 0.0272(2) 0.0166(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pt1 Pt2+ 0.0159(3) 0.0129(3) 0.0165(4) 0.0054(3) 0.0054(3) 0.0031(3)
+I1 I1- 0.0186(4) 0.0309(5) 0.0253(6) 0.0021(4) 0.0057(4) -0.0039(4)
+I2 I1- 0.0208(4) 0.0244(5) 0.0412(7) 0.0117(4) 0.0152(4) 0.0145(4)
+I3 I1- 0.0221(4) 0.0197(4) 0.0165(5) 0.0085(3) 0.0056(3) 0.0028(3)
+I4 I1- 0.0426(6) 0.0158(4) 0.0211(6) 0.0137(4) 0.0033(4) 0.0029(4)
+I5 I1- 0.0220(4) 0.0157(4) 0.0221(6) 0.0049(3) 0.0080(4) 0.0048(4)
+Y1 Y1+ 0.0192(6) 0.0135(6) 0.0176(7) 0.0073(5) 0.0060(5) 0.0047(5)
+Y2 Y1+ 0.0189(6) 0.0147(6) 0.0144(7) 0.0059(5) 0.0048(5) 0.0016(5)
+Y3 Y1+ 0.0159(6) 0.0165(6) 0.0185(7) 0.0060(5) 0.0068(5) 0.0042(5)

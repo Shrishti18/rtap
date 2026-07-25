@@ -1,0 +1,66 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 673316
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Tungsten Oxide'
+_chemical_formula_structural 'W O3'
+_chemical_formula_sum 'O3 W1'
+_exptl_crystal_density_diffrn 7.41
+_publ_section_title 'First-principles reinvestigation of bulk WO3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2016 94
+245124-1 11 PRBMDO
+loop_
+_publ_author_name
+'Hamdi, Hanen'
+'Salje, Ekhard K.H.'
+'Ghosez, Philippe'
+'Bousquet, Eric'
+_cell_length_a 7.359
+_cell_length_b 7.486
+_cell_length_c 7.544
+_cell_angle_alpha 90
+_cell_angle_beta 91.311
+_cell_angle_gamma 90
+_cell_volume 415.48
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W0+ 0
+O0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W0+ 4 e 0.272 0.0074 0.279 1. 1. 0
+W2 W0+ 4 e 0.227 0.0133 0.775 1. 1. 0
+O1 O0+ 4 e 0.0043 0.041 0.2165 1. 1. 0
+O2 O0+ 4 e -0.0056 0.4576 0.217 1. 1. 0
+O3 O0+ 4 e 0.2883 0.2534 0.2924 1. 1. 0
+O4 O0+ 4 e 0.2029 0.253 0.7198 1. 1. 0
+O5 O0+ 4 e 0.2795 0.0385 0.0059 1. 1. 0
+O6 O0+ 4 e 0.279 0.463 -0.0047 1. 1. 0

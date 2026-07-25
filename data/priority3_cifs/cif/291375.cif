@@ -1,0 +1,84 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 291375
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Cesium hydrogensulfate(VI)'
+_chemical_formula_structural 'Cs H S O4'
+_chemical_formula_sum 'H1 Cs1 O4 S1'
+_chemical_name_structure_type CsHSO4
+_exptl_crystal_density_diffrn 3.35
+_cell_measurement_temperature 293.
+_publ_section_title
+'Thermal properties and structures of Cs H S O4 and Cs D S O4 crystals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'International Research Journal of Pure and Applied Chemistry' 2014 4 1
+17 IRJPFW
+loop_
+_publ_author_name
+'Fukami, Takanori'
+'Tahara, Shuta'
+'Nakasone, Keiko'
+_cell_length_a 7.7712(7)
+_cell_length_b 8.1398(4)
+_cell_length_c 7.7150(6)
+_cell_angle_alpha 90
+_cell_angle_beta 110.698(3)
+_cell_angle_gamma 90
+_cell_volume 456.52
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0241
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 e 0.78436(2) 0.37092(2) 0.29391(2) . 1. 0
+S1 S6+ 4 e 0.24790(7) 0.37271(6) 0.22006(8) . 1. 0
+O1 O2- 4 e 0.4106(3) 0.2781(3) 0.3683(3) . 1. 0
+O2 O2- 4 e 0.3343(3) 0.4298(2) 0.0911(3) . 1. 0
+O3 O2- 4 e 0.1940(3) 0.5039(2) 0.3135(3) . 1. 0
+O4 O2- 4 e 0.1050(3) 0.2542(2) 0.1408(3) . 1. 0
+H1 H1+ 4 e 0.377(6) 0.217(5) 0.451(6) 0.000011(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.02529(8) 0.02742(8) 0.02787(9) 0.00125(5) 0.00943(6) 0.0015(6)
+S1 S6+ 0.0233(2) 0.0191(2) 0.0218(3) -0.0011(2) 0.0097(2) -0.0007(2)
+O1 O2- 0.0255(9) 0.0503(12) 0.0496(13) 0.0060(8) 0.0124(9) 0.0236(10)
+O2 O2- 0.0404(10) 0.0365(10) 0.0499(13) -0.0051(8) 0.0217(9) 0.0017(8)
+O3 O2- 0.0566(13) 0.0279(9) 0.0405(11) 0.0022(8) 0.0324(11) -0.0075(8)
+O4 O2- 0.0340(10) 0.0367(10) 0.0251(11) -0.0141(8) 0.0101(9) -0.0089(8)

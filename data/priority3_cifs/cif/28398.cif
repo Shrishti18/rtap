@@ -1,0 +1,70 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 28398
+_audit_creation_date 1980-01-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Dimercury oxide cyanide'
+_chemical_formula_structural 'Hg2 O (C N)2'
+_chemical_formula_sum 'C2 Hg2 N2 O1'
+_chemical_name_structure_type Hg2(CN)2O
+_exptl_crystal_density_diffrn 5.97
+_publ_section_title
+'Least-squares refinement of the structure of some mercury(II) salts'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Arkiv foer Kemi' 1965 23 205 211 ARKEAD
+loop_
+_publ_author_name
+'Aurivillius, K.'
+_cell_length_a 18.901(4)
+_cell_length_b 3.900(1)
+_cell_length_c 7.078(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 521.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+O2- -2
+C2+ 2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 4 c 0.9771(1) 0.25 0.1989(3) 1.94 1. 0
+Hg2 Hg2+ 4 c 0.1528(1) 0.25 0.1287(3) 1.91 1. 0
+O1 O2- 4 c 0.0606(14) 0.25 0.0067(39) 0.85 1. 0
+C1 C2+ 4 c 0.9328(28) 0.25 0.4542(74) 1.94 1. 0
+C2 C2+ 4 c 0.2427(21) 0.25 0.2475(55) 0.72 1. 0
+N1 N3- 4 c 0.8976(26) 0.25 0.6048(73) 2.36 1. 0
+N2 N3- 4 c 0.2949(21) 0.25 0.3412(54) 1.2 1. 0

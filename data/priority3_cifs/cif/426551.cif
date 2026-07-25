@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 426551
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Tricesium trisulfidoantimonate(III)'
+_chemical_formula_structural 'Cs3 Sb S3'
+_chemical_formula_sum 'Cs3 S3 Sb1'
+_chemical_name_structure_type Na3AsS3
+_exptl_crystal_density_diffrn 3.79
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+New sulfido antimonates of the heavy alkali metals. Synthesis, crystal
+structure and chemical bonding of (K/Rb/Cs)3 Sb S3 and Cs3 Sb S4 * H2 O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2013 68 1295
+1309 ZNBSEN
+loop_
+_publ_author_name
+'Schindler, Lisa V.'
+'Schwarz, Michael'
+'Roehr, Caroline'
+_cell_length_a 10.2592(5)
+_cell_length_b 10.2592(5)
+_cell_length_c 10.2592(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1079.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.0582
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Sb3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 a 0.05796(7) 0.05796(7) 0.05796(7) 0.0315(3) 1 0
+Cs2 Cs1+ 4 a 0.55945(7) 0.55945(7) 0.55945(7) 0.0366(3) 1 0
+Cs3 Cs1+ 4 a 0.81972(8) 0.81972(8) 0.81972(8) 0.0529(4) 1 0
+Sb1 Sb3+ 4 a 0.27654(7) 0.27654(7) 0.27654(7) 0.0357(3) 1 0
+S1 S2- 12 b 0.0505(3) 0.2587(3) 0.3413(3) 0.0390(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0315(3) 0.0315(3) 0.0315(3) -0.0016(3) -0.0016(3) -0.0016(3)
+Cs2 Cs1+ 0.0366(3) 0.0366(3) 0.0366(3) 0.0050(4) 0.0050(4) 0.0050(4)
+Cs3 Cs1+ 0.0529(4) 0.0529(4) 0.0529(4) -0.0054(4) -0.0054(4) -0.0054(4)
+Sb1 Sb3+ 0.0357(3) 0.0357(3) 0.0357(3) -0.0057(3) -0.0057(3) -0.0057(3)
+S1 S2- 0.0461(15) 0.0336(14) 0.0372(14) 0.0090(13) 0.0091(14) -0.0027(11)

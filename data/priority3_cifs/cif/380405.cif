@@ -1,0 +1,100 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 380405
+_audit_creation_date 2010-08-01
+_chemical_name_systematic
+'Trilanthanum cobalt(III) trisulfohexaoxotungstate(VI)'
+_chemical_formula_structural 'La3 Co W S3 O6'
+_chemical_formula_sum 'Co1 La3 O6 S3 W1'
+_chemical_name_structure_type La3FeWS3O6
+_exptl_crystal_density_diffrn 6.65
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+La3 T W S3 O6 (T = Cr, Mn, Fe, Co, Ni): Quinary rare earth transition-metal
+compounds showing a nonmagnetic/magnetic transition (T = Co) - Synthesis,
+structure and physical properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2010
+636 74 78 ZAACAB
+loop_
+_publ_author_name
+'Bryhan, D.N.'
+'Rakers, R.'
+'Klimaszewski, K.'
+'Patel, N.'
+'Bohac, J.J.'
+'Kremer, R.K.'
+'Mattausch, H.J.'
+'Zheng Chong'
+_cell_length_a 9.4710(6)
+_cell_length_b 9.4710(6)
+_cell_length_c 5.4721(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 425.09
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0506
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+W6+ 6
+Co3+ 3
+S2- -2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 6 h 0.3095(2) 0.3970(2) -0.25 0.0166(7) 1 0
+W1 W6+ 2 c 0.3333 0.6667 0.25 0.0133(8) 1 0
+Co1 Co3+ 2 b 0. 0. 0. 0.0134(17) 1 0
+S1 S2- 6 h -0.2335(11) -0.0485(11) 0.25 0.0160(18) 1 0
+O1 O2- 12 i 0.471(2) 0.6348(19) 0.017(3) 0.022(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0182(12) 0.0126(11) 0.0126(11) 0.0029(9) 0. 0.
+W1 W6+ 0.0144(9) 0.0144(9) 0.0111(12) 0.0072(5) 0. 0.
+Co1 Co3+ 0.014(2) 0.014(2) 0.012(4) 0.0070(11) 0. 0.
+S1 S2- 0.019(4) 0.017(4) 0.012(4) 0.009(4) 0. 0.
+O1 O2- 0.036(10) 0.013(8) 0.022(9) 0.015(8) 0.000(8) -0.007(8)

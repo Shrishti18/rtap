@@ -1,0 +1,99 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 280270
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Nitronium tetranitratogallate'
+_chemical_formula_structural '(N O2) (Ga (N O3)4)'
+_chemical_formula_sum 'Ga1 N5 O14'
+_exptl_crystal_density_diffrn 2.36
+_cell_measurement_temperature 173.
+_publ_section_title
+;
+Crystal structures of nitronium tetranitratogallate and its reversible
+solid-state phase transition mediated by nonmerohedral twinning
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2000 39 4621 4624 INOCAJ
+loop_
+_publ_author_name
+'Colombo, D.G.'
+'Young, V.G.jr.'
+'Gladfelter, W.L.'
+_cell_length_a 9.5898(2)
+_cell_length_b 5.9376(1)
+_cell_length_c 8.9784(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.420(1)
+_cell_angle_gamma 90.
+_cell_volume 511.22
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 1 2 1'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.0473
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z+1/2'
+4 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+N5+ 5
+O2- -2
+N5+ 5
+O2- -2
+N5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 2 a 0 0 0 . 1. 0
+N1 N5+ 4 c 0.1640(4) -.2971(7) -.1558(4) . 1. 0
+O1 O2- 4 c 0.1606(4) -.1781(6) -.0302(4) . 1. 0
+O2 O2- 4 c 0.0572(4) -.3177(7) -.2295(5) . 1. 0
+O3 O2- 4 c 0.2768(4) -.3793(7) -.1861(4) . 1. 0
+N2 N5+ 4 c -.1393(4) 0.2823(7) -.1581(5) . 1. 0
+O4 O2- 4 c -.0441(4) 0.1291(7) -.1919(4) . 1. 0
+O5 O2- 4 c -.1633(7) 0.2912(8) -.0215(5) . 1. 0
+O6 O2- 4 c -.1901(5) 0.3942(8) -.2567(6) . 1. 0
+N3 N5+ 2 b 0.5 0.6605(19) 0 . 1. 0
+O7 O2- 2 b 0.5 0.8474(15) 0 . 1. 0
+O8 O2- 2 b 0.5 0.4711(20) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.0144(3) 0.0164(3) 0.0135(2) 0 -.0003(2) 0
+N1 N5+ 0.020(2) 0.015(2) 0.018(2) -.0014(13) 0.0040(14) 0.0014(13)
+O1 O2- 0.0196(15) 0.022(2) 0.0188(15) 0.0059(12) -.0016(12) -.0044(13)
+O2 O2- 0.025(2) 0.030(2) 0.026(2) -.0016(15) -.006(2) -.0049(14)
+O3 O2- 0.024(2) 0.024(2) 0.029(2) 0.0059(13) 0.009(2) -.0021(14)
+N2 N5+ 0.019(2) 0.0140(15) 0.022(2) -.0003(13) -.0038(15) -.0005(13)
+O4 O2- 0.017(2) 0.028(2) 0.027(2) 0.0082(12) 0.0045(13) 0.0084(14)
+O5 O2- 0.071(4) 0.025(2) 0.028(2) -.004(2) 0.016(2) -.005(2)
+O6 O2- 0.035(2) 0.028(2) 0.043(2) 0.002(2) -.020(2) 0.008(2)
+N3 N5+ 0.036(4) 0.057(6) 0.021(3) 0 0.001(3) 0
+O7 O2- 0.054(4) 0.044(4) 0.036(3) 0 -.002(3) 0
+O8 O2- 0.073(5) 0.048(7) 0.039(3) 0 -.021(3) 0

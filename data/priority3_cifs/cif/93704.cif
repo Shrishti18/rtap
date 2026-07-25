@@ -1,0 +1,106 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 93704
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Calcium germanide (5/3)'
+_chemical_formula_structural 'Ca5 Ge3'
+_chemical_formula_sum 'Ca5 Ge3'
+_chemical_name_structure_type Cr5B3
+_exptl_crystal_density_diffrn 3.13
+_publ_section_title
+;
+Hydrogen impurity effects, A5 Tt3 intermetallic compounds between A= Ca, Sr,
+Ba, Eu and Tt = Si, Ge, Sn with (Cr5 B3)-like structures that are stable both
+as binary and as ternary hydride and fluoride phases
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2001 159 149 162 JSSCBI
+loop_
+_publ_author_name
+'Leon Escamilla, E.A.'
+'Corbett, J.D.'
+_cell_length_a 7.7156(5)
+_cell_length_b 7.7156(5)
+_cell_length_c 14.885(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 886.11
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 4/m c m'
+_symmetry_Int_Tables_number 140
+_refine_ls_R_factor_all 0.019
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z+1/2'
+2 '-y, -x, -z+1/2'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z+1/2'
+10 'y, x, z+1/2'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x, y, z+1/2'
+14 'x, -y, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, x+1/2, -z'
+18 '-y+1/2, -x+1/2, -z'
+19 '-y+1/2, x+1/2, -z+1/2'
+20 'y+1/2, -x+1/2, -z+1/2'
+21 'x+1/2, -y+1/2, -z'
+22 '-x+1/2, y+1/2, -z'
+23 'x+1/2, y+1/2, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/2, -x+1/2, z'
+26 'y+1/2, x+1/2, z'
+27 'y+1/2, -x+1/2, z+1/2'
+28 '-y+1/2, x+1/2, z+1/2'
+29 '-x+1/2, y+1/2, z'
+30 'x+1/2, -y+1/2, z'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 4 c 0 0 0 1.18(4) 1. 0
+Ca2 Ca0+ 16 l 0.17807(8) 0.67807(8) 0.13998(6) 0.95(2) 1. 0
+Ge1 Ge0+ 4 a 0 0 0.25 1.04(2) 1. 0
+Ge2 Ge0+ 8 h 0.38200(6) 0.88200(6) 0 0.70(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca0+ 0.0079(5) 0.0079(5) 0.029(1) 0. 0. 0.
+Ca2 Ca0+ 0.0122(3) 0.0122(3) 0.0117(4) -0.0008(3) -0.0006(2) -0.0006(2)
+Ge1 Ge0+ 0.0124(3) 0.0124(3) 0.0148(5) 0. 0. 0.
+Ge2 Ge0+ 0.0074(2) 0.0074(2) 0.0117(3) -0.0004(3) 0. 0.

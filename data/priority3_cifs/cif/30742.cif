@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 30742
+_audit_creation_date 1984-11-06
+_audit_update_record 1994-06-30
+_chemical_name_systematic 'Cyclo-disulfurtrinitride vanadium dichloride'
+_chemical_formula_structural '(S2 N3) V Cl2'
+_chemical_formula_sum 'Cl2 N3 S2 V1'
+_exptl_crystal_density_diffrn 2.54
+_publ_section_title
+;
+Reactions of Tetrasulfur Tetranitride with Titanium and Vanadium
+Tetrachlorides; Crystal Structure of V Cl2 (S2 N3)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Journal of the Chemical Society. Dalton Transactions, Inorganic Chemistry
+(1972-)
+; 1983 1983 1207 1209 JCDTBI
+loop_
+_publ_author_name
+'Roesky, H.W.'
+'Anhaus, J.'
+'Schmidt, H.G.'
+'Sheldrick, G.M.'
+'Noltemeyer, M.'
+_cell_length_a 5.713(2)
+_cell_length_b 6.957(3)
+_cell_length_c 7.729(3)
+_cell_angle_alpha 95.38(3)
+_cell_angle_beta 99.62(3)
+_cell_angle_gamma 97.58(3)
+_cell_volume 298.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+Cl1- -1
+S2+ 2
+N2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 2 i 0.2422(1) 0.1502(1) 0.9846(1) . 1. 0
+Cl1 Cl1- 2 i 0.3741(1) -.1237(1) 0.8243(1) . 1. 0
+Cl2 Cl1- 2 i 0.1966(2) 0.3770(1) 1.2017(1) . 1. 0
+S1 S2+ 2 i -.1831(2) 0.1262(1) 0.6713(1) . 1. 0
+S2 S2+ 2 i 0.2559(2) 0.3705(1) 0.6538(1) . 1. 0
+N1 N2- 2 i -.0655(5) 0.0780(4) 0.8591(4) . 1. 0
+N2 N2- 2 i 0.3392(5) 0.3044(4) 0.8423(4) . 1. 0
+N3 N2- 2 i -.0147(5) 0.2660(5) 0.5792(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V4+ 0.016(1) 0.022(1) 0.020(1) 0.000(1) 0.005(1) 0.005(1)
+Cl1 Cl1- 0.018(1) 0.030(1) 0.024(1) 0.005(1) 0.002(1) -.002(1)
+Cl2 Cl1- 0.029(1) 0.027(1) 0.033(1) 0.001(1) 0.011(1) -.002(1)
+S1 S2+ 0.022(1) 0.033(1) 0.023(1) 0.000(1) 0.002(1) 0.006(1)
+S2 S2+ 0.030(1) 0.033(1) 0.028(1) -.002(1) 0.008(1) 0.012(1)
+N1 N2- 0.019(1) 0.024(1) 0.023(1) 0.002(1) 0.006(1) 0.004(1)
+N2 N2- 0.023(1) 0.026(1) 0.028(1) 0.000(1) 0.008(1) 0.007(1)
+N3 N2- 0.031(2) 0.026(2) 0.024(1) 0.001(1) 0.005(1) 0.009(1)

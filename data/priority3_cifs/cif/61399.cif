@@ -1,0 +1,74 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 61399
+_audit_creation_date 1988-02-22
+_chemical_name_systematic Monooxodilead(II)tetraoxotungstate(VI)
+_chemical_formula_structural 'Pb2 O (W O4)'
+_chemical_formula_sum 'O5 Pb2 W1'
+_chemical_name_structure_type Pb2OSO4
+_exptl_crystal_density_diffrn 8.13
+_publ_section_title
+;
+Etude de la solution Pb2 O (S1-x) Wx O4) et Structure Cristalline de la
+Variete alpha du Monooxodiplomb(II) Tetraoxotungstate(VI) Pb2 O (W O4) par
+diffraction X sur poudres
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1985 20 1329 1337 MRBUAC
+loop_
+_publ_author_name
+'Bosselet, F.'
+'Mentzen, B.F.'
+'Bouix, J.'
+_cell_length_a 14.2188(9)
+_cell_length_b 5.8015(3)
+_cell_length_c 7.3508(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.911(3)
+_cell_angle_gamma 90.
+_cell_volume 554.33
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0408
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 i 0.1369(4) 0 0.1179(8) . 1. 0
+Pb2 Pb2+ 4 i 0.0115(6) 0.5 0.2572(11) . 1. 0
+W1 W6+ 4 i 0.3302(5) 0.5 0.3411(8) . 1. 0
+O1 O2- 4 i 0.0773(38) 0 0.3967(79) . 1. 0
+O2 O2- 8 j 0.3389(34) 0.7466(55) 0.2195(59) . 1. 0
+O3 O2- 4 i 0.1783(53) 0.5 0.2638(82) . 1. 0
+O4 O2- 4 g 0 0.1731(81) 0 . 1. 0

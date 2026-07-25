@@ -1,0 +1,85 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 426524
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Tungsten oxide tetrachloride'
+_chemical_formula_structural 'W O Cl4'
+_chemical_formula_sum 'Cl4 O1 W1'
+_chemical_name_structure_type WOCl4
+_exptl_crystal_density_diffrn 3.98
+_cell_measurement_temperature 296.
+_publ_section_title
+;
+Substitution of Conventional High-temperature Syntheses of Inorganic Compounds
+by Near-room-temperature Syntheses in Ionic Liquids
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2013 68 1108
+1122 ZNBSEN
+loop_
+_publ_author_name
+'Matthias F. Groh'
+'Ulrike Mueller'
+'Ejaz Ahmed'
+'Alexander Rothenberger'
+'Michael Ruck'
+_cell_length_a 8.478(3)
+_cell_length_b 8.478(3)
+_cell_length_c 3.970(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 285.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4'
+_symmetry_Int_Tables_number 79
+_refine_ls_R_factor_all 0.0521
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x, z'
+2 '-y, x, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 2 a 0. 0. 0. 0.0291(3) 1 0
+Cl1 Cl1- 8 c 0.0665(4) 0.2574(4) 0.0847(8) 0.0406(9) 1 0
+O1 O2- 2 a 0. 0. 0.562(7) 0.054(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0322(4) 0.0322(4) 0.0230(4) 0. 0. 0.
+Cl1 Cl1- 0.0427(19) 0.0324(18) 0.047(2) -0.0019(15) 0.0021(14) -0.0007(12)
+O1 O2- 0.048(7) 0.048(7) 0.07(3) 0. 0. 0.

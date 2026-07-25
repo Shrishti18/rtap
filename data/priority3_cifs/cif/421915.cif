@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 421915
+_audit_creation_date 2011-02-01
+_chemical_name_systematic
+'Tin(II) tin(II) chloride tritungsten mue3-Cl tris(mue-Cl) nonachloride'
+_chemical_formula_structural 'Sn (Sn Cl) (W3 Cl13)'
+_chemical_formula_sum 'Cl14 Sn2 W3'
+_exptl_crystal_density_diffrn 4.49
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+Room-temperature synthesis of the highly polar cluster compound Sn [Sn Cl] [W3
+Cl13]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry  (online)' 2010 2010 5294 5297
+EJICFO
+loop_
+_publ_author_name
+'Ahmed, E.'
+'Groh, M.'
+'Ruck, M.'
+_cell_length_a 9.598(1)
+_cell_length_b 9.598(1)
+_cell_length_c 11.903(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 949.62
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W3+ 3.33
+Sn2+ 2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W3+ 6 c 0.55686(5) 0.41171(5) 0.16074(4) 0.01432(13) 1 0
+Sn1 Sn2+ 2 b 0.3333 0.6667 0.20124(11) 0.0279(4) 1 0
+Sn2 Sn2+ 2 a 0. 0. 0.24191(13) 0.0784(7) 1 0
+Cl1 Cl1- 2 b 0.6667 0.3333 0.3128(3) 0.0139(9) 1 0
+Cl2 Cl1- 6 c 0.4411(4) 0.2014(4) 0.0237(2) 0.0242(7) 1 0
+Cl3 Cl1- 6 c 0.3240(4) 0.3036(5) 0.2775(3) 0.0292(8) 1 0
+Cl4 Cl1- 6 c 0.4040(4) 0.5062(4) 0.0473(2) 0.0262(8) 1 0
+Cl5 Cl1- 6 c 0.6380(4) 0.6541(5) 0.2637(3) 0.0280(8) 1 0
+Cl6 Cl1- 2 a 0. 0. 0.4402(4) 0.0469(15) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W3+ 0.0150(2) 0.0152(2) 0.01542(17) 0.00947(19) -0.0022(5) -0.0014(5)
+Sn1 Sn2+ 0.0298(6) 0.0298(6) 0.0242(7) 0.0149(3) 0. 0.
+Sn2 Sn2+ 0.1061(12) 0.1061(12) 0.0230(9) 0.0530(6) 0. 0.
+Cl1 Cl1- 0.0135(15) 0.0135(15) 0.0147(19) 0.0067(7) 0. 0.
+Cl2 Cl1- 0.0309(18) 0.023(2) 0.0207(13) 0.0147(17) -0.0075(11) -0.0091(13)
+Cl3 Cl1- 0.0241(19) 0.039(2) 0.0285(16) 0.0184(18) 0.0037(14) 0.0014(15)
+Cl4 Cl1- 0.034(2) 0.0367(19) 0.0246(15) 0.0307(18) -0.0065(13) -0.0036(13)
+Cl5 Cl1- 0.034(2) 0.022(2) 0.0297(17) 0.0161(15) -0.0081(15) -0.0088(15)
+Cl6 Cl1- 0.059(2) 0.059(2) 0.023(3) 0.0294(12) 0. 0.

@@ -1,0 +1,88 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 4327
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Copper bis(iodate(V)) - alpha'
+_chemical_formula_structural 'Cu (I O3)2'
+_chemical_formula_sum 'Cu1 I2 O6'
+_chemical_name_structure_type Cu(IO3)2
+_exptl_crystal_density_diffrn 5.23
+_publ_section_title
+;
+Pyroelectric alpha-Cu (I O3)2. Crystal structure of the transition metal
+iodates. III
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Physics' 1975 62 4388 4399 JCPSA6
+loop_
+_publ_author_name
+'Liminga, R.'
+'Abrahams, S.C.'
+'Bernstein, J.L.'
+_cell_length_a 5.56902(10)
+_cell_length_b 5.11098(9)
+_cell_length_c 9.26976(36)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.82(2)
+_cell_angle_gamma 90.
+_cell_volume 262.49
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.063
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+I5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 a 0.22192(22) 0.40517(54) 0.74526(14) . 1. 0
+I1 I5+ 2 a 0.26551(8) 0 0.06749(5) . 1. 0
+I2 I5+ 2 a 0.74293(8) -.01049(27) 0.59919(5) . 1. 0
+O1 O2- 2 a 0.3468(19) 0.2059(33) -.0806(12) . 1. 0
+O2 O2- 2 a 0.4917(15) 0.1349(24) 0.2049(10) . 1. 0
+O3 O2- 2 a 0.0115(18) 0.1851(23) 0.1200(12) . 1. 0
+O4 O2- 2 a 0.9134(17) 0.2141(28) 0.7262(10) . 1. 0
+O5 O2- 2 a 0.8579(16) 0.1008(26) 0.4338(9) . 1. 0
+O6 O2- 2 a 0.4556(16) 0.1551(30) 0.5899(11) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cu1 Cu2+ 0.00725(25) 0.01179(81) 0.00164(8) -.00117(33) 0.00028(11) 0.00121(20)
+I1 I5+ 0.00556(11) 0.00747(37) 0.00168(4) -.00062(19) 0.00025(5) 0.00070(12)
+I2 I5+ 0.00675(12) 0.00556(38) 0.00167(4) 0.00012(20) 0.00052(5) -.00028(11)
+O1 O2- 0.0123(22) 0.0303(74) 0.0037(8) -.0063(30) 0.0006(11) 0.0032(18)
+O2 O2- 0.0087(17) 0.0079(45) 0.0026(6) -.0011(20) -.0010(8) -.0007(12)
+O3 O2- 0.0129(22) 0.0065(52) 0.0041(7) 0.0033(23) 0.0025(11) 0.0009(13)
+O4 O2- 0.0137(22) 0.0118(52) 0.0031(7) -.0049(26) 0.0013(10) -.0020(15)
+O5 O2- 0.0140(21) 0.0069(46) 0.0023(6) 0.0010(25) 0.0015(9) -.0008(13)
+O6 O2- 0.0084(19) 0.0286(71) 0.0036(8) 0.0017(24) 0.0019(10) 0.0013(16)

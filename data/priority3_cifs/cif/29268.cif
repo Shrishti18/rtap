@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 29268
+_audit_creation_date 1984-10-31
+_audit_update_record 1998-06-26
+_chemical_name_systematic 'Lead oxide - lead sulfate (1/1)'
+_chemical_formula_structural '(Pb O) (Pb (S O4))'
+_chemical_formula_sum 'O5 Pb2 S1'
+_chemical_name_structure_type Pb2OSO4
+_chemical_name_mineral Lanarkite
+_exptl_crystal_density_diffrn 7.1
+_cell_measurement_temperature 5.
+_publ_section_title
+;
+The Crystal Structures of Pb O Pb X O4 (X = S, Cr, Mo) at 5 K by Neutron
+Powder Profile Refinement
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1984 19 549 554 MRBUAC
+loop_
+_publ_author_name
+'Mentzen, B.F.'
+'Latrach, A.'
+'Bouix, J.'
+'Hewat, A.W.'
+_cell_length_a 13.7576(1)
+_cell_length_b 5.6578(1)
+_cell_length_c 7.0322(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.885(1)
+_cell_angle_gamma 90.
+_cell_volume 492.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 i 0.1473(1) 0 0.1087(2) 0.2 1. 0
+Pb2 Pb2+ 4 i 0.0255(1) 0.5 0.2731(2) 0.24 1. 0
+S1 S6+ 4 i 0.3317(3) 0.5 0.3414(5) 0.16 1. 0
+O1 O2- 4 i 0.1024(1) 0 0.4264(3) 0.54 1. 0
+O2 O2- 8 j 0.3560(1) 0.7133(2) 0.2474(2) 0.45 1. 0
+O3 O2- 4 i 0.2150(1) 0.5 0.2915(3) 0.64 1. 0
+O4 O2- 4 g 0 0.2535(3) 0 0.3 1. 0

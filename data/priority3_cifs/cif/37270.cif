@@ -1,0 +1,74 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 37270
+_audit_creation_date 1983-12-31
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Dipotassium hexabromotellurate(IV)'
+_chemical_formula_structural 'K2 (Te Br6)'
+_chemical_formula_sum 'Br6 K2 Te1'
+_chemical_name_structure_type K2SnCl6
+_exptl_crystal_density_diffrn 3.67
+_cell_measurement_temperature 418.
+_publ_section_title
+'Polymorphism and phase transitions of K2 Te Br6 (293-473 K)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1983 18 1419 1423 MRBUAC
+loop_
+_publ_author_name
+'Abriel, W.'
+_cell_length_a 7.572(7)
+_cell_length_b 7.572(7)
+_cell_length_c 10.80(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 619.22
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/m n c'
+_symmetry_Int_Tables_number 128
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z+1/2'
+2 '-y+1/2, -x+1/2, -z+1/2'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x+1/2, -y+1/2, -z+1/2'
+6 '-x+1/2, y+1/2, -z+1/2'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te4+ 4
+K1+ 1
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te4+ 2 a 0 0 0 . 1. 0
+K1 K1+ 4 d 0 0.5 0.25 . 1. 0
+Br1 Br1- 4 e 0 0 0.2595 . 1. 0
+Br2 Br1- 8 h 0.217 0.282 0 . 1. 0

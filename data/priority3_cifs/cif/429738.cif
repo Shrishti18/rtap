@@ -1,0 +1,96 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 429738
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Dicesium tellurium(IV) tritungstate - (CTW)'
+_chemical_formula_structural 'Cs2 Te W3 O12'
+_chemical_formula_sum 'Cs2 O12 Te1 W3'
+_chemical_name_structure_type Cs2(Mo3SeO12)
+_exptl_crystal_density_diffrn 6.54
+_cell_measurement_temperature 296.
+_publ_section_title
+;
+Top-seeded solution growth, structure, morphology, and functional properties
+of a new polar crystal - Cs2 Te W3 O12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Growth and Design' 2015 15 4484 4489 CGDEFU
+loop_
+_publ_author_name
+'Zhao, Peng'
+'Cong, Hengjiang'
+'Tian, Xiangxin'
+'Sun, Youxuan'
+'Zhang, Chengqian'
+'Xia, Shengqing'
+'Gao, Zeliang'
+'Tao, Xutang'
+_cell_length_a 7.3279(3)
+_cell_length_b 7.3279(3)
+_cell_length_c 12.4075(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 576.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0124
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Te4+ 4
+Cs1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 6 c 0.85407(2) 1.19280(2) 0.280183(18) 0.00817(8) 1 0
+Te1 Te4+ 2 a 0. 0. 0.51674(5) 0.00923(12) 1 0
+Cs1 Cs1+ 2 b 0.3333 0.6667 0.44367(5) 0.01742(16) 1 0
+Cs2 Cs1+ 2 b 0.3333 0.6667 0.08680(7) 0.02841(19) 1 0
+O1 O2- 6 c 1.1267(4) 1.2493(4) 0.2706(5) 0.0128(6) 1 0
+O2 O2- 6 c 0.9117(5) 1.4600(5) 0.3184(3) 0.0125(7) 1 0
+O3 O2- 6 c 0.2620(6) 0.1336(5) 0.4449(3) 0.0119(7) 1 0
+O4 O2- 6 c 0.8058(6) 1.1958(6) 0.1425(4) 0.0157(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.00737(9) 0.00720(10) 0.01058(11) 0.00411(6) 0.00007(10) 0.00025(11)
+Te1 Te4+ 0.00972(13) 0.00972(13) 0.0082(3) 0.00486(6) 0. 0.
+Cs1 Cs1+ 0.0185(2) 0.0185(2) 0.0152(3) 0.00926(10) 0. 0.
+Cs2 Cs1+ 0.0289(3) 0.0289(3) 0.0274(4) 0.01447(13) 0. 0.
+O1 O2- 0.0085(12) 0.0122(12) 0.0177(18) 0.0053(10) 0.0019(18) 0.002(2)
+O2 O2- 0.0139(14) 0.0084(13) 0.0200(19) 0.0091(12) -0.0014(14) -0.0013(13)
+O3 O2- 0.0058(15) 0.0147(15) 0.012(2) 0.0026(13) 0.0001(14) -0.0005(14)
+O4 O2- 0.0176(18) 0.0163(17) 0.017(2) 0.0111(16) -0.0004(15) 0.0018(15)

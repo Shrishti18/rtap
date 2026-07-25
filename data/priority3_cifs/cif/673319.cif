@@ -1,0 +1,73 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 673319
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Dibarium Tungsten Trioxide Fluoride'
+_chemical_formula_structural 'Ba2 W O3 F4'
+_chemical_formula_sum 'Ba2 F4 O3 W1'
+_chemical_name_structure_type Ba2TiOF6
+_exptl_crystal_density_diffrn 6.21
+_publ_section_title
+;
+Assessing exchange-correlation functional performance for structure and
+property predictions of oxyfluoride compounds from first principles
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2016 94
+174108-1 15 PRBMDO
+loop_
+_publ_author_name
+'Charles, Nenian'
+'Rondinelli, James M.'
+_cell_length_a 11.44951
+_cell_length_b 9.38487
+_cell_length_c 7.18405
+_cell_angle_alpha 90
+_cell_angle_beta 126.12345
+_cell_angle_gamma 90
+_cell_volume 623.53
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+W0+ 0
+O0+ 0
+F0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 4 a 0.7848 0.38065 0.07976 1. 1. 0
+Ba2 Ba0+ 4 a 0.49243 0.32576 0.2474 1. 1. 0
+W1 W0+ 4 a 0.66806 0.03009 0.12914 1. 1. 0
+O1 O0+ 4 a 0.56717 0.18436 -0.02963 1. 1. 0
+O2 O0+ 4 a 0.65345 0.06321 0.37403 1. 1. 0
+O3 O0+ 4 a 0.84532 0.09382 0.2588 1. 1. 0
+F1 F0+ 4 a -0.02429 0.41432 -0.0229 1. 1. 0
+F2 F0+ 4 a 0.2506 0.33405 0.27644 1. 1. 0
+F3 F0+ 4 a 0.60544 0.46289 0.63451 1. 1. 0
+F4 F0+ 4 a 0.28733 0.14969 -0.04207 1. 1. 0

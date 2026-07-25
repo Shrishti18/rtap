@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 41688
+_audit_creation_date 1999-11-30
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Diammonium dithiodioxomolybdate'
+_chemical_formula_structural '(N H4)2 (Mo O2 S2)'
+_chemical_formula_sum 'H8 Mo1 N2 O2 S2'
+_chemical_name_structure_type (NH4)2MoO2S2
+_exptl_crystal_density_diffrn 2.19
+_publ_section_title
+;
+Single-crystal polarized X.ray absorption spectroscopy. Observation and theory
+for (Mo O2 S2)2-
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 1981 103 6083 6088 JACSAT
+loop_
+_publ_author_name
+'Kutzler, F.W.'
+'Scott, R.A.'
+'Berg, J.M.'
+'Hodgson, K.O.'
+'Doniach, S.'
+'Cramer, S.P.'
+'Chang, C.H.'
+_cell_length_a 11.376(3)
+_cell_length_b 7.300(2)
+_cell_length_c 10.923(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 130.16(2)
+_cell_angle_gamma 90.
+_cell_volume 693.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+S2- -2
+O2- -2
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 e 0 0.33482(4) 0.25 . 1. 0
+S1 S2- 8 f 0.1826(1) 0.5117(1) 0.44357(8) . 1. 0
+O1 O2- 8 f 0.0742(3) 0.2013(3) 0.1783(2) . 1. 0
+N1 N3- 8 f 0.3868(3) 0.3151(3) 0.3382(3) . 1. 0
+H1 H1+ 8 f 0.725(6) 0.293(7) 0.215(5) 4.3(11) 1. 0
+H2 H1+ 8 f 0.390(4) 0.560(6) 0.821(4) 3.0(9) 1. 0
+H3 H1+ 8 f 0.055 0.207 0.527 9.(9) 1. 0
+H4 H1+ 8 f 0.446 0.243 0.312 9.(9) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Mo1 Mo6+ 0.00735(4) 0.00659(5) 0.00622(3) 0 0.00415(4) 0
+S1 S2- 0.00947(9) 0.0100(1) 0.00817(8) -.0013(1) 0.00425(5) -.00165(5)
+O1 O2- 0.0097(3) 0.0103(3) 0.0084(2) 0.00095(25) 0.0057(2) -.0016(2)
+N1 N3- 0.0109(4) 0.0102(4) 0.0099(2) -.0003(3) 0.0071(2) -.0009(3)

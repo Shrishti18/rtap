@@ -1,0 +1,69 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 74649
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Yttrium osmium iodide (6/1/10)'
+_chemical_formula_structural 'Y6 Os I10'
+_chemical_formula_sum 'I10 Os1 Y6'
+_chemical_name_structure_type Y6RuI10
+_exptl_crystal_density_diffrn 5.29
+_cell_measurement_temperature 296.
+_publ_section_title
+;
+Encapsulation of the platinum and neighboring metals within cluster iodides of
+rare-earth elements
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1990 29 2246 2251 INOCAJ
+loop_
+_publ_author_name
+'Payne, M.W.'
+'Corbett, J.D.'
+_cell_length_a 9.518(1)
+_cell_length_b 9.617(1)
+_cell_length_c 7.6268(8)
+_cell_angle_alpha 97.17(1)
+_cell_angle_beta 105.13(1)
+_cell_angle_gamma 107.72(1)
+_cell_volume 625.91
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+I0+ 0
+Os0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 2 i 0.04001(9) 0.75336(8) 0.1148(1) 0.54(2) 1. 0
+Y2 Y0+ 2 i 0.2843(1) 0.08520(8) -.0272(1) 0.68(2) 1. 0
+Y3 Y0+ 2 i 0.13137(9) 0.17104(8) 0.3591(1) 0.55(2) 1. 0
+I1 I0+ 2 i 0.46244(7) 0.27782(7) 0.36148(8) 1.44(2) 1. 0
+I2 I0+ 2 i 0.09125(7) 0.46735(6) 0.26897(8) 1.35(2) 1. 0
+I3 I0+ 2 i 0.37266(6) 0.81745(6) 0.08836(9) 1.32(2) 1. 0
+I4 I0+ 2 i 0.81217(6) 0.09311(6) 0.45027(7) 0.76(2) 1. 0
+I5 I0+ 2 i 0.26823(6) 0.35649(6) 0.79174(8) 0.83(2) 1. 0
+Os1 Os0+ 1 a 0 0 0 0.21(1) 1. 0

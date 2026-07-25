@@ -1,0 +1,67 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 33711
+_audit_creation_date 1989-06-21
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Cyclo-tetrakis(phosphorus(V) nitride dichloride)'
+_chemical_formula_structural '(P N Cl2)4'
+_chemical_formula_sum 'Cl8 N4 P4'
+_chemical_name_structure_type PNCl2
+_exptl_crystal_density_diffrn 2.21
+_publ_section_title
+'The crystal structure of tetra phosphonitrile chloride , P4 N4 Cl8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Recueil des Travaux Chimiques des Pays-Bas et de la Belgique' 1939 58
+1081 1099 RTCPA3
+loop_
+_publ_author_name
+'Ketelaar, J.A.A.'
+'de Vries, T.A.'
+_cell_length_a 10.82(1)
+_cell_length_b 10.82(1)
+_cell_length_c 5.95(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 696.58
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/n S'
+_symmetry_Int_Tables_number 86
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, -x+1/2, z+1/2'
+2 '-y+1/2, x+1/2, z+1/2'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 '-x+1/2, -y+1/2, -z+1/2'
+6 'x+1/2, y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cl1- -1
+P5+ 5
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cl1 Cl1- 8 g 0.102(2) 0.199(2) 0.110(5) . 1. 0
+Cl2 Cl1- 8 g 0.057(2) 0.344(2) 0.565(5) . 1. 0
+P1 P5+ 8 g 0.041(2) 0.176(2) 0.420(5) . 1. 0
+N1 N3- 8 g 0.125(3) 0.105(3) 0.615(7) . 1. 0

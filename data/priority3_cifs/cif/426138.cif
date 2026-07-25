@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 426138
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Palladium bis(hydrogendisulfate)'
+_chemical_formula_structural 'Pd (H S2 O7)2'
+_chemical_formula_sum 'H2 O14 Pd1 S4'
+_exptl_crystal_density_diffrn 2.96
+_cell_measurement_temperature 120.
+_publ_section_title
+'Ferromagnetic ordering in the layer-structured Pd (H S2 O7)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2014 20 811 814 CEUJED
+loop_
+_publ_author_name
+'Bruns, Joern'
+'Niehaus, Oliver'
+'Poettgen, Rainer'
+'Wickleder, Mathias S.'
+_cell_length_a 9.2780(9)
+_cell_length_b 6.8258(7)
+_cell_length_c 9.2084(9)
+_cell_angle_alpha 90
+_cell_angle_beta 117.756(2)
+_cell_angle_gamma 90
+_cell_volume 516.06
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd2+ 2
+S6+ 6
+O2- -2
+H1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd2+ 2 a 0. 0.5 0.5 0.00625(4) 1 0
+S1 S6+ 4 e 0.20051(4) 0.17816(5) 0.38519(4) 0.00677(6) 1 0
+S2 S6+ 4 e 0.27529(4) -0.13782(5) 0.61247(5) 0.00768(7) 1 0
+O1 O2- 4 e 0.19929(14) 0.34729(17) 0.47907(14) 0.00965(19) 1 0
+O2 O2- 4 e 0.35745(14) 0.12635(18) 0.40300(15) 0.0115(2) 1 0
+O3 O2- 4 e 0.06740(14) 0.17791(18) 0.22010(14) 0.0109(2) 1 0
+O4 O2- 4 e 0.35649(14) -0.25992(18) 0.53345(16) 0.0117(2) 1 0
+H1 H1+ 4 e 0.4479 -0.2117 0.5564 0.048(10) 1 0
+O5 O2- 4 e 0.38463(16) -0.01698(19) 0.74093(16) 0.0148(2) 1 0
+O6 O2- 4 e 0.16987(14) -0.26586(17) 0.64380(14) 0.0099(2) 1 0
+O7 O2- 4 e 0.14742(13) -0.00752(17) 0.46492(14) 0.01001(19) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pd1 Pd2+ 0.00705(6) 0.00535(6) 0.00678(6) -0.00048(5) 0.00358(5) -0.00022(5)
+S1 S6+ 0.00689(14) 0.00581(14) 0.00851(14) 0.00040(11) 0.00434(12) 0.00015(11)
+S2 S6+ 0.00752(14) 0.00654(14) 0.00829(15) -0.00169(11) 0.00311(12) -0.00032(12)
+O1 O2- 0.0096(5) 0.0076(5) 0.0121(5) -0.0009(4) 0.0054(4) -0.0032(4)
+O2 O2- 0.0094(5) 0.0096(5) 0.0187(6) 0.0011(4) 0.0092(4) 0.0015(4)
+O3 O2- 0.0127(5) 0.0111(5) 0.0075(5) 0.0019(4) 0.0035(4) -0.0008(4)
+O4 O2- 0.0097(5) 0.0092(5) 0.0175(6) 0.0003(4) 0.0075(4) -0.0006(4)
+O5 O2- 0.0150(5) 0.0139(6) 0.0121(5) -0.0072(4) 0.0033(4) -0.0030(4)
+O6 O2- 0.0113(5) 0.0087(5) 0.0107(5) -0.0033(4) 0.0060(4) -0.0008(4)
+O7 O2- 0.0071(4) 0.0083(5) 0.0135(5) 0.0000(4) 0.0039(4) 0.0035(4)

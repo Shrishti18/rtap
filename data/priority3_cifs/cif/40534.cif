@@ -1,0 +1,76 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 40534
+_audit_creation_date 1999-11-30
+_chemical_name_systematic 'Scandium zinc trimolybdate'
+_chemical_formula_structural 'Sc Zn (Mo3 O8)'
+_chemical_formula_sum 'Mo3 O8 Sc1 Zn1'
+_chemical_name_structure_type Nolanite
+_exptl_crystal_density_diffrn 5.99
+_publ_section_title
+;
+Synthesis, crystal structures, and properties of Li Zn2 Mo3 O8 , Zn3 Mo3 O8,
+Sc Zn Mo3 O8, reduced derivatives containing the Mo3 O13 cluster unit
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1985 24 476 481 INOCAJ
+loop_
+_publ_author_name
+'Torardi, C.C.'
+'McCarley, R.E.'
+_cell_length_a 5.8050(7)
+_cell_length_b 5.8050(7)
+_cell_length_c 9.996(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 291.72
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Sc3+ 3
+Mo3+ 3.667
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 2 b 0.3333 0.6667 0.9465(4) 0.5 1. 0
+Sc1 Sc3+ 2 b 0.3333 0.6667 0.5132(5) 0.6 1. 0
+Mo1 Mo3+ 6 c 0.1461(1) -.1461 0.25 0.2 1. 0
+O1 O2- 2 a 0 0 0.3886(26) 0.4 1. 0
+O2 O2- 2 b 0.3333 0.6667 0.1470(25) 0.2 1. 0
+O3 O2- 6 c 0.4861(15) 0.5139 0.3639(11) 0.3 1. 0
+O4 O2- 6 c 0.1647(16) -.1647 0.6354(15) 0.6 1. 0

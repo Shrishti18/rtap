@@ -1,0 +1,90 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 427677
+_audit_creation_date 2015-02-01
+_audit_update_record 2016-08-01
+_chemical_name_systematic 'Barium digold(III) tetrasulfate(VI)'
+_chemical_formula_structural 'Ba Au2 (S O4)4'
+_chemical_formula_sum 'Au2 Ba1 O16 S4'
+_exptl_crystal_density_diffrn 4.23
+_cell_measurement_temperature 120.
+_publ_section_title 'The gold(III) sulfates M Au2 (S O4)4 (M = Mg, Sr, Ba)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2014
+640 2346 2346 ZAACAB
+loop_
+_publ_author_name
+'Logemann, Christian'
+'Wickleder, Mathias S.'
+_cell_length_a 9.4119(2)
+_cell_length_b 9.0613(2)
+_cell_length_c 9.0119(2)
+_cell_angle_alpha 90
+_cell_angle_beta 110.6370(10)
+_cell_angle_gamma 90
+_cell_volume 719.25
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0114
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au3+ 3
+Ba2+ 2
+O2- -2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au3+ 2 c 0. 0. 0.5 0.00473(2) 1 0
+Au2 Au3+ 2 d 0. -0.5 0.5 0.00495(2) 1 0
+Ba1 Ba2+ 2 a 0. 0. 0. 0.00551(3) 1 0
+O1 O2- 8 j -0.02280(10) -0.34851(9) 0.33533(11) 0.00832(13) 1 0
+S1 S6+ 8 j -0.16376(4) -0.24974(2) 0.27628(4) 0.00626(5) 1 0
+O2 O2- 8 j -0.14549(10) -0.16314(10) 0.15101(11) 0.01113(15) 1 0
+O3 O2- 8 j -0.16132(9) -0.15105(9) 0.41577(11) 0.00804(13) 1 0
+O4 O2- 8 j -0.29977(10) -0.33611(10) 0.23852(12) 0.01034(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au3+ 0.00509(3) 0.00317(3) 0.00461(3) 0. 0.00007(2) 0.
+Au2 Au3+ 0.00467(3) 0.00346(3) 0.00590(3) 0. 0.00084(2) 0.
+Ba1 Ba2+ 0.00555(5) 0.00532(5) 0.00497(5) 0. 0.00098(4) 0.
+O1 O2- 0.0087(3) 0.0065(3) 0.0098(3) 0.0014(2) 0.0034(3) 0.0023(3)
+S1 S6+ 0.00646(12) 0.00464(12) 0.00629(12) -0.00079(6) 0.00053(10) 0.00008(6)
+O2 O2- 0.0139(4) 0.0093(3) 0.0096(4) -0.0002(3) 0.0034(3) 0.0032(3)
+O3 O2- 0.0075(3) 0.0063(3) 0.0093(3) -0.0019(2) 0.0016(3) -0.0023(3)
+O4 O2- 0.0082(3) 0.0092(3) 0.0119(4) -0.0038(3) 0.0014(3) -0.0026(3)

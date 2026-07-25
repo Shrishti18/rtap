@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 61351
+_audit_creation_date 1987-03-16
+_chemical_name_systematic 'Cyclothiazeno vanadium dichloride - beta'
+_chemical_formula_structural 'V Cl2 (N3 S2)'
+_chemical_formula_sum 'Cl2 N3 S2 V1'
+_exptl_crystal_density_diffrn 2.47
+_cell_measurement_temperature 295.
+_publ_section_title
+;
+Kristallstruktur von beta-V Cl2 (N3 S2). Synthese und Kristallstruktur von (V
+Cl (N3 S2) (Pyridin)2)2 (C H2 Cl2)2, einem Cyclothiazenokomplex Mit Vanadium
+(IV)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (33,1978-41,1986)
+; 1986 41 1420 1425 ZNBAD2
+loop_
+_publ_author_name
+'Christophersen, R.'
+'Willing, W.'
+'Mueller, U.'
+'Dehnicke, K.'
+_cell_length_a 5.700(1)
+_cell_length_b 7.799(1)
+_cell_length_c 7.353(1)
+_cell_angle_alpha 90.85(1)
+_cell_angle_beta 108.26(1)
+_cell_angle_gamma 98.77(1)
+_cell_volume 306.1
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3
+Cl1- -1
+S2- -2
+N1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 2 i 0.2531(1) 0.1364(1) 0.0118(1) . 1. 0
+Cl1 Cl1- 2 i 0.3336(2) -.0677(1) -.2055(1) . 1. 0
+Cl2 Cl1- 2 i 0.2635(2) 0.2826(1) 0.2845(2) . 1. 0
+S1 S2- 2 i -.2290(2) 0.2000(1) -.3081(2) . 1. 0
+S2 S2- 2 i 0.2307(2) 0.4281(1) -.2737(2) . 1. 0
+N1 N1+ 2 i -.0793(7) 0.1062(4) -.1286(5) . 1. 0
+N2 N1+ 2 i 0.3461(7) 0.3143(5) -.1016(5) . 1. 0
+N3 N1+ 2 i -.0617(8) 0.3549(5) -.3673(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V3+ 0.0104(4) 0.0163(4) 0.0182(4) 0.0039(3) 0.0045(3) 0.0052(3)
+Cl1 Cl1- 0.0120(5) 0.0283(6) 0.0182(5) 0.0070(4) 0.0032(4) 0.0009(4)
+Cl2 Cl1- 0.0221(6) 0.0316(7) 0.0299(7) 0.0040(5) 0.0099(5) -.0080(5)
+S1 S2- 0.0159(6) 0.0283(6) 0.0219(6) 0.0050(5) 0.0038(5) 0.0120(5)
+S2 S2- 0.0246(7) 0.0253(6) 0.0309(7) 0.0014(5) 0.0079(5) 0.0145(5)
+N1 N1+ 0.012(2) 0.019(2) 0.016(2) 0.007(2) 0.004(2) 0.006(2)
+N2 N1+ 0.018(2) 0.021(2) 0.024(2) 0.003(2) 0.005(2) 0.007(2)
+N3 N1+ 0.025(2) 0.027(2) 0.022(2) 0.008(2) 0.007(2) 0.014(2)

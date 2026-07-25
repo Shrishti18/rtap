@@ -1,0 +1,86 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 66826
+_audit_creation_date 1997-05-13
+_chemical_name_systematic 'Dibismuth copper tetrakis(selenate(IV)) - I'
+_chemical_formula_structural 'Bi2 Cu (Se O3)4'
+_chemical_formula_sum 'Bi2 Cu1 O12 Se4'
+_exptl_crystal_density_diffrn 5.79
+_publ_section_title
+'Crystal chemistry of two monoclinic modifications of Bi2 Cu (Se O3)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (43,1989-)' 1996 50 967 972 ACHSE7
+loop_
+_publ_author_name
+'Effenberger, H.'
+_cell_length_a 4.440(1)
+_cell_length_b 15.852(4)
+_cell_length_c 8.094(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.95(3)
+_cell_angle_gamma 90.
+_cell_volume 567.55
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Cu2+ 2
+Se4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 e 0.50023(6) 0.22643(2) 0.03190(3) . 1. 0
+Cu1 Cu2+ 2 a 0 0 0 . 1. 0
+Se1 Se4+ 4 e 0.45076(15) 0.43137(5) 0.24961(8) . 1. 0
+Se2 Se4+ 4 e 0.02083(15) 0.12828(4) 0.36588(8) . 1. 0
+O1 O2- 4 e 0.7974(12) 0.4749(4) 0.2796(6) . 1. 0
+O2 O2- 4 e 0.3333(12) 0.4296(3) 0.4435(6) . 1. 0
+O3 O2- 4 e 0.5324(14) 0.3249(4) 0.2500(6) . 1. 0
+O4 O2- 4 e -.0808(13) 0.1441(4) 0.1638(6) . 1. 0
+O5 O2- 4 e 0.4020(12) 0.1504(4) 0.3758(7) . 1. 0
+O6 O2- 4 e -.0566(12) 0.2219(4) 0.4642(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0078(1) 0.0093(1) 0.0062(1) 0.0000(1) 0.0006(1) -.0001(1)
+Cu1 Cu2+ 0.0074(5) 0.0149(6) 0.0087(5) -.0018(4) 0.0011(4) 0.0016(1)
+Se1 Se4+ 0.0076(3) 0.0092(3) 0.0045(2) 0.0015(1) -.0012(2) 0.0002(1)
+Se2 Se4+ 0.0055(3) 0.0083(3) 0.0047(2) -.0008(2) -.0010(2) 0.0000(1)
+O1 O2- 0.011(2) 0.018(3) 0.011(2) -.004(2) 0.005(2) -.0005(5)
+O2 O2- 0.012(2) 0.012(2) 0.008(2) 0.003(2) 0.004(2) 0.0003(5)
+O3 O2- 0.032(3) 0.009(2) 0.006(2) 0.003(2) 0.004(2) -.0002(5)
+O4 O2- 0.015(3) 0.025(3) 0.007(2) 0.009(2) -.004(2) 0.0012(6)
+O5 O2- 0.008(2) 0.014(3) 0.022(3) 0.000(2) -.001(2) -.0022(6)
+O6 O2- 0.008(2) 0.015(3) 0.019(2) 0.000(2) 0.003(2) -.0026(6)

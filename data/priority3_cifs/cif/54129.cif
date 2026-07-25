@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 54129
+_audit_creation_date 1999-11-30
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Copper oxide (4/8)'
+_chemical_formula_structural '(Cu O2)4'
+_chemical_formula_sum 'Cu4 O8'
+_exptl_crystal_density_diffrn 1.5
+_publ_section_title
+;
+Importance of the true satellite reflections in the analysis of modulated,
+composite crystal structures. II. The structur structure of (M2' Cu2 O3)7 (Cu
+O2)10, M'= Bi0.04 Sr0.96
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1997 53 113 124
+ASBSDK
+loop_
+_publ_author_name
+'Jensen, A.F.'
+'Petricek, V.'
+'Larsen, F.K.'
+'McCarron, E.M.'
+_cell_length_a 11.4712(6)
+_cell_length_b 13.3765(13)
+_cell_length_c 2.7509(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 422.11
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'A m m a'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0474
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x+1/2, y, -z'
+6 '-x+1/2, y, z'
+7 '-x, y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y+1/2, z+1/2'
+10 'x+1/2, -y+1/2, -z+1/2'
+11 'x, -y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 'x+1/2, y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x, y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu0+ 0
+O0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu0+ 4 c 0.25 0.5 0.4118(3) . 1. 0
+O1 O0+ 8 f 0.1380(2) 0.5 0.9115(11) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu0+ 0.0034(3) 0.0147(5) 0.0379(4) 0 0 0
+O1 O0+ 0.0055(10) 0.0230(14) 0.0403(14) 0 0 -.0001(7)

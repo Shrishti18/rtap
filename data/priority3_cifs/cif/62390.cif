@@ -1,0 +1,79 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 62390
+_audit_creation_date 1988-12-19
+_audit_update_record 2004-10-01
+_chemical_name_systematic 'Tribarium diyttrium platinum(IV) dicopper oxide'
+_chemical_formula_structural 'Ba3 Y2 Pt Cu2 O10'
+_chemical_formula_sum 'Ba3 Cu2 O10 Pt1 Y2'
+_chemical_name_structure_type Y2Ba3Cu2PtO10
+_exptl_crystal_density_diffrn 6.9
+_publ_section_title
+;
+Ba3 A2 Pt Cu2 O10 (A = Y or Ho): The crystal structure of a reaction
+by-product of high transition temperature superconductors with platinum metal
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1988 73 243 251 JSSCBI
+loop_
+_publ_author_name
+'Geiser, U.'
+'Porter, L.C.'
+'Wang, H.H.'
+'Allen, T.A.'
+'Williams, J.M.'
+_cell_length_a 12.520(3)
+_cell_length_b 5.817(1)
+_cell_length_c 7.357(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.53(2)
+_cell_angle_gamma 90.
+_cell_volume 516.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Y3+ 3
+Pt4+ 4
+Cu2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 i 0.15065(9) 0 0.5327(2) 0.0125(4) 1. 0
+Ba2 Ba2+ 2 a 0 0 0 0.0102(4) 1. 0
+Y1 Y3+ 4 i 0.31050(14) 0 0.1270(2) 0.0083(5) 1. 0
+Pt1 Pt4+ 2 d 0.5 0 0.5 0.0069(3) 1. 0
+Cu1 Cu2+ 4 i 0.4079(2) 0 0.7934(3) 0.0088(6) 1. 0
+O1 O2- 8 j 0.4836(7) 0.222(2) 0.2833(13) 0.0118(25) 1. 0
+O2 O2- 8 j 0.3171(7) 0.232(2) 0.8696(14) 0.0139(27) 1. 0
+O3 O2- 4 i 0.3347(11) 0 0.454(2) 0.0101(37) 1. 0

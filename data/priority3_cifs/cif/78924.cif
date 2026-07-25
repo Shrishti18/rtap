@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 78924
+_audit_creation_date 1998-06-26
+_audit_update_record 2013-08-01
+_chemical_name_systematic
+;
+Tetra-mue3-telluro-tetrahedro-tetrarhenium tetrakis(dibromotellurate)
+octabromide
+;
+_chemical_formula_structural 'Re4 Te4 (Te Br2)4 Br8'
+_chemical_formula_sum 'Br16 Re4 Te8'
+_chemical_name_structure_type Re4Te4(TeBr2)4Br8
+_exptl_crystal_density_diffrn 5.78
+_cell_measurement_temperature 213.
+_publ_section_title 'Synthese und Struktur von Re4 (mue3-Te)4 (Te Br2)4 Br8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 251 253 ZAACAB
+loop_
+_publ_author_name
+'Schulz Lang, E.'
+'Abram, U.'
+'Straehle, J.'
+_cell_length_a 11.202(2)
+_cell_length_b 11.202(2)
+_cell_length_c 13.935(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1748.63
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re3+ 3
+Te0+ 0
+Te1+ 1
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re3+ 8 g 0.3808(1) 0.4665(1) 0.0733(1) . 1. 0
+Te1 Te0+ 8 g 0.5531(3) 0.3151(3) 0.1038(2) . 1. 0
+Te2 Te1+ 8 g 0.2173(3) 0.2984(3) 0.1289(2) . 1. 0
+Br1 Br1- 8 g 0.1620(4) 0.5516(5) 0.0891(4) . 1. 0
+Br2 Br1- 8 g 0.3555(5) 0.4472(5) 0.2599(3) . 1. 0
+Br3 Br1- 8 g 0.3319(6) 0.1099(5) 0.1721(4) . 1. 0
+Br4 Br1- 8 g 0.1212(6) 0.2137(6) -.0188(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re3+ 0.0010(1) 0.0010(1) 0.0007(1) -.0001(1) 0.0002(1) 0.0000(1)
+Te1 Te0+ 0.0021(1) 0.0019(1) 0.0014(1) -.0001(1) 0.0000(1) 0.0002(1)
+Te2 Te1+ 0.0017(2) 0.0028(2) 0.0019(1) -.0009(11) 0.0007(1) 0.0000(1)
+Br1 Br1- 0.0013(1) 0.0038(3) 0.0031(3) 0.0006(2) 0.0006(2) 0.0004(2)
+Br2 Br1- 0.0028(2) 0.0028(2) 0.0008(2) -.0003(2) 0.0008(2) -.0003(2)
+Br3 Br1- 0.0049(3) 0.0023(2) 0.0028(3) -.0006(2) -.0007(3) 0.0007(2)
+Br4 Br1- 0.0031(3) 0.0038(3) 0.0038(3) -.0016(2) -.0012(2) -.0004(3)

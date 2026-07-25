@@ -1,0 +1,61 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 29140
+_audit_creation_date 1980-01-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Vanadium oxide'
+_chemical_formula_structural 'V2 O5'
+_chemical_formula_sum 'O5 V2'
+_chemical_name_structure_type V2O5
+_chemical_name_mineral Shcherbinaite
+_exptl_crystal_density_diffrn 3.39
+_publ_section_title
+'Crystal structure and shape of colloidal particles of vanadium pentoxide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Nature (London)' 1936 137 316 316 NATUAS
+loop_
+_publ_author_name
+'Ketelaar, J.A.A.'
+_cell_length_a 11.48(1)
+_cell_length_b 4.360(5)
+_cell_length_c 3.555(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 177.94
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V5+ 4 b 0.146(3) 0.095(5) 0 . 1. 0
+O1 O2- 2 a 0 0.17(2) 0.11(3) . 1. 0
+O2 O2- 4 b 0.155(7) 0.45(1) 0.92(2) . 1. 0
+O3 O2- 4 b 0.195(7) 0.04(1) 0.46(2) . 1. 0

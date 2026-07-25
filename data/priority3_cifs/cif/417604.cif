@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 417604
+_audit_creation_date 2008-02-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Dilanthanum chloride triboride'
+_chemical_formula_structural 'La2 Cl B3'
+_chemical_formula_sum 'B3 Cl1 La2'
+_chemical_name_structure_type La2B3Br
+_exptl_crystal_density_diffrn 5.21
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+La2 X B3 (X=Cl, Br): A novel layered structure with planar boron nets of B3,
+B6 and B8 rings
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2007
+633 1359 1365 ZAACAB
+loop_
+_publ_author_name
+'Zeng Huiyi'
+'Lukachuk, M.'
+'Okudera, H.'
+'Zheng Chong'
+'Mattausch, H.J.'
+'Simon, A.'
+_cell_length_a 7.8720(11)
+_cell_length_b 7.8720(11)
+_cell_length_c 8.2189(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 441.08
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P -6'
+_symmetry_Int_Tables_number 174
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z'
+2 '-y, x-y, -z'
+3 'x, y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Cl1- -1
+B1- -1.667
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 g 0. 0. 0.24058(11) 0.0090(4) 1 0
+La2 La3+ 6 l 0.5001(2) 0.00054(15) 0.22595(9) 0.0093(4) 1 0
+Cl1 Cl1- 3 k 0.3452(10) 0.186(2) 0.5 0.065(3) 1 0
+Cl2 Cl1- 1 d 0.3333 0.6667 0.5 0.066(4) 1 0
+B1 B1- 3 j 0.511(2) 0.236(3) 0. 0.0076(13) 1 0
+B2 B1- 3 j 0.863(5) 0.150(5) 0. 0.0076(13) 1 0
+B3 B1- 3 j 0.269(4) 0.730(5) 0. 0.0076(13) 1 0
+B4 B1- 3 j 0.143(4) 0.267(3) 0. 0.0076(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0083(5) 0.0083(5) 0.0103(5) 0.0041(2) 0. 0.
+La2 La3+ 0.0087(5) 0.0076(4) 0.0095(5) 0.0024(4) -0.0007(9) 0.0001(7)
+Cl1 Cl1- 0.063(4) 0.100(9) 0.006(4) 0.021(8) 0. 0.
+Cl2 Cl1- 0.085(5) 0.085(5) 0.027(6) 0.042(3) 0. 0.

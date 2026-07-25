@@ -1,0 +1,97 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 430123
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Dicesium copper diphosphate(V)'
+_chemical_formula_structural 'Cs2 Cu P2 O7'
+_chemical_formula_sum 'Cs2 Cu1 O7 P2'
+_exptl_crystal_density_diffrn 3.73
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+Cs2 Cu P2 O7, a novel low-density open-framework structure based upon an
+augmented diamond net
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2016 231 65
+69 ZKCMAJ
+loop_
+_publ_author_name
+'Mannasova, Alina A.'
+'Chernyatieva, Anastasiya P.'
+'Krivovichev, Sergey V.'
+_cell_length_a 7.460(6)
+_cell_length_b 12.973(10)
+_cell_length_c 9.980(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.95
+_cell_angle_gamma 90.
+_cell_volume 895.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.0444
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Cu2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 a 0.30755(8) 0.79446(5) 0.63146(6) 0.02575(14) 1 0
+Cs2 Cs1+ 4 a -0.12788(8) 0.95914(5) 0.81190(6) 0.02818(16) 1 0
+Cu1 Cu2+ 4 a -0.06483(14) 0.63225(8) 0.78929(10) 0.01432(19) 1 0
+P1 P5+ 4 a -0.0664(3) 0.54932(16) 0.4975(2) 0.0141(4) 1 0
+P2 P5+ 4 a 0.7731(3) 0.75587(17) 0.4932(2) 0.0156(4) 1 0
+O1 O2- 4 a 0.3658(12) 0.6705(6) 0.9226(7) 0.0311(16) 1 0
+O2 O2- 4 a 0.2783(9) 0.8591(5) 0.9286(6) 0.0174(12) 1 0
+O3 O2- 4 a 0.1284(10) 0.5808(6) 0.5013(7) 0.0284(15) 1 0
+O4 O2- 4 a -0.1177(10) 0.7476(5) 0.6569(7) 0.0225(13) 1 0
+O5 O2- 4 a 0.5578(10) 0.7768(5) 0.4549(7) 0.0218(13) 1 0
+O6 O2- 4 a -0.1623(9) 0.4591(5) 0.3993(6) 0.0185(12) 1 0
+O7 O2- 4 a 0.4265(10) 1.0300(4) 0.6480(6) 0.0213(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0349(3) 0.0251(3) 0.0232(2) -0.0061(2) 0.0178(2) -0.0013(2)
+Cs2 Cs1+ 0.0266(3) 0.0220(3) 0.0330(3) 0.0052(2) 0.0078(2) -0.0051(2)
+Cu1 Cu2+ 0.0224(5) 0.0113(5) 0.0105(4) -0.0002(4) 0.0075(3) 0.0007(3)
+P1 P5+ 0.0197(9) 0.0114(10) 0.0117(8) 0.0018(8) 0.0065(7) -0.0013(7)
+P2 P5+ 0.0247(10) 0.0116(10) 0.0109(8) 0.0040(8) 0.0071(7) 0.0024(7)
+O1 O2- 0.047(4) 0.023(4) 0.025(3) 0.000(3) 0.016(3) -0.009(3)
+O2 O2- 0.026(3) 0.012(3) 0.011(2) -0.007(2) 0.004(2) -0.001(2)
+O3 O2- 0.026(4) 0.031(4) 0.031(4) -0.007(3) 0.014(3) -0.010(3)
+O4 O2- 0.035(4) 0.014(3) 0.015(3) 0.003(2) 0.006(2) 0.001(2)
+O5 O2- 0.030(3) 0.017(3) 0.020(3) 0.007(3) 0.012(3) 0.007(2)
+O6 O2- 0.026(3) 0.014(3) 0.018(3) 0.001(2) 0.010(2) -0.008(2)
+O7 O2- 0.042(4) 0.010(3) 0.017(3) 0.002(3) 0.016(3) -0.001(2)

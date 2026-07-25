@@ -1,0 +1,122 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 889
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic Di-mue-chloro-bis(bis(pentacarbonylmangano)indium)
+_chemical_formula_structural '(((Mn (C O)5)2 In)2 Cl2)'
+_chemical_formula_sum 'C20 Cl2 In2 Mn4 O20'
+_chemical_name_structure_type Mn(CO)5InCl
+_exptl_crystal_density_diffrn 2.27
+_publ_section_title
+;
+Single-crystal X-ray analysis of compounds with a covalent metal-metal bond.
+5. Characterization of halogeno-bridged structures of three dimers of
+halogenobis (pentacarbonylmanganio) indium(III), ((Mn (C O)5)2 In (mue-X))2
+(X= Cl, Br, I)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1976 15 2920 2927 INOCAJ
+loop_
+_publ_author_name
+'Haupt, H.J.'
+'Wolfes, W.'
+'Preut, H.'
+_cell_length_a 10.622(3)
+_cell_length_b 10.393(3)
+_cell_length_c 8.722(3)
+_cell_angle_alpha 87.56(2)
+_cell_angle_beta 95.59(2)
+_cell_angle_gamma 124.58(2)
+_cell_volume 788.89
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Cl1- -1
+Mn1- -1
+C2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 2 i 0.00053(4) -.14919(4) 0.15328(4) . 1. 0
+Cl1 Cl1- 2 i -.04416(17) -.12470(16) -.14491(14) . 1. 0
+Mn1 Mn1- 2 i 0.23914(9) -.16388(9) 0.23929(9) . 1. 0
+Mn2 Mn1- 2 i -.27959(9) -.34987(9) 0.24585(9) . 1. 0
+C1 C2+ 2 i 0.39703(77) -.18049(84) 0.30620(73) . 1. 0
+C2 C2+ 2 i 0.17935(76) -.18350(71) 0.43652(68) . 1. 0
+C3 C2+ 2 i 0.35923(74) 0.05035(71) 0.26733(67) . 1. 0
+C4 C2+ 2 i 0.27851(71) -.14562(69) 0.03452(67) . 1. 0
+C5 C2+ 2 i 0.09985(71) -.37645(72) 0.20442(66) . 1. 0
+C6 C2+ 2 i -.47819(69) -.47788(69) 0.29790(68) . 1. 0
+C7 C2+ 2 i -.21495(76) -.44992(76) 0.37573(72) . 1. 0
+C8 C2+ 2 i -.29320(73) -.46789(74) 0.08429(74) . 1. 0
+C9 C2+ 2 i -.32859(69) -.23878(73) 0.11406(70) . 1. 0
+C10 C2+ 2 i -.21290(65) -.20086(67) 0.39735(68) . 1. 0
+O1 O2- 2 i 0.49502(74) -.18795(88) 0.35335(74) . 1. 0
+O2 O2- 2 i 0.14101(78) -.19857(70) 0.55621(57) . 1. 0
+O3 O2- 2 i 0.43920(76) 0.18009(62) 0.29042(65) . 1. 0
+O4 O2- 2 i 0.30653(73) -.13741(71) -.08998(59) . 1. 0
+O5 O2- 2 i 0.01411(69) -.50607(59) 0.18621(68) . 1. 0
+O6 O2- 2 i -.59957(56) -.55118(64) 0.33162(65) . 1. 0
+O7 O2- 2 i -.17685(75) -.51232(70) 0.45721(69) . 1. 0
+O8 O2- 2 i -.29851(68) -.54129(66) -.01256(63) . 1. 0
+O9 O2- 2 i -.36307(65) -.17216(68) 0.03630(64) . 1. 0
+O10 O2- 2 i -.17411(62) -.10929(60) 0.49085(60) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+In1 In3+ 0.00728(5) 0.00945(6) 0.00689(5) 0.00538(4) 0.00154(4) 0.00263(4)
+Cl1 Cl1- 0.01160(19) 0.00941(17) 0.00578(14) 0.00648(15) 0.00067(13) 0.00093(12)
+Mn1 Mn1- 0.00772(10) 0.00868(11) 0.00540(9) 0.00575(9) 0.00079(7) 0.00122(8)
+Mn2 Mn1- 0.00699(10) 0.00765(10) 0.00616(10) 0.00433(8) 0.00177(7) 0.00241(8)
+C1 C2+ 0.01147(84) 0.0161(10) 0.00901(76) 0.00984(82) 0.00163(65) 0.00189(71)
+C2 C2+ 0.01223(86) 0.01051(79) 0.00818(71) 0.00723(72) 0.00130(73) 0.00128(60)
+C3 C2+ 0.01160(84) 0.01032(82) 0.0078(7) 0.00642(72) 0.00116(61) 0.0012(6)
+C4 C2+ 0.01131(79) 0.01091(77) 0.00850(72) 0.00715(68) 0.00204(61) 0.00109(59)
+C5 C2+ 0.01214(82) 0.01106(82) 0.00799(70) 0.00786(72) 0.00228(61) 0.00117(60)
+C6 C2+ 0.00882(72) 0.00965(75) 0.00854(72) 0.00452(63) 0.00163(68) 0.00261(59)
+C7 C2+ 0.01163(85) 0.00948(87) 0.00948(76) 0.00760(75) 0.00354(66) 0.00390(66)
+C8 C2+ 0.00970(78) 0.01084(82) 0.01005(80) 0.00514(68) 0.00106(63) 0.00063(66)
+C9 C2+ 0.00872(73) 0.01136(82) 0.00903(73) 0.00533(67) 0.00218(59) 0.00329(64)
+C10 C2+ 0.00863(69) 0.01015(76) 0.00927(73) 0.00580(63) 0.00203(57) 0.00245(61)
+O1 O2- 0.0208(11) 0.0353(15) 0.0185(10) 0.0236(12) -.00153(83) 0.00125(98)
+O2 O2- 0.0266(12) 0.02106(97) 0.00882(64) 0.01456(93) 0.00634(70) 0.00283(63)
+O3 O2- 0.0209(10) 0.01231(77) 0.01454(84) 0.00607(74) 0.00065(75) -.00049(63)
+O4 O2- 0.0211(10) 0.0218(10) 0.01003(66) 0.01112(88) 0.00620(69) 0.00176(66)
+O5 O2- 0.01835(91) 0.01173(73) 0.01716(88) 0.00684(69) 0.00151(73) -.00111(64)
+O6 O2- 0.00943(64) 0.01734(85) 0.01657(84) 0.00466(62) 0.00436(60) 0.00477(69)
+O7 O2- 0.0225(11) 0.0215(10) 0.0193(10) 0.01729(93) 0.00549(82) 0.00961(83)
+O8 O2- 0.01848(92) 0.01776(88) 0.01400(79) 0.00970(77) 0.00072(69) -.00502(68)
+O9 O2- 0.01650(85) 0.02035(94) 0.01544(83) 0.01197(79) 0.00212(67) 0.00949(71)
+O10 O2- 0.01647(80) 0.01599(80) 0.01190(68) 0.00969(69) -.00047(60) -.00243(60)

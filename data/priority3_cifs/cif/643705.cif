@@ -1,0 +1,78 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 643705
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Manganese yttrium silicide (1/1/1)'
+_chemical_formula_structural 'Mn Y Si'
+_chemical_formula_sum 'Mn1 Si1 Y1'
+_chemical_name_structure_type PbClF
+_exptl_crystal_density_diffrn 5.05
+_publ_section_title
+'Synthesis and magnetic and electrical properties of R Mn Si (R = Ce, Nd, Sm)'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Yogyo Kyokai Shi (= Journal of the Ceramic Assoc. of Japan)' 1986 94
+232 235 YGKSA4
+loop_
+_publ_author_name
+'Kido, H.'
+'Hoshikawa, T.'
+'Tagami, M.'
+'Shimada, M.'
+'Koizumi, M.'
+_cell_length_a 3.978
+_cell_length_b 3.978
+_cell_length_c 7.152
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 113.18
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m Z'
+_symmetry_Int_Tables_number 129
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn0+ 0
+Si0+ 0
+Y0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn0+ 2 a 0.75 0.25 0 . 1. 0
+Si1 Si0+ 2 c 0.25 0.25 0.205 . 1. 0
+Y1 Y0+ 2 c 0.25 0.25 0.665 . 1. 0

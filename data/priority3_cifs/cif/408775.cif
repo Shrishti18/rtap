@@ -1,0 +1,88 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 408775
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Thallium tri-mue-chloro-bis(dichlorooxomolybdate(V))'
+_chemical_formula_structural 'Tl ((Mo O Cl2)2 Cl3)'
+_chemical_formula_sum 'Cl7 Mo2 O2 Tl1'
+_exptl_crystal_density_diffrn 3.76
+_publ_section_title
+;
+Ueber Thallium(I)-chlorooxomolybdate: Synthese und Kristallstrukturen von Tl
+(Mo O Cl4 (N C (C H3))), Tl (Mo2 O2 Cl7) und Tl2 (Mo4 O4 Cl14) und die
+Struktur von Tl2 (Mo Cl6)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1998
+624 1943 1950 ZAACAB
+loop_
+_publ_author_name
+'Beck, J.'
+'Hengstmann, M.'
+_cell_length_a 6.9434(13)
+_cell_length_b 9.519(2)
+_cell_length_c 9.0470(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 597.95
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m n Z'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.0793
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x, y+1/2, -z'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y+1/2, z'
+6 'x, -y+1/2, z'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Mo5+ 5
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 b 0.25 0.75 0.45630(12) . 1. 0
+Mo1 Mo5+ 4 e 0.75 0.57051(10) 0.18223(14) . 1. 0
+Cl1 Cl1- 2 a 0.75 0.75 0.4072(6) . 1. 0
+Cl2 Cl1- 4 f 0.9912(6) 0.75 0.1090(5) . 1. 0
+Cl3 Cl1- 8 g 0.9893(5) 0.4464(2) 0.3020(3) . 1. 0
+O1 O2- 4 e 0.75 0.4971(12) 0.0165(14) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0656(8) 0.0611(6) 0.0524(8) 0 0 0
+Mo1 Mo5+ 0.0396(8) 0.0299(5) 0.0322(8) 0 0 -.0017(4)
+Cl1 Cl1- 0.050(3) 0.034(2) 0.029(3) 0 0 0
+Cl2 Cl1- 0.049(2) 0.0325(13) 0.047(2) 0 0.015(2) 0
+Cl3 Cl1- 0.050(2) 0.0409(12) 0.055(2) 0.0095(10) -.0003(13) 0.0090(9)
+O1 O2- 0.052(8) 0.068(7) 0.045(7) 0 0 -.012(5)

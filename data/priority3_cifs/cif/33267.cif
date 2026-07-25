@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 33267
+_audit_creation_date 1985-03-07
+_audit_update_record 1985-05-24
+_chemical_name_systematic Di-mue-phosphido-bis(tetracarbonylmanganese)
+_chemical_formula_structural '((C O)4 Mn P H2)2'
+_chemical_formula_sum 'C8 H4 Mn2 O8 P2'
+_exptl_crystal_density_diffrn 1.82
+_publ_section_title
+;
+Strukturuntersuchungen an Uebergangsmetallphosphor- Vier- und
+Sechsringkomplexen. Die Strukturen von ((C O)4 Mn P H2)2, ((C O)4 Mn P H2)3
+und (C P Ni P H2)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1984
+519 53 66 ZAACAB
+loop_
+_publ_author_name
+'Deppisch, B.'
+'Schaefer, H.'
+'Binder, D.'
+'Leske, W.'
+_cell_length_a 6.804(3)
+_cell_length_b 7.064(5)
+_cell_length_c 9.191(6)
+_cell_angle_alpha 110.50(5)
+_cell_angle_beta 91.92(5)
+_cell_angle_gamma 115.65(4)
+_cell_volume 363.93
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn0+ 0
+P0+ 0
+O2- -2
+C2+ 2
+H0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn0+ 2 i 0.0990(1) 0.2066(1) 0.2112(1) 0.038(1) 1. 0
+P1 P0+ 2 i 0.0420(1) -.1599(1) 0.0433(1) 0.040(1) 1. 0
+O1 O2- 2 i 0.5513(4) 0.3903(6) 0.1420(4) 0.088(2) 1. 0
+O2 O2- 2 i -.3737(4) -.0196(6) 0.2422(3) 0.083(2) 1. 0
+O3 O2- 2 i 0.2807(6) 0.2038(6) 0.5073(3) 0.087(2) 1. 0
+O4 O2- 2 i 0.1370(6) 0.6676(5) 0.3746(4) 0.092(2) 1. 0
+C1 C2+ 2 i 0.3787(4) 0.3218(5) 0.1691(3) 0.053(1) 1. 0
+C2 C2+ 2 i -.1931(4) 0.0669(6) 0.2320(3) 0.051(1) 1. 0
+C3 C2+ 2 i 0.2073(5) 0.2008(5) 0.3938(3) 0.054(1) 1. 0
+C4 C2+ 2 i 0.1243(5) 0.4927(6) 0.3113(3) 0.057(1) 1. 0
+H1 H0+ 2 i -.1014(65) -.3331(73) 0.0812(47) 0.079(11) 1. 0
+H2 H0+ 2 i 0.2126(49) -.1938(54) 0.0547(35) 0.046(7) 1. 0

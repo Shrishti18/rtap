@@ -1,0 +1,70 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 674128
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Rubidium tungsten nitrogen oxide'
+_chemical_formula_structural 'Rb W N O2'
+_chemical_formula_sum 'N1 O2 Rb1 W1'
+_exptl_crystal_density_diffrn 7.42
+_publ_section_title
+;
+Machine learning assisted predictions of intrinsic dielectric breakdown
+strength of ABX3 perovskites
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry C' 2016 120 14575 14580 JPCCCK
+loop_
+_publ_author_name
+'Kim, Chiho'
+'Pilania, Ghanshyam'
+'Ramprasad, Rampi'
+_cell_length_a 3.8542
+_cell_length_b 3.8542
+_cell_length_c 4.7495
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 70.55
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 4 m m'
+_symmetry_Int_Tables_number 99
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x, z'
+2 '-y, x, z'
+3 '-y, -x, z'
+4 'y, x, z'
+5 'x, -y, z'
+6 '-x, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb0+ 0
+W0+ 0
+O0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb0+ 1 a 0. 0. 0. 1. 1. 0
+W1 W0+ 1 b 0.5 0.5 0.4841 1. 1. 0
+O1 O0+ 2 c 0.5 0. 0.5586 1. 1. 0
+N1 N0+ 1 b 0.5 0.5 0.1232 1. 1. 0

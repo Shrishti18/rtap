@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 402033
+_audit_creation_date 1995-10-17
+_chemical_name_systematic
+'Tetrathallium dodeca-mue-bromo-octahedro-hexabromohexaniobate'
+_chemical_formula_structural 'Tl4 (Br12 (Nb Br)6)'
+_chemical_formula_sum 'Br18 Nb6 Tl4'
+_chemical_name_structure_type K4Nb6Cl18
+_exptl_crystal_density_diffrn 5.79
+_publ_section_title
+;
+Crystal structure of tetrathallium hexabromo-dodeca-mue-bromohexaniobate, Tl4
+(Nb6 Br18)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1995 210 608 608 ZEKRDZ
+loop_
+_publ_author_name
+'Womelsdorf, H.'
+'Meyer, H.J.'
+_cell_length_a 11.140(9)
+_cell_length_b 16.25(1)
+_cell_length_c 10.067(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 117.68(4)
+_cell_angle_gamma 90.
+_cell_volume 1613.82
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb2+ 2.33
+Tl1+ 1
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb2+ 4 i 0.1028(2) 0 0.8696(2) . 1. 0
+Nb2 Nb2+ 8 j 0.13194(12) 0.09114(7) 0.13973(13) . 1. 0
+Tl1 Tl1+ 8 j 0.40100(7) 0.15359(4) 0.66440(8) . 1. 0
+Br1 Br1- 4 i 0.3248(2) 0 0.3403(2) . 1. 0
+Br2 Br1- 4 g 0 0.22194(11) 0 . 1. 0
+Br3 Br1- 8 j -.03552(14) -.11103(8) 0.6724(2) . 1. 0
+Br4 Br1- 8 j 0.30676(15) 0.21420(9) 0.3246(2) . 1. 0
+Br5 Br1- 8 j 0.28355(15) 0.11208(9) 0.0101(2) . 1. 0
+Br6 Br1- 4 i 0.2412(2) 0 0.7013(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb2+ 0.0146(8) 0.0216(8) 0.0208(8) 0 0.0070(7) 0
+Nb2 Nb2+ 0.0143(6) 0.0209(5) 0.0210(6) -.0005(5) 0.0065(5) -.0006(4)
+Tl1 Tl1+ 0.0362(4) 0.0453(4) 0.0480(4) 0.0021(3) 0.0184(3) 0.0033(3)
+Br1 Br1- 0.0182(10) 0.0283(9) 0.026(1) 0 0.0022(9) 0
+Br2 Br1- 0.0239(10) 0.0215(9) 0.0287(10) 0 0.0065(9) 0
+Br3 Br1- 0.0244(8) 0.0289(7) 0.0251(7) -.0022(6) 0.0117(6) -.0053(5)
+Br4 Br1- 0.0237(8) 0.0311(7) 0.0339(8) -.0047(6) 0.0086(7) -.0050(6)
+Br5 Br1- 0.0229(8) 0.0340(7) 0.0293(7) -.0101(6) 0.0125(7) -.0044(6)
+Br6 Br1- 0.0357(13) 0.0408(12) 0.0401(12) 0 0.0258(11) 0

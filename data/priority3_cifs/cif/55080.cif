@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 55080
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Tetramethylammonium iodide'
+_chemical_formula_structural '(N (C H3)4) I'
+_chemical_formula_sum 'C4 H12 I1 N1'
+_exptl_crystal_density_diffrn 1.84
+_publ_section_title
+;
+Vergleich der Kristallstrukturen der Tetraammoniakate von Lithiumhalogeniden,
+Li Br * 4(N H3) und Li I * 4(N H3), mit der Struktur von
+Tetramethylammoniumiodid, N (C H3)4 I
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2004
+630 645 648 ZAACAB
+loop_
+_publ_author_name
+'Jacobs, H.'
+'Barlage, H.'
+'Friedriszik, M.'
+_cell_length_a 7.948(1)
+_cell_length_b 7.948(1)
+_cell_length_c 5.738(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 362.47
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m Z'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.012
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+I1- -1
+N3- -3
+C4+ 4
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+I1 I1- 2 c 0.25 0.25 0.1109(1) 2.9(1) 1. 0
+N1 N3- 2 b 0.25 0.75 0.5 2.4(1) 1. 0
+C1 C4+ 8 i 0.5974(2) 0.25 0.6517(3) 3.6(1) 1. 0
+H1 H1- 8 i 0.501(3) 0.25 0.549(3) 4.1(1) 1. 0
+H2 H1- 16 k 0.604(2) 0.356(2) 0.752(2) 4.5(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+I1 I1- .038(1) .038(1) .034(1) 0. 0. 0.
+N1 N3- .030(1) .030(1) .031(1) 0. 0. 0.
+C1 C4+ .032(1) .060(1) .045(1) 0. .007(1) 0.

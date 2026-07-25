@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 402964
+_audit_creation_date 1998-06-26
+_audit_update_record 2012-02-01
+_chemical_name_systematic Tetraaquabis(rhenato(VII))cobalt
+_chemical_formula_structural 'Co (H2 O)4 (Re O4)2'
+_chemical_formula_sum 'H8 Co1 O12 Re2'
+_chemical_name_structure_type Co(ReO4)2(H2O)4
+_exptl_crystal_density_diffrn 3.81
+_publ_section_title
+'Crystal structure of tetraaquabis(perrhenato)cobalt(II), Co (Re O4)2 (H2 O)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 1998 213 10
+10 ZKNSFT
+loop_
+_publ_author_name
+'Mujica, C.'
+'Peters, K.'
+'Peters, E.M.'
+'von Schnering, H.G.'
+_cell_length_a 6.565(2)
+_cell_length_b 6.892(1)
+_cell_length_c 7.289(1)
+_cell_angle_alpha 64.65(1)
+_cell_angle_beta 70.55(2)
+_cell_angle_gamma 71.79(1)
+_cell_volume 275.39
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.051
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re7+ 7
+Co2+ 2
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re7+ 2 i 0.08557(8) 0.32153(8) 0.29203(7) . 1. 0
+Co1 Co2+ 1 d 0.5 0 0 . 1. 0
+O1 O2- 2 i -.1893(20) 0.3226(18) 0.3798(17) . 1. 0
+O2 O2- 2 i 0.1967(23) 0.2741(20) 0.4914(19) . 1. 0
+O3 O2- 2 i 0.1276(23) 0.5704(18) 0.1000(15) . 1. 0
+O4 O2- 2 i 0.2053(19) 0.1159(19) 0.1933(17) . 1. 0
+O5 O2- 2 i 0.3241(23) -.0604(19) -.1458(18) . 1. 0
+H1 H1+ 2 i 0.2622 -.1931 -.0588 0.08 1. 0
+H2 H1+ 2 i 0.33214 -.03077 -.26752 0.08 1. 0
+O6 O2- 2 i 0.5168(19) 0.3054(16) -.2295(15) . 1. 0
+H3 H1+ 2 i 0.3828 0.3812 -.2367 0.08 1. 0
+H4 H1+ 2 i 0.5796 0.2952 -.3271 0.08 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re7+ 0.02957(35) 0.02755(35) 0.02250(34) -.00627(24) -.00538(23) -.00545(25)
+Co1 Co2+ 0.0251(12) 0.0235(11) 0.0243(12) -.00271(96) -.00694(91) -.00717(98)
+O1 O2- 0.0392(64) 0.0436(62) 0.0507(72) -.0030(53) 0.0008(51) -.0146(58)
+O2 O2- 0.0687(94) 0.0604(76) 0.0596(83) -.0109(70) -.0355(72) -.0185(70)
+O3 O2- 0.088(10) 0.0550(71) 0.0265(55) -.0386(70) -.0276(59) 0.0110(52)
+O4 O2- 0.0358(59) 0.0565(68) 0.0510(68) 0.0081(53) -.0022(49) -.0308(61)
+O5 O2- 0.0711(92) 0.0537(72) 0.0499(74) -.0415(68) -.0260(64) -.0015(59)
+O6 O2- 0.0461(65) 0.0341(50) 0.0284(51) -.0035(48) -.0086(44) -.0053(44)

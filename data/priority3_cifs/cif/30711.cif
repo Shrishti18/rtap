@@ -1,0 +1,71 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 30711
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Lead sulfate bis(lead oxide) - alpha'
+_chemical_formula_structural 'Pb S O4 (Pb O)2'
+_chemical_formula_sum 'O6 Pb3 S1'
+_chemical_name_structure_type Pb3SO4O2
+_exptl_crystal_density_diffrn 7.62
+_publ_section_title
+;
+Structure cristalline de la phase haute temperature de Pb S O4 * 2 Pb O a 973K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1984 19 925 934 MRBUAC
+loop_
+_publ_author_name
+'Mentzen, B.F.'
+'Latrach, A.'
+'Bouix, J.'
+'Boher, P.'
+'Garnier, P.'
+_cell_length_a 7.1816(3)
+_cell_length_b 5.7848(2)
+_cell_length_c 8.0528(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.395(2)
+_cell_angle_gamma 90.
+_cell_volume 326.75
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0594
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 2 e 0.0843(7) 0.25 0.3743(5) . 1. 0
+Pb2 Pb2+ 2 e 0.6085(5) 0.25 0.4146(4) . 1. 0
+Pb3 Pb2+ 2 e 0.2265(5) 0.25 0.8466(4) . 1. 0
+S1 S6+ 2 e 0.713(3) 0.25 0.883(3) . 1. 0
+O1 O2- 4 f 0.584(4) 0.462(4) 0.821(3) . 1. 0
+O2 O2- 2 e 0.826(5) 0.25 0.035(4) . 1. 0
+O3 O2- 2 e 0.843(4) 0.25 0.696(4) . 1. 0
+O4 O2- 4 f 0.805(3) 1.015(3) 0.412(3) . 1. 0

@@ -1,0 +1,73 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 44753
+_audit_creation_date 2000-12-16
+_audit_update_record 2014-02-01
+_chemical_name_systematic 'Iron telluride - beta'
+_chemical_formula_structural 'Fe Te'
+_chemical_formula_sum 'Fe1 Te1'
+_chemical_name_structure_type FeSe
+_exptl_crystal_density_diffrn 6.65
+_publ_section_title
+'Some electrical characteristics of single crystal iron monotelluride'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Proceedings of the Physical Society, London' 1956 69 860 862 PPSOAU
+loop_
+_publ_author_name
+'Finlayson, D.M.'
+'Greig, G.'
+'Llewellyn, J.S.'
+'Smith, T.'
+_cell_length_a 3.8215(5)
+_cell_length_b 3.8215
+_cell_length_c 6.2695(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 91.56
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m S'
+_symmetry_Int_Tables_number 129
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y+1/2, x+1/2, z'
+3 '-y, -x, -z'
+4 'y, x, -z'
+5 'y+1/2, -x+1/2, z'
+6 '-y+1/2, x+1/2, z'
+7 'y, -x, -z'
+8 '-y, x, -z'
+9 'x+1/2, -y+1/2, -z'
+10 '-x+1/2, y+1/2, -z'
+11 'x, -y, z'
+12 '-x, y, z'
+13 '-x+1/2, -y+1/2, -z'
+14 'x+1/2, y+1/2, -z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 2 a 0 0 0 . 1. 0
+Te1 Te2- 2 c 0 0.5 0.27 . 1. 0

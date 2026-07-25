@@ -1,0 +1,90 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 56313
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Pentacalcium tris(phosphate(V)) fluoride'
+_chemical_formula_structural 'Ca5 (P O4)3 F'
+_chemical_formula_sum 'Ca5 F1 O12 P3'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_chemical_name_mineral Apatite-(CaF)
+_exptl_crystal_density_diffrn 3.19
+_publ_section_title 'Structural disorder in hydoxyapatite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1992 199 123 148 ZEKRDZ
+loop_
+_publ_author_name
+'Saenger, A.T.'
+'Kuhs, W.F.'
+_cell_length_a 9.3917(3)
+_cell_length_b 9.3917
+_cell_length_c 6.8826(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 525.74
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+P5+ 5
+O2- -2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 f 0.3333 0.6667 0.00112(3) 0.926(5) 1. 0
+Ca2 Ca2+ 6 h 0.24186(2) 0.99288(2) 0.25 0.867(5) 1. 0
+P1 P5+ 6 h 0.39845(3) 0.36896(3) 0.25 0.595(6) 1. 0
+O1 O2- 6 h 0.32694(9) 0.48444(9) 0.25 1.002(11) 1. 0
+O2 O2- 6 h 0.5876(1) 0.4665(1) 0.25 1.149(11) 1. 0
+O3 O2- 12 i 0.3411(2) 0.2571(1) 0.07076(9) 1.322(10) 1. 0
+F1 F1- 2 a 0 0 0.25 1.76(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.01369(8) 0.01369 0.0078(1) 0.00685 0 0
+Ca2 Ca2+ 0.01311(8) 0.01032(8) 0.00923(9) 0.00560(5) 0 0
+P1 P5+ 0.0085(1) 0.00751(9) 0.0072(1) 0.00450(6) 0 0
+O1 O2- 0.0166(2) 0.0129(3) 0.0131(3) 0.0109(2) 0 0
+O2 O2- 0.0090(2) 0.0123(3) 0.0211(3) 0.0044(2) 0 0
+O3 O2- 0.0281(3) 0.0152(2) 0.0107(2) 0.0136(2) -0.0074(2) -0.0048(1)
+F1 F1- 0.0119(3) 0.0119 0.043(1) 0.00595 0 0

@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 9783
+_audit_creation_date 1980-01-01
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Sodium zinc molybdate hydroxide'
+_chemical_formula_structural 'Na Zn (Mo O4) (O H)'
+_chemical_formula_sum 'H1 Mo1 Na1 O5 Zn1'
+_chemical_name_structure_type PbFeVO4OH
+_exptl_crystal_density_diffrn 3.93
+_publ_section_title
+'Some Incorrect Space Groups in Inorganic Chemistry, Volume 16'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1979 18 2331 2336 INOCAJ
+loop_
+_publ_author_name
+'Marsh, R.E.'
+'Schomaker, V.'
+_cell_length_a 7.85
+_cell_length_b 9.292
+_cell_length_c 6.148
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 448.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 'x, y, -z+1/2'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zn2+ 2
+Mo6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.36433(5) 0.3104(3) 0.75 . 1. 0
+Zn1 Zn2+ 4 b 0.5 0 0.5 . 1. 0
+Mo1 Mo6+ 4 c 0.12379(5) 0.17058(5) 0.25 . 1. 0
+O1 O2- 8 d 0.1140(4) 0.2785(3) 0.0153(4) . 1. 0
+O2 O2- 4 c 0.4529(7) 0.4480(6) 0.25 . 1. 0
+O3 O2- 4 c 0.8691(5) 0.4357(4) 0.75 . 1. 0
+O4 O2- 4 c 0.3125(5) 0.0617(5) 0.25 . 1. 0
+H1 H1+ 4 c 0.783(13) 0.457(10) 0.75 4. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0110(5) 0.0038(3) 0.0151(7) 0.0005(3) 0 0
+Zn1 Zn2+ 0.00506(7) 0.00396(5) 0.00462(10) 0.00072(6) 0.00092(9) -.00019(7)
+Mo1 Mo6+ 0.00256(4) 0.00227(3) 0.00546(7) 0.00049(5) 0 0
+O1 O2- 0.0092(4) 0.0038(2) 0.0064(5) 0.0029(3) -.0005(6) 0.0003(3)
+O2 O2- 0.0068(7) 0.0085(7) 0.0277(20) 0.0043(5) 0 0
+O3 O2- 0.0026(4) 0.0034(3) 0.0044(6) 0.0001(3) 0 0
+O4 O2- 0.0051(5) 0.0058(4) 0.0051(8) 0.0036(4) 0 0

@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 67221
+_audit_creation_date 1990-12-27
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Molybdenum(V) nonaoxoalumodiphosphate'
+_chemical_formula_structural 'Mo (Al P2 O9)'
+_chemical_formula_sum 'Al1 Mo1 O9 P2'
+_chemical_name_structure_type VOSiP2O8
+_exptl_crystal_density_diffrn 3.24
+_publ_section_title
+'Mo Al P2 O9 molybdenum(V)aluminophosphate isostructural with VSiP2O9'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1990 190 135 142 ZEKRDZ
+loop_
+_publ_author_name
+'Leclaire, A.'
+'Borel, M.M.'
+'Grandin, A.'
+'Raveau, B.'
+_cell_length_a 8.8030(8)
+_cell_length_b 8.8030(8)
+_cell_length_c 8.6970(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 673.95
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 4/n c c Z'
+_symmetry_Int_Tables_number 130
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z+1/2'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z+1/2'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y, -z+1/2'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z+1/2'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z+1/2'
+15 '-x+1/2, y, z+1/2'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Mo5+ 5
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 b 0.75 0.25 0 . 1. 0
+Mo1 Mo5+ 4 c 0.25 0.25 0.17748(6) . 1. 0
+P1 P5+ 8 f 0.56514(9) 0.435 0.25 . 1. 0
+O1 O2- 16 g 0.3929(2) 0.4141(2) 0.2332(3) . 1. 0
+O2 O2- 4 c 0.25 0.25 -.0126(6) . 1. 0
+O3 O2- 16 g 0.6472(3) 0.3779(4) 0.1084(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Al1 Al3+ 0.00195(8) 0.00195(8) 0.0015(1) 0 0 0
+Mo1 Mo5+ 0.00092(1) 0.00092(1) 0.00252(3) 0 0 0
+P1 P5+ 0.00121(4) 0.00121(4) 0.00208(8) -.0001(1) -.0003(1) -.0003(1)
+O1 O2- 0.0015(2) 0.0018(2) 0.0050(2) -.0002(3) -.0010(4) -.0002(4)
+O2 O2- 0.0045(3) 0.0045(3) 0.0029(4) 0 0 0
+O3 O2- 0.0039(2) 0.0048(3) 0.0048(3) 0.0011(4) 0.0026(5) -.0033(5)

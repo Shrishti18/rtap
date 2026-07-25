@@ -1,0 +1,74 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 674847
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Cobalt Fluoride'
+_chemical_formula_structural 'Co F2'
+_chemical_formula_sum 'Co1 F2'
+_exptl_crystal_density_diffrn 4.71
+_publ_section_title
+;
+Pressure-induced phase transitions and structural properties of CoF2. An
+ab-initio molecular dynamics study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Communications' 2016 231 17 25 SSCOA4
+loop_
+_publ_author_name
+'Kuerkcue, Cihan'
+'Merdan, Ziya'
+'Oeztuerk, Huelya'
+_cell_length_a 4.6611
+_cell_length_b 4.6611
+_cell_length_c 3.1472
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 68.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co0+ 0
+F0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co0+ 2 b 0. 0. 0.5 1. 1. 0
+F1 F0+ 4 g 0.1947 0.8053 0. 1. 1. 0

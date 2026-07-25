@@ -1,0 +1,100 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 291623
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Dirubidium hexakis(iodate(V)) platinate'
+_chemical_formula_structural 'Rb2 Pt (I O3)6'
+_chemical_formula_sum 'I6 O18 Pt1 Rb2'
+_chemical_name_structure_type Rb2Zr(IO3)6
+_exptl_crystal_density_diffrn 5.52
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+New series of polar and nonpolar platinum iodates A2 Pt (I O3)6 (A = H3 O, Na,
+K, Rb, Cs)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 2481 2487 INOCAJ
+loop_
+_publ_author_name
+'Yang, Bing-Ping'
+'Hu, Chun-Li'
+'Xu, Xiang'
+'Mao, Jiang-Gao'
+_cell_length_a 11.3670(5)
+_cell_length_b 11.3670(5)
+_cell_length_c 11.4129(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1277.08
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0288
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt4+ 4
+I5+ 5
+O2- -2
+Rb1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt4+ 3 b 0.3333 0.6667 0.1667 0.0094(2) 1 0
+I1 I5+ 18 f 0.68854(5) 0.74680(5) 0.60699(5) 0.0092(2) 1 0
+O1 O2- 18 f 0.6046(6) 0.7955(7) 0.7123(6) 0.0174(14) 1 0
+O2 O2- 18 f 0.6180(7) 0.7639(7) 0.4714(6) 0.0199(14) 1 0
+O3 O2- 18 f 0.8397(6) 0.9249(6) 0.6070(6) 0.0163(13) 1 0
+Rb1 Rb1+ 6 c 0.6667 0.3333 0.49576(17) 0.0288(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pt1 Pt4+ 0.0096(3) 0.0096(3) 0.0089(4) 0.00480(14) 0. 0.
+I1 I5+ 0.0098(3) 0.0108(3) 0.0080(3) 0.0058(2) 0.00067(19) 0.00046(19)
+O1 O2- 0.016(3) 0.016(3) 0.021(4) 0.008(3) 0.008(3) -0.002(3)
+O2 O2- 0.024(4) 0.022(3) 0.013(3) 0.010(3) -0.003(3) 0.002(3)
+O3 O2- 0.013(3) 0.015(3) 0.015(3) 0.002(3) 0.005(3) 0.000(3)
+Rb1 Rb1+ 0.0260(6) 0.0260(6) 0.0346(11) 0.0130(3) 0. 0.

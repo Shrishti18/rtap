@@ -1,0 +1,72 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 290480
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Chromium(IV) oxide'
+_chemical_formula_structural 'Cr O2'
+_chemical_formula_sum 'Cr1 O2'
+_chemical_name_structure_type CaCl2
+_exptl_crystal_density_diffrn 5.25
+_cell_measurement_pressure 14000000.
+_publ_section_title
+;
+Electronic and elastic properties of Cr O2 in the orthorhombic Ca Cl2-type
+structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+International Journal of Modern Physics B: Condensed Matter Physics;
+Statistical Physics; Atomic, Molecular and Optical Physics
+; 2012 26 1250091-1 1250091-14 IJPBEV
+loop_
+_publ_author_name
+'Wu, H.Y.'
+'Chen, Y.H.'
+'Deng, C.R.'
+'Su, X.F.'
+_cell_length_a 4.4931
+_cell_length_b 4.2494
+_cell_length_c 2.7812
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 53.1
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P n n m'
+_symmetry_Int_Tables_number 58
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr4+ 2 a 0 0 0 . 1. 0
+O1 O2- 4 g 0.321 0.273 0 . 1. 0

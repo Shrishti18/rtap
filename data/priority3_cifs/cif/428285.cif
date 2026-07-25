@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 428285
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Vanadium(IV) tetrasulfide'
+_chemical_formula_structural 'V S4'
+_chemical_formula_sum 'S4 V1'
+_exptl_crystal_density_diffrn 2.87
+_cell_measurement_temperature 150.
+_publ_section_title
+;
+Synthesis, crystal structure, and colloidal dispersions of vanadium
+tetrasulfide (V S4)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2015 21 4639 4645 CEUJED
+loop_
+_publ_author_name
+'Kozlova, Mariia N.'
+'Mironov, Yuri V.'
+'Grayfer, Ekaterina D.'
+'Smolentsev, Anton I.'
+'Zaikovskii, Vladimir I.'
+'Nebogatikova, Nadezhda A.'
+'Podlipskaya, Tatyana Yu.'
+'Fedorov, Vladimir E.'
+_cell_length_a 12.7131(6)
+_cell_length_b 10.3532(6)
+_cell_length_c 6.7494(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.8250(10)
+_cell_angle_gamma 90.
+_cell_volume 830.32
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0161
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+S1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 8 f 0.36798(2) 0.25110(3) 0.11816(4) 0.00800(8) 1 0
+S1 S1- 8 f 0.22151(3) 0.19996(4) 0.25012(6) 0.01029(10) 1 0
+S2 S1- 8 f 0.24628(3) 0.06627(4) 0.04928(6) 0.01071(10) 1 0
+S3 S1- 8 f 0.48350(3) 0.15363(4) 0.47099(6) 0.01044(10) 1 0
+S4 S1- 8 f 0.46797(3) 0.34861(4) 0.45558(6) 0.01006(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V4+ 0.00775(14) 0.00885(16) 0.00757(14) -0.00042(10) 0.00294(11) 0.00001(10)
+S1 S1- 0.00831(18) 0.0139(2) 0.00873(18) -0.00061(17) 0.00315(14) 0.00023(16)
+S2 S1- 0.00963(18) 0.0099(2) 0.01202(19) -0.00078(16) 0.00308(14) -0.00008(16)
+S3 S1- 0.00940(19) 0.0108(2) 0.0110(2) -0.00020(16) 0.00353(15) 0.00139(15)
+S4 S1- 0.00885(17) 0.0109(2) 0.0101(2) 0.00049(16) 0.00298(14) -0.00120(15)

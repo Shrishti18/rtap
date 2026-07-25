@@ -1,0 +1,98 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 62542
+_audit_creation_date 1988-02-22
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Bismuth(III) enneacarbonyltricobaltate'
+_chemical_formula_structural 'Bi Co3 (C O)9'
+_chemical_formula_sum 'C9 Bi1 Co3 O9'
+_exptl_crystal_density_diffrn 2.73
+_publ_section_title
+;
+Isolation and characterization of the 'strained' cluster complex, mue3-Bi Co3
+(C O)6 (mue C O)3; The Application of thermogravimetric analysis to rational
+cluster reactions.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Chemical Society. Chemical Communications (1972-)' 1987
+1987 926 927 JCCCAT
+loop_
+_publ_author_name
+'Whitmire, K.H.'
+'Leigh, J.S.'
+'Gross, M.E.'
+_cell_length_a 11.076(8)
+_cell_length_b 11.076(8)
+_cell_length_c 7.301(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 775.67
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Co1- -1
+O2- -2
+C2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 2 b 0.3333 -.3333 -.0662 . 1. 0
+Co1 Co1- 6 c 0.2574 -.2574 0.2309 . 1. 0
+O1 O2- 6 c 0.509(4) -.5087 0.250(5) . 1. 0
+O2 O2- 6 c 0.133(5) -.133 0.005(4) . 1. 0
+O3 O2- 6 c 0.187(5) -.1873 0.592(5) . 1. 0
+C1 C2+ 6 c 0.452(5) -.452 0.252(6) . 1. 0
+C2 C2+ 6 c 0.184(4) -.184 0.093(6) . 1. 0
+C3 C2+ 6 c 0.214(4) -.2142 0.458(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.049(2) 0.049 0.036(1) 0.025 0 0
+Co1 Co1- 0.048(5) 0.048 0.041(2) 0.027(3) -.001(3) 0.001
+O1 O2- 0.06(3) 0.06 0.12(3) 0.05(2) 0.01(2) -.01
+O2 O2- 0.11(5) 0.11 0.08(3) 0.08(3) 0.00(2) 0
+O3 O2- 0.10(5) 0.1 0.07(2) 0.06(3) 0.00(2) 0
+C1 C2+ 0.04(3) 0.04 0.06(2) 0.02(2) 0.01(2) -.01
+C2 C2+ 0.09(7) 0.09 0.05(2) 0.08(4) 0.00(2) 0
+C3 C2+ 0.07(4) 0.07 0.05(2) 0.06(2) 0.01(3) -.01

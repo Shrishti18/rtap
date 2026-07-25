@@ -1,0 +1,101 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 417437
+_audit_creation_date 2008-08-01
+_chemical_name_systematic
+'Dicesium hexahydrogenditellurate - telluric acid (1/1)'
+_chemical_formula_structural '(Cs2 (H6 Te2 O10)) (Te (O H)6)'
+_chemical_formula_sum 'H12 Cs2 O16 Te3'
+_exptl_crystal_density_diffrn 4.09
+_cell_measurement_temperature 120.
+_publ_section_title
+'Synthesis and crystal structure of new alkali metal hydrogen tellurates'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 2007 52 1605 1612 ZNOKAQ
+loop_
+_publ_author_name
+'Churakov, A.V.'
+'Ustinova, E.A.'
+'Prikhodchenko, P.V.'
+'Tripol'skaya, T.A.'
+'Howard, J.A.K.'
+_cell_length_a 6.8530(18)
+_cell_length_b 7.2169(19)
+_cell_length_c 9.013(2)
+_cell_angle_alpha 66.974(4)
+_cell_angle_beta 85.588(4)
+_cell_angle_gamma 65.790(4)
+_cell_volume 372.31
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0203
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Te6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 i 0.14870(4) 0.27057(4) 0.31456(3) 0.01382(10) 1 0
+Te1 Te6+ 1 h 0.5 0.5 0.5 0.00745(10) 1 0
+Te2 Te6+ 2 i -0.20847(3) 0.09393(4) 0.07501(3) 0.00721(10) 1 0
+O1 O2- 2 i 0.1061(4) -0.0694(4) 0.1304(3) 0.0099(5) 1 0
+O2 O2- 2 i -0.4949(4) 0.2553(4) -0.0090(3) 0.0106(5) 1 0
+O3 O2- 2 i -0.2286(5) -0.1876(5) 0.1525(4) 0.0119(5) 1 0
+O4 O2- 2 i 0.4939(5) 0.2145(4) 0.5973(4) 0.0134(5) 1 0
+O5 O2- 2 i -0.2312(4) 0.0593(5) 0.2963(3) 0.0125(5) 1 0
+O6 O2- 2 i -0.1654(4) 0.3603(4) 0.0206(3) 0.0120(5) 1 0
+O7 O2- 2 i 0.4549(6) 0.5471(6) 0.6964(4) 0.0162(6) 1 0
+O8 O2- 2 i 0.1948(5) 0.6366(5) 0.4505(4) 0.0165(6) 1 0
+H1 H1+ 2 i 0.408(10) 0.221(9) 0.662(7) 0.028(15) 1 0
+H2 H1+ 2 i 0.466(12) 0.483(12) 0.752(8) 0.03(2) 1 0
+H3 H1+ 2 i -0.320(9) 0.185(10) 0.290(7) 0.025(14) 1 0
+H4 H1+ 2 i 0.175(8) 0.699(9) 0.370(7) 0.010(13) 1 0
+H5 H1+ 2 i -0.288(10) 0.477(11) 0.004(7) 0.037(16) 1 0
+H6 H1+ 2 i -0.290(12) -0.181(13) 0.104(9) 0.05(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.01487(15) 0.01394(14) 0.01389(14) -0.00665(11) 0.00140(9)
+-0.00598(10)
+Te1 Te6+ 0.00853(17) 0.00598(17) 0.00729(17) -0.00224(13) 0.00132(11)
+-0.00300(13)
+Te2 Te6+ 0.00763(14) 0.00631(14) 0.00785(14) -0.00242(10) 0.00080(9)
+-0.00347(10)
+O1 O2- 0.0086(12) 0.0101(12) 0.0103(12) -0.0024(10) -0.0007(9) -0.0046(10)
+O2 O2- 0.0087(12) 0.0089(12) 0.0145(13) -0.0031(10) 0.0003(10) -0.0051(11)
+O3 O2- 0.0150(14) 0.0104(13) 0.0113(13) -0.0062(11) -0.0013(10) -0.0037(11)
+O4 O2- 0.0201(14) 0.0071(13) 0.0144(14) -0.0076(11) 0.0047(11) -0.0042(11)
+O5 O2- 0.0183(14) 0.0087(13) 0.0086(12) -0.0024(11) 0.0019(10) -0.0051(10)
+O6 O2- 0.0120(13) 0.0088(13) 0.0163(13) -0.0044(11) 0.0018(10) -0.0062(11)
+O7 O2- 0.0247(16) 0.0112(15) 0.0092(15) -0.0043(12) 0.0021(12) -0.0040(13)
+O8 O2- 0.0107(14) 0.0161(15) 0.0135(16) -0.0029(12) 0.0011(11) 0.0002(13)

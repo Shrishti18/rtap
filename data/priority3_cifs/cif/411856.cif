@@ -1,0 +1,101 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 411856
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Octacesium hexatantalate'
+_chemical_formula_structural 'Cs8 (Ta6 O19)'
+_chemical_formula_sum 'Cs8 O19 Ta6'
+_exptl_crystal_density_diffrn 5.97
+_publ_section_title
+;
+Rubidium- und Caesium-Verbindungen mit dem Isopolyanion (Ta6 O19)(8-) -
+Synthesen, Kristallstrukturen, thermische und schwingungsspektroskopische
+Untersuchungen der Oxotantalate A8 (Ta6 O19) . n(H2 O) (A = Rb, Cs; n=0,4,14)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2001
+627 2630 2638 ZAACAB
+loop_
+_publ_author_name
+'Hartl, H.'
+'Pickhard, F.'
+'Emmerling, F.'
+'Roehr, C.'
+_cell_length_a 9.8585(10)
+_cell_length_b 9.8585(10)
+_cell_length_c 14.0334(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1363.91
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4/m'
+_symmetry_Int_Tables_number 87
+_refine_ls_R_factor_all 0.0308
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, -z+1/2'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+1/2, -x+1/2, z+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+Cs1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 8 h 0.10506(5) 0.21593(5) 0 . 1. 0
+Ta2 Ta5+ 4 e 0 0 0.83333(4) . 1. 0
+Cs1 Cs1+ 16 i 0.21191(7) 0.58307(6) 0.84900(4) . 1. 0
+O1 O2- 8 h 0.1974(9) 0.3729(9) 0 . 1. 0
+O2 O2- 4 e 0 0 0.7050(9) . 1. 0
+O3 O2- 8 h -.0882(8) 0.2625(9) 0 . 1. 0
+O4 O2- 16 i 0.0883(6) 0.1790(6) 0.1395(4) . 1. 0
+O5 O2- 2 a 0 0 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta5+ 0.0157(2) 0.0137(2) 0.0095(2) -.00190(16) 0 0
+Ta2 Ta5+ 0.0182(2) 0.0182(2) 0.0038(3) 0 0 0
+Cs1 Cs1+ 0.0400(4) 0.0277(3) 0.0195(3) 0.0019(2) 0.0095(2) -.0048(2)
+O1 O2- 0.027(5) 0.015(4) 0.024(5) -.008(3) 0 0
+O2 O2- 0.033(4) 0.033(4) 0.010(6) 0 0 0
+O3 O2- 0.016(4) 0.019(4) 0.014(4) 0.002(3) 0 0
+O4 O2- 0.025(3) 0.020(3) 0.008(3) -.005(2) -.001(2) -.002(2)
+O5 O2- 0.016(5) 0.016(5) 0.005(7) 0 0 0

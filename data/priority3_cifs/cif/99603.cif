@@ -1,0 +1,78 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 99603
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Dicopper discandium catena-tetragermanate'
+_chemical_formula_structural 'Cu2 Sc2 (Ge4 O13)'
+_chemical_formula_sum 'Cu2 Ge4 O13 Sc2'
+_chemical_name_structure_type Cu2Fe2Ge4O13
+_exptl_crystal_density_diffrn 4.55
+_cell_measurement_temperature 298.
+_publ_section_title
+;
+Cu2 Sc2 Ge4 O13, a novel germanate isotypic with the quasi-1D compound Cu2 Fe2
+Ge4 O13 between 100 and 298 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 2714 2725 JSSCBI
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Roth, G.'
+_cell_length_a 12.3361(20)
+_cell_length_b 8.7034(9)
+_cell_length_c 4.8883(8)
+_cell_angle_alpha 90
+_cell_angle_beta 95.738(13)
+_cell_angle_gamma 90
+_cell_volume 522.21
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0377
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Sc3+ 3
+Cu2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 2 e 0.2318(1) 0.25 0.4960(1) 0.0067(1) 1. 0
+Ge2 Ge4+ 2 e 0.7526(1) 0.25 0.3333(2) 0.0071(1) 1. 0
+Ge3 Ge4+ 2 e -0.0071(1) 0.25 0.3987(2) 0.0087(2) 1. 0
+Ge4 Ge4+ 2 e 0.5143(1) 0.25 0.5999(2) 0.0062(1) 1. 0
+Sc1 Sc3+ 4 f 0.3721(1) 0.0601(1) 0.0472(2) 0.0067(2) 1. 0
+Cu1 Cu2+ 4 f 0.1225(1) -0.0035(1) 0.0475(1) 0.0113(1) 1. 0
+O1 O2- 2 e 0.3226(4) 0.25 0.7904(10) 0.0081(1) 1. 0
+O2 O2- 2 e 0.6517(4) 0.25 0.5482(13) 0.0197(12) 1. 0
+O3 O2- 2 e 0.1061(4) 0.25 0.6427(11) 0.0108(9) 1. 0
+O4 O2- 4 f 0.2403(3) 0.0870(4) 0.2897(7) 0.0102(7) 1. 0
+O5 O2- 2 e 0.8723(4) 0.25 0.5644(11) 0.0114(9) 1. 0
+O6 O2- 4 f 0.5042(3) 0.0812(4) 0.7904(7) 0.0098(6) 1. 0
+O7 O2- 4 f 0.7491(2) 0.0858(4) 0.1291(7) 0.0105(7) 1. 0
+O8 O2- 2 e 0.4335(4) 0.25 0.2884(11) 0.0094(9) 1. 0
+O9 O2- 4 f -0.0043(3) 0.0866(5) 0.1970(9) 0.0152(8) 1. 0

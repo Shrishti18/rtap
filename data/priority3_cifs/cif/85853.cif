@@ -1,0 +1,78 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 85853
+_audit_creation_date 1999-11-30
+_chemical_name_systematic 'Lanthanum iron silicide (1/1/1)'
+_chemical_formula_structural 'La Fe Si'
+_chemical_formula_sum 'Fe1 La1 Si1'
+_chemical_name_structure_type PbClF
+_exptl_crystal_density_diffrn 6.18
+_publ_section_title
+;
+X-ray single crystal refinements on some (Ce Fe Si)-type RTX compounds (R = RE
+elements; T = Mn, Fe, Co, Ru; X = Si, Ge). Evolution of the chemical bonds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1998 265 196 200 JALCEU
+loop_
+_publ_author_name
+'Welter, R.'
+'Ijjaali, I.'
+'Venturini, G.'
+'Malaman, B.'
+_cell_length_a 4.098(1)
+_cell_length_b 4.098(1)
+_cell_length_c 7.133(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 119.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m Z'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Fe0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 2 c 0.25 0.25 0.6801(2) 0.43(2) 1. 0
+Fe1 Fe0+ 2 a 0.75 0.25 0 0.47(5) 1. 0
+Si1 Si0+ 2 c 0.25 0.25 0.1702(9) 0.54(9) 1. 0

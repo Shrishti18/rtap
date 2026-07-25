@@ -1,0 +1,84 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 79455
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Copper diniobate'
+_chemical_formula_structural 'Cu (Nb2 O6)'
+_chemical_formula_sum 'Cu1 Nb2 O6'
+_chemical_name_structure_type Columbite-MgNb2O6
+_exptl_crystal_density_diffrn 5.66
+_publ_section_title 'Structural relations in mixed oxides Cux Zn1-x Nb2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 115 476 483 JSSCBI
+loop_
+_publ_author_name
+'Norwig, J.'
+'Weitzel, H.'
+'Paulus, H.'
+'Lautenschlaeger, G.'
+'Rodriguez Carvajal, J.'
+'Fuess, H.'
+_cell_length_a 14.097(6)
+_cell_length_b 5.613(2)
+_cell_length_c 5.123(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 405.36
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 c 0 0.3297(1) 0.25 . 1. 0
+Nb1 Nb5+ 8 d 0.1598 0.1825 0.7805 . 1. 0
+O1 O2- 8 d 0.0922(2) 0.1024(4) 0.1006(4) . 1. 0
+O2 O2- 8 d 0.4161(2) 0.0955(4) 0.1459(5) . 1. 0
+O3 O2- 8 d 0.7589(2) 0.1282(4) 0.0474(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0072(2) 0.0062(2) 0.0085(3) 0 0.0021(2) 0
+Nb1 Nb5+ 0.0059(1) 0.0061(1) 0.0045(1) 0.0000(1) -.0003(1) 0.0001(1)
+O1 O2- 0.0083(9) 0.0074(8) 0.0056(10) 0.0012(7) 0.0004(7) 0.0007(8)
+O2 O2- 0.0099(9) 0.0088(9) 0.0101(11) 0.0024(7) -.0004(8) 0.0000(9)
+O3 O2- 0.0078(8) 0.0083(8) 0.0062(9) 0.0023(7) 0.0007(7) 0.0008(8)

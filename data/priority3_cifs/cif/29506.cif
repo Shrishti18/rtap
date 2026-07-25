@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 29506
+_audit_creation_date 1988-05-18
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Copper selenate(IV) - II'
+_chemical_formula_structural 'Cu (Se O3)'
+_chemical_formula_sum 'Cu1 O3 Se1'
+_chemical_name_structure_type CuSeO3
+_exptl_crystal_density_diffrn 4.95
+_publ_section_title
+'Die Kristallstrukturen von drei Modifikationen des Cu (Se O3)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1986 175 61 72 ZEKRDZ
+loop_
+_publ_author_name
+'Effenberger, H.'
+_cell_length_a 5.962(1)
+_cell_length_b 7.010(1)
+_cell_length_c 12.240(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 511.55
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P c a b'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 'x, y+1/2, -z+1/2'
+3 '-x+1/2, y, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x, -y+1/2, z+1/2'
+7 'x+1/2, -y, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Se4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 8 c 0.65003(6) -.07836(6) 0.40676(3) . 1. 0
+Se1 Se4+ 8 c 0.11183(4) 0.05125(4) 0.35443(2) . 1. 0
+O1 O2- 8 c 0.3550(3) 0.0421(3) 0.4307(2) . 1. 0
+O2 O2- 8 c 0.2044(4) -.0411(3) 0.2361(2) . 1. 0
+O3 O2- 8 c -.0255(3) -.1436(3) 0.4088(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0077(1) 0.0154(2) 0.0081(1) 0.0006(1) 0.0009(1) 0.0007(1)
+Se1 Se4+ 0.0076(1) 0.0105(1) 0.0078(1) 0.0003(1) -.0002(1) 0.0005(1)
+O1 O2- 0.0080(8) 0.0217(10) 0.0074(8) 0.0012(8) -.0003(7) -.0015(7)
+O2 O2- 0.0119(9) 0.0203(11) 0.0070(9) 0.0016(8) 0.0008(7) 0.0012(8)
+O3 O2- 0.0088(8) 0.0124(81) 0.0134(9) 0.0011(7) 0.0018(8) 0.0030(8)

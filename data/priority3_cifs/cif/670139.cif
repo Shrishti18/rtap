@@ -1,0 +1,78 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 670139
+_audit_creation_date 2017-02-01
+_chemical_name_systematic 'Molybdenum Copper Gallium (2/1/5)'
+_chemical_formula_structural 'Mo2 Cu Ga5'
+_chemical_formula_sum 'Cu1 Ga5 Mo2'
+_exptl_crystal_density_diffrn 8.43
+_publ_section_title
+;
+Defusing complexity in intermetallics: how covalently shared electron pairs
+stabilize the FCC variant Mo2 Cux Ga6-x (x ~ 0.9)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 8103 8110 INOCAJ
+loop_
+_publ_author_name
+'Kilduff, Brandon J.'
+'Yannello, Vincent J.'
+'Fredrickson, Daniel C.'
+_cell_length_a 8.4114
+_cell_length_b 5.3186
+_cell_length_c 5.3186
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 237.93
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C m m m'
+_symmetry_Int_Tables_number 65
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'x+1/2, -y+1/2, z'
+10 '-x+1/2, y+1/2, z'
+11 'x+1/2, y+1/2, -z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, y+1/2, -z'
+14 'x+1/2, -y+1/2, -z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo0+ 0
+Ga0+ 0
+Cu0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo0+ 2 d 0. 0. 0.5 1. 1. 0
+Mo2 Mo0+ 2 b 0. 0.5 0. 1. 1. 0
+Ga1 Ga0+ 8 m 0.75 0.25 0.7551 1. 1. 0
+Ga2 Ga0+ 2 c 0. 0.5 0.5 1. 1. 0
+Cu1 Cu0+ 2 a 0. 0. 0. 1. 1. 0

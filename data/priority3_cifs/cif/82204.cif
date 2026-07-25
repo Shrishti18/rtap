@@ -1,0 +1,88 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 82204
+_audit_creation_date 1999-11-30
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Lead diplatinum tetraoxide'
+_chemical_formula_structural 'Pb Pt2 O4'
+_chemical_formula_sum 'O4 Pb1 Pt2'
+_chemical_name_structure_type PbPt2O4
+_exptl_crystal_density_diffrn 11.94
+_publ_section_title
+;
+Synthesis and ab initio structure determination from powder X-ray diffraction
+data of a new metallic mixed-valence platinum-lead oxide Pb Pt2 O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1996 124 309 318 JSSCBI
+loop_
+_publ_author_name
+'Tancret, N.'
+'Obbade, S.'
+'Bettahar, N.'
+'Abraham, F.'
+_cell_length_a 6.1161(2)
+_cell_length_b 6.6504(2)
+_cell_length_c 5.5502(2)
+_cell_angle_alpha 97.178(2)
+_cell_angle_beta 108.803(2)
+_cell_angle_gamma 115.241(2)
+_cell_volume 184.
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Pt3+ 3
+Pt2+ 2
+Pt3+ 3
+Pt4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 2 i 0.7500(5) 0.8609(4) 0.1430(5) . 1. 0
+Pt1 Pt3+ 1 g 0 0.5 0.5 . 1. 0
+Pt2 Pt2+ 1 f 0.5 0 0.5 . 1. 0
+Pt3 Pt3+ 1 c 0 0.5 0 . 1. 0
+Pt4 Pt4+ 1 h 0.5 0.5 0.5 . 1. 0
+O1 O2- 2 i 0.598(6) 0.282(5) 0.350(5) 0.5(3) 1. 0
+O2 O2- 2 i 0.336(6) 0.500(5) 0.120(6) 0.5(3) 1. 0
+O3 O2- 2 i 0.163(6) 0.850(5) 0.176(6) 0.5(3) 1. 0
+O4 O2- 2 i 0.127(6) 0.274(5) 0.481(5) 0.5(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Pb1 Pb2+ 0.0116(13) 0.0050(9) 0.0078(7) 0.0037(9) 0.0059(11) 0.0037(9)
+Pt1 Pt3+ 0.0073(18) 0.0039(14) 0.0066(9) 0.0030(13) 0.0066(15) 0.0045(13)
+Pt2 Pt2+ 0.0044(17) 0.0010(11) 0.0060(9) -.0001(12) 0.0049(15) 0.0025(13)
+Pt3 Pt3+ 0.0028(19) 0.0034(13) 0.0053(10) -.0004(13) 0.0041(13) 0.0030(13)
+Pt4 Pt4+ 0.0022(17) 0.0028(15) 0.0029(9) -.0002(14) 0.0007(14) -.0009(13)

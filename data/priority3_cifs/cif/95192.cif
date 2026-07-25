@@ -1,0 +1,96 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 95192
+_audit_creation_date 2003-10-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Pentabarium tetraniobate'
+_chemical_formula_structural 'Ba5 (Nb4 O15)'
+_chemical_formula_sum 'Ba5 Nb4 O15'
+_chemical_name_structure_type Ba5Ta4O15
+_exptl_crystal_density_diffrn 6.29
+_cell_measurement_temperature 295.
+_publ_section_title
+;
+Phase equilibria and crystal chemistry in the (Ba O) - (Al2 O3) - (Nb2 O5) and
+(Ba O) - (Nb2 O5) systems
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2002 346 116 128 JALCEU
+loop_
+_publ_author_name
+'Vanderah, T.A.'
+'Collins, T.R.'
+'Wong-Ng, W.'
+'Roth, R.S.'
+'Farber, L.'
+_cell_length_a 5.7960(5)
+_cell_length_b 5.7960(5)
+_cell_length_c 11.7880(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 342.95
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0232
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 1 a 0 0 0 . 1. 0
+Ba2 Ba2+ 2 d 0.3333 0.6667 0.42828(3) . 1. 0
+Ba3 Ba2+ 2 d 0.6667 0.3333 0.20795(2) . 1. 0
+Nb1 Nb5+ 2 c 0 0 0.31709(4) . 1. 0
+Nb2 Nb5+ 2 d 0.3333 0.6667 0.10539(3) . 1. 0
+O1 O2- 6 i 0.3272(4) 0.1636(2) 0.3873(2) 0.0082(3) 1. 0
+O2 O2- 6 i 0.6610(4) 0.8305(2) 0.1918(2) 0.0068(3) 1. 0
+O3 O2- 3 e 0.5 0 0 0.0070(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0058(1) 0.0058(1) 0.0039(2) 0.00293(6) 0. 0.
+Ba2 Ba2+ 0.0082(1) 0.0082(1) 0.0066(1) 0.00411(6) 0. 0.
+Ba3 Ba2+ 0.0059(1) 0.0059(1) 0.0043(1) 0.00297(6) 0. 0.
+Nb1 Nb5+ 0.0050(1) 0.0050(1) 0.0024(2) 0.00248(7) 0. 0.
+Nb2 Nb5+ 0.0035(1) 0.0035(1) 0.0017(2) 0.00175(7) 0. 0.

@@ -1,0 +1,84 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 33732
+_audit_creation_date 1990-12-27
+_audit_update_record 1997-11-10
+_chemical_name_systematic 'Barium sulfate - beta'
+_chemical_formula_structural 'Ba S O4'
+_chemical_formula_sum 'Ba1 O4 S1'
+_chemical_name_structure_type Barite#-BaSO4
+_chemical_name_mineral Barite
+_exptl_crystal_density_diffrn 4.32
+_cell_measurement_temperature 943.
+_publ_section_title
+'The crystal structure of barite, beta-BaSO4, at high temperatures'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1990 191 161 171 ZEKRDZ
+loop_
+_publ_author_name
+'Sawada, H.'
+'Takeuchi, Y.'
+_cell_length_a 8.977(3)
+_cell_length_b 5.538(1)
+_cell_length_c 7.217(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 358.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0.18525(6) 0.25 0.16024(7) . 1. 0
+S1 S6+ 4 c 0.0602(2) 0.25 0.6918(3) . 1. 0
+O1 O2- 4 c -.090(1) 0.25 0.613(2) . 1. 0
+O2 O2- 4 c 0.1785(9) 0.25 0.552(1) . 1. 0
+O3 O2- 8 d 0.0812(6) 0.032(1) 0.810(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ba1 Ba2+ 0.00767(9) 0.0274(3) 0.0110(1) 0 -.00077(6) 0
+S1 S6+ 0.0072(2) 0.0173(7) 0.0090(3) 0 0.0005(2) 0
+O1 O2- 0.011(1) 0.043(4) 0.031(2) 0 -.006(1) 0
+O2 O2- 0.015(1) 0.049(5) 0.015(2) 0 0.003(1) 0
+O3 O2- 0.0117(8) 0.021(2) 0.0169(9) 0.0005(9) -.0006(6) 0.007(1)

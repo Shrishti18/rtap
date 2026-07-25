@@ -283,6 +283,19 @@ def main():
                     r["verification"] = "matched_by_icsd"
                     break
 
+        # Pass 3: rows left ambiguous in pass 1 (two rows sharing a composition
+        # and space group) are assigned greedily among the still-unclaimed
+        # candidates with the same key.
+        for r in trows:
+            if r["material_id"]:
+                continue
+            cands = [m for m in index.get(sig(r["formula"], r["space_group_number"]) or (), [])
+                     if m not in claimed]
+            if cands:
+                claimed.add(cands[0])
+                r["material_id"] = cands[0]
+                r["verification"] = "matched_ambiguous"
+
         for r in trows:
             mid = r["material_id"]
             if mid:

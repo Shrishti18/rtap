@@ -1,0 +1,80 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 66013
+_audit_creation_date 1990-12-27
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Bis(dichlorosulfane)platinum dichloride'
+_chemical_formula_structural '((S Cl2)2 Pt) Cl2'
+_chemical_formula_sum 'Cl6 Pt1 S2'
+_exptl_crystal_density_diffrn 3.4
+_publ_section_title
+;
+Schwefeldichloride als Ligand. Die Molekuel- und Kristallstrukturen von
+trans-bis(dichlorsulfan) platin(IV)-chloride Pt Cl4 (S Cl2)2 und
+trans-bis(dichlorsulfan) platin (II)-chloride Pt Cl2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1990
+588 69 76 ZAACAB
+loop_
+_publ_author_name
+'Paulus, M.'
+'Thiele, G.'
+_cell_length_a 4.3387(8)
+_cell_length_b 6.8213(14)
+_cell_length_c 8.1737(11)
+_cell_angle_alpha 104.16(3)
+_cell_angle_beta 98.15(3)
+_cell_angle_gamma 94.42(3)
+_cell_volume 230.61
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0402
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt2+ 2
+S2+ 2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt2+ 1 h 0.5 0.5 0.5 . 1. 0
+S1 S2+ 2 i 0.1853(8) 0.2605(4) 0.2818(3) . 1. 0
+Cl1 Cl1- 2 i 0.1953(8) 0.3581(4) 0.6589(3) . 1. 0
+Cl2 Cl1- 2 i 0.2453(9) 0.3060(5) 0.0546(3) . 1. 0
+Cl3 Cl1- 2 i 0.4047(9) 0.0107(5) 0.2812(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pt1 Pt2+ 0.0238(9) 0.0202(7) 0.0174(5) 0.0059(4) 0.0049(4) 0.0049(6)
+S1 S2+ 0.037(2) 0.033(2) 0.024(1) 0.004(1) 0.004(1) 0.002(2)
+Cl1 Cl1- 0.043(3) 0.037(2) 0.031(1) 0.016(1) 0.013(1) 0.004(2)
+Cl2 Cl1- 0.068(3) 0.054(2) 0.022(1) 0.008(1) 0.004(1) 0.002(2)
+Cl3 Cl1- 0.061(3) 0.026(2) 0.047(1) 0.004(1) 0.008(1) 0.004(2)

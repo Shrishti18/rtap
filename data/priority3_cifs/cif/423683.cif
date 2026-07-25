@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 423683
+_audit_creation_date 2014-08-01
+_chemical_name_systematic
+'Cesium dihydrogenhypodiphosphate tetrahydrogenhypodiphosphate(IV)'
+_chemical_formula_structural 'H6 Cs2 O12 P4'
+_chemical_formula_sum 'H6 Cs2 O12 P4'
+_exptl_crystal_density_diffrn 2.87
+_cell_measurement_temperature 223.
+_publ_section_title
+;
+New hypodiphosphates of the alkali metals: Synthesis, crystal structure and
+vibrational spectra of the hypodiphosphates(IV) M2 [(H2 P2 O6) (H4 P2) O6] (M
+= Rb and Cs)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2012 194 212 218 JSSCBI
+loop_
+_publ_author_name
+'Wu, Peng'
+'Wiegand, Thomas'
+'Eckert, Hellmut'
+'Gjikaj, Mimoza'
+_cell_length_a 7.4304(16)
+_cell_length_b 7.5850(16)
+_cell_length_c 7.7726(17)
+_cell_angle_alpha 88.536(17)
+_cell_angle_beta 64.879(16)
+_cell_angle_gamma 61.570(15)
+_cell_volume 340.1
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0412
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+P4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 i 0.53800(8) 0.79962(7) 0.76953(6) 0.0220(3) 1 0
+P1 P4+ 2 i 0.9538(3) 1.0749(3) 0.6425(3) 0.0150(4) 1 0
+P2 P4+ 2 i 0.8494(3) 0.5283(3) 1.1347(3) 0.0156(4) 1 0
+O1 O2- 2 i 1.1547(9) 1.0928(7) 0.6219(8) 0.0215(11) 1 0
+O2 O2- 2 i 0.8801(9) 0.9562(8) 0.7904(8) 0.0219(11) 1 0
+O3 O2- 2 i 0.7383(9) 1.2952(7) 0.6930(8) 0.0220(11) 1 0
+O4 O2- 2 i 0.6381(9) 0.7090(7) 1.1391(8) 0.0219(11) 1 0
+O5 O2- 2 i 0.8391(9) 0.3309(7) 1.1402(8) 0.0213(11) 1 0
+O6 O2- 2 i 0.9004(10) 0.5625(8) 1.3004(8) 0.0237(11) 1 0
+H1 H1+ 2 i 0.96(3) 0.87(2) 0.86(2) 0.07(4) 1 0
+H2 H1+ 2 i 0.62(2) 1.276(16) 0.738(17) 0.04(3) 1 0
+H3 H1+ 2 i 0.93(2) 0.692(17) 1.285(17) 0.04(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0236(4) 0.0259(4) 0.0216(4) -0.0162(2) -0.0109(3) 0.00884(19)
+P1 P4+ 0.0146(9) 0.0149(8) 0.0187(9) -0.0096(7) -0.0082(8) 0.0071(7)
+P2 P4+ 0.0132(9) 0.0158(8) 0.0191(9) -0.0081(7) -0.0080(8) 0.0064(7)
+O1 O2- 0.021(3) 0.025(2) 0.030(3) -0.017(2) -0.015(2) 0.006(2)
+O2 O2- 0.019(3) 0.024(2) 0.027(3) -0.013(2) -0.013(2) 0.017(2)
+O3 O2- 0.017(3) 0.015(2) 0.032(3) -0.009(2) -0.010(2) 0.008(2)
+O4 O2- 0.015(3) 0.018(2) 0.032(3) -0.009(2) -0.011(2) 0.013(2)
+O5 O2- 0.023(3) 0.023(2) 0.032(3) -0.018(2) -0.019(2) 0.016(2)
+O6 O2- 0.031(3) 0.026(3) 0.023(3) -0.019(2) -0.016(3) 0.009(2)

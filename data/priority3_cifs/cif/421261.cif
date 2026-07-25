@@ -1,0 +1,78 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 421261
+_audit_creation_date 2011-02-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Indium catena-tris(phosphate(V))'
+_chemical_formula_structural 'In (P O3)3'
+_chemical_formula_sum 'In1 O9 P3'
+_chemical_name_structure_type V(PO3)3
+_exptl_crystal_density_diffrn 3.42
+_cell_measurement_temperature 295.
+_publ_section_title
+;
+The restrained Rietveld refinement of modulated trivalent metal polyphosphates
+M (P O3)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2010 225 302
+308 ZKCMAJ
+loop_
+_publ_author_name
+'Ivashkevich, L.S.'
+'Lyakhov, A.S.'
+'Selevich, A.F.'
+_cell_length_a 13.55263(7)
+_cell_length_b 6.53995(3)
+_cell_length_c 9.66724(5)
+_cell_angle_alpha 90
+_cell_angle_beta 127.1969(3)
+_cell_angle_gamma 90
+_cell_volume 682.53
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 a 0.5529 0.7448(4) 0.253 0.006 1. 0
+P1 P5+ 4 a 0.6937(7) 0.9153(10) 0.0876(9) 0.006 1. 0
+P2 P5+ 4 a 0.8048(9) 0.5748(4) 0.0149(12) 0.006 1. 0
+P3 P5+ 4 a 0.9031(7) 0.9117(10) -0.0773(9) 0.006 1. 0
+O1 O2- 4 a 0.7638(11) 0.7291(15) 0.0994(15) 0.01 1. 0
+O2 O2- 4 a 0.8627(12) 0.7063(14) -0.0576(15) 0.01 1. 0
+O3 O2- 4 a 0.7860(9) 0.9846(17) -0.2429(12) 0.01 1. 0
+O4 O2- 4 a 0.5865(8) 0.8540(16) 0.0834(14) 0.01 1. 0
+O5 O2- 4 a 0.6769(12) 1.0406(17) -0.0452(13) 0.01 1. 0
+O6 O2- 4 a 0.9022(11) 0.4570(16) 0.1599(15) 0.01 1. 0
+O7 O2- 4 a 0.6954(10) 0.4814(16) -0.1365(15) 0.01 1. 0
+O8 O2- 4 a 0.9288(11) 1.0417(17) 0.0603(12) 0.01 1. 0
+O9 O2- 4 a 0.9988(9) 0.8808(16) -0.1018(14) 0.01 1. 0

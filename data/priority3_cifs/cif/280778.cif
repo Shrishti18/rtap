@@ -1,0 +1,88 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 280778
+_audit_creation_date 2002-10-01
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Dilead dioxomercury chromate(VI)'
+_chemical_formula_structural 'Pb2 (Hg O2) (Cr O4)'
+_chemical_formula_sum 'Cr1 Hg1 O6 Pb2'
+_exptl_crystal_density_diffrn 7.65
+_publ_section_title 'Dilead mercury chromate(VI), Pb2 Hg Cr O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2002 58 i23 i24 ACSCEE
+loop_
+_publ_author_name
+'Klein, W.'
+'Curda, J.'
+'Friese, K.'
+'Jansen, M.'
+_cell_length_a 6.505(2)
+_cell_length_b 7.201(3)
+_cell_length_c 7.605(3)
+_cell_angle_alpha 91.82(3)
+_cell_angle_beta 92.17(3)
+_cell_angle_gamma 111.33(3)
+_cell_volume 331.2
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Pb2+ 2
+Cr6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 2 i 0.68673(8) 0.70067(9) 0.63551(7) . 1. 0
+Pb1 Pb2+ 2 i -.21924(9) 0.25922(8) 0.13343(8) . 1. 0
+Pb2 Pb2+ 2 i 0.17992(9) 0.74491(8) 0.39612(7) . 1. 0
+Cr1 Cr6+ 2 i 0.7086(4) 0.7665(4) 0.1477(3) . 1. 0
+O1 O2- 2 i 0.463(2) 0.6478(18) 0.2086(19) . 1. 0
+O2 O2- 2 i 0.0538(16) 0.3898(15) 0.3672(14) . 1. 0
+O3 O2- 2 i 0.844(2) 0.9460(17) 0.2982(15) . 1. 0
+O4 O2- 2 i 0.4134(16) 0.7651(17) 0.6257(14) . 1. 0
+O5 O2- 2 i -.1528(19) 0.6160(18) 0.1271(16) . 1. 0
+O6 O2- 2 i 0.686(2) 0.8686(18) -.0350(15) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 Hg2+ 0.0240(3) 0.0354(3) 0.0366(3) 0.0149(2) 0.0000(2) 0.0017(2)
+Pb1 Pb2+ 0.0300(3) 0.0332(3) 0.0344(3) 0.0134(2) 0.0011(2) 0.0004(2)
+Pb2 Pb2+ 0.0265(3) 0.0341(3) 0.0364(3) 0.0136(2) -.0018(2) 0.0036(2)
+Cr1 Cr6+ 0.0287(11) 0.0302(10) 0.0339(12) 0.0138(8) -.0007(9) 0.0015(9)
+O1 O2- 0.037(6) 0.036(5) 0.068(8) 0.007(5) 0.009(6) 0.010(5)
+O2 O2- 0.021(4) 0.034(5) 0.043(5) 0.018(4) -.005(4) -.002(4)
+O3 O2- 0.044(6) 0.035(5) 0.043(6) 0.020(5) 0.000(5) 0.000(4)
+O4 O2- 0.021(5) 0.054(6) 0.040(5) 0.026(4) -.004(4) 0.002(5)
+O5 O2- 0.028(5) 0.043(6) 0.049(7) 0.008(4) -.009(5) -.007(5)
+O6 O2- 0.052(7) 0.043(6) 0.036(6) 0.024(5) 0.002(5) 0.007(5)

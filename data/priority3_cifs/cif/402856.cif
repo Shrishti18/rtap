@@ -1,0 +1,98 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 402856
+_audit_creation_date 2010-08-01
+_chemical_name_systematic Pentachloro(trichloroacetonitrile)niobium(V)
+_chemical_formula_structural '(Cl3 C C N) (Nb Cl5)'
+_chemical_formula_sum 'C2 Cl8 N1 Nb1'
+_exptl_crystal_density_diffrn 2.23
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+Crystal structure of pentachloro(trichloroacetonitrile)niobium(V), Nb Cl5 (Cl3
+C C N)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1998 213 151 151 ZEKRDZ
+loop_
+_publ_author_name
+'Stumpf, K.'
+'Blachnik, R.'
+'Roth, G.'
+_cell_length_a 8.023(2)
+_cell_length_b 9.225(2)
+_cell_length_c 16.649(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1232.23
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Cl1- -1
+C4+ 4
+Cl1- -1
+N3- -3
+C2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 4 a 0. 0.40538(7) 0.37341(4) 0.0283(2) 1 0
+Cl1 Cl1- 4 a 0. 0.5763(3) 0.4694(2) 0.0625(10) 1 0
+Cl2 Cl1- 8 b -0.2833(2) 0.3829(2) 0.36146(15) 0.0743(6) 1 0
+Cl3 Cl1- 4 a 0. 0.2064(4) 0.4567(2) 0.0703(11) 1 0
+Cl4 Cl1- 4 a 0. 0.5545(4) 0.2621(2) 0.0836(14) 1 0
+C1 C4+ 4 a 0. 0.0653(10) 0.1454(5) 0.042(2) 1 0
+Cl5 Cl1- 4 a 0. -0.1147(3) 0.1725(2) 0.110(2) 1 0
+Cl6 Cl1- 8 b 0.1770(3) 0.1105(3) 0.08934(11) 0.0900(8) 1 0
+N1 N3- 4 a 0. 0.2294(11) 0.2719(5) 0.043(2) 1 0
+C2 C2+ 4 a 0. 0.1546(10) 0.2180(5) 0.038(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.0306(3) 0.0284(4) 0.0258(3) 0. 0. -0.0048(7)
+Cl1 Cl1- 0.084(2) 0.048(2) 0.056(2) 0. 0. -0.024(2)
+Cl2 Cl1- 0.0351(8) 0.101(2) 0.086(2) 0.0000(9) -0.0089(11) -0.026(2)
+Cl3 Cl1- 0.114(3) 0.051(2) 0.046(2) 0. 0. 0.0155(15)
+Cl4 Cl1- 0.151(4) 0.047(2) 0.053(2) 0. 0. 0.0191(15)
+C1 C4+ 0.072(6) 0.030(5) 0.026(4) 0. 0. 0.003(4)
+Cl5 Cl1- 0.251(5) 0.033(2) 0.0454(15) 0. 0. -0.0012(14)
+Cl6 Cl1- 0.0764(14) 0.130(2) 0.0639(13) -0.0145(15) 0.0262(11) -0.0248(13)
+N1 N3- 0.066(6) 0.036(5) 0.028(4) 0. 0. -0.001(4)
+C2 C2+ 0.053(6) 0.033(5) 0.029(5) 0. 0. 0.000(4)

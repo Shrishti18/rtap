@@ -1,0 +1,86 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 410101
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Trichloroselenium tetrachlorooxomolybdate(V) - beta'
+_chemical_formula_structural '(Se Cl3) (Mo O Cl4)'
+_chemical_formula_sum 'Cl7 Mo1 O1 Se1'
+_exptl_crystal_density_diffrn 2.85
+_publ_section_title
+'Darstellung und Kristallstruktur von beta - (Se Cl3) (Mo O Cl4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1998
+624 1725 1726 ZAACAB
+loop_
+_publ_author_name
+'Baumann, A.'
+'Beck, J.'
+_cell_length_a 7.527(2)
+_cell_length_b 8.128(2)
+_cell_length_c 9.569(3)
+_cell_angle_alpha 92.55(3)
+_cell_angle_beta 111.63(2)
+_cell_angle_gamma 107.39(3)
+_cell_volume 511.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0351
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+Mo5+ 5
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 2 i 0.49805(5) 0.23851(4) 0.79048(4) . 1. 0
+Mo1 Mo5+ 2 i 0.17296(4) 0.34680(3) 0.38416(3) . 1. 0
+Cl1 Cl1- 2 i 0.39723(14) 0.52369(10) 0.63014(9) . 1. 0
+Cl2 Cl1- 2 i 0.11002(14) 0.22450(11) 0.1408(1) . 1. 0
+Cl3 Cl1- 2 i 0.28961(15) 0.11448(10) 0.47232(10) . 1. 0
+Cl4 Cl1- 2 i 0.16123(14) 0.61468(11) 0.29740(11) . 1. 0
+Cl5 Cl1- 2 i 0.6787(2) 0.38106(13) 1.01857(12) . 1. 0
+Cl6 Cl1- 2 i 0.5698(2) 0.00498(13) 0.81952(13) . 1. 0
+Cl7 Cl1- 2 i 0.2140(2) 0.15436(13) 0.81150(14) . 1. 0
+O1 O2- 2 i -.0467(5) 0.2794(4) 0.3959(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.0364(2) 0.0323(2) 0.0272(2) 0.01608(12) 0.01296(14) 0.00838(11)
+Mo1 Mo5+ 0.0341(2) 0.03342(15) 0.0259(2) 0.01376(11) 0.01054(12) 0.00469(10)
+Cl1 Cl1- 0.0461(5) 0.0356(4) 0.0293(4) 0.0187(3) 0.0115(4) 0.0026(3)
+Cl2 Cl1- 0.0467(5) 0.0480(4) 0.0270(4) 0.0183(4) 0.0113(4) 0.0022(3)
+Cl3 Cl1- 0.0556(6) 0.0336(4) 0.0318(4) 0.0191(3) 0.0140(4) 0.0062(3)
+Cl4 Cl1- 0.0428(5) 0.0429(4) 0.0455(5) 0.0246(3) 0.0178(4) 0.0142(3)
+Cl5 Cl1- 0.0557(6) 0.0576(5) 0.0331(5) 0.0250(4) 0.0048(4) -.0031(4)
+Cl6 Cl1- 0.0892(8) 0.0476(5) 0.0533(6) 0.0445(5) 0.0329(6) 0.0191(4)
+Cl7 Cl1- 0.0457(6) 0.0587(5) 0.0561(6) 0.0098(4) 0.0294(5) 0.0059(4)
+O1 O2- 0.042(2) 0.058(2) 0.056(2) 0.0165(12) 0.0262(14) 0.0086(13)

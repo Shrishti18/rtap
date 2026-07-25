@@ -1,0 +1,79 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 73928
+_audit_creation_date 1995-01-10
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Pentabarium tris(rhenate(VII)) chloride'
+_chemical_formula_structural 'Ba5 (Re O5)3 Cl'
+_chemical_formula_sum 'Ba5 Cl1 O15 Re3'
+_chemical_name_structure_type Ba5(ReO5)3Cl
+_exptl_crystal_density_diffrn 6.28
+_publ_section_title
+;
+Preparation and crystal structure of the isotypic orthorhombic strontium
+perrhenate halides Sr5 (Re O5)3 X (X= Cl, Br, I) and structure refinement of
+the related hexagonal apatite-like compound Ba5 (Re O5)3 Cl
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1993 107 1 11 JSSCBI
+loop_
+_publ_author_name
+'Schriewer, M.S.'
+'Jeitschko, W.'
+_cell_length_a 10.926(1)
+_cell_length_b 10.926(1)
+_cell_length_c 7.7816(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 804.49
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 c m'
+_symmetry_Int_Tables_number 185
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 '-x, -x+y, z'
+8 'x-y, -y, z'
+9 'y, x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Re7+ 7
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 b 0.6667 0.3333 0.4887(2) 0.647(8) 1. 0
+Ba2 Ba2+ 6 c 0.26164(7) 0 0.7279(1) 0.82(1) 1. 0
+Re1 Re7+ 6 c 0.39192(4) 0 0.287 0.538(6) 1. 0
+O1 O2- 6 c 0.295(1) 0 0.103(2) 1.6(2) 1. 0
+O2 O2- 12 d 0.5765(7) 0.1311(6) 0.242(1) 0.91(9) 1. 0
+O3 O2- 12 d 0.3885(7) 0.1302(7) 0.4162(8) 0.8(1) 1. 0
+Cl1 Cl1- 2 a 0 0 0.948(1) 1.8(1) 1. 0

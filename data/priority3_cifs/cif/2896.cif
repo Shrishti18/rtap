@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 2896
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-02-17
+_chemical_name_systematic 'Thallium bis(sulfato(IV))cuprate'
+_chemical_formula_structural 'Tl2 (Cu (S O3)2)'
+_chemical_formula_sum 'Cu1 O6 S2 Tl2'
+_exptl_crystal_density_diffrn 6.33
+_publ_section_title 'The crystal structure of Tl2 (Cu (S O3)2)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (1-27,1973-42,1988)' 1973 27 345 356 ACSAA4
+loop_
+_publ_author_name
+'Hjerten, I.'
+'Nyberg, B.'
+_cell_length_a 5.4738(3)
+_cell_length_b 7.3290(4)
+_cell_length_c 5.4717(5)
+_cell_angle_alpha 111.638(7)
+_cell_angle_beta 123.570(4)
+_cell_angle_gamma 88.019(7)
+_cell_volume 165.9
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0312
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Cu2+ 2
+S4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 i 0.70128(7) 0.12150(4) 0.92013(8) . 1. 0
+Cu1 Cu2+ 1 h 0.5 0.5 0.5 . 1. 0
+S1 S4+ 2 i 0.87579(34) 0.60292(20) 0.22741(38) . 1. 0
+O1 O2- 2 i 0.7750(13) 0.7152(8) 0.4390(14) . 1. 0
+O2 O2- 2 i 0.2191(11) 0.6866(7) 0.4368(13) . 1. 0
+O3 O2- 2 i 0.2506(11) 0.3124(7) 0.0316(13) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Tl1 Tl1+ 0.0217(2) 0.0079(1) 0.0227(2) 0.0060(1) 0.0206(3) 0.0097(1)
+Cu1 Cu2+ 0.0095(4) 0.0059(2) 0.0082(5) 0.0055(4) 0.0070(8) 0.0059(5)
+S1 S4+ 0.0096(6) 0.0047(2) 0.0092(7) 0.0020(5) 0.0073(11) 0.0059(6)
+O1 O2- 0.018(2) 0.011(1) 0.016(3) 0.012(2) 0.025(4) 0.013(2)
+O2 O2- 0.007(2) 0.007(1) 0.016(3) 0.006(2) 0.009(4) 0.008(2)
+O3 O2- 0.012(2) 0.007(1) 0.012(2) 0.005(2) 0.007(4) 0.009(2)

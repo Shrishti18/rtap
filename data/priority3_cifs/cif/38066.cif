@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 38066
+_audit_creation_date 1984-09-06
+_audit_update_record 1985-06-12
+_chemical_name_systematic 'trans-Tetraamminedichloroplatinum(IV) nitrate'
+_chemical_formula_structural '(Pt Cl2 (N H3)4) (N O3)2'
+_chemical_formula_sum 'H12 Cl2 N6 O6 Pt1'
+_exptl_crystal_density_diffrn 2.8
+_publ_section_title
+'Trans-Tetraamminedichloroplatinum(IV)Dinitrate, (Pt Cl2 (N H3)4) (N O3)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1983 39 1589 1591 ACSCEE
+loop_
+_publ_author_name
+'Britten, J.F.'
+'Lock, C.J.L.'
+_cell_length_a 6.635(1)
+_cell_length_b 7.114(2)
+_cell_length_c 6.548(1)
+_cell_angle_alpha 114.41(2)
+_cell_angle_beta 95.52(2)
+_cell_angle_gamma 100.33(2)
+_cell_volume 271.84
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0216
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt4+ 4
+Cl1- -1
+N3- -3
+N5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt4+ 1 a 0 0 0 . 1. 0
+Cl1 Cl1- 2 i 0.2551(1) -.0604(1) 0.2152(2) . 1. 0
+N1 N3- 2 i 0.1701(4) -.0612(4) -.2583(5) . 1. 0
+N2 N3- 2 i -.1465(4) -.3174(4) -.1374(5) . 1. 0
+N3 N5+ 2 i 0.6805(5) 0.5525(4) 0.2844(5) . 1. 0
+O1 O2- 2 i 0.59982(6) 0.3880(5) 0.3007(8) . 1. 0
+O2 O2- 2 i 0.5702(5) 0.6592(5) 0.2392(6) . 1. 0
+O3 O2- 2 i 0.8768(5) 0.6114(6) 0.3097(7) . 1. 0
+H1 H1+ 2 i 0.088(10) -.105(10) -.373(11) 0.037 1. 0
+H2 H1+ 2 i 0.243(10) -.149(10) -.253(10) 0.037 1. 0
+H3 H1+ 2 i 0.223(10) 0.055(10) -.279(11) 0.037 1. 0
+H4 H1+ 2 i -.156(10) -.351(10) -.017(11) 0.038 1. 0
+H5 H1+ 2 i -.09(1) -.417(10) -.275(11) 0.038 1. 0
+H6 H1+ 2 i -.309(10) -.371(10) -.262(11) 0.038 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pt1 Pt4+ 0.01926(6) 0.02180(7) 0.02322(7) 0.00630(4) 0.00376(4) 0.00956(4)
+Cl1 Cl1- 0.0275(3) 0.0439(4) 0.0381(3) 0.0116(3) 0.0024(2) 0.0229(3)
+N1 N3- 0.031(1) 0.031(1) 0.030(1) 0.0116(8) 0.0114(8) 0.0142(8)
+N2 N3- 0.028(1) 0.0243(9) 0.035(1) 0.0037(7) 0.0052(8) 0.0106(8)
+N3 N5+ 0.032(1) 0.028(1) 0.031(1) 0.0052(8) 0.0073(8) 0.0105(8)
+O1 O2- 0.044(1) 0.042(1) 0.079(2) 0.016(1) 0.024(2) 0.038(2)
+O2 O2- 0.042(1) 0.037(1) 0.057(2) 0.009(1) 0.000(1) 0.024(1)
+O3 O2- 0.028(1) 0.045(1) 0.064(2) 0.007(1) 0.010(1) 0.009(1)

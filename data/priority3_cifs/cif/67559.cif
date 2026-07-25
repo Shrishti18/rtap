@@ -1,0 +1,61 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 67559
+_audit_creation_date 1993-08-22
+_chemical_name_systematic 'Scandium tetrathiophosphate'
+_chemical_formula_structural 'Sc (P S4)'
+_chemical_formula_sum 'P1 S4 Sc1'
+_chemical_name_structure_type NaGdCl4
+_exptl_crystal_density_diffrn 2.58
+_publ_section_title 'Synthesis and structure of a new layer compound: ScPS4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1992 189 269 271 JALCEU
+loop_
+_publ_author_name
+'Lee, S.'
+'Hilt, R.J.'
+_cell_length_a 6.445
+_cell_length_b 6.659
+_cell_length_c 6.211
+_cell_angle_alpha 91.36(5)
+_cell_angle_beta 98.76(5)
+_cell_angle_gamma 86.22(5)
+_cell_volume 262.85
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc3+ 3
+P5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc3+ 2 i 0.3038(2) 0.9345(2) 0.2062(2) 0.010(5) 1. 0
+P2 P5+ 2 i 0.2640(3) 0.8081(2) 0.6896(3) 0.009(5) 1. 0
+S1 S2- 2 i 0.0364(3) 0.7838(3) 0.8831(3) 0.013(5) 1. 0
+S2 S2- 2 i 0.2825(3) 0.0995(2) 0.5967(3) 0.011(5) 1. 0
+S3 S2- 2 i 0.5274(3) 0.7453(2) 0.9150(3) 0.010(5) 1. 0
+S4 S2- 2 i 0.2361(3) 0.6320(2) 0.4218(3) 0.014(5) 1. 0

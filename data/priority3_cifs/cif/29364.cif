@@ -1,0 +1,90 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 29364
+_audit_creation_date 1984-10-31
+_audit_update_record 2007-08-01
+_chemical_name_systematic Urea
+_chemical_formula_structural 'C O (N H2)2'
+_chemical_formula_sum 'C1 H4 N2 O1'
+_chemical_name_structure_type Urea
+_chemical_name_mineral Urea
+_exptl_crystal_density_diffrn 1.36
+_cell_measurement_temperature 123.
+_publ_section_title
+;
+The crystal structure and molecular thermal motion of urea at 12, 60 and 123 K
+from neutron diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1984 40 300 306
+ASBSDK
+loop_
+_publ_author_name
+'Swaminathan, S.'
+'Craven, B.M.'
+'McMullan, R.K.'
+_cell_length_a 5.584(1)
+_cell_length_b 5.584(1)
+_cell_length_c 4.689(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 146.21
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 21 m'
+_symmetry_Int_Tables_number 113
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y, -x, -z'
+3 'y+1/2, x+1/2, z'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C4+ 4
+O2- -2
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C4+ 2 c 0 0.5 0.3280(2) . 1. 0
+O1 O2- 2 c 0 0.5 0.5962(2) . 1. 0
+N1 N3- 4 e 0.1447(1) 0.6447(1) 0.1785(1) . 1. 0
+H1 H1+ 4 e 0.2557(4) 0.7557(4) 0.2841(4) . 1. 0
+H2 H1+ 4 e 0.1431(4) 0.6431(4) -.0348(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 C4+ 0.0147(5) 0.0147(5) 0.0065(3) 0.0001(4) 0 0
+O1 O2- 0.0197(6) 0.0197(6) 0.0063(4) 0.0017(5) 0 0
+N1 N3- 0.0286(4) 0.0286(4) 0.0095(2) -.0147(2) 0.0002(3) 0.0002(3)
+H1 H1+ 0.0440(11) 0.0440(11) 0.0216(7) -.0222(8) -.0031(9) -.0031(9)
+H2 H1+ 0.043(1) 0.043(1) 0.0140(6) -.0158(8) 0.0019(8) 0.0019(8)

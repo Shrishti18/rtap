@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 96612
+_audit_creation_date 2004-04-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Zinc diantimonate'
+_chemical_formula_structural 'Zn (Sb2 O6)'
+_chemical_formula_sum 'O6 Sb2 Zn1'
+_chemical_name_structure_type ZnSb2O6
+_chemical_name_mineral Ordonezite
+_exptl_crystal_density_diffrn 6.67
+_publ_section_title
+;
+Ordonezite from the Theodoso Soto mine, Sapioris, Durango, Mexico: new data
+and structure refinement
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2002 40 1207 1210 CAMIA6
+loop_
+_publ_author_name
+'Ercit, T.S.'
+'Foord, E.E.'
+'Fitzpatrick, J.J.'
+_cell_length_a 4.6638(4)
+_cell_length_b 4.6638(4)
+_cell_length_c 9.263(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 201.48
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Sb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 2 a 0 0 0 0.59(6) 1. 0
+Sb1 Sb5+ 4 e 0 0 0.3322(1) 0.30(5) 1. 0
+O1 O2- 4 f 0.315(3) 0.315(3) 0 0.4(2) 1. 0
+O2 O2- 8 j 0.304(2) 0.304(2) 0.325(1) 0.5(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Zn1 Zn2+ 0.0059(11) 0.0059(11) 0.0020(3) -.0002(2) 0. 0.
+Sb1 Sb5+ 0.0029(6) 0.0029(6) 0.0011(2) -.0001(6) 0. 0.

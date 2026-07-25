@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 428724
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Cesium hydrogendisulfate'
+_chemical_formula_structural 'Cs (H S2 O7)'
+_chemical_formula_sum 'H1 Cs1 O7 S2'
+_exptl_crystal_density_diffrn 3.03
+_cell_measurement_temperature 100.
+_publ_section_title
+;
+Dimers and chains of hydrogen bonded (H S2 O7)(-) anions in the crystal
+structures of M (H S2 O7) (M = K, (NH4), (NO), Rb, Cs)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2015
+641 2604 2609 ZAACAB
+loop_
+_publ_author_name
+'Schindler, Lisa Verena'
+'Daub, Michael'
+'Struckmann, Mona'
+'Weiz, Alexander'
+'Hillebrecht, Harald'
+'Wickleder, Mathias S.'
+_cell_length_a 5.3761(3)
+_cell_length_b 7.8471(4)
+_cell_length_c 8.6793(4)
+_cell_angle_alpha 94.2135(19)
+_cell_angle_beta 103.1376(19)
+_cell_angle_gamma 105.8141(18)
+_cell_volume 339.47
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0113
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 i 0.19932(2) 0.81259(2) 1.13451(2) 0.01016(2) 1 0
+S1 S6+ 2 i 0.47767(4) 0.63460(2) 0.81468(2) 0.00900(3) 1 0
+S2 S6+ 2 i 0.15271(4) 0.81003(3) 0.61465(2) 0.00946(3) 1 0
+O1 O2- 2 i 0.38887(12) 0.71955(9) 0.64750(7) 0.01117(9) 1 0
+O2 O2- 2 i 0.15866(14) 0.90799(9) 0.76142(8) 0.01319(10) 1 0
+O3 O2- 2 i 0.19298(15) 0.89895(10) 0.48207(8) 0.01708(12) 1 0
+O4 O2- 2 i -0.10003(13) 0.65147(10) 0.55841(8) 0.01432(10) 1 0
+O5 O2- 2 i 0.64103(13) 0.53356(9) 0.76269(9) 0.01438(10) 1 0
+O6 O2- 2 i 0.23371(13) 0.52882(9) 0.84314(8) 0.01340(10) 1 0
+O7 O2- 2 i 0.62608(13) 0.78839(9) 0.93320(8) 0.01349(10) 1 0
+H1 H1+ 2 i -0.170(4) 0.621(3) 0.631(3) 0.050(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.01017(2) 0.00891(2) 0.01127(2) 0.00199(1) 0.00330(1) 0.00216(1)
+S1 S6+ 0.00714(6) 0.00851(6) 0.01187(7) 0.00244(5) 0.00282(5) 0.00304(5)
+S2 S6+ 0.01020(7) 0.01162(7) 0.00826(6) 0.00541(6) 0.00290(5) 0.00213(5)
+O1 O2- 0.0102(2) 0.0148(2) 0.0117(2) 0.00679(19) 0.00458(18) 0.00470(18)
+O2 O2- 0.0162(3) 0.0135(2) 0.0109(2) 0.0070(2) 0.0031(2) -0.00063(18)
+O3 O2- 0.0217(3) 0.0224(3) 0.0141(3) 0.0127(3) 0.0087(2) 0.0100(2)
+O4 O2- 0.0100(2) 0.0184(3) 0.0126(2) 0.0029(2) 0.00199(19) -0.0024(2)
+O5 O2- 0.0126(2) 0.0136(2) 0.0214(3) 0.0081(2) 0.0070(2) 0.0057(2)
+O6 O2- 0.0100(2) 0.0129(2) 0.0172(3) 0.00063(18) 0.0059(2) 0.0046(2)
+O7 O2- 0.0117(2) 0.0119(2) 0.0137(2) 0.00158(19) -0.00016(19) 0.00072(19)

@@ -1,0 +1,71 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 89417
+_audit_creation_date 2001-07-16
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Yttrium niccolate(III)'
+_chemical_formula_structural 'Y (Ni O3)'
+_chemical_formula_sum 'Ni1 O3 Y1'
+_chemical_name_structure_type Perovskite-Ba2LaRuO6
+_exptl_crystal_density_diffrn 6.13
+_publ_section_title
+;
+Charge disproportionation in R Ni O3 perovskites: simultaneous metal-insulator
+and structural transition in Y Ni O3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review Letters' 1999 82 3871 3874 PRLTAO
+loop_
+_publ_author_name
+'Alonso, J.A.'
+'Garcia Munoz, J.L.'
+'Fernandez Diaz, M.T.'
+'Aranda, M.A.G.'
+'Martinez Lopez, M.J.'
+'Casais, M.T.'
+_cell_length_a 5.17932(5)
+_cell_length_b 5.51529(5)
+_cell_length_c 7.41656(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.081(1)
+_cell_angle_gamma 90.
+_cell_volume 211.86
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Ni3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 e 0.9816(2) 0.0729(1) 0.2502(4) 0.52(2) 1. 0
+Ni1 Ni3+ 2 d 0.5 0 0 0.55(5) 1. 0
+Ni2 Ni3+ 2 c 0.5 0 0.5 0.28(5) 1. 0
+O1 O2- 4 e 0.0998(3) 0.4705(3) 0.2457(5) 0.54(4) 1. 0
+O2 O2- 4 e 0.6973(7) 0.3080(7) 0.0467(5) 0.55(6) 1. 0
+O3 O2- 4 e 0.1882(6) 0.2038(7) 0.9465(5) 0.57(7) 1. 0

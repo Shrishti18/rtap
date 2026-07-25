@@ -1,0 +1,99 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 68710
+_audit_creation_date 1992-01-20
+_chemical_name_systematic 'Potassium nickel hydrogenbis(carbonate) tetrahydrate'
+_chemical_formula_structural 'K Ni (H (C O3)2) (H2 O)4'
+_chemical_formula_sum 'C2 H9 K1 Ni1 O10'
+_chemical_name_structure_type KMgH(CO3)2(H2O)4
+_exptl_crystal_density_diffrn 2.3
+_publ_section_title
+;
+Structure and electron density of nickel potassium hydrogenbiscarbonate
+tetrahydrate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1990 46 458 466
+ASBSDK
+loop_
+_publ_author_name
+'Fernandes, N.G.'
+'Tellgren, R.'
+'Olovsson, I.'
+_cell_length_a 5.3824(2)
+_cell_length_b 6.6737(2)
+_cell_length_c 6.9480(2)
+_cell_angle_alpha 115.881(2)
+_cell_angle_beta 90.678(2)
+_cell_angle_gamma 108.017(2)
+_cell_volume 210.36
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+K1+ 1
+O2- -2
+C4+ 4
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 1 h 0.5 0.5 0.5 . 1. 0
+K1 K1+ 1 a 0 0 0 . 1. 0
+O1 O2- 2 i 0.53498(11) 0.21697(8) 0.23439(7) . 1. 0
+O2 O2- 2 i 0.86257(8) 0.73080(6) 0.49659(11) . 1. 0
+O3 O2- 2 i 0.28775(8) 0.55872(9) 0.29576(7) . 1. 0
+O4 O2- 2 i 0.60638(14) 0.8392(1) 0.25084(7) . 1. 0
+O5 O2- 2 i 0.20226(26) 0.67491(20) 0.05540(16) . 1. 0
+C1 C4+ 2 i 0.37233(15) 0.69139(7) 0.20511(13) . 1. 0
+H1 H1+ 2 i 0.658(4) 0.259(2) 0.114(4) . 1. 0
+H2 H1+ 2 i 0.588(2) 0.073(4) 0.253(2) . 1. 0
+H3 H1+ 2 i 1.011(5) 0.651(3) 0.411(3) . 1. 0
+H4 H1+ 2 i 0.801(3) 0.804(3) 0.393(3) . 1. 0
+H5 H1+ 1 c 0 0.5 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ni1 Ni2+ 0.008117(82) 0.007022(77) 0.005836(52) 0.001939(40) 0.000681(29)
+0.003710(41)
+K1 K1+ 0.016480(71) 0.020840(68) 0.009375(46) 0.009375(46) 0.003316(38)
+0.011380(46)
+O1 O2- 0.02193(14) 0.010490(94) 0.009227(79) 0.007049(97) 0.005197(92)
+0.005322(78)
+O2 O2- 0.01093(11) 0.01412(11) 0.012360(92) 0.002072(98) 0.001445(77)
+0.008798(81)
+O3 O2- 0.01134(14) 0.01462(12) 0.011480(98) 0.002391(87) 0.000096(83)
+0.00998(10)
+O4 O2- 0.01130(14) 0.01442(12) 0.01621(12) 0.00014(11) -.00192(8) 0.01116(10)
+O5 O2- 0.01218(19) 0.01366(18) 0.01174(14) 0.00016(15) -.00216(13) 0.00952(12)
+C1 C4+ 0.01000(15) 0.00958(12) 0.008558(98) 0.00217(11) 0.000385(96)
+0.006109(88)

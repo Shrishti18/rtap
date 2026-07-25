@@ -1,0 +1,85 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 59142
+_audit_creation_date 1987-03-16
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Calcium chloride hexahydrate'
+_chemical_formula_structural 'Ca Cl2 (H2 O)6'
+_chemical_formula_sum 'H12 Ca1 Cl2 O6'
+_chemical_name_structure_type CaCl2(H2O)6
+_chemical_name_mineral Antarcticite
+_exptl_crystal_density_diffrn 1.71
+_publ_section_title
+'Calcium and strontium dichloride hexahydrates by neutron diffraction'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1986 42 141 143 ACSCEE
+loop_
+_publ_author_name
+'Agron, P.A.'
+'Busing, W.R.'
+_cell_length_a 7.8759(2)
+_cell_length_b 7.8759(2)
+_cell_length_c 3.9545(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 212.43
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 3 2 1'
+_symmetry_Int_Tables_number 150
+_refine_ls_R_factor_all 0.0287
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 1 a 0 0 0 . 1. 0
+Cl1 Cl1- 2 d 0.3333 0.6667 0.4249(2) . 1. 0
+O1 O2- 3 e 0.3114(2) 0 0 . 1. 0
+O2 O2- 3 f -.2132(1) 0 0.5 . 1. 0
+H1 H1+ 6 g 0.4326(2) 0.0988(3) -.0926(6) . 1. 0
+H2 H1+ 6 g -.2330(3) 0.1113(3) 0.4835(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0190(5) 0.019 0.0156(7) 0.0095 0 0
+Cl1 Cl1- 0.0253(3) 0.0253 0.0316(4) 0.0126 0 0
+O1 O2- 0.0237(4) 0.0336(6) 0.0317(5) 0.0168 0.0034(2) 0.0068
+O2 O2- 0.0210(4) 0.0211(5) 0.0317(5) 0.0106 -.0011(2) -.0022
+H1 H1+ 0.0367(9) 0.0515(12) 0.0673(13) 0.0212(10) 0.0132(9) 0.0172(10)
+H2 H1+ 0.0548(11) 0.0370(9) 0.0539(9) 0.0303(8) -.0072(8) -.0044(7)

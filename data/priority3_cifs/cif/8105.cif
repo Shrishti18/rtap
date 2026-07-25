@@ -1,0 +1,82 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 8105
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Cesium chromium(II) iodide'
+_chemical_formula_structural 'Cs Cr I3'
+_chemical_formula_sum 'Cr1 Cs1 I3'
+_chemical_name_structure_type CsCrBr3
+_exptl_crystal_density_diffrn 4.72
+_publ_section_title 'Structure cristalline de Cs Cr I3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1979 35 1554 1557 ACBCAR
+loop_
+_publ_author_name
+'Guen, L.'
+'Marchand, R.'
+'Jouini, N.'
+'Verbaere, A.'
+_cell_length_a 8.132(5)
+_cell_length_b 8.132(5)
+_cell_length_c 6.946(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 397.8
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Cr2+ 2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 b 0.6666 0.3333 0.25 . 1. 0
+Cr1 Cr2+ 2 a 0 0 -.009(3) . 1. 0
+I1 I1- 6 c 0.1634(1) -.1634(1) 0.253(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cs1 Cs1+ 0.0182(4) 0.0182(4) 0.0283(12) 0.0091(4) 0 0
+Cr1 Cr2+ 0.0146(6) 0.0146(6) 0.0124(10) 0.0073(6) 0 0
+I1 I1- 0.0160(3) 0.0160(3) 0.0334(7) 0.0091(3) 0.0031(3) 0

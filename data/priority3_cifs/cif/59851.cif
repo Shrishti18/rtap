@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 59851
+_audit_creation_date 2005-10-01
+_chemical_name_systematic
+'Tetrapotassium dodeca-mue-chloro-hexachloro-octahedro-hexatantalate'
+_chemical_formula_structural 'K4 (Ta6 Cl12) Cl6'
+_chemical_formula_sum 'Cl18 K4 Ta6'
+_chemical_name_structure_type K4Nb6Cl18
+_exptl_crystal_density_diffrn 4.41
+_publ_section_title
+;
+Tetrapotassium dodeca-mue-chloro-hexachloro-octahedro-hexatantalate, K4 [Ta6
+Cl12] Cl6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2004 60
+i100 i101 ACSEBH
+loop_
+_publ_author_name
+'Jongen, L.'
+'Meyer, G.'
+_cell_length_a 9.9900(12)
+_cell_length_b 16.5228(18)
+_cell_length_c 9.4745(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.005(8)
+_cell_angle_gamma 90.
+_cell_volume 1417.31
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0355
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta0+ 0
+Cl0+ 0
+K0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta0+ 8 j 0.13562(3) 0.087457(18) 0.64130(3) 0.02921(12) 1 0
+Ta2 Ta0+ 4 i 0.11908(4) 0. 0.36889(5) 0.02920(13) 1 0
+Cl1 Cl0+ 8 j 0.3027(2) 0.10501(14) 0.5121(2) 0.0408(4) 1 0
+Cl2 Cl0+ 8 j -0.0201(2) -0.10454(13) 0.1776(2) 0.0384(4) 1 0
+Cl3 Cl0+ 4 h 0. 0.20882(17) 0.5 0.0402(6) 1 0
+Cl4 Cl0+ 4 i 0.3258(3) 0. 0.8353(3) 0.0371(6) 1 0
+Cl5 Cl0+ 8 j 0.3076(2) 0.19833(14) 0.8224(2) 0.0446(5) 1 0
+Cl6 Cl0+ 4 i 0.2689(3) 0. 0.2073(4) 0.0469(7) 1 0
+K1 K0+ 8 j 0.3909(2) 0.16121(16) 0.1773(3) 0.0593(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta0+ 0.02324(17) 0.03582(19) 0.02503(17) -0.00184(10) 0.00676(11)
+-0.00148(10)
+Ta2 Ta0+ 0.0226(2) 0.0385(2) 0.0252(2) 0. 0.00883(15) 0.
+Cl1 Cl0+ 0.0320(9) 0.0549(12) 0.0360(9) -0.0125(8) 0.0149(8) -0.0055(8)
+Cl2 Cl0+ 0.0349(9) 0.0496(11) 0.0307(8) -0.0027(8) 0.0140(7) -0.0067(8)
+Cl3 Cl0+ 0.0404(14) 0.0366(13) 0.0346(13) 0. 0.0072(11) 0.
+Cl4 Cl0+ 0.0267(11) 0.0460(15) 0.0292(12) 0. 0.0027(9) 0.
+Cl5 Cl0+ 0.0361(10) 0.0494(12) 0.0412(11) -0.0067(8) 0.0093(8) -0.0092(8)
+Cl6 Cl0+ 0.0422(14) 0.0603(19) 0.0459(16) 0. 0.0261(13) 0.
+K1 K0+ 0.0507(11) 0.0672(14) 0.0605(13) 0.0080(10) 0.0239(10) 0.0133(11)

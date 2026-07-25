@@ -1,0 +1,72 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 29359
+_audit_creation_date 1984-10-31
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Trilead bis(vanadate) - alpha'
+_chemical_formula_structural 'Pb3 (V O4)2'
+_chemical_formula_sum 'O8 Pb3 V2'
+_chemical_name_structure_type Pb3(VO4)2
+_exptl_crystal_density_diffrn 7.33
+_cell_measurement_temperature 77.
+_publ_section_title
+;
+Etude des phases ferroelastiques de Pb3 V2 O8: Determination de la maille
+cristalline de la phase alpha ferroelectrique basse temperature
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1984 19 407 414 MRBUAC
+loop_
+_publ_author_name
+'Garnier, P.'
+'Calvarin, G.'
+'Berar, J.F.'
+'Weigel, D.'
+_cell_length_a 7.460(1)
+_cell_length_b 6.191(1)
+_cell_length_c 9.348(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.63(1)
+_cell_angle_gamma 90.
+_cell_volume 385.94
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'A 1 2 1'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 2 a 0 0 0 0.4 1. 0
+Pb2 Pb2+ 4 c 0.387(1) 0.551(2) 0.281(2) 0.4 1. 0
+V1 V5+ 4 c 0.210(5) 0.024(10) 0.409(5) 0.6 1. 0
+O1 O2- 4 c 0.252(15) 0.309(14) 0.057(11) 0.8 1. 0
+O2 O2- 4 c 0.270(13) 0.703(14) 0.018(9) 0.8 1. 0
+O3 O2- 4 c 0.307(11) 0.951(10) 0.291(9) 0.8 1. 0
+O4 O2- 4 c 0.041(8) 0.484(12) 0.237(7) 0.8 1. 0

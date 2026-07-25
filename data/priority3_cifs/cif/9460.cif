@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 9460
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Thiotrithiazyl tetrachlorobismuthate(III)'
+_chemical_formula_structural '(S4 N3) Bi Cl4'
+_chemical_formula_sum 'Bi1 Cl4 N3 S4'
+_exptl_crystal_density_diffrn 2.97
+_publ_section_title 'Die Kristall- und Molekuelstruktur von (S4 N3) Bi Cl4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (2,1947-32,1977)
+; 1972 27 1282 1283 ZENBAX
+loop_
+_publ_author_name
+'Kruss, B.'
+'Ziegler, M.L.'
+_cell_length_a 9.318
+_cell_length_b 7.461
+_cell_length_c 9.318
+_cell_angle_alpha 87.008
+_cell_angle_beta 112.343
+_cell_angle_gamma 103.313
+_cell_volume 582.62
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.099
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S1+ 1
+N1- -1
+Bi3+ 3
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S1+ 2 i 0.2916(28) 0.8011(18) 0.4646(16) . 1. 0
+S2 S1+ 2 i 0.6490(31) 0.5275(18) 0.3435(17) . 1. 0
+S3 S1+ 2 i 0.5336(32) 0.2555(22) 0.0884(16) . 1. 0
+S4 S1+ 2 i 0.6296(31) 0.0038(18) 0.3506(18) . 1. 0
+N1 N1- 2 i 0.6947(72) 0.3932(56) 0.4707(48) . 1. 0
+N2 N1- 2 i 0.5809(87) 0.4430(58) 0.168(4) . 1. 0
+N3 N1- 2 i 0.5491(82) 0.0856(69) 0.1848(57) . 1. 0
+Bi1 Bi3+ 2 i 0.0406(5) 0.2564(3) 0.1197(3) . 1. 0
+Cl1 Cl1- 2 i 0.214(3) 0.6226(23) 0.1171(18) . 1. 0
+Cl2 Cl1- 2 i 0.8821(34) 0.9162(23) 0.1229(20) . 1. 0
+Cl3 Cl1- 2 i 0.9495(29) 0.3547(26) 0.3169(19) . 1. 0
+Cl4 Cl1- 2 i 0.2976(30) 0.1950(21) 0.3371(19) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+S1 S1+ 2.53 2. 1.2 0.74 -.22 0.16
+S2 S1+ 6.37 1.38 2.28 0.15 1.47 0.05
+S3 S1+ 2.73 3.38 1.26 0.49 0.51 0.18
+S4 S1+ 6.14 1.52 2.27 0.2 0.99 0.05
+N1 N1- 1.18 3.14 2.02 0.06 1.48 0.38
+N2 N1- 7.79 4.6 1.98 1.27 2.9 1.5
+N3 N1- 1.13 3.58 2.12 0.13 -.88 -.15
+Bi1 Bi3+ 1.39 1.86 1.73 0.29 0.15 0.05
+Cl1 Cl1- 2.59 4.01 2.27 -.08 0.83 0.42
+Cl2 Cl1- 7.23 3.61 3.84 -.59 2.42 -.43
+Cl3 Cl1- 1.92 5.09 2.76 -.09 1.29 -.78
+Cl4 Cl1- 3.41 2.84 2.73 0.22 0.75 0.28

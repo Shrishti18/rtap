@@ -1,0 +1,98 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 422058
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Trirubidium indium hexaiodate(V)'
+_chemical_formula_structural 'Rb3 In (I O3)6'
+_chemical_formula_sum 'I6 In1 O18 Rb3'
+_exptl_crystal_density_diffrn 4.85
+_cell_measurement_temperature 293.
+_publ_section_title
+'A series of new alkali metal indium iodates with isolated or extended anions'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2011 40 1055 1060 DTARAF
+loop_
+_publ_author_name
+'Yang, Bing Ping'
+'Sun, Chuan Fu'
+'Hu, Chun Li'
+'Mao, Jiang Gao'
+_cell_length_a 7.076(3)
+_cell_length_b 7.091(4)
+_cell_length_c 10.728(6)
+_cell_angle_alpha 88.222(18)
+_cell_angle_beta 71.488(15)
+_cell_angle_gamma 72.749(14)
+_cell_volume 486.29
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0406
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+In3+ 3
+I5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 1 a 0. 0. 0. 0.0357(4) 1 0
+Rb2 Rb1+ 2 i 0.16615(15) 0.02174(14) 0.60066(9) 0.0204(2) 1 0
+In1 In3+ 1 e 0.5 0.5 0. 0.0103(2) 1 0
+I1 I5+ 2 i -0.03433(9) 0.48385(10) 0.18880(5) 0.0199(2) 1 0
+I2 I5+ 2 i 0.43286(10) 0.96370(8) 0.18972(5) 0.01824(19) 1 0
+I3 I5+ 2 i 0.58813(8) 0.55292(8) -0.36261(5) 0.01141(18) 1 0
+O1 O2- 2 i 0.1697(9) 0.5412(10) 0.0484(6) 0.0192(14) 1 0
+O2 O2- 2 i 0.0426(10) 0.5485(10) 0.3217(6) 0.0204(14) 1 0
+O3 O2- 2 i 0.0876(15) 0.1949(14) 0.1859(8) 0.047(2) 1 0
+O4 O2- 2 i 0.4312(11) 0.8130(9) 0.0532(6) 0.0182(13) 1 0
+O5 O2- 2 i 0.7206(15) 0.8384(16) 0.1872(8) 0.049(3) 1 0
+O6 O2- 2 i 0.3095(11) 0.8433(10) 0.3263(6) 0.0210(14) 1 0
+O7 O2- 2 i 0.4744(10) 0.6038(10) -0.1839(6) 0.0183(13) 1 0
+O8 O2- 2 i 0.3395(10) 0.5677(10) -0.3850(6) 0.0179(13) 1 0
+O9 O2- 2 i 0.5942(11) 0.8008(10) -0.3980(7) 0.0212(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0528(10) 0.0492(10) 0.0297(8) -0.0393(8) -0.0259(7) 0.0202(7)
+Rb2 Rb1+ 0.0190(5) 0.0209(5) 0.0205(5) -0.0052(4) -0.0060(4) 0.0016(4)
+In1 In3+ 0.0094(4) 0.0097(4) 0.0115(4) -0.0021(3) -0.0037(3) 0.0010(3)
+I1 I5+ 0.0103(3) 0.0363(4) 0.0144(3) -0.0090(3) -0.0034(2) -0.0020(3)
+I2 I5+ 0.0310(4) 0.0100(3) 0.0132(3) -0.0077(2) -0.0051(2) 0.0006(2)
+I3 I5+ 0.0117(3) 0.0106(3) 0.0127(3) -0.0034(2) -0.0051(2) 0.0021(2)
+O1 O2- 0.010(3) 0.026(4) 0.020(3) -0.004(3) -0.005(3) 0.003(3)
+O2 O2- 0.022(4) 0.025(4) 0.019(3) -0.007(3) -0.012(3) 0.002(3)
+O3 O2- 0.055(6) 0.051(6) 0.036(5) -0.041(5) 0.006(4) -0.012(4)
+O4 O2- 0.030(4) 0.009(3) 0.019(3) -0.004(3) -0.014(3) -0.001(2)
+O5 O2- 0.056(6) 0.076(7) 0.028(4) -0.047(5) -0.003(4) -0.009(4)
+O6 O2- 0.024(4) 0.022(3) 0.018(3) -0.013(3) -0.003(3) 0.003(3)
+O7 O2- 0.022(3) 0.020(3) 0.011(3) -0.005(3) -0.005(3) 0.002(3)
+O8 O2- 0.016(3) 0.024(3) 0.018(3) -0.007(3) -0.009(3) 0.005(3)
+O9 O2- 0.028(4) 0.018(3) 0.021(3) -0.010(3) -0.010(3) 0.009(3)

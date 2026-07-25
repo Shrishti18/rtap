@@ -1,0 +1,111 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 411879
+_audit_creation_date 2005-10-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 1,4-bis(pentafluorophenylethynyl)tetrafluorobenzene
+_chemical_formula_structural 'C22 F14'
+_chemical_formula_sum 'C22 F14'
+_exptl_crystal_density_diffrn 1.96
+_cell_measurement_temperature 160.
+_publ_section_title
+;
+Structure and phase behavior of a 2:1 complex between arene- and
+fluoroarene-based conjugated rigid rods
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie (Edition international)' 2004 116 3123 3125 ACIEAY
+loop_
+_publ_author_name
+'Watt, S.W.'
+'Dai, C.'
+'Scott, A.J.'
+'Burke, J.M.'
+'Thomas, R.L.'
+'Collings, J.C.'
+'Viney, C.'
+'Clegg, W.'
+'Marder, T.B.'
+_cell_length_a 8.956(4)
+_cell_length_b 7.671(4)
+_cell_length_c 13.260(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.959(12)
+_cell_angle_gamma 90.
+_cell_volume 899.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0844
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C0+ 0
+F0+ 0
+C0+ 0
+F0+ 0
+C0+ 0
+F0+ 0
+C0+ 0
+F0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C0+ 4 i -0.1242(5) 0. 0.3965(3) 0.0281(11) 1 0
+F1 F0+ 4 i -0.2259(3) 0. 0.4600(2) 0.0421(9) 1 0
+C2 C0+ 8 j -0.0698(4) 0.1559(4) 0.3652(2) 0.0281(8) 1 0
+F2 F0+ 8 j -0.1201(2) 0.3065(3) 0.39767(15) 0.0384(7) 1 0
+C3 C0+ 8 j 0.0353(3) 0.1550(4) 0.2995(2) 0.0247(8) 1 0
+F3 F0+ 8 j 0.0858(2) 0.3071(2) 0.26887(14) 0.0327(7) 1 0
+C4 C0+ 4 i 0.0906(4) 0. 0.2649(3) 0.0221(10) 1 0
+C5 C0+ 4 i 0.1983(5) 0. 0.1963(3) 0.0251(10) 1 0
+C6 C0+ 4 i 0.2873(5) 0. 0.1380(3) 0.0257(10) 1 0
+C7 C0+ 4 i 0.3939(4) 0. 0.0685(3) 0.0212(10) 1 0
+C8 C0+ 8 j 0.4486(3) 0.1553(4) 0.0333(2) 0.0229(8) 1 0
+F4 F0+ 8 j 0.3994(2) 0.3071(2) 0.06533(13) 0.0294(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 C0+ 0.018(2) 0.038(3) 0.029(2) 0. 0.008(2) 0.
+F1 F0+ 0.029(2) 0.061(2) 0.040(2) 0. 0.0194(12) 0.
+C2 C0+ 0.022(2) 0.031(2) 0.031(2) 0.0062(14) 0.0047(12) -0.0026(13)
+F2 F0+ 0.0371(12) 0.0320(13) 0.0473(13) 0.0123(9) 0.0102(9) -0.0095(9)
+C3 C0+ 0.023(2) 0.020(2) 0.030(2) 0.0012(13) 0.0020(12) 0.0028(12)
+F3 F0+ 0.0338(12) 0.0197(11) 0.0451(12) -0.0015(8) 0.0074(8) 0.0026(8)
+C4 C0+ 0.015(2) 0.024(2) 0.027(2) 0. 0.001(2) 0.
+C5 C0+ 0.021(2) 0.023(2) 0.031(2) 0. 0.006(2) 0.
+C6 C0+ 0.023(2) 0.022(2) 0.032(2) 0. 0.002(2) 0.
+C7 C0+ 0.016(2) 0.026(3) 0.022(2) 0. 0.001(2) 0.
+C8 C0+ 0.021(2) 0.021(2) 0.026(2) 0.0024(13) 0.0027(12) -0.0023(12)
+F4 F0+ 0.0295(11) 0.0198(11) 0.0405(12) 0.0047(7) 0.0103(8) -0.0046(7)

@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 64770
+_audit_creation_date 1998-06-26
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Vanadium bis(disulfide)'
+_chemical_formula_structural 'V (S2)2'
+_chemical_formula_sum 'S4 V1'
+_chemical_name_mineral Patronite
+_exptl_crystal_density_diffrn 2.83
+_publ_section_title 'Strukturverfeinerung des Patronits, V(S2)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie. Monatshefte (Band=Jahr) (1950-)' 1972
+1972 339 345 NJMMAW
+loop_
+_publ_author_name
+'Kutoglu, A.'
+'Allmann, R.'
+_cell_length_a 6.775(5)
+_cell_length_b 10.42(1)
+_cell_length_c 12.11(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.8(2)
+_cell_angle_gamma 90.
+_cell_volume 839.77
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, -z'
+3 'x, -y, z+1/2'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+S1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 8 f -.0002(2) 0.0013(1) 0.1173(1) . 1. 0
+S1 S1- 8 f 0.7631(3) 0.0980(2) 0.2180(1) . 1. 0
+S2 S1- 8 f 0.7635(3) -.0961(2) 0.2342(2) . 1. 0
+S3 S1- 8 f 0.2778(3) 0.0498(2) 0.0286(1) . 1. 0
+S4 S1- 8 f 0.0531(3) 0.1832(2) 0.0039(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+V1 V4+ 0.66(4) 0.56(4) 0.61(4) -.05(4) 0.21(4) -.08(4)
+S1 S1- 0.99(6) 0.81(6) 0.67(6) 0.04(6) 0.32(6) 0.05(6)
+S2 S1- 0.92(6) 0.93(6) 0.96(6) -.07(6) 0.34(6) 0.02(6)
+S3 S1- 0.76(6) 0.95(6) 0.70(6) -.01(6) 0.24(6) 0.00(6)
+S4 S1- 1.12(6) 0.69(6) 0.77(6) -.12(6) 0.35(6) -.07(6)

@@ -1,0 +1,102 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 74825
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Aminoguanidinium sulfate'
+_chemical_formula_structural '(C N4 H8) (S O4)'
+_chemical_formula_sum 'C1 H8 N4 O4 S1'
+_exptl_crystal_density_diffrn 1.77
+_cell_measurement_temperature 296.
+_publ_section_title
+;
+Crystal and molecular structure of aminoguanidine sulphate, an important
+enzyme inhibitor and starting material of drug syntheses
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1994 49 556 560
+ZNBSEN
+loop_
+_publ_author_name
+'Koskinen, M.'
+'Mutikainen, I.'
+'Elo, H.'
+_cell_length_a 6.051(1)
+_cell_length_b 7.397(1)
+_cell_length_c 7.732(1)
+_cell_angle_alpha 105.97(3)
+_cell_angle_beta 100.80(3)
+_cell_angle_gamma 94.43(3)
+_cell_volume 323.77
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S6+ 6
+O2- -2
+N3- -3
+C4+ 4
+N3- -3
+N1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S6+ 2 i 0.2685(1) 0.6529(1) 0.2819(1) . 1. 0
+O1 O2- 2 i 0.2768(3) 0.4652(3) 0.1528(3) . 1. 0
+O2 O2- 2 i 0.2593(3) 0.7950(3) 0.1785(3) . 1. 0
+O3 O2- 2 i 0.4747(3) 0.7099(3) 0.4304(2) . 1. 0
+O4 O2- 2 i 0.0644(3) 0.6444(3) 0.3599(3) . 1. 0
+N1 N3- 2 i 0.2076(4) 0.0574(3) 0.6887(3) . 1. 0
+N2 N3- 2 i -.0321(4) 0.8712(3) 0.7909(3) . 1. 0
+C1 C4+ 2 i 0.1638(4) 0.9097(4) 0.7451(3) . 1. 0
+N3 N3- 2 i 0.3330(3) 0.7981(3) 0.7579(3) . 1. 0
+N4 N1- 2 i 0.2942(3) 0.6372(3) 0.8212(3) . 1. 0
+H1 H1+ 2 i 0.3424 0.0805 0.6601 0.08 1. 0
+H2 H1+ 2 i 0.1023 0.1355 0.6779 0.08 1. 0
+H3 H1+ 2 i 0.2831 0.6819 0.9395 0.08 1. 0
+H4 H1+ 2 i 0.4208 0.5809 0.822 0.08 1. 0
+H5 H1+ 2 i 0.3933 0.7384 0.6428 0.08 1. 0
+H6 H1+ 2 i 0.1891 0.5551 0.771 0.08 1. 0
+H7 H1+ 2 i -.0763 0.7638 0.7943 0.08 1. 0
+H8 H1+ 2 i 0.8756 0.9713 0.7953 0.08 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S6+ 0.037(1) 0.050(1) 0.028(1) 0.031(1) 0.012(1) 0.012(1)
+O1 O2- 0.050(1) 0.054(1) 0.040(1) 0.036(1) 0.018(1) 0.011(1)
+O2 O2- 0.056(1) 0.057(1) 0.037(1) 0.037(1) 0.018(1) 0.018(1)
+O3 O2- 0.038(1) 0.085(1) 0.032(1) 0.027(1) 0.008(1) 0.019(1)
+O4 O2- 0.040(1) 0.059(1) 0.038(1) 0.030(1) 0.016(1) 0.013(1)
+N1 N3- 0.047(1) 0.058(1) 0.051(1) 0.036(1) 0.016(1) 0.025(1)
+N2 N3- 0.043(1) 0.053(1) 0.041(1) 0.035(1) 0.017(1) 0.016(1)
+C1 C4+ 0.039(1) 0.052(1) 0.025(1) 0.031(1) 0.007(1) 0.010(1)
+N3 N3- 0.041(1) 0.057(1) 0.028(1) 0.036(1) 0.013(1) 0.017(1)
+N4 N1- 0.041(1) 0.050(1) 0.033(1) 0.032(1) 0.012(1) 0.014(1)

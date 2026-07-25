@@ -32,23 +32,26 @@ s = split, l = Lieb), `magnetic`, `superconductor`, `high_quality`, `n_icsd`,
 
 ### Two numbers that do not match the paper's prose
 
-* **Top candidates: 339, not 345.** Appendix H 3 states "the 345 best
-  candidates (corresponding to 949 ICSD entries)", shown in Figs 26–69. The
-  printed Table XI carries exactly **339** `Fig. NN` flags, spanning exactly
-  those 44 figures. This is a discrepancy inside the published table, not a
-  parsing artefact: a direct `pdftotext` scan of pages 48–94 also finds 339.
-  The site's own `bestflatband` flag is carried in the site-derived files below
-  as a second opinion.
-* **ICSD entries: 6,262, not 6,338.** The prose says the 2,379 materials
-  correspond to 6,338 ICSD entries. Each row's ICSD cell is a multi-line block
-  vertically centred on its row, and where two tall blocks abut, the row
-  boundary is genuinely ambiguous in the PDF. `finalize_flatbands.py` therefore
-  re-derives the per-material ICSD sets from the live database and writes
-  `tableXI_curated_flatband_materials_verified.csv`, which adds
-  `material_id`, `icsd_ids_verified`, `n_icsd_verified`, `site_formula`,
-  `site_space_group_number` and `verification`. Use the verified columns when
-  the ICSD grouping matters; use `icsd_ids` if you want strictly what the PDF
-  shows.
+* **Top candidates: the printed table flags 339, the prose says 345.**
+  Appendix H 3 states "the 345 best candidates (corresponding to 949 ICSD
+  entries)", shown in Figs 26–69. The printed Table XI carries exactly **339**
+  `Fig. NN` flags, spanning exactly those 44 figures. This is a defect in the
+  published table, not a parsing artefact — a direct `pdftotext` scan of
+  pages 48–94 also finds 339. The live database's `bestflatband` flag gives
+  **345 materials / 949 ICSD entries**, exactly the prose figure, so
+  `site_materials_best_flatband.csv` is the list to use;
+  `top_candidates_best_flatbands.csv` is what the PDF actually prints.
+* **ICSD entries: the PDF parse yields 6,262, the prose says 6,338.** Each
+  row's ICSD cell is a multi-line block vertically centred on its row, and
+  where two tall blocks abut, the row boundary is genuinely ambiguous in the
+  PDF. `finalize_flatbands.py` re-derives the per-material ICSD sets from the
+  live database and writes
+  `tableXI_curated_flatband_materials_verified.csv`, which adds `material_id`,
+  `icsd_ids_verified`, `n_icsd_verified`, `site_formula`,
+  `site_space_group_number` and `verification`. **All 2,379 rows match a live
+  database material, and the verified ICSD total is exactly 6,338** — the
+  paper's number. Use the verified columns when the ICSD grouping matters; use
+  `icsd_ids` if you want strictly what the PDF shows.
 
 ### How the tables were parsed
 
@@ -68,12 +71,12 @@ curated lists — seeded from the SI parse and the site's own `Curated`/`Atomic`
 search listings, then closed under each record's `otherICSDs` field so no entry
 of a curated material is missed.
 
-| File | Contents |
-| --- | --- |
-| `flatband_icsd_metadata.csv` | one row per ICSD entry: formula, space group, point group, topology with and without SOC, curated / best / atomic / high-quality flags, sublattice counts, cell parameters, Materials Project link, CIF path |
-| `site_materials_curated_flatband.csv` | curated flat-band materials, grouped |
-| `site_materials_best_flatband.csv` | the site's best flat-band materials |
-| `site_materials_atomic_flatband.csv` | curated flat *atomic* band materials |
+| File | Rows | Contents |
+| --- | ---: | --- |
+| `flatband_icsd_metadata.csv` | **8,168** | one row per ICSD entry: formula, space group, point group, topology with and without SOC, curated / best / atomic / high-quality flags, sublattice counts, cell parameters, Materials Project link, CIF path |
+| `site_materials_curated_flatband.csv` | **2,379** | curated flat-band materials (6,338 ICSD entries) |
+| `site_materials_best_flatband.csv` | **345** | best flat-band candidates (949 ICSD entries) |
+| `site_materials_atomic_flatband.csv` | **1,102** | curated flat *atomic* band materials (1,830 ICSD entries) |
 | `records/` | the trimmed JSON records (gitignored; band-structure plot payloads stripped) |
 | `poscar/` | POSCAR for every ICSD entry |
 | `site_curated.html`, `site_atomic.html` | the raw search listings |
@@ -82,9 +85,16 @@ of a curated material is missed.
 Materials are grouped by the site's own `otherICSDs` field, so the material
 level does not depend on the PDF parse at all.
 
-Counts differ from the paper: the site returns 2,055 curated and 1,081 atomic
-materials against the SI's 2,379 and 1,102. The site is a later revision; both
-sets are provided rather than silently reconciled.
+**These counts reproduce the paper exactly** — 2,379 curated materials /
+6,338 ICSD entries, 345 best candidates / 949 ICSD entries, 1,102 atomic
+flat-band materials. That is the strongest available cross-check on the SI
+parse, and it is why the site-derived files are the ones to prefer.
+
+One trap worth recording: the site's `search.php?Curated=on` returns only 2,055
+materials (and 1,081 for `Atomic=on`) because the search form applies default
+flat-band cuts on top of the flag. The per-entry `curatedflatband` /
+`bestflatband` / `atomicflatband` fields from `showmaterial.php`, used here, are
+the unfiltered truth.
 
 ## Not used
 

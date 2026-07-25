@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 87466
+_audit_creation_date 2000-12-16
+_chemical_name_systematic 'Yttrium barium copper iron(III) oxide'
+_chemical_formula_structural 'Y Ba Cu Fe O5'
+_chemical_formula_sum 'Ba1 Cu1 Fe1 O5 Y1'
+_chemical_name_structure_type LuBaCuFeO5
+_exptl_crystal_density_diffrn 6.16
+_publ_section_title
+;
+Neutron powder diffraction study (T=4.2-300 K) and polarization analysis of Y
+Ba Cu Fe O5+d
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 1998 10 1247 1258 JCOMEL
+loop_
+_publ_author_name
+'Mombru, A.W.'
+'Prassides, K.'
+'Christides, C.'
+'Erwin, R.'
+'Pissas, M.'
+'Mitros, C.'
+'Niarchos, D.'
+_cell_length_a 3.86966(6)
+_cell_length_b 3.86966(6)
+_cell_length_c 7.6613(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 114.72
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 4 m m'
+_symmetry_Int_Tables_number 99
+_refine_ls_R_factor_all 0.069
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x, z'
+2 '-y, x, z'
+3 '-y, -x, z'
+4 'y, x, z'
+5 'x, -y, z'
+6 '-x, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Ba2+ 2
+Fe3+ 3
+Cu2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 1 a 0 0 0.46992 . 1. 0
+Ba1 Ba2+ 1 a 0 0 -.030(3) . 1. 0
+Fe1 Fe3+ 1 b 0.5 0.5 0.700(1) . 1. 0
+Cu1 Cu2+ 1 b 0.5 0.5 0.235(1) 0.004(1) 1. 0
+O1 O2- 1 b 0.5 0.5 -.045(1) 0.0104(7) 1. 0
+O2 O2- 2 c 0.5 0 0.280(1) 0.008(1) 1. 0
+O3 O2- 2 c 0.5 0 0.649(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0052(4) 0.0052(4) 0.010(1) 0 0 0
+Ba1 Ba2+ 0.0036(7) 0.0036(7) 0.032(2) 0 0 0
+Fe1 Fe3+ 0.003(1) 0.003(1) 0.031(3) 0 0 0
+O3 O2- 0.003(1) 0.002(1) 0.015(2) 0 0 0

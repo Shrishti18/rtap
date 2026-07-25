@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 87439
+_audit_creation_date 2000-12-16
+_audit_update_record 2006-04-01
+_chemical_name_systematic
+'Trimagnesium phyllo-tetrahydroxopentaoxodisilicate - 2H1'
+_chemical_formula_structural 'Mg3 (Si2 O5 (O H)4)'
+_chemical_formula_sum 'H4 Mg3 O9 Si2'
+_chemical_name_structure_type Mg3Si2O5(OH)4(hP36)
+_chemical_name_mineral 'Lizardite 2H1'
+_exptl_crystal_density_diffrn 2.58
+_publ_section_title
+'Effect of temperature on the structures of lizardite-1T and lizardite-2H1'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 1998 36 1587 1594 CAMIA6
+loop_
+_publ_author_name
+'Guggenheim, S.'
+'Zhan, W.-D.'
+_cell_length_a 5.317(4)
+_cell_length_b 5.317(4)
+_cell_length_c 14.551(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 356.25
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 c m'
+_symmetry_Int_Tables_number 185
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 '-x, -x+y, z'
+8 'x-y, -y, z'
+9 'y, x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Si4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 6 c 0.3327(8) 0 0.2225(5) . 1. 0
+Si1 Si4+ 4 b 0.3333 0.6667 0.0314(5) . 1. 0
+O1 O2- 4 b 0.3333 0.6667 0.1406 . 1. 0
+O2 O2- 6 c 0.491(2) 0 -.0070(6) . 1. 0
+O3 O2- 6 c 0.666(1) 0 0.2896(6) . 1. 0
+O4 O2- 2 a 0 0 0.1470(9) . 1. 0
+H1 H1+ 6 c 0.622 0 0.354 0.017 1. 0
+H2 H1+ 2 a 0 0 0.075 0.015 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 Mg2+ 0.011(2) 0.009(2) 0.019(1) 0.0045(10) -.001(1) 0
+Si1 Si4+ 0.0087(9) 0.0087(9) 0.011(1) 0.0043(5) 0 0
+O1 O2- 0.010(2) 0.010(2) 0.024(2) 0.005(1) 0 0
+O2 O2- 0.020(2) 0.020(2) 0.028(2) 0.010(1) -.013(3) 0
+O3 O2- 0.019(2) 0.024(2) 0.008(2) 0.012(1) -.003(3) 0
+O4 O2- 0.016(2) 0.016(2) 0.013(3) 0.008(1) 0 0

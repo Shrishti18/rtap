@@ -1,0 +1,130 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 30552
+_audit_creation_date 1984-10-03
+_audit_update_record 2007-08-01
+_chemical_name_systematic Di-mue3-selenido-tris(tricarbonylosmium)
+_chemical_formula_structural 'Os3 (C O)9 Se2'
+_chemical_formula_sum 'C9 O9 Os3 Se2'
+_chemical_name_structure_type Os3(CO)9Se2
+_exptl_crystal_density_diffrn 3.97
+_publ_section_title 'Di-mue3-selenido-tris(tricarbonylosmium)(2 Os-Os)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1981 37 1731 1733 ACBCAR
+loop_
+_publ_author_name
+'Johnson, B.F.G.'
+'Lewis, J.'
+'Lodge, P.G.'
+'Raithby, P.R.'
+_cell_length_a 6.804(3)
+_cell_length_b 9.620(5)
+_cell_length_c 13.527(6)
+_cell_angle_alpha 94.206(21)
+_cell_angle_beta 95.570(24)
+_cell_angle_gamma 110.469(25)
+_cell_volume 820.1
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Os0+ 0
+Se0+ 0
+C0+ 0
+O0+ 0
+C0+ 0
+O0+ 0
+C0+ 0
+O0+ 0
+C0+ 0
+O0+ 0
+C0+ 0
+O0+ 0
+C0+ 0
+O0+ 0
+C0+ 0
+O0+ 0
+C0+ 0
+O0+ 0
+C0+ 0
+O0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Os1 Os0+ 2 i 0.2811(1) 0.6928(1) 0.3424(1) . 1. 0
+Os2 Os0+ 2 i 0.1096(1) 0.3960(1) 0.2347(1) . 1. 0
+Os3 Os0+ 2 i 0.4294(1) 0.7642(1) 0.1570(1) . 1. 0
+Se1 Se0+ 2 i 0.4898(1) 0.5630(1) 0.2496(1) . 1. 0
+Se2 Se0+ 2 i 0.0545(1) 0.6141(1) 0.1730(1) . 1. 0
+C1 C0+ 2 i 0.5137(18) 0.8757(11) 0.3884(7) . 1. 0
+O1 O0+ 2 i 0.6488(14) 0.9842(9) 0.4188(6) . 1. 0
+C2 C0+ 2 i 0.2875(18) 0.5857(12) 0.4550(7) . 1. 0
+O2 O0+ 2 i 0.291(2) 0.5270(12) 0.5245(6) . 1. 0
+C3 C0+ 2 i 0.0802(18) 0.7694(13) 0.3879(7) . 1. 0
+O3 O0+ 2 i -.0418(15) 0.8173(12) 0.4105(8) . 1. 0
+C4 C0+ 2 i 0.1919(17) 0.2675(11) 0.3278(7) . 1. 0
+O4 O0+ 2 i 0.2377(15) 0.1902(10) 0.3767(7) . 1. 0
+C5 C0+ 2 i -.1801(17) 0.3103(11) 0.2670(8) . 1. 0
+O5 O0+ 2 i -.3481(14) 0.2513(12) 0.2798(8) . 1. 0
+C6 C0+ 2 i 0.0698(19) 0.2731(11) 0.1210(7) . 1. 0
+O6 O0+ 2 i 0.0499(17) 0.2081(11) 0.0464(6) . 1. 0
+C7 C0+ 2 i 0.7247(18) 0.8830(11) 0.1836(7) . 1. 0
+O7 O0+ 2 i 0.8963(14) 0.9521(11) 0.2002(7) . 1. 0
+C8 C0+ 2 i 0.3658(20) 0.9334(11) 0.1207(8) . 1. 0
+O8 O0+ 2 i 0.3275(17) 1.036(10) 0.0997(8) . 1. 0
+C9 C0+ 2 i 0.4446(17) 0.6943(11) 0.0258(7) . 1. 0
+O9 O0+ 2 i 0.4391(16) 0.6450(11) -.0558(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Os1 Os0+ 0.034(1) 0.028(1) 0.029(1) 0.009(1) 0.004(1) -.002(1)
+Os2 Os0+ 0.035(1) 0.023(1) 0.034(1) 0.005(1) 0.004(1) 0.002(1)
+Os3 Os0+ 0.036(1) 0.024(1) 0.031(1) 0.006(1) 0.005(1) 0.003(1)
+Se1 Se0+ 0.033(1) 0.028(1) 0.034(1) 0.011(1) 0.005(1) 0.003(1)
+Se2 Se0+ 0.033(1) 0.029(1) 0.036(1) 0.009(1) -.001(1) 0.009(1)
+C1 C0+ 0.053(6) 0.035(5) 0.043(5) 0.010(4) 0.002(4) -.011(4)
+O1 O0+ 0.061(5) 0.043(4) 0.067(5) 0.010(4) 0.003(4) -.019(4)
+C2 C0+ 0.051(6) 0.045(5) 0.042(5) 0.016(5) 0.004(4) 0.005(4)
+O2 O0+ 0.127(9) 0.084(7) 0.045(4) 0.041(7) 0.023(5) 0.029(5)
+C3 C0+ 0.048(6) 0.051(6) 0.043(5) 0.018(5) 0.006(4) -.005(4)
+O3 O0+ 0.052(5) 0.071(6) 0.092(6) 0.028(5) 0.008(5) -.019(5)
+C4 C0+ 0.046(5) 0.037(5) 0.039(4) 0.007(4) 0.005(4) 0.003(4)
+O4 O0+ 0.075(6) 0.056(5) 0.069(5) 0.022(4) -.005(4) 0.028(4)
+C5 C0+ 0.045(5) 0.032(4) 0.057(5) 0.009(4) 0.017(4) 0.004(4)
+O5 O0+ 0.044(5) 0.085(7) 0.095(5) 0.015(5) 0.020(5) 0.019(6)
+C6 C0+ 0.063(6) 0.028(4) 0.043(5) 0.012(4) -.003(3) 0.000(4)
+O6 O0+ 0.097(7) 0.062(5) 0.051(4) 0.040(5) -.002(4) -.014(4)
+C7 C0+ 0.055(6) 0.032(4) 0.043(5) 0.011(4) 0.014(4) 0.002(4)
+O7 O0+ 0.046(5) 0.062(6) 0.088(6) 0.000(4) 0.008(4) 0.012(5)
+C8 C0+ 0.066(7) 0.029(4) 0.056(5) 0.019(5) 0.006(5) 0.007(4)
+O8 O0+ 0.083(7) 0.043(5) 0.116(8) 0.032(5) 0.007(6) 0.027(5)
+C9 C0+ 0.048(5) 0.037(5) 0.042(5) -.001(4) 0.005(4) 0.008(4)
+O9 O0+ 0.082(7) 0.071(6) 0.046(4) 0.023(5) 0.016(4) -.010(4)

@@ -1,0 +1,69 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 75661
+_audit_creation_date 1996-04-22
+_chemical_name_systematic 'Silicon dioxide'
+_chemical_formula_structural 'Si O2'
+_chemical_formula_sum 'O2 Si1'
+_chemical_name_structure_type SiO2(P1)
+_exptl_crystal_density_diffrn 2.39
+_publ_section_title
+;
+Framework silica structures generated using simulated annealing with a
+potential energy function based on an H6 Si2 O7 molecule
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 1994 21 269 284 PCMIDU
+loop_
+_publ_author_name
+'Boisen, M.B.jr.'
+'Gibbs, G.V.'
+'Bukowinski, M.S.T.'
+_cell_length_a 5.098
+_cell_length_b 5.2954
+_cell_length_c 6.9599
+_cell_angle_alpha 110.92
+_cell_angle_beta 107.558
+_cell_angle_gamma 83.931
+_cell_volume 167.33
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 1 a 0.13461 0.29869 0.23439 . 1. 0
+Si2 Si4+ 1 a 0.61791 0.28429 0.59542 . 1. 0
+Si3 Si4+ 1 a 0.55239 0.36908 0.04434 . 1. 0
+Si4 Si4+ 1 a 0.82673 0.72167 0.45675 . 1. 0
+O1 O2- 1 a 0.10729 0.61244 0.38526 . 1. 0
+O2 O2- 1 a 0.84186 0.04196 0.59954 . 1. 0
+O3 O2- 1 a 0.26716 0.26269 0.04211 . 1. 0
+O4 O2- 1 a 0.59523 0.66732 0.22804 . 1. 0
+O5 O2- 1 a 0.81718 0.18433 0.12257 . 1. 0
+O6 O2- 1 a 0.34158 0.15975 0.39651 . 1. 0
+O7 O2- 1 a 0.75255 0.53776 0.5771 . 1. 0
+O8 O2- 1 a 0.53106 0.39156 0.81529 . 1. 0

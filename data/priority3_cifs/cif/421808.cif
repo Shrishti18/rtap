@@ -1,0 +1,103 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 421808
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Dirubidium nickel tetrakis(dihydrogen phosphate)'
+_chemical_formula_structural 'Rb2 Ni (H2 P O4)4'
+_chemical_formula_sum 'H8 Ni1 O16 P4 Rb2'
+_chemical_name_structure_type Tl2Ni(H2P2O7)2(H2O)2
+_exptl_crystal_density_diffrn 2.78
+_cell_measurement_temperature 301.
+_publ_section_title 'Li2 H P O3 * (H2 O): crystal structure and IR spectrum'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Crystallography' 2010 40 526 530 JCCYEV
+loop_
+_publ_author_name
+'Chaouche, s.'
+'Ouarsal, R.'
+'El Bali, B.'
+'Lachkar, M.'
+'Bolte, M.'
+'Dusek, M.'
+_cell_length_a 6.966(1)
+_cell_length_b 7.318(2)
+_cell_length_c 7.762(2)
+_cell_angle_alpha 82.02(2)
+_cell_angle_beta 70.34(2)
+_cell_angle_gamma 86.37(2)
+_cell_volume 368.95
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0294
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+P5+ 5
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+Rb1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 1 c 0. 0.5 0. 0.01327(16) 1 0
+P1 P5+ 2 i 0.26675(15) 0.20179(13) -0.25579(13) 0.0139(2) 1 0
+P2 P5+ 2 i -0.14752(15) 0.26305(12) -0.25942(13) 0.0143(2) 1 0
+O1 O2- 2 i 0.2553(4) 0.3529(3) -0.1413(3) 0.0192(6) 1 0
+O2 O2- 2 i 0.4567(4) 0.2165(4) -0.4332(4) 0.0235(6) 1 0
+H1 H1+ 2 i 0.564(4) 0.262(5) -0.415(6) 0.028 1 0
+O3 O2- 2 i 0.2447(4) 0.0098(3) -0.1545(4) 0.0251(7) 1 0
+O4 O2- 2 i 0.0932(4) 0.2304(4) -0.3523(4) 0.0200(6) 1 0
+O5 O2- 2 i -0.1850(4) 0.3836(3) -0.1095(3) 0.0181(6) 1 0
+O6 O2- 2 i -0.2221(4) 0.3381(4) -0.4150(3) 0.0204(6) 1 0
+O7 O2- 2 i -0.2419(4) 0.0703(3) -0.1760(4) 0.0233(6) 1 0
+H2 H1+ 2 i -0.233(7) 0.033(5) -0.064(3) 0.028 1 0
+O8 O2- 2 i 0.0549(4) 0.7117(4) -0.2171(3) 0.0247(7) 1 0
+H3 H1+ 2 i 0.114(6) 0.685(5) -0.326(2) 0.03 1 0
+H4 H1+ 2 i 0.111(5) 0.808(4) -0.208(5) 0.03 1 0
+Rb1 Rb1+ 2 i -0.40713(7) 0.71420(5) -0.21005(5) 0.02801(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.0137(4) 0.0145(3) 0.0121(3) -0.0009(3) -0.0040(3) -0.0037(3)
+P1 P5+ 0.0120(5) 0.0174(5) 0.0124(5) -0.0002(4) -0.0037(4) -0.0034(4)
+P2 P5+ 0.0129(5) 0.0171(5) 0.0143(5) -0.0015(4) -0.0056(4) -0.0034(4)
+O1 O2- 0.0150(15) 0.0253(14) 0.0194(14) 0.0015(11) -0.0055(11) -0.0114(11)
+O2 O2- 0.0140(15) 0.0391(17) 0.0160(14) -0.0061(12) 0.0004(11) -0.0103(12)
+O3 O2- 0.0338(18) 0.0202(14) 0.0225(15) -0.0026(12) -0.0127(14) 0.0024(12)
+O4 O2- 0.0138(14) 0.0306(15) 0.0168(13) 0.0011(11) -0.0055(11) -0.0072(11)
+O5 O2- 0.0159(14) 0.0207(13) 0.0196(14) -0.0005(11) -0.0061(11) -0.0083(11)
+O6 O2- 0.0150(14) 0.0298(15) 0.0168(14) -0.0019(11) -0.0066(11) 0.0001(11)
+O7 O2- 0.0314(18) 0.0193(14) 0.0215(15) -0.0088(12) -0.0118(13) 0.0017(11)
+O8 O2- 0.0368(19) 0.0212(15) 0.0134(14) -0.0059(13) -0.0036(13) -0.0027(11)
+Rb1 Rb1+ 0.0311(3) 0.0291(2) 0.0247(2) 0.00451(17) -0.01136(19) -0.00332(17)

@@ -1,0 +1,73 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 93443
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Trilead bis(phosphate(V))'
+_chemical_formula_structural 'Pb3 (P O4)2'
+_chemical_formula_sum 'O8 P2 Pb3'
+_chemical_name_structure_type Pb3(PO4)2
+_exptl_crystal_density_diffrn 7.72
+_cell_measurement_pressure 1440000.
+_publ_section_title
+;
+Renormalization of the phase transition in lead phosphate, Pb3 (P O4)2, by
+high pressure: structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2001 13 5353 5364 JCOMEL
+loop_
+_publ_author_name
+'Angel, R.J.'
+'Bismayer, U.'
+'Marshall, W.G.'
+_cell_length_a 13.7494(14)
+_cell_length_b 5.5230(8)
+_cell_length_c 9.4340(11)
+_cell_angle_alpha 90
+_cell_angle_beta 103.029(14)
+_cell_angle_gamma 90
+_cell_volume 697.96
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 e 0 0.264(4) 0.25 . 1. 0
+Pb2 Pb2+ 8 f 0.3161(4) 0.296(3) 0.3552(17) . 1. 0
+P1 P5+ 8 f 0.6001(8) 0.272(4) 0.4376(17) . 1. 0
+O1 O2- 8 f 0.4912(6) 0.252(4) 0.4260(16) . 1. 0
+O2 O2- 8 f 0.6430(14) 0.022(4) 0.386(2) . 1. 0
+O3 O2- 8 f 0.6371(15) 0.471(4) 0.371(3) . 1. 0
+O4 O2- 8 f 0.6473(11) 0.268(4) 0.6159(16) . 1. 0

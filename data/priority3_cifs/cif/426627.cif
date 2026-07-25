@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 426627
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Tricopper germanium decaoxodiphosphate'
+_chemical_formula_structural 'Cu3 Ge P2 O10'
+_chemical_formula_sum 'Cu3 Ge1 O10 P2'
+_exptl_crystal_density_diffrn 4.53
+_cell_measurement_temperature 293.
+_publ_section_title
+'Investigations at the ternary system CuO/GeO2/P2O5 for battery materials'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2014
+640 2406 2406 ZAACAB
+loop_
+_publ_author_name
+'Weimann, Iren'
+'Hanzelmann, Christian'
+'Feller, Joerg'
+'Zak, Zdirad'
+_cell_length_a 4.6355(4)
+_cell_length_b 8.2943(7)
+_cell_length_c 9.5074(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.220(8)
+_cell_angle_gamma 90.
+_cell_volume 355.85
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0229
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Cu2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 2 e 0.81764(13) 0.25 0.82284(6) 0.00261(18) 1 0
+Cu1 Cu2+ 2 b 0.5 0. 1. 0.0053(2) 1 0
+Cu2 Cu2+ 4 f 1.55278(11) 0.06535(7) 1.33446(5) 0.00810(18) 1 0
+P1 P5+ 2 e 1.0024(3) 0.25 1.13369(16) 0.0024(3) 1 0
+P2 P5+ 2 e 1.9033(3) -0.25 1.45798(16) 0.0020(3) 1 0
+O1 O2- 2 e 1.0243(10) 0.25 0.6942(5) 0.0121(10) 1 0
+O2 O2- 2 e 1.1070(9) 0.25 0.9856(4) 0.0047(8) 1 0
+O3 O2- 4 f 0.6171(7) 0.0767(4) 0.8259(3) 0.0065(6) 1 0
+O4 O2- 4 f 0.8227(6) 0.0981(4) 1.1398(3) 0.0073(6) 1 0
+O5 O2- 2 e 1.2931(8) 0.25 1.2501(4) 0.0045(8) 1 0
+O6 O2- 2 e 1.7994(9) 0.25 1.4278(4) 0.0057(9) 1 0
+O7 O2- 4 f 1.7273(6) -0.0983(4) 1.4700(3) 0.0067(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0041(3) 0.0017(3) 0.0021(3) 0. 0.0009(2) 0.
+Cu1 Cu2+ 0.0068(3) 0.0053(4) 0.0036(3) -0.0034(3) 0.0009(3) -0.0008(3)
+Cu2 Cu2+ 0.0128(3) 0.0010(3) 0.0069(3) 0.00028(19) -0.0053(2) -0.0001(2)
+P1 P5+ 0.0027(6) 0.0025(7) 0.0018(6) 0. 0.0002(5) 0.
+P2 P5+ 0.0031(6) 0.0012(7) 0.0015(7) 0. 0.0002(5) 0.
+O1 O2- 0.014(2) 0.020(3) 0.005(2) 0. 0.0073(17) 0.
+O2 O2- 0.0049(18) 0.008(2) 0.0010(18) 0. 0.0003(15) 0.
+O3 O2- 0.0090(13) 0.0049(16) 0.0056(14) -0.0025(12) 0.0017(11) -0.0013(12)
+O4 O2- 0.0093(14) 0.0057(15) 0.0070(14) -0.0046(12) 0.0019(11) -0.0010(13)
+O5 O2- 0.0044(19) 0.005(2) 0.0030(19) 0. -0.0024(15) 0.
+O6 O2- 0.007(2) 0.003(2) 0.007(2) 0. -0.0003(16) 0.
+O7 O2- 0.0094(14) 0.0025(15) 0.0079(14) 0.0033(11) 0.0018(11) 0.0026(13)

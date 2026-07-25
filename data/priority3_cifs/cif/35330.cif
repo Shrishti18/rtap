@@ -1,0 +1,66 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 35330
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Arsenic cyanide'
+_chemical_formula_structural 'As (C N)3'
+_chemical_formula_sum 'C3 As1 N3'
+_exptl_crystal_density_diffrn 1.83
+_publ_section_title 'The Preparation and Structure of Group V Tricyanides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Thesis, Univ. Minnesota' 1961 1961 1 57 20UMND
+loop_
+_publ_author_name
+'Emerson, K.'
+_cell_length_a 9.19
+_cell_length_b 6.9
+_cell_length_c 8.92
+_cell_angle_alpha 90.
+_cell_angle_beta 101.2
+_cell_angle_gamma 90.
+_cell_volume 554.85
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2 1'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.19
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As3+ 3
+C2+ 2
+N3- -3
+C2+ 2
+N3- -3
+C2+ 2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As3+ 4 c 0.291 0.261 -.001 2.62 1. 0
+C1 C2+ 4 c 0.221 0.371 0.213 4.79 1. 0
+N1 N3- 4 c 0.197 0.442 0.331 5.67 1. 0
+C2 C2+ 4 c 0.111 0.262 -.128 4.74 1. 0
+N2 N3- 4 c 0.001 0.252 -.216 5.3 1. 0
+C3 C2+ 4 c 0.223 0.068 0.138 5.34 1. 0
+N3 N3- 4 c 0.188 -.05 0.196 4.12 1. 0

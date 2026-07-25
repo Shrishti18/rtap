@@ -1,0 +1,68 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 31943
+_audit_creation_date 1980-01-01
+_audit_update_record 1997-11-10
+_chemical_name_systematic 'Iron diniobium oxide'
+_chemical_formula_structural 'Fe Nb2 O6'
+_chemical_formula_sum 'Fe1 Nb2 O6'
+_chemical_name_structure_type Columbite-MgNb2O6
+_chemical_name_mineral Columbite
+_exptl_crystal_density_diffrn 5.45
+_publ_section_title 'Magnetische Struktur von Columbit, Fe Nb2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1971
+380 119 127 ZAACAB
+loop_
+_publ_author_name
+'Weitzel, H.'
+_cell_length_a 14.263
+_cell_length_b 5.7318
+_cell_length_c 5.0378
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 411.85
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 4 c 0 0.1456 0.25 0.5 1. 0
+Nb1 Nb5+ 8 d 0.1563 0.3311 0.7686 0.5 1. 0
+O1 O2- 8 d 0.0911 0.4008 0.418 0.5 1. 0
+O2 O2- 8 d 0.0701 0.1111 0.9168 0.5 1. 0
+O3 O2- 8 d 0.2596 0.0969 0.575 0.5 1. 0

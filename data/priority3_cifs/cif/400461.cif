@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 400461
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Tetraaminophosphonium iodide'
+_chemical_formula_structural '((N H2)4 P) I'
+_chemical_formula_sum 'H8 I1 N4 P1'
+_chemical_name_structure_type P(NH2)4I
+_exptl_crystal_density_diffrn 2.13
+_cell_measurement_temperature 173.
+_publ_section_title
+'Synthese und Struktur des ersten TetraaminophosphoniumSalzes P (N H2)4 I'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie (German Edition)' 1994 106 818 819 ANCEAD
+loop_
+_publ_author_name
+'Schnick, W.'
+'Horstmann, S.'
+'Schmidpeter, A.'
+_cell_length_a 8.426(2)
+_cell_length_b 8.426(2)
+_cell_length_c 4.867(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 345.54
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n b m Z'
+_symmetry_Int_Tables_number 125
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z'
+2 'y, -x+1/2, z'
+3 '-y+1/2, x, z'
+4 '-y, -x, z'
+5 '-y+1/2, -x+1/2, -z'
+6 '-y, x+1/2, -z'
+7 'y+1/2, -x, -z'
+8 'y, x, -z'
+9 'x+1/2, y+1/2, -z'
+10 '-x+1/2, y, -z'
+11 'x, -y+1/2, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, -y+1/2, z'
+14 'x+1/2, -y, z'
+15 '-x, y+1/2, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+I1- -1
+P5+ 5
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+I1 I1- 2 a 0.25 0.25 0 . 1. 0
+P1 P5+ 2 d 0.75 0.25 0.5 . 1. 0
+N1 N3- 8 m 0.13083(16) -.13083(16) 0.34546(54) . 1. 0
+H1 H1+ 16 n 0.33899 -.05538 0.28314 0.0366(64) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+I1 I1- 0.01865(14) 0.01865(14) 0.03300(18) 0 0 0
+P1 P5+ 0.01478(21) 0.01478(21) 0.02684(40) 0 0 0
+N1 N3- 0.02208(49) 0.02208(49) 0.0447(11) -.00091(69) -.00599(65) -.00599(65)

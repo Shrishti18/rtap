@@ -1,0 +1,90 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 419126
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Lead bismuth oxide vanadate(V) - alpha'
+_chemical_formula_structural 'Pb Bi O (V O4)'
+_chemical_formula_sum 'Bi1 O5 Pb1 V1'
+_chemical_name_structure_type BiMnVO5
+_exptl_crystal_density_diffrn 7.3
+_cell_measurement_temperature 298.
+_publ_section_title
+;
+Polymorphism in Bi O X O4 compounds (X = V, P, As). Part I: Crystal structures
+of alpha- and beta-Pb Bi O V 4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2008 181 2260 2267 JSSCBI
+loop_
+_publ_author_name
+'Labidi, O.'
+'Roussel, P.'
+'Porcher, F.'
+'Drache, M.'
+'Vannier, R.N.'
+'Wignacourt, J.P.'
+_cell_length_a 7.1168
+_cell_length_b 7.3128
+_cell_length_c 5.6089
+_cell_angle_alpha 111.8564
+_cell_angle_beta 94.7331
+_cell_angle_gamma 109.0685
+_cell_volume 249.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0152
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Bi3+ 3
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 2 i 0.6168(3) 0.8028(3) 0.1773(4) 0.0261(9) 1 0
+Bi1 Bi3+ 2 i 0.7664(3) 0.5321(3) 0.5658(4) 0.0125(8) 1 0
+V1 V5+ 2 i 0.1545 -0.1518 0.1648 0.01 1 0
+O1 O2- 2 i 0.2016(5) 0.1138(4) 0.3480(7) 0.0367(16) 1 0
+O2 O2- 2 i 0.1042(4) 0.3046(5) -0.0773(6) 0.0275(14) 1 0
+O3 O2- 2 i 0.7034(4) 0.2166(5) 0.6418(6) 0.0224(14) 1 0
+O4 O2- 2 i 0.7541(5) 0.1872(5) 0.1086(7) 0.0341(17) 1 0
+O5 O2- 2 i 0.5045(4) 0.4850(5) 0.2506(6) 0.0168(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.0223(11) 0.0304(12) 0.0222(12) 0.0062(9) 0.0046(9) 0.0113(10)
+Bi1 Bi3+ 0.0121(9) 0.0090(10) 0.0123(10) 0.0010(9) 0.0010(8) 0.0033(9)
+V1 V5+ 0.009998 0.010001 0.009999 0.003863 0.002328 0.004237
+O1 O2- 0.033(2) 0.0114(16) 0.051(2) 0.0057(15) -0.0102(17) 0.0051(16)
+O2 O2- 0.0181(17) 0.0188(16) 0.029(2) -0.0044(14) 0.0003(13) 0.0037(15)
+O3 O2- 0.0236(19) 0.0142(15) 0.0217(17) 0.0020(14) -0.0019(14) 0.0056(12)
+O4 O2- 0.036(2) 0.049(2) 0.0224(18) 0.0163(18) 0.0179(16) 0.0184(16)
+O5 O2- 0.0137(14) 0.0238(17) 0.0118(16) 0.0054(13) 0.0025(13) 0.0082(16)

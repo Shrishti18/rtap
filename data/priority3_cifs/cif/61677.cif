@@ -1,0 +1,78 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 61677
+_audit_creation_date 1986-12-03
+_chemical_name_systematic 'Lead(II) copper(I) arsenate(V)'
+_chemical_formula_structural 'Pb Cu As O4'
+_chemical_formula_sum 'As1 Cu1 O4 Pb1'
+_exptl_crystal_density_diffrn 6.38
+_publ_section_title 'Structure of Lead(II) Copper(I) Arsenate(V)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1986 42 774 776 ACSCEE
+loop_
+_publ_author_name
+'Pertlik, F.'
+_cell_length_a 4.832(1)
+_cell_length_b 5.837(1)
+_cell_length_c 7.995(2)
+_cell_angle_alpha 78.68(2)
+_cell_angle_beta 74.95
+_cell_angle_gamma 84.04
+_cell_volume 213.19
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Cu1+ 1
+As5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 2 i 0.9387(1) 0.7103(1) 0.6760(1) . 1. 0
+Cu1 Cu1+ 2 i 0.6346(3) 0.1969(2) 0.0043(2) . 1. 0
+As1 As5+ 2 i 0.4218(2) 0.2030(1) 0.6866(1) . 1. 0
+O1 O2- 2 i 0.7672(14) 0.0289(12) 0.1919(11) . 1. 0
+O2 O2- 2 i 0.7313(12) 0.0953(11) 0.5642(11) . 1. 0
+O3 O2- 2 i 0.5091(14) 0.6306(11) 0.1787(11) . 1. 0
+O4 O2- 2 i 0.7762(12) 0.6262(10) 0.4391(10) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.0148 0.0138 0.0139 0.0001 -.0036 -.0016
+Cu1 Cu1+ 0.0268 0.0202 0.0158 -.0068 -.0093 0.003
+As1 As5+ 0.0106 0.0101 0.0108 0.0004 -.0036 -.001
+O1 O2- 0.026 0.0178 0.0171 -.0082 -.007 0.0039
+O2 O2- 0.0141 0.0118 0.0201 -.0007 -.0005 0.0017
+O3 O2- 0.0328 0.0118 0.0192 -.003 -.0108 -.002
+O4 O2- 0.0156 0.0075 0.0169 0.0035 -.0077 -.0036

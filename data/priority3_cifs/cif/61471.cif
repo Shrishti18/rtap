@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 61471
+_audit_creation_date 1988-02-22
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Iron antimony oxide (1/2/4)'
+_chemical_formula_structural 'Fe Sb2 O4'
+_chemical_formula_sum 'Fe1 O4 Sb2'
+_chemical_name_structure_type Minium-Pb3O4
+_chemical_name_mineral Schafarzikite
+_exptl_crystal_density_diffrn 5.52
+_cell_measurement_temperature 60.
+_publ_section_title
+;
+Structures isomorphes Me X2 O4. Evolution structurale entre 2 K et 300 K de
+l'antimonite Fe Sb2 O4: elasticite et ordre magnetique anisotropes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1985 60 78 86 JSSCBI
+loop_
+_publ_author_name
+'Chater, R.'
+'Gavarri, J.R.'
+'Hewat, A.W.'
+_cell_length_a 8.6096(2)
+_cell_length_b 8.6096(2)
+_cell_length_c 5.9014(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 437.44
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 42/m b c'
+_symmetry_Int_Tables_number 135
+_refine_ls_R_factor_all 0.0925
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'y, -x, z+1/2'
+4 '-x, -y, z'
+5 '-y+1/2, -x+1/2, -z+1/2'
+6 '-x+1/2, y+1/2, -z'
+7 'y, -x, -z+1/2'
+8 '-x, -y, -z'
+9 'y+1/2, x+1/2, -z+1/2'
+10 'x+1/2, -y+1/2, -z'
+11 '-y, x, -z+1/2'
+12 'x, y, -z'
+13 'y+1/2, x+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z'
+15 '-y, x, z+1/2'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Sb3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 4 d 0 0.5 0.25 . 1. 0
+Sb1 Sb3+ 8 h 0.17654(3) 0.16512(3) 0 . 1. 0
+O1 O2- 8 g 0.67929(2) 1.17929(2) 0.25 . 1. 0
+O2 O2- 8 h 0.10035(3) 0.64305(3) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Fe1 Fe2+ 0.445(60) 0.445(60) 0.16(11) 0 0 0
+Sb1 Sb3+ 0.445(60) 0.445(60) 0.16(11) 0 0 0
+O1 O2- 0.445(60) 0.445(60) 0.16(11) 0 0 0
+O2 O2- 0.445(60) 0.445(60) 0.16(11) 0 0 0

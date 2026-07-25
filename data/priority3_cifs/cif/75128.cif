@@ -1,0 +1,83 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 75128
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Bismuth copper(I) oxide selenide'
+_chemical_formula_structural 'Bi Cu O Se'
+_chemical_formula_sum 'Bi1 Cu1 O1 Se1'
+_chemical_name_structure_type ZrCuSiAs-CuHfSi2
+_exptl_crystal_density_diffrn 8.9
+_cell_measurement_temperature 298.
+_publ_section_title
+;
+New layered compounds with the general composition (MO) (CuSe), where
+M=Bi,Nd,Gd,Dy and BiOCuS: syntheses and crystal structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1994 112 189 191 JSSCBI
+loop_
+_publ_author_name
+'Kusainova, A.M.'
+'Berdonosov, P.S.'
+'Aksel'rud, L.G.'
+'Kholodkovskaya, L.N.'
+'Dolgikh, V.A.'
+'Popovkin, B.A.'
+_cell_length_a 3.9213(1)
+_cell_length_b 3.9213(1)
+_cell_length_c 8.9133(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 137.06
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m Z'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Se2- -2
+Cu1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 2 c 0.25 0.25 0.1411(7) 1.080(3) 1. 0
+Se1 Se2- 2 c 0.25 0.25 0.680(2) 1.360(9) 1. 0
+Cu1 Cu1+ 2 b 0.75 0.25 0.5 2.600(2) 1. 0
+O1 O2- 2 a 0.75 0.25 0 0.307(4) 1. 0

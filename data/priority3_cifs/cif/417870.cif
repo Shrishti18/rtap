@@ -1,0 +1,85 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 417870
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Nickel(II) bis(tetrachlorogallate)'
+_chemical_formula_structural 'Ni (Ga Cl4)2'
+_chemical_formula_sum 'Cl8 Ga2 Ni1'
+_chemical_name_structure_type Co(AlCl4)2
+_exptl_crystal_density_diffrn 2.89
+_cell_measurement_temperature 293.
+_publ_section_title
+'Die Kristallstrukturen von Ni (Al Cl4)2, Ni (Ga Cl4)2 und Na [Ni (Al Cl4)3]'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2007 62 1052
+1058 ZNBSEN
+loop_
+_publ_author_name
+'Kessler, U.'
+'Mueller, R.'
+_cell_length_a 12.6848(7)
+_cell_length_b 7.5774(3)
+_cell_length_c 11.5434(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.778(4)
+_cell_angle_gamma 90.
+_cell_volume 1108.99
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0638
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, -z'
+3 'x, -y, z+1/2'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+Ga3+ 3
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 4 e 0.5 0.49540(15) 0.75 0.0162(2) 1 0
+Ga1 Ga3+ 8 f 0.58765(5) 0.75121(10) 0.55206(5) 0.01704(18) 1 0
+Cl1 Cl1- 8 f 0.66271(12) 0.9881(2) 0.60755(12) 0.0266(3) 1 0
+Cl2 Cl1- 8 f 0.58639(11) 0.7403(2) 0.36179(10) 0.0202(3) 1 0
+Cl3 Cl1- 8 f 0.42805(11) 0.7206(2) 0.62131(12) 0.0207(3) 1 0
+Cl4 Cl1- 8 f 0.65438(11) 0.5104(2) 0.63419(11) 0.0201(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.0182(5) 0.0208(6) 0.0096(4) 0. 0.0006(4) 0.
+Ga1 Ga3+ 0.0199(3) 0.0205(3) 0.0107(3) -0.0016(3) 0.0003(2) 0.0003(3)
+Cl1 Cl1- 0.0312(8) 0.0260(8) 0.0228(7) -0.0063(8) 0.0005(6) -0.0034(7)
+Cl2 Cl1- 0.0279(7) 0.0225(7) 0.0102(6) -0.0036(7) 0.0003(5) -0.0007(6)
+Cl3 Cl1- 0.0190(7) 0.0279(9) 0.0152(6) 0.0019(6) 0.0009(5) 0.0035(6)
+Cl4 Cl1- 0.0206(7) 0.0254(8) 0.0144(6) 0.0048(7) 0.0036(5) 0.0033(6)

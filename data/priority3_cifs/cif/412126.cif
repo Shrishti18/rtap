@@ -1,0 +1,87 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 412126
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Rubidium phyllo-nonachlorotetraniobate'
+_chemical_formula_structural 'Rb (Nb4 Cl11)'
+_chemical_formula_sum 'Cl11 Nb4 Rb1'
+_exptl_crystal_density_diffrn 3.82
+_cell_measurement_temperature 298.
+_publ_section_title 'Die Netzstruktur von Rb Nb4 Cl11'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2002
+628 1022 1026 ZAACAB
+loop_
+_publ_author_name
+'Stroebele, M.'
+'Meyer, H.J.'
+_cell_length_a 16.2109(10)
+_cell_length_b 6.9022(4)
+_cell_length_c 6.5793(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 736.16
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m a'
+_symmetry_Int_Tables_number 51
+_refine_ls_R_factor_all 0.0206
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x+1/2, y, -z'
+6 '-x+1/2, y, z'
+7 '-x, y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb2+ 2.5
+Rb1+ 1
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb2+ 4 i 0.35766(2) 0 0.37700(5) 0.01196(10) 1. 0
+Nb2 Nb2+ 4 h 0.5 0.21517(5) 0.5 0.01095(10) 1. 0
+Rb1 Rb1+ 2 f 0.25 0.5 0.98868(13) 0.03567(19) 1. 0
+Cl1 Cl1- 4 i 0.41506(5) 0 0.71948(14) 0.01360(18) 1. 0
+Cl2 Cl1- 8 l 0.42051(4) 0.25442(11) 0.1784(1) 0.01637(15) 1. 0
+Cl3 Cl1- 4 j 0.58342(6) 0.5 0.35500(15) 0.01605(19) 1. 0
+Cl4 Cl1- 2 e 0.25 0 0.0835(2) 0.0174(3) 1. 0
+Cl5 Cl1- 4 k 0.25 -.23539(15) 0.51912(16) 0.0176(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb2+ 0.00976(15) 0.01202(17) 0.01412(16) 0 -0.00022(12) 0
+Nb2 Nb2+ 0.00990(16) 0.00987(18) 0.01308(16) 0 0.00023(11) 0
+Rb1 Rb1+ 0.0291(3) 0.0332(4) 0.0475(4) 0 0 0
+Cl1 Cl1- 0.0127(4) 0.0144(4) 0.0137(4) 0 0.0016(3) 0
+Cl2 Cl1- 0.0160(3) 0.0169(3) 0.0163(3) -0.0024(2) -0.0019(2) 0.0031(2)
+Cl3 Cl1- 0.0134(4) 0.0127(4) 0.0221(5) 0 0.0034(3) 0
+Cl4 Cl1- 0.0133(5) 0.0228(7) 0.0159(6) 0 0 0
+Cl5 Cl1- 0.0126(4) 0.0153(5) 0.0249(5) 0 0 0.0050(4)

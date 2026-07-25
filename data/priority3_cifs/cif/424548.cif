@@ -1,0 +1,97 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 424548
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Ammonium cobalt phosphate hydrate'
+_chemical_formula_structural '(N H4) (Co (P O4)) (H2 O)'
+_chemical_formula_sum 'H6 Co1 N1 O5 P1'
+_exptl_crystal_density_diffrn 2.68
+_cell_measurement_temperature 120.
+_publ_section_title
+'Ammonium-cobalt-nickel phosphates, (N H4) (Co1-x Nix P O4) * (H2 O)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2013 206 75 84 JSSCBI
+loop_
+_publ_author_name
+'Torre-Fernandez, Laura'
+'Trobajo, Camino'
+'de Pedro, Imanol'
+'Alfonso, Belen F.'
+'Fabelo, Oscar'
+'Blanco, Jesus A.'
+'Garcia, Jose R.'
+'Garcia-Granda, Santiago'
+_cell_length_a 17.543(2)
+_cell_length_b 5.6104(8)
+_cell_length_c 4.7763(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 470.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Co2+ 2
+P5+ 5
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 4 c 0.146(2) 0.25 -0.184(9) 0.015(9) 1 0
+O2 O2- 4 c 0.334(2) 0.25 0.367(8) 0.013(9) 1 0
+O3 O2- 8 d 0.3078(16) 0.032(5) -0.174(6) 0.015(7) 1 0
+O4 O2- 4 c 0.432(2) 0.25 -0.257(8) 0.015(9) 1 0
+Co1 Co2+ 4 c 0.2396(5) 0.25 0.1131(18) 0.012(3) 1 0
+P1 P5+ 4 c 0.3468(8) 0.25 -0.318(3) 0.012(4) 1 0
+N1 N3- 4 c 0.514(3) 0.25 0.242(11) 0.017(11) 1 0
+H1 H1+ 8 d 0.15(3) 0.11(6) -0.30(9) 0.026 1 0
+H2 H1+ 4 c 0.48(2) 0.25 0.42(7) 0.02 1 0
+H3 H1+ 4 c 0.48(2) 0.25 0.07(7) 0.02 1 0
+H4 H1+ 8 d 0.547(16) 0.10(5) 0.24(6) 0.02 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.011(19) 0.01(2) 0.02(2) 0. -0.001(18) 0.
+O2 O2- 0.008(19) 0.02(2) 0.02(2) 0. -0.002(15) 0.
+O3 O2- 0.012(13) 0.013(16) 0.018(14) -0.001(13) 0.000(11) -0.003(12)
+O4 O2- 0.009(19) 0.02(2) 0.02(2) 0. 0.002(17) 0.
+Co1 Co2+ 0.009(5) 0.012(6) 0.014(5) 0. 0.000(4) 0.
+P1 P5+ 0.009(7) 0.012(8) 0.016(7) 0. 0.000(5) 0.
+N1 N3- 0.01(2) 0.02(3) 0.02(3) 0. 0.00(2) 0.

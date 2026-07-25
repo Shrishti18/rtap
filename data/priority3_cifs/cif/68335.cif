@@ -1,0 +1,67 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 68335
+_audit_creation_date 1991-07-10
+_chemical_name_systematic 'Trizirconium pentaoxide sulfate'
+_chemical_formula_structural 'Zr3 O5 (S O4)'
+_chemical_formula_sum 'O9 S1 Zr3'
+_exptl_crystal_density_diffrn 4.23
+_publ_section_title 'Crystal structure of anhydrous zirconium oxide sulfate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Nippon Seramikkusu Kyokai Gakujutsu Ronbunshi' 1988 96 980 984 NSKRE2
+loop_
+_publ_author_name
+'Li, C.'
+'Daimon, K.'
+'Murase, Y.'
+'Kato, E.'
+_cell_length_a 6.31
+_cell_length_b 6.31
+_cell_length_c 10.25
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 353.44
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+_refine_ls_R_factor_all 0.169
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 6 g 0.6667 0 0.646 . 1. 0
+S1 S6+ 2 d 0.6667 0.3333 0.863 . 1. 0
+O1 O2- 2 c 0 0 0.719 . 1. 0
+O2 O2- 2 d 0.6667 0.3333 0.719 . 1. 0
+O3 O2- 2 d 0.3333 0.6667 0.719 . 1. 0
+O4 O2- 6 g 0.3333 0 0.573 . 1. 0
+O5 O2- 6 g 0.416 0.3333 0.904 . 1. 0

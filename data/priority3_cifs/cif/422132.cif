@@ -1,0 +1,102 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 422132
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Disilver barium copper bis(vanadate(V))'
+_chemical_formula_structural 'Ag2 Ba Cu (V O4)2'
+_chemical_formula_sum 'Ag2 Ba1 Cu1 O8 V2'
+_exptl_crystal_density_diffrn 5.54
+_cell_measurement_temperature 296.
+_publ_section_title
+;
+Synthesis, crystal structure, and physical properties of Ba Ag2 Cu [V O4]2: a
+new member of the S = 1/2 triangular lattice
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2011 50 2207 2214 INOCAJ
+loop_
+_publ_author_name
+'Amuneke, N.E.'
+'Gheorghe, D.E.'
+'Lorenz, B.'
+'Moeller, A.'
+_cell_length_a 5.448(2)
+_cell_length_b 5.632(3)
+_cell_length_c 14.393(6)
+_cell_angle_alpha 94.038(9)
+_cell_angle_beta 90.347(6)
+_cell_angle_gamma 118.195(5)
+_cell_volume 387.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0397
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ag1+ 1
+Cu2+ 2
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 i 0.52988(11) 0.04007(11) 0.25103(4) 0.0184(2) 1 0
+Ag1 Ag1+ 2 i 0.82851(13) 0.66664(13) 0.08757(5) 0.0214(2) 1 0
+Ag2 Ag1+ 2 i 0.18787(14) 0.37528(14) 0.41257(5) 0.0216(2) 1 0
+Cu1 Cu2+ 1 d 0.5 0. 0. 0.0131(3) 1 0
+Cu2 Cu2+ 1 f 0.5 0. 0.5 0.0140(3) 1 0
+V1 V5+ 2 i 0.1611(3) 0.3204(3) 0.12717(10) 0.0123(3) 1 0
+V2 V5+ 2 i 0.8569(3) 0.7135(3) 0.37422(10) 0.0125(3) 1 0
+O1 O2- 2 i 0.4134(12) 0.2344(12) 0.0869(4) 0.0202(13) 1 0
+O2 O2- 2 i 0.8297(11) 0.0892(12) 0.0816(4) 0.0177(12) 1 0
+O3 O2- 2 i 0.7602(12) 0.9580(12) 0.4145(4) 0.0203(13) 1 0
+O4 O2- 2 i 0.2109(12) 0.8206(12) 0.4000(4) 0.0195(13) 1 0
+O5 O2- 2 i 0.1460(13) 0.2997(14) 0.2431(4) 0.0260(15) 1 0
+O6 O2- 2 i 0.8009(15) 0.6633(14) 0.2583(5) 0.0300(16) 1 0
+O7 O2- 2 i 0.3480(13) 0.5899(13) 0.5813(5) 0.0247(14) 1 0
+O8 O2- 2 i 0.2488(13) 0.6434(12) 0.1026(5) 0.0263(15) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0185(3) 0.0266(3) 0.0123(3) 0.0127(2) 0.00044(19) 0.0015(2)
+Ag1 Ag1+ 0.0200(4) 0.0233(4) 0.0229(4) 0.0118(3) 0.0020(3) 0.0024(3)
+Ag2 Ag1+ 0.0202(4) 0.0235(4) 0.0214(4) 0.0110(3) -0.0020(3) -0.0013(3)
+Cu1 Cu2+ 0.0113(7) 0.0186(7) 0.0120(7) 0.0100(6) -0.0019(5) -0.0035(5)
+Cu2 Cu2+ 0.0110(7) 0.0203(7) 0.0120(7) 0.0089(6) -0.0002(5) -0.0027(5)
+V1 V5+ 0.0109(6) 0.0161(7) 0.0111(7) 0.0076(5) -0.0006(5) -0.0011(5)
+V2 V5+ 0.0104(6) 0.0171(7) 0.0116(7) 0.0081(5) -0.0004(5) -0.0012(5)
+O1 O2- 0.013(3) 0.026(3) 0.026(3) 0.013(3) -0.001(2) -0.001(3)
+O2 O2- 0.013(3) 0.025(3) 0.018(3) 0.011(3) -0.004(2) 0.000(2)
+O3 O2- 0.020(3) 0.021(3) 0.025(4) 0.013(3) 0.007(3) 0.002(2)
+O4 O2- 0.012(3) 0.026(3) 0.019(3) 0.008(2) 0.000(2) -0.001(2)
+O5 O2- 0.024(3) 0.041(4) 0.013(3) 0.017(3) -0.002(3) -0.006(3)
+O6 O2- 0.041(4) 0.031(4) 0.014(3) 0.015(3) 0.000(3) -0.002(3)
+O7 O2- 0.020(3) 0.022(3) 0.032(4) 0.010(3) 0.009(3) 0.006(3)
+O8 O2- 0.023(3) 0.020(3) 0.038(4) 0.012(3) 0.002(3) 0.007(3)

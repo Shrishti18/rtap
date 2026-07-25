@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 421493
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Dirubidium palladium acetylide'
+_chemical_formula_structural 'Rb2 Pd C2'
+_chemical_formula_sum 'C2 Pd1 Rb2'
+_chemical_name_structure_type NaPdC2
+_exptl_crystal_density_diffrn 3.81
+_cell_measurement_temperature 295.
+_publ_section_title
+;
+Ternary transition metal acetylides A(I)2 M(0) C2 (A(I) = K, Rb; M(0) = Pd,
+Pt): neutron diffraction studies and electronic properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2010
+636 1834 1838 ZAACAB
+loop_
+_publ_author_name
+'Billetter, H.'
+'Wallraff, T.'
+'Schwarz, U.'
+'Smith, R.I.'
+'Ruschewitz, U.'
+_cell_length_a 5.35675(4)
+_cell_length_b 5.35675(4)
+_cell_length_c 5.28888(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 131.43
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Pd0+ 0
+C1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 d 0.3333 0.6666 0.27859(14) 0.02321(20) 1. 0
+Pd1 Pd0+ 1 a 0. 0. 0. 0.01408(20) 1. 0
+C1 C1- 2 c 0. 0. 0.38239(10) 0.01470(14) 1. 0

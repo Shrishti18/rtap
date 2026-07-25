@@ -1,0 +1,76 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 80392
+_audit_creation_date 1997-05-13
+_chemical_name_systematic 'Dicesium selenate(IV) - tungsten oxide (1/3)'
+_chemical_formula_structural '(Cs2 (Se O3)) (W O3)3'
+_chemical_formula_sum 'Cs2 O12 Se1 W3'
+_chemical_name_structure_type Cs2(Mo3SeO12)
+_exptl_crystal_density_diffrn 6.31
+_cell_measurement_temperature 298.
+_publ_section_title
+;
+Syntheses, crystal structures, and properties of new layered
+tungsten(VI)-containing materials based on the hexagonalW O3 structure: M2 (W
+O3)3 Se O3 (M = N H4, Rb, Cs)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 120 112 120 JSSCBI
+loop_
+_publ_author_name
+'Harrison, W.T.A.'
+'Dussack, L.L.'
+'Vogt, T.'
+'Jacobson, A.J.'
+_cell_length_a 7.2615(2)
+_cell_length_b 7.2615(2)
+_cell_length_c 12.5426(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 572.76
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+W6+ 6
+Se4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 b 0.3333 0.6667 0.0897(6) 0.0373 1. 0
+Cs2 Cs1+ 2 b 0.3333 0.6667 0.7267(6) 0.014 1. 0
+W1 W6+ 6 c 0.3376(7) 0.1483(8) 0.8968(4) 0.009(1) 1. 0
+Se1 Se4+ 2 a 0 0 0.6695(3) 0.0057(9) 1. 0
+O1 O2- 6 c 0.126(2) 0.876(2) 0.9047(4) 0.0116(9) 1. 0
+O2 O2- 6 c 0.3979(6) 0.196(2) 0.0285(3) 0.0129(8) 1. 0
+O3 O2- 6 c 0.549(2) 0.0900(5) 0.8523(3) 0.0062(9) 1. 0
+O4 O2- 6 c 0.2483(5) 0.114(2) 0.7280(3) 0.009(1) 1. 0

@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 291295
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Potassium yttrium hexaoxoditellurate(IV)'
+_chemical_formula_structural 'K Y Te2 O6'
+_chemical_formula_sum 'K1 O6 Te2 Y1'
+_exptl_crystal_density_diffrn 4.58
+_cell_measurement_temperature 298.
+_publ_section_title
+;
+Rich structural chemistry in new alkali metal yttrium tellurites:
+three-dimensional frameworks of Na Y Te4 O10, K Y (Te O3)2, Rb Y (Te O3)2, and
+a novel variant of hexagonal tungsten bronze, Cs Y Te3 O8
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 389 395 INOCAJ
+loop_
+_publ_author_name
+'Kim, Youngkwon'
+'Lee, Dong Woo'
+'Ok, Kang Min'
+_cell_length_a 13.563(10)
+_cell_length_b 5.9911(10)
+_cell_length_c 8.5601(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 695.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0233
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te4+ 4
+Y3+ 3
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te4+ 4 c 0.30295(3) -0.25 0.49578(5) 0.01412(12) 1 0
+Te2 Te4+ 4 c 0.07983(3) -0.25 0.77872(5) 0.01276(13) 1 0
+Y1 Y3+ 4 c 0.40904(4) 0.25 0.71216(7) 0.01138(15) 1 0
+K1 K1+ 4 c 0.12962(10) 0.25 0.49572(17) 0.0209(3) 1 0
+O1 O2- 8 d 0.2993(2) -0.0116(5) 0.6324(4) 0.0238(8) 1 0
+O2 O2- 4 c 0.1689(3) -0.25 0.4472(5) 0.0194(9) 1 0
+O3 O2- 8 d 0.0104(2) -0.0127(4) 0.6934(3) 0.0174(7) 1 0
+O4 O2- 4 c 0.0217(3) -0.25 0.9752(5) 0.0219(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te4+ 0.0118(2) 0.0132(2) 0.0173(2) 0 0.00024(17) 0
+Te2 Te4+ 0.0117(2) 0.0106(2) 0.0160(2) 0 -0.00186(16) 0
+Y1 Y3+ 0.0124(3) 0.0098(3) 0.0120(3) 0 -0.0001(2) 0
+K1 K1+ 0.0212(7) 0.0183(6) 0.0231(7) 0 -0.0009(6) 0
+O1 O2- 0.0184(17) 0.0170(16) 0.036(2) -0.0038(12) -0.0017(16) -0.0100(16)
+O2 O2- 0.013(2) 0.027(2) 0.018(2) 0 -0.0038(19) 0
+O3 O2- 0.0214(17) 0.0123(15) 0.0184(16) 0.0038(11) 0.0021(13) 0.0021(13)
+O4 O2- 0.026(2) 0.025(2) 0.015(2) 0 0.0006(19) 0

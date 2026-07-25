@@ -1,0 +1,86 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 92963
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Trimercury arsenate(III) chloride'
+_chemical_formula_structural 'Hg3 (As O4) Cl'
+_chemical_formula_sum 'As1 Cl1 Hg3 O4'
+_chemical_name_structure_type Hg3PO4Cl
+_chemical_name_mineral Kuznetsovite
+_exptl_crystal_density_diffrn 8.76
+_publ_section_title
+'Microtwinning in the crystal structure of kuznetsovite Hg3 As O4 Cl'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii (Issue-No. from 1981)' 2000 41 1078 1079
+ZSTKAI
+loop_
+_publ_author_name
+'Romanenko, G.V.'
+'Borisov, S.V.'
+_cell_length_a 8.379(3)
+_cell_length_b 8.379(3)
+_cell_length_c 8.379(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 588.27
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Cl1- -1
+As3+ 3
+Hg2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 4 a 0.8670(15) 0.8670(15) 0.8670(15) 0.002(4) 1. 0
+O2 O2- 12 b 0.1045(18) 0.1002(18) 0.8769(17) 0.012(3) 1. 0
+Cl1 Cl1- 4 a 0.2396(6) 0.2396(6) 0.2396(6) 0.009(2) 1. 0
+As1 As3+ 4 a 0.9840(2) 0.9840(2) 0.9840(2) 0.006(1) 1. 0
+Hg1 Hg2+ 12 b 0.3975(1) 0.6418(1) 0.4454(1) 0.028(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cl1 Cl1- 0.009(2) 0.009(2) 0.009(2) 0.004(2) 0.004(2) 0.004(2)
+As1 As3+ 0.006(1) 0.006(1) 0.006(1) -0.002(1) -0.002(1) -0.002(1)
+Hg1 Hg2+ 0.020(1) 0.015(1) 0.050(1) 0.007(1) -0.007(1) 0.013(1)

@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 419767
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Triammonium trichloridotrioxorhenate(VII) chloride'
+_chemical_formula_structural 'Cl4 H12 N3 O3 Re'
+_chemical_formula_sum 'H12 Cl4 N3 O3 Re1'
+_exptl_crystal_density_diffrn 2.63
+_cell_measurement_temperature 100.
+_publ_section_title
+;
+Structure of triammonium fac-trichloridotrioxidorhenate(VII) chloride with C3v
+crystallographic symmetry of the complex anion
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Crystallography' 2010 40 707 711 JCCYEV
+loop_
+_publ_author_name
+'Holynska, M.'
+'Lis, T.'
+_cell_length_a 9.026(3)
+_cell_length_b 9.026(3)
+_cell_length_c 7.690(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 542.56
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.0115
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re7+ 7
+O2- -2
+Cl1- -1
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re7+ 2 b 0.3333 0.6667 0.5 0.00779(2) 1 0
+O1 O2- 6 c 0.5328(2) 0.76642(10) 0.59422(18) 0.0138(3) 1 0
+Cl1 Cl1- 6 c 0.45383(3) 0.90766(5) 0.27789(6) 0.01119(7) 1 0
+Cl2 Cl1- 2 a 1. 1. 0.71006(9) 0.01199(13) 1 0
+N1 N3- 6 c 0.6703(2) 0.83517(11) 0.96742(19) 0.0138(3) 1 0
+H1 H1+ 6 c 0.7729 0.8865 1.0233 0.017 1 0
+H2 H1+ 6 c 0.5857 0.7928 1.0486 0.017 1 0
+H3 H1+ 12 d 0.6498 0.9008 0.8924 0.017 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re7+ 0.00847(3) 0.00847(3) 0.00644(3) 0.00423(1) 0. 0.
+O1 O2- 0.0130(6) 0.0149(5) 0.0130(6) 0.0065(3) -0.0041(5) -0.0020(2)
+Cl1 Cl1- 0.01199(12) 0.00882(16) 0.01172(16) 0.00441(8) 0.00098(7) 0.00195(14)
+Cl2 Cl1- 0.01298(17) 0.01298(17) 0.0100(3) 0.00649(8) 0. 0.
+N1 N3- 0.0131(6) 0.0158(5) 0.0117(8) 0.0065(3) 0.0007(5) 0.0004(3)

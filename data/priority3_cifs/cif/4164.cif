@@ -1,0 +1,87 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 4164
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Aluminium tetraoxotungstate(V)'
+_chemical_formula_structural 'Al W O4'
+_chemical_formula_sum 'Al1 O4 W1'
+_chemical_name_structure_type CrPS4
+_exptl_crystal_density_diffrn 7.78
+_publ_section_title
+;
+Synthese, croissance cristalline, proprietes structurales et physique d'un
+nouveau tungstate(V) d'aluminium Al W O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1975 14 144 151 JSSCBI
+loop_
+_publ_author_name
+'Doumerc, J.P.'
+'Vlasse, M.'
+'Pouchard, M.'
+'Hagenmuller, P.'
+_cell_length_a 9.069(5)
+_cell_length_b 5.705(6)
+_cell_length_c 4.541(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.29(1)
+_cell_angle_gamma 90.
+_cell_volume 234.76
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+W5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 i 0.259 0 0.4858(9) . 1. 0
+W1 W5+ 4 g 0 0.7716(1) 0 . 1. 0
+O1 O2- 8 j 0.1504(7) 0.2449(6) 0.3012(8) . 1. 0
+O2 O2- 4 i 0.1141(5) 0 0.7791(8) . 1. 0
+O3 O2- 4 i 0.4023(5) 0 0.1975(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Al1 Al3+ 0.00044(14) 0.00182(40) 0.00418(61) 0 0.00126(23) 0
+W1 W5+ 0.00051(3) 0.00245(10) 0.00477(15) 0 0.00039(4) 0
+O1 O2- 0.00108(22) 0.00419(67) 0.0081(10) 0.00004(2) -.00005(2) 0.00027
+O2 O2- 0.00153(35) 0.00436(98) 0.0055(10) 0 0.00101(55) 0
+O3 O2- 0.00121(33) 0.00490(97) 0.0065(11) 0 0.00188(55) 0

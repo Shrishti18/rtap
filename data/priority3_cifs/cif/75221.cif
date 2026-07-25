@@ -1,0 +1,85 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 75221
+_audit_creation_date 1995-10-17
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Guanidinium nitrate(V)'
+_chemical_formula_structural '(C (N H2)3) (N O3)'
+_chemical_formula_sum 'C1 H6 N4 O3'
+_exptl_crystal_density_diffrn 1.41
+_cell_measurement_temperature 291.
+_publ_section_title 'Guanidinium nitrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1994 50 1161 1163 ACSCEE
+loop_
+_publ_author_name
+'Katrusiak, A.'
+'Szafranski, M.'
+_cell_length_a 12.686(3)
+_cell_length_b 7.274(2)
+_cell_length_c 3.629(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 120.85(2)
+_cell_angle_gamma 90.
+_cell_volume 287.5
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 m 1'
+_symmetry_Int_Tables_number 8
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N5+ 5
+O2- -2
+C4+ 4
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N5+ 2 a 0.5464(4) 0 0.0915(12) . 1. 0
+O1 O2- 2 a 0.6512(4) 0 0.1271(12) . 1. 0
+O2 O2- 4 b 0.5007(3) 0.1508(2) 0.0957(10) . 1. 0
+C1 C4+ 2 a 0.2 0 0 . 1. 0
+N2 N3- 2 a 0.0971(6) 0 -.0235(18) . 1. 0
+N3 N3- 4 b 0.2586(4) 0.1533(5) 0.0332(17) . 1. 0
+H1 H1+ 4 b 0.079(3) 0.093(5) -.005(8) 0.032(9) 1. 0
+H2 H1+ 4 b 0.299(5) 0.148(4) -.005(9) 0.011(8) 1. 0
+H3 H1+ 4 b 0.221(5) 0.236(8) 0.060(15) 0.084(15) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+N1 N5+ 0.0346(44) 0.0734(24) 0.0655(26) 0 0.0292(29) 0
+O1 O2- 0.0718(41) 0.0637(19) 0.1135(32) 0 0.0603(33) 0
+O2 O2- 0.0802(24) 0.0676(14) 0.1020(16) 0.0033(9) 0.0606(18) -.002(1)
+C1 C4+ 0.0730(64) 0.0414(19) 0.0542(27) 0 0.0376(35) 0
+N2 N3- 0.0800(55) 0.0534(29) 0.1215(46) 0 0.0786(42) 0
+N3 N3- 0.0660(45) 0.0559(18) 0.1199(36) -.0142(19) 0.0677(41) -.0182(14)

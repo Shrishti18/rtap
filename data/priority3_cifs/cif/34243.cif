@@ -1,0 +1,65 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 34243
+_audit_creation_date 1986-09-23
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Gallium oxide - beta'
+_chemical_formula_structural 'Ga2 O3'
+_chemical_formula_sum 'Ga2 O3'
+_chemical_name_structure_type Ga2O3
+_exptl_crystal_density_diffrn 5.94
+_publ_section_title 'Crystal structure of beta-Ga2 O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Physics' 1960 33 676 684 JCPSA6
+loop_
+_publ_author_name
+'Geller, S.'
+_cell_length_a 12.23(2)
+_cell_length_b 3.04(1)
+_cell_length_c 5.80(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.7(3)
+_cell_angle_gamma 90.
+_cell_volume 209.5
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.137
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 4 i 0.0904(2) 0 -.2052(5) 0.2 1. 0
+Ga2 Ga3+ 4 i 0.3414(2) 0 -.3143(5) 0.2 1. 0
+O1 O2- 4 i 0.1674(19) 0 0.1011(41) 0.8 1. 0
+O2 O2- 4 i 0.4957(16) 0 0.2553(34) 0.8 1. 0
+O3 O2- 4 i 0.8279(15) 0 0.4365(34) 0.8 1. 0

@@ -1,0 +1,88 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 73397
+_audit_creation_date 1994-06-30
+_chemical_name_systematic 'Hexaaquacobalt(II) bis(bromate(VII))'
+_chemical_formula_structural '(Co (H2 O)6) (Br O4)2'
+_chemical_formula_sum 'H12 Br2 Co1 O14'
+_chemical_name_structure_type Hg(H2O)6(ClO4)2
+_exptl_crystal_density_diffrn 2.47
+_cell_measurement_temperature 296.
+_publ_section_title 'Structure of hexaaquacobalt(II) perbromate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1993 49 1271 1275 ACSCEE
+loop_
+_publ_author_name
+'Blackburn, A.C.'
+'Gerkin, R.E.'
+_cell_length_a 7.8906(3)
+_cell_length_b 7.8906(3)
+_cell_length_c 5.6628(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 305.34
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Br7+ 7
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 1 a 0 0 0 . 1. 0
+Br1 Br7+ 2 d 0.3333 0.6667 0.67783(15) . 1. 0
+O1 O2- 2 d 0.3333 0.6667 0.3953(10) . 1. 0
+O2 O2- 6 i 0.4442(2) 0.8884(4) 0.7737(6) . 1. 0
+O3 O2- 6 i 0.1251(3) 0.8749(3) 0.2104(7) . 1. 0
+H1 H1+ 12 j 0.069(7) 0.753(5) 0.210(6) 0.092(16) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.0192(5) 0.0192(5) 0.0371(8) 0.0096(3) 0 0
+Br1 Br7+ 0.0197(3) 0.0197(3) 0.0369(5) 0.0099(2) 0 0
+O1 O2- 0.0486(26) 0.0486(26) 0.0360(32) 0.0243(13) 0 0
+O2 O2- 0.0386(16) 0.0259(20) 0.0750(27) 0.013(1) -.0090(9) -.0180(18)
+O3 O2- 0.0341(16) 0.0341(16) 0.0690(25) 0.0168(19) -.0087(10) 0.0087(10)

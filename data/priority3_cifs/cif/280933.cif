@@ -1,0 +1,99 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 280933
+_audit_creation_date 2003-04-01
+_audit_update_record 2005-10-01
+_chemical_name_systematic
+'Dipotassium strontium hexachloro-dodeca-mue-chloro- octahedro-hexaniobate'
+_chemical_formula_structural 'K2 Sr Nb6 Cl18'
+_chemical_formula_sum 'Cl18 K2 Nb6 Sr1'
+_chemical_name_structure_type Cs2PbNb6Cl18
+_exptl_crystal_density_diffrn 3.49
+_cell_measurement_temperature 273.
+_publ_section_title
+'K2 Sr Nb6 Cl18, dipotassium strontium hexaniobium octadecachloride'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2002 58 i85 i86 ACSCEE
+loop_
+_publ_author_name
+'Duraisamy, T.'
+'Lachgar, A.'
+_cell_length_a 9.3025(8)
+_cell_length_b 9.3025(8)
+_cell_length_c 25.9412(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1944.11
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb2+ 2.333
+Sr2+ 2
+Cl1- -1
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb2+ 18 f 0.16564(4) 0.19468(4) 0.045953(14) 0.00999(12) 1. 0
+Sr1 Sr2+ 3 b 0.3333 0.6667 0.1667 0.0152(2) 1. 0
+Cl1 Cl1- 18 f 0.42185(12) 0.26214(13) -.00009(4) 0.0164(2) 1. 0
+Cl2 Cl1- 18 f 0.22717(13) 0.03393(13) 0.10867(4) 0.0164(2) 1. 0
+Cl3 Cl1- 18 f 0.37873(13) 0.43532(13) 0.10374(4) 0.0194(2) 1. 0
+K1 K1+ 6 c 0.6667 0.3333 0.11171(10) 0.0403(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb2+ 0.01050(18) 0.01012(19) 0.00911(18) 0.00498(14) -0.00058(12)
+-0.00084(12)
+Sr1 Sr2+ 0.0153(3) 0.0153(3) 0.0148(5) 0.00766(15) 0 0
+Cl1 Cl1- 0.0106(4) 0.0170(5) 0.0174(5) 0.0038(4) 0.0009(4) -0.0026(4)
+Cl2 Cl1- 0.0190(5) 0.0154(5) 0.0142(4) 0.0082(4) -0.0061(4) -0.0007(4)
+Cl3 Cl1- 0.0192(5) 0.0172(5) 0.0193(5) 0.0074(4) -0.0042(4) -0.0070(4)
+K1 K1+ 0.0377(8) 0.0377(8) 0.0454(14) 0.0189(4) 0 0

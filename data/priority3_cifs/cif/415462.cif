@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 415462
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Diaquacobalt chloride - selenic(IV) acid (1/2)'
+_chemical_formula_structural '((Co (H2 O)2) Cl2) (H2 Se O3)2'
+_chemical_formula_sum 'H8 Cl2 Co1 O8 Se2'
+_exptl_crystal_density_diffrn 2.88
+_publ_section_title
+;
+Selenious acid as a ligand: molecular and crystal structure of (Co (H2 O)2 Cl2
+(H2 Se O3)2)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2005
+631 2306 2308 ZAACAB
+loop_
+_publ_author_name
+'Ben Hamida, M.'
+'Wickleder, M.S.'
+_cell_length_a 5.1982(5)
+_cell_length_b 14.6263(14)
+_cell_length_c 6.4309(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.506(12)
+_cell_angle_gamma 90.
+_cell_volume 488.48
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0583
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+Co2+ 2
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 4 e 0.70649(11) 0.32730(4) 0.21799(8) 0.01617(16) 1 0
+O1 O2- 4 e 0.9412(8) 0.2416(3) 0.1932(7) 0.0243(10) 1 0
+H1 H1+ 4 e 0.922(13) 0.206(4) 0.255(10) 0.03(2) 1 0
+O2 O2- 4 e 0.7646(6) 0.3813(2) 0.0000(5) 0.0161(8) 1 0
+O3 O2- 4 e 0.4634(9) 0.2544(3) 0.1221(7) 0.0276(10) 1 0
+H2 H1+ 4 e 0.342(13) 0.260(5) 0.152(10) 0.03(2) 1 0
+Co1 Co2+ 2 c 1. 0.5 0. 0.0125(2) 1 0
+Cl1 Cl1- 4 e 1.2313(2) 0.44467(9) 0.3117(2) 0.0214(3) 1 0
+O4 O2- 4 e 0.7564(8) 0.5709(3) 0.1918(7) 0.0210(9) 1 0
+H3 H1+ 4 e 0.628(12) 0.577(4) 0.153(10) 0.02(2) 1 0
+H4 H1+ 4 e 0.766(14) 0.564(5) 0.341(11) 0.05(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.0184(3) 0.0146(3) 0.0158(3) 0.0017(3) 0.00361(17) 0.0022(3)
+O1 O2- 0.020(2) 0.015(2) 0.038(3) 0.0053(18) 0.0069(18) 0.010(2)
+O2 O2- 0.0165(19) 0.0137(19) 0.0182(19) -0.0029(15) 0.0016(15) 0.0024(15)
+O3 O2- 0.019(2) 0.022(2) 0.043(3) -0.008(2) 0.009(2) -0.0100(19)
+Co1 Co2+ 0.0135(5) 0.0100(5) 0.0139(5) -0.0002(4) 0.0007(4) 0.0009(4)
+Cl1 Cl1- 0.0237(8) 0.0254(7) 0.0151(6) 0.0048(6) -0.0007(5) 0.0020(5)
+O4 O2- 0.020(2) 0.015(2) 0.038(3) 0.0053(18) 0.0069(18) 0.010(2)

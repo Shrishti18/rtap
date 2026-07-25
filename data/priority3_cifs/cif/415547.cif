@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 415547
+_audit_creation_date 2007-04-01
+_audit_update_record 2008-08-01
+_chemical_name_systematic 'Zinc bis(tetracyanoborate)'
+_chemical_formula_structural 'Zn (B (C N)4)2'
+_chemical_formula_sum 'C8 B2 N8 Zn1'
+_exptl_crystal_density_diffrn 1.67
+_publ_section_title
+;
+M [B (C N)4]2: Zwei neue Tetracyanoborate mit zweiwertigen Kationen (M = Cu
+und Zn)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2006
+632 939 944 ZAACAB
+loop_
+_publ_author_name
+'Neukirch, M.'
+'Tragl, S.'
+'Meyer, H.J.'
+'Kueppers, T.'
+'Willner, H.'
+_cell_length_a 7.5092(9)
+_cell_length_b 7.5092(9)
+_cell_length_c 6.0159(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 293.78
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0299
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+N3- -3
+C2+ 2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 1 b 0. 0. 0.5 0.02263(16) 1 0
+N1 N3- 6 i 0.27194(28) 0.13597(14) 0.3009(3) 0.0316(3) 1 0
+N2 N3- 2 d 0.6667 0.3333 -0.3080(6) 0.0495(10) 1 0
+C1 C2+ 6 i 0.4361(3) 0.21805(14) 0.2347(3) 0.0255(3) 1 0
+C2 C2+ 2 d 0.6667 0.3333 -0.1198(6) 0.0300(6) 1 0
+B1 B3+ 2 d 0.6667 0.3333 0.1444(5) 0.0216(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.01991(18) 0.01991(18) 0.0281(3) 0.00995(9) 0. 0.
+N1 N3- 0.0261(7) 0.0301(6) 0.0371(8) 0.0130(4) 0.0022(6) 0.0011(3)
+N2 N3- 0.0601(16) 0.0601(16) 0.0284(14) 0.0301(8) 0. 0.
+C1 C2+ 0.0240(7) 0.0247(5) 0.0276(8) 0.0120(4) -0.0004(6) -0.0002(3)
+C2 C2+ 0.0308(9) 0.0308(9) 0.0286(14) 0.0154(5) 0. 0.
+B1 B3+ 0.0207(8) 0.0207(8) 0.0235(13) 0.0103(4) 0. 0.

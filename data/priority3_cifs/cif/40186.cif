@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 40186
+_audit_creation_date 1999-11-30
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Dicadmium oxide dihydroxide hydrate'
+_chemical_formula_structural 'Cd2 O (O H)2 (H2 O)'
+_chemical_formula_sum 'H4 Cd2 O4'
+_chemical_name_structure_type Cd(OH)2
+_exptl_crystal_density_diffrn 4.94
+_cell_measurement_temperature 133.
+_publ_section_title
+'Etude structurale de gamma-Cd (O H)2 ou Cd2 O (O H)2 (H2 O)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1990 25 987 996 MRBUAC
+loop_
+_publ_author_name
+'Riou, A.'
+'Cudennec, Y.'
+'Gerault, Y.'
+_cell_length_a 5.664(2)
+_cell_length_b 10.223(3)
+_cell_length_c 3.404(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.52(3)
+_cell_angle_gamma 90.
+_cell_volume 197.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 1 m 1'
+_symmetry_Int_Tables_number 8
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 4 b 0 0.15254(4) 0 . 1. 0
+O1 O2- 2 a 0.115(2) 0 0.489(3) . 1. 0
+O2 O2- 2 a 0.687(2) 0 0.942(3) . 1. 0
+O3 O2- 4 b 0.879(1) 0.2796(6) 0.495(2) . 1. 0
+H1 H1+ 2 a 0 0.5 0.332 2. 1. 0
+H2 H1+ 2 a 0.666 0 0.25 2. 1. 0
+H3 H1+ 4 b 0 0.332 0.5 2. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cd1 Cd2+ 0.0035(1) 0.00107(2) 0.0096(2) 0.0000(3) 0.0002(2) -.0001(6)
+O1 O2- 0.005(2) 0.0010(5) 0.013(5) 0 0.003(6) 0
+O2 O2- 0.003(2) 0.0018(6) 0.021(7) 0 0.003(6) 0
+O3 O2- 0.002(1) 0.0026(4) 0.005(3) 0.000(1) 0.002(4) 0.000(2)

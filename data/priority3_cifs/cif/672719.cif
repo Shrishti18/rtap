@@ -1,0 +1,72 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 672719
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Barium Zinc Fluoride (1/1/4)'
+_chemical_formula_structural 'Ba Zn F4'
+_chemical_formula_sum 'Ba1 F4 Zn1'
+_exptl_crystal_density_diffrn 4.9
+_publ_section_title
+;
+Ab initio study of the ferroelectric strain dependence and 180 domain walls in
+the barium metal fluorides BaMgF4 and BaZnF4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2016 93
+064112-1 7 PRBMDO
+loop_
+_publ_author_name
+'Nunez Valdez, Maribel'
+'Spanke, Hendrik T.'
+'Spaldin, Nicola A.'
+_cell_length_a 4.25
+_cell_length_b 14.88
+_cell_length_c 5.97
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 377.54
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+Zn0+ 0
+F0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 4 a 0.5 0.351 0.455 1. 1. 0
+Zn1 Zn0+ 4 a 0. 0.414 -0.002 1. 1. 0
+F1 F0+ 4 a 0. 0.335 0.726 1. 1. 0
+F2 F0+ 4 a 0. 0.302 0.193 1. 1. 0
+F3 F0+ 4 a 0. 0.531 0.831 1. 1. 0
+F4 F0+ 4 a 0.5 0.423 0.017 1. 1. 0

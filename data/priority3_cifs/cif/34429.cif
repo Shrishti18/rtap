@@ -1,0 +1,73 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 34429
+_audit_creation_date 1980-01-01
+_audit_update_record 2004-10-01
+_chemical_name_systematic 'Cobalt chloride hexahydrate'
+_chemical_formula_structural 'Co Cl2 (H2 O)6'
+_chemical_formula_sum 'H12 Cl2 Co1 O6'
+_chemical_name_structure_type NiCl2(H2O)6
+_exptl_crystal_density_diffrn 1.92
+_publ_section_title
+;
+Orientations of the water molecules in cobalt dichloride by nuclear magnetic
+resonance
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Physical Society of Japan' 1962 17 1334 1337 JUPSAU
+loop_
+_publ_author_name
+'El Saffar, Z.M.'
+_cell_length_a 10.34
+_cell_length_b 7.06
+_cell_length_c 6.67
+_cell_angle_alpha 90.
+_cell_angle_beta 122.33
+_cell_angle_gamma 90.
+_cell_volume 411.43
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 a 0 0 0 . 1. 0
+Cl1 Cl1- 4 i 0.274 0 0.171 . 1. 0
+O1 O2- 8 j 0.0312 0.208 0.251 . 1. 0
+O2 O2- 4 i 0.288 0 0.702 . 1. 0
+H1 H1+ 8 j 0.097 0.313 0.268 . 1. 0
+H2 H1+ 8 j 0.427 0.205 0.205 . 1. 0
+H3 H1+ 4 i 0.191 0 0.549 . 1. 0
+H4 H1+ 4 i 0.226 0.5 0.162 . 1. 0

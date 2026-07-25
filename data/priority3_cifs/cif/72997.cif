@@ -1,0 +1,108 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 72997
+_audit_creation_date 1994-06-30
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Tetraamminepalladium chromate'
+_chemical_formula_structural '(Pd (N H3)4) (Cr O4)'
+_chemical_formula_sum 'H12 Cr1 N4 O4 Pd1'
+_chemical_name_structure_type Pd(NH3)4CrO4
+_exptl_crystal_density_diffrn 2.36
+_publ_section_title
+'On the first palladium chromate: crystal structure of Pd(NH3)4(CrO4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State Inorganic Chemistry' 1993 30 681 688
+EJSCE5
+loop_
+_publ_author_name
+'Laligant, Y.'
+_cell_length_a 7.3177(11)
+_cell_length_b 7.3177(11)
+_cell_length_c 15.289(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 818.71
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a m d Z'
+_symmetry_Int_Tables_number 141
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+1/4'
+2 'y+1/4, -x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 'x, -y, -z'
+5 '-y+3/4, x+3/4, -z+1/4'
+6 '-y+3/4, -x+3/4, -z+1/4'
+7 '-x, y+1/2, -z'
+8 '-x, -y, -z'
+9 '-y+3/4, -x+1/4, z+3/4'
+10 '-y+3/4, x+1/4, z+3/4'
+11 '-x, -y+1/2, z'
+12 '-x, y, z'
+13 'y+1/4, -x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+3/4'
+15 'x, -y+1/2, z'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+3/4'
+18 'y+3/4, -x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 'x+1/2, -y+1/2, -z+1/2'
+21 '-y+1/4, x+1/4, -z+3/4'
+22 '-y+1/4, -x+1/4, -z+3/4'
+23 '-x+1/2, y, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/4, -x+3/4, z+1/4'
+26 '-y+1/4, x+3/4, z+1/4'
+27 '-x+1/2, -y, z+1/2'
+28 '-x+1/2, y+1/2, z+1/2'
+29 'y+3/4, -x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+1/4'
+31 'x+1/2, -y, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd2+ 2
+Cr6+ 6
+O2- -2
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd2+ 4 b 0 0.25 0.375 . 1. 0
+Cr1 Cr6+ 4 a 0 0.75 0.125 . 1. 0
+O1 O2- 16 h 0 0.4346(6) 0.8135(3) . 1. 0
+N1 N3- 16 h 0 0.4713(6) 0.6268(3) . 1. 0
+H1 H1+ 16 h 0 0.435(11) 0.694(9) 0.054(6) 1. 0
+H2 H1+ 32 i 0.126(7) 0.419(11) 0.595(9) 0.060(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pd1 Pd2+ 0.0144(3) 0.0144(3) 0.0224(4) 0 0 0
+Cr1 Cr6+ 0.0183(5) 0.0183(5) 0.0231(8) 0 0 0
+O1 O2- 0.0635(29) 0.0278(23) 0.0378(24) 0 0 0.0069(18)
+N1 N3- 0.0330(24) 0.0170(19) 0.0432(26) 0 0 0.0013(20)

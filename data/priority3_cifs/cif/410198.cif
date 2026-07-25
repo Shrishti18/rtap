@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 410198
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Nickel amidosulfate(VI) tetrahydrate'
+_chemical_formula_structural 'Ni ((N H2) S O3)2 (H2 O)4'
+_chemical_formula_sum 'H12 N2 Ni1 O10 S2'
+_exptl_crystal_density_diffrn 2.19
+_publ_section_title
+;
+Crystal structure investigations of amide sulfate tetrahydrates with divalent
+cations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Croatica Chemica Acta' 1999 72 295 310 CCACAA
+loop_
+_publ_author_name
+'Angerer, P.'
+'Tillmanns, E.'
+'Wildner, M.'
+_cell_length_a 6.331
+_cell_length_b 6.731
+_cell_length_c 6.784
+_cell_angle_alpha 88.93
+_cell_angle_beta 67.87
+_cell_angle_gamma 67.76
+_cell_volume 245.27
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0444
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+S6+ 6
+O2- -2
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 1 a 0 0 0 . 1. 0
+S1 S6+ 2 i 0.60404(6) 0.63761(5) 0.71666(4) . 1. 0
+O1 O2- 2 i 0.7269(2) 0.4217(2) 0.5950(2) . 1. 0
+O2 O2- 2 i 0.6549(2) 0.6454(2) 0.9069(2) . 1. 0
+O3 O2- 2 i 0.6404(2) 0.8045(2) 0.5891(2) . 1. 0
+O4 O2- 2 i 0.1754(2) 0.1940(2) 0.8551(2) . 1. 0
+O5 O2- 2 i 0.1245(2) -.0291(2) 0.2445(2) . 1. 0
+N1 N3- 2 i 0.2951(2) 0.6993(2) 0.8142(2) . 1. 0
+H1 H1+ 2 i 0.2369(39) 0.1828(33) 0.7312(33) 0.036(5) 1. 0
+H2 H1+ 2 i 0.2682(42) 0.2075(35) 0.8961(35) 0.047(6) 1. 0
+H3 H1+ 2 i 0.1715(43) -.1403(37) 0.2719(38) 0.053(6) 1. 0
+H4 H1+ 2 i 0.2022(53) 0.0210(49) 0.2725(45) 0.078(8) 1. 0
+H5 H1+ 2 i 0.2613(34) 0.6798(29) 0.7130(28) 0.030(4) 1. 0
+H6 H1+ 2 i 0.2674(39) 0.5990(34) 0.8881(34) 0.039(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.02633(12) 0.01762(10) 0.01739(9) -.00864(8) -.00911(9) 0.00233(7)
+S1 S6+ 0.0278(2) 0.02058(15) 0.02011(13) -.00852(12) -.01033(12) 0.00419(11)
+O1 O2- 0.0341(5) 0.0245(5) 0.0319(5) -.0028(4) -.0156(4) -.0016(4)
+O2 O2- 0.0450(6) 0.0369(5) 0.0318(5) -.0209(5) -.0233(5) 0.0070(4)
+O3 O2- 0.0405(6) 0.0317(5) 0.0306(5) -.0140(5) -.0085(5) 0.0127(4)
+O4 O2- 0.0381(6) 0.0310(5) 0.0233(4) -.0198(4) -.0114(4) 0.0045(4)
+O5 O2- 0.0473(6) 0.0245(5) 0.0299(4) -.0138(4) -.0240(5) 0.0063(4)
+N1 N3- 0.0291(5) 0.0218(5) 0.0207(4) -.0088(4) -.0112(4) 0.0020(4)

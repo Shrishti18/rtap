@@ -1,0 +1,88 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 83524
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Dicadmium trihydroxide chloride - beta'
+_chemical_formula_structural 'Cd2 (O H)3 Cl'
+_chemical_formula_sum 'H3 Cd2 Cl1 O3'
+_chemical_name_structure_type Atacamite
+_exptl_crystal_density_diffrn 4.15
+_publ_section_title 'Synthese et structure cristalline de beta-Cd2 (O H)3 Cl'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences, Ser. II
+(1994-)
+; 1997 324 457 466 CMCAEK
+loop_
+_publ_author_name
+'Cudennec, Y.'
+'Gerault, Y.'
+'Lecerf, A.'
+_cell_length_a 6.790(4)
+_cell_length_b 7.408(4)
+_cell_length_c 9.901(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 498.02
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 4 a 0 0 0 . 1. 0
+Cd2 Cd2+ 4 c 0.1919(2) 0.25 0.2607(1) . 1. 0
+Cl1 Cl1- 4 c 0.3104(8) 0.75 0.0369(4) . 1. 0
+O1 O2- 4 c 0.183(2) 0.25 0.026(1) . 1. 0
+O2 O2- 8 d 0.443(1) 0.054(1) 0.2808(8) . 1. 0
+H1 H1+ 4 c 0.305 0.25 0.99 0.035 1. 0
+H2 H1+ 8 d 0.43 0.96 0.22 0.035 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cd1 Cd2+ 0.0243(5) 0.0169(5) 0.0183(5) -.0027(6) 0.0020(5) -.0059(5)
+Cd2 Cd2+ 0.0129(4) 0.0201(4) 0.0192(5) 0 -.0042(6) 0
+Cl1 Cl1- 0.021(2) 0.020(2) 0.020(2) 0 -.005(2) 0
+O1 O2- 0.015(5) 0.015(5) 0.015(5) 0 -.001(5) 0
+O2 O2- 0.021(4) 0.018(3) 0.018(4) -.001(3) -.002(3) -.002(3)

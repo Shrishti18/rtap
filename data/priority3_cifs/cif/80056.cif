@@ -1,0 +1,66 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 80056
+_audit_creation_date 1996-10-14
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Tungsten oxide'
+_chemical_formula_structural 'W O3'
+_chemical_formula_sum 'O3 W1'
+_chemical_name_structure_type WO3(mP32)
+_exptl_crystal_density_diffrn 7.28
+_publ_section_title 'Structure refinement of triclinic tungsten trioxide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics and Chemistry of Solids' 1995 56 1305 1315 JPCSAW
+loop_
+_publ_author_name
+'Woodward, P.M.'
+'Sleight, A.W.'
+'Vogt, T.'
+_cell_length_a 7.30084(7)
+_cell_length_b 7.53889(7)
+_cell_length_c 7.68962(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.892(1)
+_cell_angle_gamma 90.
+_cell_volume 423.19
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.079
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 4 e 0.2513(6) 0.0277(7) 0.2865(5) 0.67(8) 1. 0
+W2 W6+ 4 e 0.2481(6) 0.0342(6) 0.7815(5) 0.60(8) 1. 0
+O1 O2- 4 e 0.0008(6) 0.0366(8) 0.2116(5) 0.90(9) 1. 0
+O2 O2- 4 e 0.9973(6) 0.4632(8) 0.2164(5) 0.90(9) 1. 0
+O3 O2- 4 e 0.2821(4) 0.2602(7) 0.2870(4) 0.88(6) 1. 0
+O4 O2- 4 e 0.2107(4) 0.2602(8) 0.7310(4) 1.08(7) 1. 0
+O5 O2- 4 e 0.2859(6) 0.0390(6) 0.0065(5) 1.17(9) 1. 0
+O6 O2- 4 e 0.2849(6) 0.4850(5) 0.9922(4) 0.87(8) 1. 0

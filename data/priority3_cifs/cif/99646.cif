@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 99646
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Scandium chromium boride (2/1/6)'
+_chemical_formula_structural 'Sc2 Cr B6'
+_chemical_formula_sum 'B6 Cr1 Sc2'
+_chemical_name_structure_type ReY2B6
+_exptl_crystal_density_diffrn 4.28
+_publ_section_title 'New compound in the system Sc - Cr - B'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 439 443 JSSCBI
+loop_
+_publ_author_name
+'Mykhalenko, S.'
+'Babizhet'sky, V.S.'
+'Kuz'ma, Yu.B.'
+_cell_length_a 8.7909(4)
+_cell_length_b 11.0541(6)
+_cell_length_c 3.2996(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 320.64
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Cr0+ 0
+B0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 4 g 0.82230(8) 0.08623(6) 0 0.56(1) 1. 0
+Sc2 Sc0+ 4 g 0.44456(8) 0.12870(6) 0 0.35(1) 1. 0
+Cr1 Cr0+ 4 g 0.14313(7) 0.18254(6) 0 0.51(1) 1. 0
+B1 B0+ 4 h 0.0541(5) 0.0651(4) 0.5 0.64(7) 1. 0
+B2 B0+ 4 h 0.2555(5) 0.0800(4) 0.5 0.55(6) 1. 0
+B3 B0+ 4 h 0.2973(5) 0.2378(4) 0.5 0.59(7) 1. 0
+B4 B0+ 4 h 0.1295(5) 0.3197(4) 0.5 0.64(7) 1. 0
+B5 B0+ 4 h 0.4805(5) 0.2875(4) 0.5 0.59(7) 1. 0
+B6 B0+ 4 h 0.0973(5) 0.4737(4) 0.5 0.68(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Sc1 Sc0+ .57(2) .52(2) .57(2) .03(2) 0. 0.
+Sc2 Sc0+ .34(2) .34(2) .37(2) -.02(1) 0. 0.
+Cr1 Cr0+ .52(2) .50(2) .50(2) -.03(1) 0. 0.
+B1 B0+ .57(12) .66(12) .68(13) -.07(10) 0. 0.
+B2 B0+ .65(11) .49(11) .51(11) .06(9) 0. 0.
+B3 B0+ .71(12) .49(11) .59(12) -.03(9) 0. 0.
+B4 B0+ .72(12) .55(11) .63(13) .04(10) 0. 0.
+B5 B0+ .56(12) .56(11) .63(12) .03(9) 0. 0.
+B6 B0+ .75(12) .48(11) .80(13) .03(9) 0. 0.

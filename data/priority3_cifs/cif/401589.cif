@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 401589
+_audit_creation_date 1996-04-22
+_chemical_name_systematic 'Cyclo-tetratellurium hexachlorohafnate(IV)'
+_chemical_formula_structural 'Te4 (Hf Cl6)'
+_chemical_formula_sum 'Cl6 Hf1 Te4'
+_exptl_crystal_density_diffrn 4.41
+_cell_measurement_temperature 295.
+_publ_section_title
+;
+Chalkogen polycations with mononuclear divalent anions from chalkogen
+subhalides and tetrachlorides of Zr and Hf: synthesis and crystal structures
+of Se4 (M Cl6) (M= Zr, Hf) and Te4 (Hf Cl6)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemische Berichte' 1995 128 763 766 CHBEAM
+loop_
+_publ_author_name
+'Beck, J.'
+'Schlitt, K.J.'
+_cell_length_a 6.776(3)
+_cell_length_b 6.833(3)
+_cell_length_c 7.880(3)
+_cell_angle_alpha 73.93(2)
+_cell_angle_beta 75.71(2)
+_cell_angle_gamma 84.74(2)
+_cell_volume 339.64
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0227
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf4+ 4
+Te0+ 0.5
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf4+ 1 a 0 0 0 . 1. 0
+Te1 Te0+ 2 i 0.27738(5) -.31924(5) 0.45809(5) . 1. 0
+Te2 Te0+ 2 i 0.50408(6) -.57980(5) 0.28775(4) . 1. 0
+Cl1 Cl1- 2 i 0.1227(2) -.3523(2) 0.1084(2) . 1. 0
+Cl2 Cl1- 2 i 0.2700(2) 0.1270(2) 0.0884(2) . 1. 0
+Cl3 Cl1- 2 i 0.2157(3) 0.0229(2) -.3046(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hf1 Hf4+ 0.02679(14) 0.02726(12) 0.02985(13) 0.00384(9) -.01114(9) -.00997(8)
+Te1 Te0+ 0.0386(2) 0.0460(2) 0.0440(2) 0.01140(14) -.01715(13) -.01425(13)
+Te2 Te0+ 0.0466(2) 0.0500(2) 0.0340(2) 0.00589(15) -.01478(13) -.01708(12)
+Cl1 Cl1- 0.0464(7) 0.0299(4) 0.0478(6) 0.0089(4) -.0235(5) -.0113(4)
+Cl2 Cl1- 0.0481(7) 0.0419(6) 0.0722(8) -.0032(5) -.0361(6) -.0141(5)
+Cl3 Cl1- 0.0623(9) 0.0477(6) 0.0379(5) 0.0021(6) 0.0048(5) -.0141(5)

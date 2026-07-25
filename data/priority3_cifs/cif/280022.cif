@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 280022
+_audit_creation_date 2000-07-15
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Barium antimonide (5/4)'
+_chemical_formula_structural 'Ba5 Sb4'
+_chemical_formula_sum 'Ba5 Sb4'
+_chemical_name_structure_type Tm5Sb2Si2
+_exptl_crystal_density_diffrn 5.37
+_publ_section_title
+;
+Pentabarium tetraantimonide, beta-Ba5 Sb4: a more symmetrical arrangement for
+the Ba5 Sb4 compound
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1999 55 1044 1046 ACSCEE
+loop_
+_publ_author_name
+'Derrien, G.'
+'Monconduit, L.'
+'Tillard, M.'
+'Belin, C.'
+_cell_length_a 17.7490(30)
+_cell_length_b 9.021(3)
+_cell_length_c 9.059(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1450.47
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.111
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Sb3- -3
+Sb2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 16 g 0.14613(4) 0.17003(10) 0.66594(9) . 1. 0
+Ba2 Ba2+ 4 a 0 0.5 0.5 . 1. 0
+Sb1 Sb3- 8 d 0.30151(7) 0 0.5 . 1. 0
+Sb2 Sb2- 8 f 0 0.11275(15) 0.38701(14) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0126(3) 0.0197(4) 0.0158(3) 0.0019(4) 0.0000(3) 0.0041(3)
+Ba2 Ba2+ 0.0106(7) 0.0198(9) 0.0173(7) 0 0 -.0008(6)
+Sb1 Sb3- 0.0099(6) 0.0166(6) 0.0174(6) 0 0 -.0034(5)
+Sb2 Sb2- 0.0129(5) 0.0172(6) 0.0152(6) 0 0 0.0019(5)

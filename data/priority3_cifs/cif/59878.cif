@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 59878
+_audit_creation_date 2005-10-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Potassium calcium flouride carbonate'
+_chemical_formula_structural 'K Ca F (C O3)'
+_chemical_formula_sum 'C1 Ca1 F1 K1 O3'
+_chemical_name_structure_type KCaCO3F
+_exptl_crystal_density_diffrn 2.62
+_cell_measurement_temperature 295.
+_publ_section_title 'K Ca F (C O3) from x-ray powder data'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2004 60
+i50 i51 ACSEBH
+loop_
+_publ_author_name
+'Chen, X.-L.'
+'He, M.'
+'Xu, Y.-P.'
+'Li, H.-Q.'
+'Tu, Q.-Y.'
+_cell_length_a 5.10093(7)
+_cell_length_b 5.10093(7)
+_cell_length_c 4.45510(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 100.39
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 m 2'
+_symmetry_Int_Tables_number 187
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 'x, x-y, z'
+5 '-x+y, y, z'
+6 '-y, -x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+C4+ 4
+Ca2+ 2
+O2- -2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 1 a 0 0 0 .0126(6) 1 0
+C1 C4+ 1 f .66667 .33333 .5 .018(2) 1 0
+Ca1 Ca2+ 1 d .33333 .66667 .5 .0100(6) 1 0
+O1 O2- 3 k .8120(3) .1880(3) .5 .0129 1 0
+F1 F1- 1 c .33333 .66667 0 .01960(10) 1 0

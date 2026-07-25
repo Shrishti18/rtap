@@ -1,0 +1,88 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 62538
+_audit_creation_date 1988-02-22
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Diniobium enneaselenide'
+_chemical_formula_structural 'Nb2 Se9'
+_chemical_formula_sum 'Nb2 Se9'
+_chemical_name_structure_type Nb2Se9
+_exptl_crystal_density_diffrn 5.33
+_publ_section_title 'Redermination of the structures of Cu Ta S3 and Nb2 S9'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1987 43 1019 1022 ACSCEE
+loop_
+_publ_author_name
+'Sunshine, S.A.'
+'Ibers, J.A.'
+_cell_length_a 8.160(2)
+_cell_length_b 8.284(2)
+_cell_length_c 13.060(3)
+_cell_angle_alpha 121.22(2)
+_cell_angle_beta 124.00(2)
+_cell_angle_gamma 91.74(2)
+_cell_volume 558.43
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.093
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb4+ 4
+Se1- -1
+Se0+ -0.8
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb4+ 2 i 0.04875(18) 0.03806(18) 0.13768(13) . 1. 0
+Nb2 Nb4+ 2 i 0.98173(18) 0.03435(18) 0.39680(13) . 1. 0
+Se1 Se1- 2 i 0.44883(21) 0.22346(21) 0.41794(16) . 1. 0
+Se2 Se1- 2 i 0.36024(21) 0.21163(21) 0.68955(15) . 1. 0
+Se3 Se1- 2 i 0.30902(20) 0.12676(21) 0.91555(15) . 1. 0
+Se4 Se1- 2 i 0.18642(21) 0.34186(20) 0.14806(15) . 1. 0
+Se5 Se0+ 2 i 0.14762(22) 0.33849(20) 0.41327(16) . 1. 0
+Se6 Se0+ 2 i 0.10474(22) 0.33676(20) 0.67616(16) . 1. 0
+Se7 Se0+ 2 i 0.80922(21) 0.18178(21) -.00231(16) . 1. 0
+Se8 Se0+ 2 i 0.78935(21) 0.10193(21) 0.69431(15) . 1. 0
+Se9 Se0+ 2 i 0.72876(21) 0.18866(21) 0.27957(16) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb4+ 0.00628(47) 0.00935(51) 0.00603(48) 0.00387(40) 0.00427(41) 0.00541(43)
+Nb2 Nb4+ 0.00651(47) 0.00929(51) 0.00637(49) 0.00372(40) 0.00454(42) 0.00600(43)
+Se1 Se1- 0.00670(54) 0.01385(62) 0.00849(56) 0.00276(47) 0.00403(48) 0.00728(52)
+Se2 Se1- 0.00742(54) 0.01333(63) 0.00866(56) 0.00343(47) 0.00497(48) 0.00757(52)
+Se3 Se1- 0.00734(54) 0.01227(60) 0.00801(55) 0.00462(45) 0.00538(48) 0.00714(50)
+Se4 Se1- 0.01084(56) 0.00902(58) 0.00760(56) 0.00216(46) 0.00569(49) 0.00503(49)
+Se5 Se0+ 0.01448(59) 0.00885(58) 0.00819(57) 0.00388(48) 0.00795(51) 0.00531(50)
+Se6 Se0+ 0.01422(60) 0.00923(59) 0.00957(57) 0.00478(48) 0.00850(52) 0.00614(51)
+Se7 Se0+ 0.01096(57) 0.01377(62) 0.01016(58) 0.00735(49) 0.00808(51) 0.00891(53)
+Se8 Se0+ 0.00854(54) 0.01269(61) 0.00909(56) 0.00616(47) 0.00654(48) 0.00820(51)
+Se9 Se0+ 0.01111(57) 0.01496(63) 0.01104(58) 0.00848(49) 0.00870(51) 0.01022(53)

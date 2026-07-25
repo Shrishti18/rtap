@@ -1,0 +1,87 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 56466
+_audit_creation_date 2003-04-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Zinc oxalate dihydrate'
+_chemical_formula_structural 'Zn (C2 O4) (H2 O)2'
+_chemical_formula_sum 'C2 H4 O6 Zn1'
+_chemical_name_structure_type FeC2O4(H2O)2
+_exptl_crystal_density_diffrn 2.51
+_publ_section_title
+;
+Synthesis and crystal structures of Co3 (C2 O4) (Se O3)2 and Zn (C2 O4)*2(H2
+O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1997 212 720 723 ZEKRDZ
+loop_
+_publ_author_name
+'Giester, G.'
+_cell_length_a 11.812(3)
+_cell_length_b 5.402(1)
+_cell_length_c 9.919(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 127.72(1)
+_cell_angle_gamma 90.
+_cell_volume 500.64
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+C3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 4 e 0 0.17693(9) 0.25 .0196(1) 1. 0
+C1 C3+ 8 f 0.0493(2) 0.6740(5) 0.3500(2) .0157(4) 1. 0
+O1 O2- 8 f 0.08462(18) 0.4695(3) 0.42169(19) .0203(4) 1. 0
+O2 O2- 8 f 0.08487(19) 0.8823(3) 0.4219(2) .0211(4) 1. 0
+O3 O2- 8 f 0.18313(19) 0.1869(4) 0.2577(2) .0249(4) 1. 0
+H1 H1+ 8 f 0.249(4) 0.107(6) 0.336(5) 0.056(12) 1. 0
+H2 H1+ 8 f 0.167(3) 0.136(6) 0.177(4) 0.048(11) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.0258(2) 0.01102(17) 0.0173(2) 0 0.01090(17) 0
+C1 C3+ 0.0155(9) 0.0152(9) 0.0142(9) -0.0019(11) 0.0078(8) -0.0019(11)
+O1 O2- 0.0251(9) 0.0155(8) 0.0124(8) 0.0011(7) 0.0075(8) 0.0012(6)
+O2 O2- 0.0294(10) 0.012(1) 0.0139(8) -0.0010(6) 0.0091(8) -0.0009(6)
+O3 O2- 0.0252(9) 0.0277(9) 0.0171(8) 0.0055(9) 0.0105(8) 0.0022(9)

@@ -1,0 +1,84 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 36581
+_audit_creation_date 1993-01-06
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Thallium copper hydroxide sulfate'
+_chemical_formula_structural 'Tl Cu (O H) S O4'
+_chemical_formula_sum 'H1 Cu1 O5 S1 Tl1'
+_chemical_name_structure_type TlCuOHSO4
+_exptl_crystal_density_diffrn 5.43
+_publ_section_title
+'Syntheses and crystal structures of TlCu(OH)SO4 and TlCu(OH)SeO4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1992 201 59 67 ZEKRDZ
+loop_
+_publ_author_name
+'Giester, G.'
+_cell_length_a 8.854(3)
+_cell_length_b 5.888(1)
+_cell_length_c 4.493(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.29(3)
+_cell_angle_gamma 90.
+_cell_volume 233.23
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Cu2+ 2
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 e 0.6076(1) 0.25 0.8989(1) . 1. 0
+Cu1 Cu2+ 2 a 0 0 0 . 1. 0
+S1 S6+ 2 e 0.2230(3) 0.25 0.5136(5) . 1. 0
+O1 O2- 2 e 0.8918(9) 0.25 0.8173(15) . 1. 0
+O2 O2- 4 f 0.2121(8) 0.0459(11) 0.6931(13) . 1. 0
+O3 O2- 2 e 0.3608(10) 0.25 0.3592(22) . 1. 0
+O4 O2- 2 e 0.0824(9) 0.25 0.2873(17) . 1. 0
+H1 H1+ 2 e 0.879(18) 0.25 0.629(38) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0225(2) 0.0458(4) 0.0428(3) 0 0.0012(2) 0
+Cu1 Cu2+ 0.0201(6) 0.0139(6) 0.0195(5) 0.0015(5) -.0023(4) -.0005(4)
+S1 S6+ 0.0156(10) 0.0200(12) 0.0174(8) 0 0.0003(7) 0
+O1 O2- 0.0195(34) 0.0153(34) 0.0135(26) 0 -.0017(22) 0
+O2 O2- 0.0299(32) 0.0197(28) 0.0242(23) -.0043(26) -.0050(26) 0.0071(22)
+O3 O2- 0.0133(35) 0.0614(79) 0.0348(42) 0 0.0029(32) 0
+O4 O2- 0.0150(31) 0.0188(36) 0.0227(29) 0 -.0045(24) 0

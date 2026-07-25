@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 410188
+_audit_creation_date 1999-11-30
+_chemical_name_systematic 'Bis(tetrachlorophosphorus) decachlorodirhenate(IV)'
+_chemical_formula_structural '(P Cl4)2 (Re2 Cl10)'
+_chemical_formula_sum 'Cl18 P2 Re2'
+_chemical_name_structure_type (PCl4)2Ti2Cl10
+_exptl_crystal_density_diffrn 3.15
+_publ_section_title
+;
+On tetrachlorophosphonium chlorometallates of rhenium and molybdenum:
+Syntheses, crystal structures and magnetism of (P Cl4)2 (Re2 Cl10) and (P
+Cl4)3 (Re Cl6)2 and the magnetic properties of (P Cl4)2 (Mo2 Cl10)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1999
+625 975 981 ZAACAB
+loop_
+_publ_author_name
+'Beck, J.'
+'Mueller Buschbaum, H.'
+'Wolf, F.'
+_cell_length_a 8.9731(12)
+_cell_length_b 9.4598(12)
+_cell_length_c 6.8713(9)
+_cell_angle_alpha 95.586(11)
+_cell_angle_beta 95.796(12)
+_cell_angle_gamma 101.072(11)
+_cell_volume 565.39
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0233
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re4+ 4
+Cl1- -1
+P5+ 5
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re4+ 2 i 0.37023(2) 0.32918(2) 0.38929(2) . 1. 0
+Cl1 Cl1- 2 i 0.58106(13) 0.21961(13) 0.3741(2) . 1. 0
+Cl2 Cl1- 2 i 0.16309(13) 0.44151(14) 0.4176(2) . 1. 0
+Cl3 Cl1- 2 i 0.28357(14) 0.24235(14) 0.0655(2) . 1. 0
+Cl4 Cl1- 2 i 0.2408(2) 0.13106(14) 0.5177(2) . 1. 0
+Cl5 Cl1- 2 i 0.51619(12) 0.54892(11) 0.28347(14) . 1. 0
+P1 P5+ 2 i 0.18944(13) 0.77920(12) 0.0486(2) . 1. 0
+Cl6 Cl1- 2 i 0.1962(2) 0.58467(14) -.0583(2) . 1. 0
+Cl7 Cl1- 2 i 0.0574(2) 0.7698(2) 0.2557(2) . 1. 0
+Cl8 Cl1- 2 i 0.1068(2) 0.8781(2) -.1574(2) . 1. 0
+Cl9 Cl1- 2 i 0.39117(15) 0.88425(15) 0.1556(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re4+ 0.02079(10) 0.01992(10) 0.02148(10) 0.00370(5) 0.00492(5) 0.00097(5)
+Cl1 Cl1- 0.0294(6) 0.0308(6) 0.0337(5) 0.0126(4) 0.0076(4) 0.0023(4)
+Cl2 Cl1- 0.0257(6) 0.0371(7) 0.0420(6) 0.0125(4) 0.0060(5) 0.0004(5)
+Cl3 Cl1- 0.0357(6) 0.0366(7) 0.0258(5) 0.0035(5) -.0005(4) -.0044(4)
+Cl4 Cl1- 0.0434(7) 0.0278(6) 0.0444(7) 0.0003(5) 0.0187(5) 0.0071(5)
+Cl5 Cl1- 0.0287(5) 0.0228(5) 0.0207(4) 0.0037(4) 0.0052(4) 0.0036(3)
+P1 P5+ 0.0260(6) 0.0224(6) 0.0273(5) 0.0047(4) 0.0060(4) 0.0027(4)
+Cl6 Cl1- 0.0450(7) 0.0251(6) 0.0459(7) 0.0078(5) 0.0122(5) -.0008(5)
+Cl7 Cl1- 0.0397(7) 0.0489(8) 0.0374(6) 0.0081(5) 0.0177(5) 0.0022(5)
+Cl8 Cl1- 0.0426(7) 0.0420(8) 0.0399(6) 0.0159(5) 0.0024(5) 0.0128(5)
+Cl9 Cl1- 0.0307(6) 0.0417(7) 0.0402(6) -.0033(5) 0.0001(5) 0.0031(5)

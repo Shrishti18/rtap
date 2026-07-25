@@ -1,0 +1,86 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 411282
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Cesium hydrogenselenate(VI) - II'
+_chemical_formula_structural 'Cs (H Se O4)'
+_chemical_formula_sum 'H1 Cs1 O4 Se1'
+_chemical_name_structure_type CsHSO4
+_exptl_crystal_density_diffrn 3.77
+_cell_measurement_temperature 180.
+_publ_section_title
+;
+Superprotonic high temperature phase and refinement of the low temperature
+structure of Cs H Se O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 2001 216 172 175 ZEKRDZ
+loop_
+_publ_author_name
+'Zakharov, M.A.'
+'Troyanov, S.I.'
+'Kemnitz, E.'
+_cell_length_a 7.970(3)
+_cell_length_b 8.446(3)
+_cell_length_c 7.784(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.25(3)
+_cell_angle_gamma 90.
+_cell_volume 488.35
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0464
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Se6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 e 0.70801(4) 0.12826(3) 0.20658(4) . 1. 0
+Se1 Se6+ 4 e 0.75604(7) 0.62589(5) 0.22299(7) . 1. 0
+O1 O2- 4 e 0.8511(6) 0.5644(5) 0.0810(6) . 1. 0
+O2 O2- 4 e 0.6841(7) 0.4806(5) 0.3126(6) . 1. 0
+O3 O2- 4 e 0.6060(6) 0.7611(5) 0.1356(6) . 1. 0
+O4 O2- 4 e 0.9349(6) 0.7129(6) 0.3939(6) . 1. 0
+H1 H1+ 4 e 0.899(11) 0.7687(91) 0.458(11) 0.029(21) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0147(2) 0.0164(2) 0.0153(2) 0.00100(13) 0.00520(13) 0.00060(12)
+Se1 Se6+ 0.0125(3) 0.0113(3) 0.0126(3) 0.0006(2) 0.0055(2) 0.0004(2)
+O1 O2- 0.028(2) 0.021(2) 0.020(2) 0.004(2) 0.016(2) -.001(2)
+O2 O2- 0.038(3) 0.016(2) 0.032(2) -.003(2) 0.024(2) 0.005(2)
+O3 O2- 0.019(2) 0.022(2) 0.023(2) 0.010(2) 0.003(2) 0.003(2)
+O4 O2- 0.013(2) 0.036(2) 0.027(2) 0.004(2) 0.000(2) -.018(2)

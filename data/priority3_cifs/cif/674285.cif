@@ -1,0 +1,75 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 674285
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Carbon Nitride (3/4)'
+_chemical_formula_structural 'C3 N4'
+_chemical_formula_sum 'C3 N4'
+_exptl_crystal_density_diffrn 2.81
+_publ_section_title 'Carbon nitride frameworks and dense crystalline polymorphs'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2016 94
+094104-1 094104-10 PRBMDO
+loop_
+_publ_author_name
+'Pickard, Chris J.'
+'Salamat, Ashkan'
+'Bojdys, Michael J.'
+'Needs, Richard J.'
+'McMillan, Paul F.'
+_cell_length_a 7.9084
+_cell_length_b 7.9084
+_cell_length_c 6.0213
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 326.13
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 63 c m'
+_symmetry_Int_Tables_number 185
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 '-x, -x+y, z'
+8 'x-y, -y, z'
+9 'y, x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C0+ 0
+N0+ 0
+C0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C0+ 12 d 0.15845 0.48958 0.96103 1. 1. 0
+N1 N0+ 12 d 0.16821 0.34401 0.05604 1. 1. 0
+C2 C0+ 6 c 0.1794 0. 0.06896 1. 1. 0
+N2 N0+ 6 c 0.4839 0. 0.88126 1. 1. 0
+N3 N0+ 2 a 0. -0. 0.09841 1. 1. 0
+N4 N0+ 4 b 0.333333 0.666667 0.94421 1. 1. 0

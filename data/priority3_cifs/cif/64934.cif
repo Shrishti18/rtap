@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 64934
+_audit_creation_date 1998-06-26
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Diammonium oxalate hydrate'
+_chemical_formula_structural '(N H4)2 (C2 O4) (H2 O)'
+_chemical_formula_sum 'C2 H10 N2 O5'
+_chemical_name_structure_type (NH4)2(CO2)2H2O
+_chemical_name_mineral Oxammite
+_exptl_crystal_density_diffrn 1.5
+_publ_section_title
+;
+Isotope and bonding effects in ammonium oxalate monohydrate, determined by the
+combined use of neutron and X-ray diffraction analyses
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1972 28 3340 3351 ACBCAR
+loop_
+_publ_author_name
+'Taylor, J.C.'
+'Sabine, T.M.'
+_cell_length_a 8.035(4)
+_cell_length_b 10.309(4)
+_cell_length_c 3.795(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 314.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 21 21 2'
+_symmetry_Int_Tables_number 18
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z'
+2 'x+1/2, -y+1/2, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C3+ 3
+O2- -2
+N3- -3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C3+ 4 c 0.0917(4) 0.0230(4) 0.0707(11) . 1. 0
+O1 O2- 4 c 0.2021(3) -.0591(2) 0.1416(9) . 1. 0
+O2 O2- 4 c 0.1178(3) 0.1406(2) 0.002(1) . 1. 0
+N1 N3- 4 c 0.3876(5) 0.2264(3) 0.4249(10) . 1. 0
+O3 O2- 2 b 0 0.5 0.1860(13) . 1. 0
+H1 H1+ 4 c 0.425(5) 0.152(4) 0.542(14) 0.5 1. 0
+H2 H1+ 4 c 0.475(8) 0.266(4) 0.290(11) 0.5 1. 0
+H3 H1+ 4 c 0.355(6) 0.294(5) 0.581(15) 0.5 1. 0
+H4 H1+ 4 c 0.291(12) 0.201(4) 0.288(15) 0.5 1. 0
+H5 H1+ 4 c 0.084(10) 0.483(2) 0.047(5) 0.6 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+C1 C3+ 0.0060(9) 0.0052(4) 0.0284(34) -.0010(4) -.0028(14) -.0003(9)
+O1 O2- 0.0060(5) 0.0048(2) 0.0628(29) 0.0011(3) 0.0000(12) 0.0054(7)
+O2 O2- 0.0074(5) 0.0038(2) 0.0643(30) -.0013(3) -.0037(11) 0.0034(7)
+N1 N3- 0.0085(8) 0.0049(4) 0.0377(37) -.0013(4) 0.0005(16) -.0011(8)
+O3 O2- 0.0073(10) 0.0060(4) 0.0516(41) -.0006(5) 0 0

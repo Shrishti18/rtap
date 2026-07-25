@@ -1,0 +1,103 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 417769
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Guanidinium trinitromethanide monohydrate'
+_chemical_formula_structural '(C (N H2)3) (C (N O2)3) (H2 O)'
+_chemical_formula_sum 'C2 H8 N6 O7'
+_exptl_crystal_density_diffrn 1.69
+_cell_measurement_temperature 200.
+_publ_section_title
+;
+Potassium-,ammonium-,hydazinium-,guanidinium-,aminoguanidinium-,diaminoguanidi
+nium-,triaminoguanidinium- and melaminiumnitroformate - synthesis,
+characterization and energetic properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2007
+633 1006 1017 ZAACAB
+loop_
+_publ_author_name
+'Goebel, M.'
+'Klapoetke, T.M.'
+_cell_length_a 8.1859(4)
+_cell_length_b 14.3541(7)
+_cell_length_c 7.7556(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.132(2)
+_cell_angle_gamma 90.
+_cell_volume 894.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0645
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+N3+ 3
+N3- -3
+C2+ 2
+C4+ 4
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 8 f 1.1027(2) 0.25672(10) 0.6824(2) 0.0537(5) 1 0
+O2 O2- 8 f 0.79806(16) 0.12378(8) 0.51191(14) 0.0358(4) 1 0
+O3 O2- 8 f 0.86958(16) -0.01350(9) 0.62165(16) 0.0387(4) 1 0
+O4 O2- 4 e 0.5 0.29364(14) 0.75 0.0486(6) 1 0
+N1 N3+ 4 e 1. 0.21670(14) 0.75 0.0321(5) 1 0
+N2 N3+ 8 f 0.88592(16) 0.07256(10) 0.62348(15) 0.0276(4) 1 0
+N3 N3- 4 e 0.5 -0.03140(14) 0.75 0.0354(5) 1 0
+N4 N3- 8 f 0.6138(2) 0.10710(12) 0.86129(19) 0.0331(4) 1 0
+C1 C2+ 4 e 1. 0.11539(15) 0.75 0.0274(5) 1 0
+C2 C4+ 4 e 0.5 0.06123(16) 0.75 0.0258(5) 1 0
+H1 H1+ 8 f 0.676(3) 0.0793(16) 0.941(3) 0.034(5) 1 0
+H2 H1+ 8 f 0.606(3) 0.162(2) 0.856(3) 0.044(6) 1 0
+H3 H1+ 8 f 0.589(3) -0.0630(19) 0.830(3) 0.056(6) 1 0
+H4 H1+ 8 f 0.452(5) 0.328(3) 0.797(5) 0.107(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0613(10) 0.0341(8) 0.0704(10) -0.0077(6) 0.0248(8) 0.0119(6)
+O2 O2- 0.0387(7) 0.0344(7) 0.0305(6) 0.0029(5) -0.0024(5) 0.0042(5)
+O3 O2- 0.0420(8) 0.0246(7) 0.0447(8) -0.0050(5) -0.0034(6) -0.0023(5)
+O4 O2- 0.0613(14) 0.0282(11) 0.0571(13) 0. 0.0133(11) 0.
+N1 N3+ 0.0357(11) 0.0287(11) 0.0291(10) 0. -0.0010(8) 0.
+N2 N3+ 0.0288(7) 0.0259(8) 0.0283(7) -0.0001(5) 0.0061(5) -0.0002(5)
+N3 N3- 0.0399(13) 0.0243(10) 0.0408(12) 0. 0.0045(10) 0.
+N4 N3- 0.0387(9) 0.0279(9) 0.0295(8) 0.0006(6) -0.0010(7) 0.0012(6)
+C1 C2+ 0.0301(12) 0.0214(11) 0.0289(11) 0. 0.0011(9) 0.
+C2 C4+ 0.0299(12) 0.0279(11) 0.0219(10) 0. 0.0108(8) 0.

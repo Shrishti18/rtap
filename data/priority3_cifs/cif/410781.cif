@@ -1,0 +1,75 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 410781
+_audit_creation_date 2002-04-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Decacalcium hexakis(phosphate(V)) selenide'
+_chemical_formula_structural 'Ca10 (P O4)6 Se'
+_chemical_formula_sum 'Ca10 O24 P6 Se1'
+_chemical_name_structure_type Ca10(PO4)6Se
+_exptl_crystal_density_diffrn 3.26
+_publ_section_title
+;
+The chalcogenide phosphate apatites Ca10 (P O4)6 S, Sr10 (P O4)6 S, Ba10 (P
+O4)6 S and Ca10 (P O4)6 Se
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 2000 215 226 230 ZEKRDZ
+loop_
+_publ_author_name
+'Henning, P.A.'
+'Adolfsson, E.'
+'Grins, J.'
+_cell_length_a 9.5007(4)
+_cell_length_b 9.5007
+_cell_length_c 6.8406(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 534.73
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+_refine_ls_R_factor_all 0.051
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Ca2+ 2
+P5+ 5
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 6 g 0.3257(11) 0.4871(11) 0.2505(24) 0.009(1) 1. 0
+O2 O2- 6 g 0.5855(12) 0.4685(13) 0.1926(16) 0.009(1) 1. 0
+O31 O2- 6 g 0.3023(14) 0.2340(12) 0.0952(14) 0.009(1) 1. 0
+O32 O2- 6 g 0.3920(12) 0.2918(12) 0.4468(16) 0.009(1) 1. 0
+Ca11 Ca2+ 2 d 0.33333 0.66666 0.0221(9) 0.0035(6) 1. 0
+Ca12 Ca2+ 2 d 0.33333 0.66667 0.5098(11) 0.0035(6) 1. 0
+Ca2 Ca2+ 6 g 0.2497(4) 0.9864(4) 0.2500(6) 0.0035(6) 1. 0
+P1 P5+ 6 g 0.4001(4) 0.3712(5) 0.2476(10) 0.0078(10) 1. 0
+Se1 Se2- 1 b 0 0 0.5 0.0054(10) 1. 0

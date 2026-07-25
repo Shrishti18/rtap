@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 79609
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Cesium dihydrogenphosphate(V)'
+_chemical_formula_structural 'Cs (H2 P O4)'
+_chemical_formula_sum 'H2 Cs1 O4 P1'
+_chemical_name_structure_type CsH2PO4
+_exptl_crystal_density_diffrn 3.18
+_cell_measurement_temperature 493.
+_publ_section_title 'The phase transition of Cs H2 P O4 (CDP) at 505K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Science Forum' 1994 166 511 516 MSFOEP
+loop_
+_publ_author_name
+'Preisinger, A.'
+'Mereiter, K.'
+'Bronowska, W.'
+_cell_length_a 7.9293
+_cell_length_b 6.522
+_cell_length_c 4.849
+_cell_angle_alpha 90.
+_cell_angle_beta 106.69
+_cell_angle_gamma 90.
+_cell_volume 240.2
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 e 0.26804(8) 0.25 0.0469(2) . 1. 0
+P1 P5+ 2 e 0.2349(3) 0.75 0.5294(5) . 1. 0
+O1 O2- 2 e 0.3855(8) 0.75 0.3786(13) . 1. 0
+O2 O2- 2 e 0.3194(11) 0.75 0.8437(16) . 1. 0
+O3 O2- 4 f 0.1257(7) 0.5614(8) 0.4222(14) . 1. 0
+H1 H1+ 2 e 0.348 0.75 0.195 0.1 1. 0
+H2 H1+ 2 c 0 0.5 0.5 0.1 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0629(5) 0.0482(4) 0.0592(5) 0 0.0096(3) 0
+P1 P5+ 0.0429(12) 0.0445(11) 0.0383(13) 0 0.0147(12) 0
+O1 O2- 0.046(3) 0.068(4) 0.040(4) 0 0.013(3) 0
+O2 O2- 0.089(6) 0.135(8) 0.041(4) 0 0.025(4) 0
+O3 O2- 0.094(4) 0.066(3) 0.118(5) -.038(3) 0.059(4) -.033(4)

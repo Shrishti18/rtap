@@ -1,0 +1,68 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 90146
+_audit_creation_date 2008-07-07
+_audit_update_record 2009-02-01
+_chemical_name_systematic 'Silicon nitride - alpha'
+_chemical_formula_structural 'Si3 N4'
+_chemical_formula_sum 'N4 Si3'
+_chemical_name_structure_type Si3N4(P31c)
+_exptl_crystal_density_diffrn 3.19
+_publ_section_title
+;
+Crystal structure refinement of alpha-(Si3 N4) using synchrotron radiation
+powder diffraction data: unbiased refinement strategy
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Crystallography' 2000 33 95 102 JACGAR
+loop_
+_publ_author_name
+'Toraya, H.'
+_cell_length_a 7.75193(3)
+_cell_length_b 7.75193(3)
+_cell_length_c 5.61949(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 292.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 3 1 c'
+_symmetry_Int_Tables_number 159
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 6 c 0.08216(5) 0.51191(5) 0.65800(9) 0.308(5) 1. 0
+Si2 Si4+ 6 c 0.25324(5) 0.16721(5) 0.4509 0.313(5) 1. 0
+N1 N3- 6 c 0.6550(1) 0.6111(1) 0.4297(2) 0.22(1) 1. 0
+N2 N3- 6 c 0.3153(1) 0.3197(1) 0.7006(2) 0.23(1) 1. 0
+N3 N3- 2 b 0.3333 0.6667 0.5999(3) 0.11(3) 1. 0
+N4 N3- 2 a 0 0 0.4541(4) -.04(2) 1. 0

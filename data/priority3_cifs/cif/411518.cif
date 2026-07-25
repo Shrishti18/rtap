@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 411518
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Tantalum chloride - thionyl chloride (1/1)'
+_chemical_formula_structural '(Ta Cl5) (S O Cl2)'
+_chemical_formula_sum 'Cl7 O1 S1 Ta1'
+_exptl_crystal_density_diffrn 2.88
+_cell_measurement_temperature 180.
+_publ_section_title
+;
+Reactions of chalcogen oxide chlorides E O Cl2 (E = S, Se) with group 5 metal
+chlorides
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2001
+627 180 185 ZAACAB
+loop_
+_publ_author_name
+'Calderazzo, F.'
+'d'Attoma, M.'
+'Pampaloni, G.'
+'Troyanov, S.I.'
+_cell_length_a 16.9320(70)
+_cell_length_b 9.130(4)
+_cell_length_c 7.124(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1101.29
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0845
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+Cl1- -1
+S4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 4 c 0.36537(4) 0.25 0.50023(9) . 1. 0
+Cl1 Cl1- 4 c 0.2800(3) 0.25 0.2408(7) . 1. 0
+Cl2 Cl1- 4 c 0.4259(3) 0.25 0.7988(7) . 1. 0
+Cl3 Cl1- 8 d 0.3522(3) -.0023(5) 0.5213(5) . 1. 0
+Cl4 Cl1- 4 c 0.4858(3) 0.25 0.3381(9) . 1. 0
+Cl5 Cl1- 8 d 0.1178(2) 0.0805(4) 0.5126(4) . 1. 0
+S1 S4+ 4 c 0.1553(3) 0.25 0.6736(6) . 1. 0
+O1 O2- 4 c 0.2479(8) 0.25 0.6739(19) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta5+ 0.0197(6) 0.0091(6) 0.0474(8) 0 -.0009(3) 0
+Cl1 Cl1- 0.037(3) 0.026(2) 0.045(3) 0 -.005(2) 0
+Cl2 Cl1- 0.036(3) 0.033(2) 0.060(3) 0 -.013(2) 0
+Cl3 Cl1- 0.061(2) 0.009(2) 0.053(2) 0.003(2) 0.0025(15) 0.0009(13)
+Cl4 Cl1- 0.029(3) 0.048(3) 0.079(4) 0 0.016(3) 0
+Cl5 Cl1- 0.032(2) 0.015(2) 0.062(3) -.003(2) 0.0037(13) 0.0049(12)
+S1 S4+ 0.028(2) 0.012(2) 0.049(3) 0 -.005(2) 0
+O1 O2- 0.042(7) 0.013(6) 0.055(9) 0 -.011(6) 0

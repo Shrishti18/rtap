@@ -1,0 +1,85 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 94740
+_audit_creation_date 2003-10-01
+_audit_update_record 2016-08-01
+_chemical_name_systematic 'Dibismuth carbonate dioxide'
+_chemical_formula_structural 'Bi2 (C O3) O2'
+_chemical_formula_sum 'C1 Bi2 O5'
+_chemical_name_mineral Bismutite
+_exptl_crystal_density_diffrn 8.3
+_publ_section_title
+'A solution to the crystal structures of bismutite and beyerite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2002 40 693 698 CAMIA6
+loop_
+_publ_author_name
+'Grice, J.D.'
+_cell_length_a 3.865(2)
+_cell_length_b 3.862(2)
+_cell_length_c 13.675(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 204.12
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.0206
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 2 a 0 0 0 0.0164(3) 1. 0
+Bi2 Bi3+ 2 a 0.5 0.5 0.18433(5) 0.0171(3) 1. 0
+C1 C4+ 2 a 0 0 0.338(3) 0.012(2) 1. 0
+O1 O2- 2 b 0 0.5 0.104(2) 0.019(4) 1. 0
+O2 O2- 2 b 0.5 0 0.102(2) 0.014(3) 1. 0
+O3 O2- 4 d 0 0.286(4) 0.305(1) 0.038(3) 1. 0
+O4 O2- 2 a 0 0 0.443(1) 0.027(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0147(7) 0.0116(8) 0.0228(4) 0. 0. 0.
+Bi2 Bi3+ 0.0150(9) 0.0061(7) 0.0303(5) 0. 0. 0.
+C1 C4+ 0.014(5) 0.014(5) 0.006(4) 0. 0. 0.
+O1 O2- 0.018(6) 0.019(6) 0.020(6) 0. 0. 0.
+O2 O2- 0.016(6) 0.010(5) 0.018(6) 0. 0. 0.
+O3 O2- 0.038(6) 0.037(5) 0.038(5) 0. 0. -0.000(4)
+O4 O2- 0.031(6) 0.033(6) 0.018(4) 0. 0. 0.

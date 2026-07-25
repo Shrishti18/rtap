@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 391303
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Manganese tetralanthanum oxohexaselenide'
+_chemical_formula_structural 'Mn La4 O Se6'
+_chemical_formula_sum 'La4 Mn1 O1 Se6'
+_chemical_name_structure_type MnNd4OSe6
+_exptl_crystal_density_diffrn 6.26
+_publ_section_title
+;
+Seven new rare-earth transition-metal oxychalcogenides: Syntheses and
+characterization of Ln4 Mn O Se6 (Ln = La, Ce, Nd), Ln4 Fe O Se6 (Ln = La, Ce,
+Sm), and La4 Mn O S6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2005 178 1503 1507 JSSCBI
+loop_
+_publ_author_name
+'Ijjaali, I.'
+'Bin Deng'
+'Ibers, J.A.'
+_cell_length_a 9.7596(3)
+_cell_length_b 9.7596(3)
+_cell_length_c 7.0722(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 583.38
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.0193
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Mn2+ 2
+Se2- -2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 6 c 0.80013(2) 0.19987(2) 0.16164(7) 0.00647(16) 1 0
+La2 La3+ 2 b 0.3333 0.6667 0.20837(13) 0.0128(2) 1 0
+Mn1 Mn2+ 2 a 0. 0. -0.0106(3) 0.0094(5) 1 0
+Se1 Se2- 6 c 0.12613(5) 0.87387(5) 0.26098(14) 0.0072(2) 1 0
+Se2 Se2- 6 c 0.52891(5) 0.47109(5) 0.44544(13) 0.0082(2) 1 0
+O1 O2- 2 b 0.3333 0.6667 0.5489(15) 0.0064(19) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0063(2) 0.0063(2) 0.0074(3) 0.00363(17) -0.00018(9) 0.00018(9)
+La2 La3+ 0.0158(3) 0.0158(3) 0.0066(4) 0.00792(14) 0. 0.
+Mn1 Mn2+ 0.0093(6) 0.0093(6) 0.0095(12) 0.0046(3) 0. 0.
+Se1 Se2- 0.0065(3) 0.0065(3) 0.0072(4) 0.0022(3) -0.00010(16) 0.00010(16)
+Se2 Se2- 0.0078(3) 0.0078(3) 0.0081(4) 0.0033(3) 0.00096(16) -0.00096(16)
+O1 O2- 0.006(3) 0.006(3) 0.008(5) 0.0029(14) 0. 0.

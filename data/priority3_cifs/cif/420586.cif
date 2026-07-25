@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 420586
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Copper(II) chloride dihydrate bis(ammonium chloride)'
+_chemical_formula_structural 'Cu Cl2 (H2 O)2 (N H4 Cl)2'
+_chemical_formula_sum 'H12 Cl4 Cu1 N2 O2'
+_chemical_name_structure_type (NH4)2CuCl4(H2O)2
+_exptl_crystal_density_diffrn 2.01
+_cell_measurement_temperature 293.
+_publ_section_title 'Private communication'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Private Communication' 2009 2009 1 1 PRICO6
+loop_
+_publ_author_name
+'Basem Ali'
+_cell_length_a 7.5908(18)
+_cell_length_b 7.5908(18)
+_cell_length_c 7.967(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 459.06
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.0138
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cl1- -1
+Cu2+ 2
+O2- -2
+N3- -3
+Cl1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cl1 Cl1- 4 g 0.21135(4) 0.21135(4) 0.5 0.0264(2) 1 0
+Cu1 Cu2+ 2 b 0. 0. 0.5 0.0257(2) 1 0
+O1 O2- 4 e 0. 0. 0.2549(2) 0.0376(5) 1 0
+N1 N3- 4 d 0. 0.5 0.25 0.0328(5) 1 0
+Cl2 Cl1- 4 f 0.22347(4) 0.22347(4) 0. 0.0272(2) 1 0
+H1 H1+ 8 j 0.061(2) 0.061(2) 0.197(3) 0.049(5) 1 0
+H2 H1+ 16 k 0.053(9) 0.431(8) 0.210(5) 0.175(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cl1 Cl1- 0.0260(2) 0.0260(2) 0.0273(3) -0.00384(16) 0. 0.
+Cu1 Cu2+ 0.0294(2) 0.0294(2) 0.0183(3) -0.00883(11) 0. 0.
+O1 O2- 0.0471(7) 0.0471(7) 0.0186(9) -0.0211(9) 0. 0.
+N1 N3- 0.0351(7) 0.0351(7) 0.0283(12) 0. 0. 0.
+Cl2 Cl1- 0.0285(3) 0.0285(3) 0.0246(3) -0.00179(18) 0. 0.

@@ -1,0 +1,67 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 673330
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium Manganese Fluoride'
+_chemical_formula_structural 'Na3 Mn F6'
+_chemical_formula_sum 'F6 Mn1 Na3'
+_exptl_crystal_density_diffrn 3.15
+_publ_section_title
+;
+Assessing exchange-correlation functional performance for structure and
+property predictions of oxyfluoride compounds from first principles
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2016 94
+174108-1 15 PRBMDO
+loop_
+_publ_author_name
+'Charles, Nenian'
+'Rondinelli, James M.'
+_cell_length_a 5.47177
+_cell_length_b 5.6839
+_cell_length_c 8.07468
+_cell_angle_alpha 90
+_cell_angle_beta 91.036
+_cell_angle_gamma 90
+_cell_volume 251.09
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn0+ 0
+Na0+ 0
+F0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn0+ 2 c 0.5 0. 0.5 1. 1. 0
+Na1 Na0+ 2 d 0.5 0. 0. 1. 1. 0
+Na2 Na0+ 4 e 0.50951 0.55766 0.7495 1. 1. 0
+F1 F0+ 4 e 0.12165 0.43736 0.76089 1. 1. 0
+F2 F0+ 4 e 0.72164 0.32751 -0.05765 1. 1. 0
+F3 F0+ 4 e 0.16154 0.22444 0.06825 1. 1. 0

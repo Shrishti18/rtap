@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 280329
+_audit_creation_date 2002-04-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Thiotrimercury trisulfidoarsenate(III) chloride'
+_chemical_formula_structural '(Hg3 S) (As S3) Cl'
+_chemical_formula_sum 'As1 Cl1 Hg3 S4'
+_chemical_name_structure_type Hg3SAsS3Cl
+_exptl_crystal_density_diffrn 6.48
+_publ_section_title
+;
+Hg3 As E4 X (E= S, Se; X= Cl, Br, I), a family of isotypic compounds with an
+acentric, layered structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2000 39 5847 5850 INOCAJ
+loop_
+_publ_author_name
+'Beck, J.'
+'Hedderich, S.'
+'Koellisch, K.'
+_cell_length_a 7.431(3)
+_cell_length_b 7.431(3)
+_cell_length_c 9.003(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 430.54
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.0386
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cl1- -1
+Hg2+ 2
+S2- -2
+As3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cl1 Cl1- 2 b 0.6667 0.3333 0.0280(7) . 1. 0
+Hg1 Hg2+ 6 c 0.49589(5) -.00822(9) 0.2473(2) . 1. 0
+S1 S2- 6 c 0.2972(5) 0.1486(2) 0.3614(6) . 1. 0
+S2 S2- 2 b 0.3333 -.3333 0.1086(8) . 1. 0
+As1 As3+ 2 a 0 0 0.2246(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cl1 Cl1- 0.030(2) 0.030(2) 0.017(3) 0.0152(9) 0 0
+Hg1 Hg2+ 0.0209(4) 0.0187(4) 0.0441(7) 0.0094(2) -.0028(2) -.0056(4)
+S1 S2- 0.0138(13) 0.0146(10) 0.0250(14) 0.0069(6) 0.0012(12) 0.0006(6)
+S2 S2- 0.0181(15) 0.0181(15) 0.019(3) 0.0091(8) 0 0
+As1 As3+ 0.0146(9) 0.0146(9) 0.015(2) 0.0073(5) 0 0

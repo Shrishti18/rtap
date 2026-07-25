@@ -1,0 +1,78 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 670844
+_audit_creation_date 2017-02-01
+_chemical_name_systematic 'Lithium Calcium Trialanate'
+_chemical_formula_structural 'Li Ca (Al H4)3'
+_chemical_formula_sum 'H12 Al3 Ca1 Li1'
+_exptl_crystal_density_diffrn 1.08
+_publ_section_title
+;
+Crystal feature and electronic structure of novel mixed alanate LiCa(AlH4)3: A
+density functional theory investigation
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'RSC Advances' 2015 5 16439 16445 RSCACL
+loop_
+_publ_author_name
+'Wang, Hai-Chen'
+'Zheng, Jie'
+'Wu, Dong-Hai'
+'Wei, Liu-Ting'
+'Tang, Bi-Yu'
+_cell_length_a 9.093
+_cell_length_b 9.093
+_cell_length_c 5.996
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 429.34
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al0+ 0
+Ca0+ 0
+Li0+ 0
+H0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al0+ 6 h 0.3 0.9 0.25 1. 1. 0
+Ca1 Ca0+ 2 d 0.666667 0.333333 0.25 1. 1. 0
+Li1 Li0+ 2 a 0. 0. 0.25 1. 1. 0
+H1 H0+ 6 h 0.544 0.501 0.25 1. 1. 0
+H2 H0+ 6 h 0.807 0.815 0.25 1. 1. 0
+H3 H0+ 12 i 0.535 0.754 0.029 1. 1. 0

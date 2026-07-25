@@ -1,0 +1,79 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 71446
+_audit_creation_date 1993-01-06
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Strontium hydroxide chloride tetrahydrate'
+_chemical_formula_structural 'Sr (O H) Cl (H2 O)4'
+_chemical_formula_sum 'H9 Cl1 O5 Sr1'
+_chemical_name_structure_type Sr(OH)Cl(H2O)4
+_exptl_crystal_density_diffrn 2.2
+_publ_section_title
+;
+Extrem asymmetrisch gebundene Wassermolekuele Kristallstrukturen von Sr (O H)
+Cl * 4(H2 O), Sr (O H) Br * 4(H2 O) und Ba (O H) I * 4(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1991 46 1279
+1286 ZNBSEN
+loop_
+_publ_author_name
+'Kellersohn, T.'
+'Beckenkamp, K.'
+'Lutz, H.D.'
+_cell_length_a 5.9896(6)
+_cell_length_b 7.2764(10)
+_cell_length_c 7.7359(9)
+_cell_angle_alpha 89.635(10)
+_cell_angle_beta 108.014(8)
+_cell_angle_gamma 92.007(9)
+_cell_volume 320.42
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 2 i 0.17267(5) 0.04462(5) 0.28407(4) 1.446(5) 1. 0
+Cl1 Cl1- 2 i 0.1623(2) 0.4871(1) 0.2885(2) 2.87(2) 1. 0
+O1 O2- 2 i 0.1932(4) 0.1952(4) 0.8150(3) 1.89(5) 1. 0
+O2 O2- 2 i 0.4607(4) 0.1732(3) 0.5947(3) 1.68(4) 1. 0
+O3 O2- 2 i 0.1432(4) 0.8351(3) 0.5679(3) 1.57(4) 1. 0
+O4 O2- 2 i 0.1771(4) 0.8339(3) 0.9981(3) 1.66(4) 1. 0
+O5 O2- 2 i 0.4745(4) 0.1965(4) 0.1505(3) 1.84(5) 1. 0
+H1 H1+ 2 i 0.136(10) 0.294(8) 0.802(8) 2.5(5) 1. 0
+H2 H1+ 2 i 0.291(10) 0.189(8) 0.941(8) 2.5(5) 1. 0
+H3 H1+ 2 i 0.518(10) 0.282(8) 0.590(8) 2.5(5) 1. 0
+H4 H1+ 2 i 0.387(10) 0.177(8) 0.682(8) 2.5(5) 1. 0
+H5 H1+ 2 i 0.116(10) 0.751(8) 0.558(8) 2.5(5) 1. 0
+H6 H1+ 2 i 0.269(10) 0.842(8) 0.665(8) 2.5(5) 1. 0
+H7 H1+ 2 i 0.305(10) 0.831(8) 0.960(8) 2.5(5) 1. 0
+H8 H1+ 2 i 0.129(10) 0.747(8) 0.020(8) 2.5(5) 1. 0
+H9 H1+ 2 i 0.474(10) 0.293(8) 0.175(8) 2.5(5) 1. 0

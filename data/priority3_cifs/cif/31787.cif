@@ -1,0 +1,96 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 31787
+_audit_creation_date 1981-12-31
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Thiodithiazyl hexafluoroarsenate'
+_chemical_formula_structural 'S3 N2 As F6'
+_chemical_formula_sum 'As1 F6 N2 S3'
+_exptl_crystal_density_diffrn 2.6
+_publ_section_title
+;
+Monomeric and Dimeric Thiodithiazyl Cations,S3 N2(+) and (S6
+N4)(2+).Preparation and Crystal Structure of (S3 N2) (As F6), (S6 N4) (S2 O2
+F)2 and (S6 N4) (S O3 F)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1981 20 3784 3799 INOCAJ
+loop_
+_publ_author_name
+'Gillespie, R.J.'
+'Kent, J.P.'
+'Sawyer, J.F.'
+_cell_length_a 9.471(4)
+_cell_length_b 5.645(2)
+_cell_length_c 7.843(3)
+_cell_angle_alpha 74.78(3)
+_cell_angle_beta 90.53(3)
+_cell_angle_gamma 97.99(3)
+_cell_volume 400.52
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.064
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+S2+ 2
+S3+ 3
+N3- -3
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 2 i 0.2265(1) -.0729(2) 0.2311(1) . 1. 0
+S1 S2+ 2 i 0.1447(3) 0.5236(6) 0.7981(4) . 1. 0
+S2 S2+ 2 i 0.1959(3) 0.2674(5) 0.6571(4) . 1. 0
+S3 S3+ 2 i 0.4321(3) 0.5525(6) 0.7378(5) . 1. 0
+N1 N3- 2 i 0.3064(11) 0.6467(18) 0.8148(13) . 1. 0
+N2 N3- 2 i 0.3651(9) 0.3364(19) 0.6570(13) . 1. 0
+F1 F1- 2 i 0.0953(8) -.2750(19) 0.3655(12) . 1. 0
+F2 F1- 2 i 0.3142(9) -.3162(17) 0.2352(14) . 1. 0
+F3 F1- 2 i 0.1456(13) 0.1658(18) 0.2313(15) . 1. 0
+F4 F1- 2 i 0.1334(8) -.1278(18) 0.0546(11) . 1. 0
+F5 F1- 2 i 0.3532(10) 0.1277(17) 0.0936(12) . 1. 0
+F6 F1- 2 i 0.3166(10) -.0250(21) 0.4131(11) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As5+ 0.0366(5) 0.0424(5) 0.0351(5) 0.0062(3) -.0041(3) -.0058(2)
+S1 S2+ 0.046(1) 0.063(2) 0.061(2) 0.013(1) 0.004(1) -.018(1)
+S2 S2+ 0.044(1) 0.054(1) 0.059(2) 0.007(1) -.008(1) -.018(1)
+S3 S3+ 0.042(1) 0.069(2) 0.073(2) 0.002(1) 0.000(1) -.031(1)
+N1 N3- 0.057(5) 0.053(5) 0.055(5) -.002(4) 0.005(4) -.014(4)
+N2 N3- 0.033(4) 0.068(6) 0.063(6) 0.011(4) -.004(4) -.024(5)
+F1 F1- 0.053(4) 0.111(7) 0.073(5) -.002(4) 0.009(4) 0.009(5)
+F2 F1- 0.070(5) 0.078(5) 0.117(7) 0.041(4) -.011(5) -.025(5)
+F3 F1- 0.131(8) 0.075(6) 0.113(7) 0.054(6) -.004(6) -.025(5)
+F4 F1- 0.069(5) 0.106(6) 0.067(5) 0.022(4) -.028(4) -.039(4)
+F5 F1- 0.088(6) 0.085(6) 0.073(5) -.022(5) 0.017(4) 0.008(4)
+F6 F1- 0.088(6) 0.131(8) 0.058(5) 0.005(5) -.029(4) -.038(5)

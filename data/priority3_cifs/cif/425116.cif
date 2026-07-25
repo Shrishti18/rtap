@@ -1,0 +1,83 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 425116
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Dipotassium dicarbide - ammonia (1/2)'
+_chemical_formula_structural 'K2 (C2) (N H3)2'
+_chemical_formula_sum 'C2 H6 K2 N2'
+_exptl_crystal_density_diffrn 1.49
+_cell_measurement_temperature 123.
+_publ_section_title
+;
+Evidence of solubility of the acetylide ion C2(2-): syntheses and crystal
+structures of K2 C2 * 2 N H3, Rb2 C2 * 2 N H3, Cs2 C2 * 7 N H3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie. International Edition' 2012 51 13006 13010 ACIEF5
+loop_
+_publ_author_name
+'Hamberger, Markus'
+'Liebig, Stefan'
+'Friedrich, Ute'
+'Korber, Nikolaus'
+'Ruschewitz, Uwe'
+_cell_length_a 7.1658(13)
+_cell_length_b 5.5810(14)
+_cell_length_c 8.3330(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.881(13)
+_cell_angle_gamma 90.
+_cell_volume 304.73
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0192
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+N3- -3
+C1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 e 0.78568(4) 0.08071(5) 0.09687(4) 0.02129(13) 1 0
+N1 N3- 4 e 1.0774(2) -0.3040(2) 0.1595(2) 0.0260(3) 1 0
+C1 C1- 4 e 0.9332(2) 0.0771(3) 0.4883(2) 0.0226(3) 1 0
+H1 H1+ 4 e 1.103(3) -0.254(4) 0.271(3) 0.028(5) 1 0
+H2 H1+ 4 e 0.947(4) -0.370(4) 0.111(3) 0.041(6) 1 0
+H3 H1+ 4 e 1.167(4) -0.407(4) 0.163(3) 0.046(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.02199(18) 0.02079(18) 0.0213(2) 0.00196(13) 0.00901(13) 0.00015(13)
+N1 N3- 0.0269(8) 0.0244(7) 0.0279(9) 0.0042(6) 0.0124(6) 0.0002(6)
+C1 C1- 0.0240(6) 0.0220(7) 0.0196(8) -0.0031(5) 0.0066(6) -0.0014(6)

@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 79734
+_audit_creation_date 1996-10-14
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Tripotassium triniobate disilicate'
+_chemical_formula_structural 'K3 (Nb3 O6) (Si2 O7)'
+_chemical_formula_sum 'K3 Nb3 O13 Si2'
+_chemical_name_structure_type K3Nb3O6Si2O7
+_exptl_crystal_density_diffrn 3.88
+_publ_section_title 'Silicatoniobate de potassium, K3 Nb3 O6 Si2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1995 51 794 796 ACSCEE
+loop_
+_publ_author_name
+'Jaulmes, S.'
+'Launay, S.'
+'Mahe, P.'
+'Quarton, M.'
+_cell_length_a 9.012(1)
+_cell_length_b 9.012(1)
+_cell_length_c 8.027(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 564.58
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -6 2 c'
+_symmetry_Int_Tables_number 190
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z+1/2'
+5 'x-y, -y, z+1/2'
+6 'y, x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+K1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 6 g 0.7626(2) 0 0 . 1. 0
+K1 K1+ 6 h 0.3846(6) 0.9677(6) 0.25 . 1. 0
+Si1 Si4+ 4 f 0.3333 0.6667 0.9527(6) . 1. 0
+O1 O2- 2 d 0.6667 0.3333 0.25 . 1. 0
+O2 O2- 6 h 0.758(2) 0.009(2) 0.25 . 1. 0
+O3 O2- 6 g 0.178(1) 0 0 . 1. 0
+O4 O2- 12 i 0.690(1) 0.176(1) 0.983(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.006(1) 0.006(1) 0.062(2) 0.003(1) 0.001(1) 0.002(2)
+K1 K1+ 0.017(2) 0.022(3) 0.013(2) 0.009(2) 0 0
+Si1 Si4+ 0.009(2) 0.009(2) 0.006(2) 0.005(1) 0 0
+O1 O2- 0.013(7) 0.013(7) -.001(7) 0.007(4) 0 0
+O2 O2- 0.027(9) 0.025(8) 0.004(4) 0.017(8) 0 0
+O3 O2- 0.005(4) 0.017(7) 0.020(6) 0.009(4) -.005(4) -.010(8)
+O4 O2- 0.025(5) 0.008(4) 0.015(4) 0.013(4) -.001(5) -.003(4)

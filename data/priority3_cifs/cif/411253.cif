@@ -1,0 +1,73 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 411253
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Lithium gold acetylide'
+_chemical_formula_structural 'Li Au C2'
+_chemical_formula_sum 'C2 Au1 Li1'
+_exptl_crystal_density_diffrn 5.87
+_publ_section_title
+;
+Syntheses and crystal structures of novel ternary alkali metal gold acetylides
+M Au C2 (M= Li, Na, K, Rb, Cs)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2000
+626 649 654 ZAACAB
+loop_
+_publ_author_name
+'Offermanns, J.'
+'Ruschewitz, U.'
+'Kneip, C.'
+_cell_length_a 3.787(5)
+_cell_length_b 3.787(5)
+_cell_length_c 5.194(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 64.51
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 m 2'
+_symmetry_Int_Tables_number 187
+_refine_ls_R_factor_all 0.0207
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 'x, x-y, z'
+5 '-x+y, y, z'
+6 '-y, -x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Au1+ 1
+C1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 1 d 0.3333 0.6667 0.5 0.025 1. 0
+Au1 Au1+ 1 a 0 0 0 0.0352(7) 1. 0
+C1 C1- 2 g 0 0 0.3845 0.0250(7) 1. 0

@@ -1,0 +1,72 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 50388
+_audit_creation_date 1999-11-30
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Lanthanum gallate'
+_chemical_formula_structural 'La (Ga O3)'
+_chemical_formula_sum 'Ga1 La1 O3'
+_chemical_name_structure_type Perovskite-GdFeO3
+_exptl_crystal_density_diffrn 7.23
+_publ_section_title
+;
+The structure of the oxide ion conductor La0.9 Sr0.1 Ga0.8 Mg0.2 O2.85 by
+powder neutron diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 1998 107 319 323 SSIOD3
+loop_
+_publ_author_name
+'Slater, P.R.'
+'Irvine, J.T.S.'
+'Ishihara, T.'
+'Takita, Y.'
+_cell_length_a 5.52432(2)
+_cell_length_b 5.49246(2)
+_cell_length_c 7.77448(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 235.89
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0241
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ga3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 c -.0047(2) -.0168(2) 0.25 0.39(2) 1. 0
+Ga1 Ga3+ 4 b 0.5 0 0 0.29(2) 1. 0
+O1 O2- 8 d 0.2705(2) 0.2714(2) 0.5365(1) 0.53(2) 1. 0
+O2 O2- 4 c 0.0681(2) 0.5078(3) 0.25 0.41(2) 1. 0

@@ -1,0 +1,73 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 9752
+_audit_creation_date 1986-08-12
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Lanthanum silicon dioxide nitride'
+_chemical_formula_structural 'La Si O2 N'
+_chemical_formula_sum 'La1 N1 O2 Si1'
+_chemical_name_structure_type CeSiO2N
+_exptl_crystal_density_diffrn 4.8
+_publ_section_title 'The cyrstal structures of Ce Si O2 N and La Si O2 N'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Science' 1977 12 2343 2344 JMTSAS
+loop_
+_publ_author_name
+'Morgan, P.E.D.'
+'Carroll, P.J.'
+_cell_length_a 7.31
+_cell_length_b 7.31
+_cell_length_c 9.55
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 441.95
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P -6 c 2'
+_symmetry_Int_Tables_number 188
+_refine_ls_R_factor_all 0.25
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 'x, x-y, z+1/2'
+5 '-x+y, y, z+1/2'
+6 '-y, -x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Si4+ 4
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 a 0 0 0 . 1. 0
+La2 La3+ 2 c 0.3333 0.6667 0 . 1. 0
+La3 La3+ 2 e 0.6667 0.3333 0 . 1. 0
+Si1 Si4+ 6 k 0.666 0.935 0.25 . 1. 0
+O1 O2- 12 l 0.666 0.015 0.082 . 1. 0
+N1 N3- 6 k 0.666 0.463 0.25 . 1. 0

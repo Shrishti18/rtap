@@ -1,0 +1,106 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 412606
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Tetraamminecopper bis(dinitramide)'
+_chemical_formula_structural '(Cu (N H3)4) (N (N O2)2)2'
+_chemical_formula_sum 'H12 Cu1 N10 O8'
+_exptl_crystal_density_diffrn 1.97
+_cell_measurement_temperature 200.
+_publ_section_title
+;
+Synthesis, characterization and crystal structures of Cu, Ag and Pd
+Dinitramide Salts
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2002
+628 2894 2900 ZAACAB
+loop_
+_publ_author_name
+'Ang, H.-G.'
+'Fraenk, W.'
+'Karaghiosoff, K.'
+'Klapoetke, T.M.'
+'Mayer, P.'
+'Noeth, H.'
+'Sprott, J.'
+'Warchhold, M.'
+_cell_length_a 6.5005(15)
+_cell_length_b 7.3841(16)
+_cell_length_c 7.4659(17)
+_cell_angle_alpha 97.48(3)
+_cell_angle_beta 111.11(3)
+_cell_angle_gamma 113.96(3)
+_cell_volume 289.
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0514
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+O2- -2
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+N3- -3
+N5+ 5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 1 c 0. 0.5 0. 0.01249(15) 1 0
+O1 O2- 2 i 0.4113(4) 0.2146(3) 0.1505(3) 0.0234(5) 1 0
+O2 O2- 2 i 0.7183(4) 0.3918(3) 0.4545(3) 0.0241(5) 1 0
+O3 O2- 2 i 0.2947(4) 0.0396(3) 0.6529(3) 0.0343(6) 1 0
+O4 O2- 2 i 0.5533(4) 0.3656(3) 0.7182(3) 0.0234(5) 1 0
+N1 N3- 2 i 0.0976(5) 0.3505(4) -0.1726(4) 0.0174(5) 1 0
+H1 H1+ 2 i -0.140(7) 0.132(6) 0.031(6) 0.058(11) 1 0
+H2 H1+ 2 i -0.234(8) 0.227(6) 0.106(6) 0.053(13) 1 0
+H3 H1+ 2 i -0.002(11) 0.271(8) 0.210(8) 0.095(19) 1 0
+N2 N3- 2 i -0.1078(6) 0.2567(4) 0.1029(5) 0.0216(6) 1 0
+H4 H1+ 2 i 0.159(7) 0.410(6) -0.226(6) 0.046(12) 1 0
+H5 H1+ 2 i 0.208(9) 0.317(7) -0.095(7) 0.087(16) 1 0
+H6 H1+ 2 i -0.014(9) 0.221(7) -0.234(7) 0.068(13) 1 0
+N3 N3- 2 i 0.3303(4) 0.1282(3) 0.3936(3) 0.0187(5) 1 0
+N4 N5+ 2 i 0.4999(5) 0.2580(3) 0.3396(3) 0.0163(5) 1 0
+N5 N5+ 2 i 0.4064(4) 0.1854(3) 0.6006(3) 0.0180(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0146(3) 0.0099(3) 0.0128(3) 0.0050(3) 0.0073(3) 0.0038(2)
+O1 O2- 0.0320(14) 0.0257(11) 0.0115(11) 0.0146(11) 0.0085(11) 0.0055(9)
+O2 O2- 0.0135(13) 0.0236(11) 0.0211(11) 0.0009(11) 0.0039(11) 0.0059(10)
+O3 O2- 0.0508(16) 0.0302(12) 0.0416(14) 0.0213(12) 0.0349(14) 0.0236(11)
+O4 O2- 0.0235(13) 0.0236(11) 0.0159(11) 0.0111(11) 0.0046(11) -0.0006(10)
+N1 N3- 0.0217(16) 0.0160(13) 0.0198(14) 0.0098(13) 0.0141(14) 0.0057(12)
+N2 N3- 0.0253(17) 0.0179(14) 0.0281(16) 0.0110(14) 0.0168(15) 0.0119(13)
+N3 N3- 0.0167(15) 0.0166(11) 0.0160(13) 0.0018(12) 0.0090(12) 0.0019(11)
+N4 N5+ 0.0164(15) 0.0141(12) 0.0183(13) 0.0084(13) 0.0067(13) 0.0051(11)
+N5 N5+ 0.0221(15) 0.0192(13) 0.0211(13) 0.0148(13) 0.0121(13) 0.0083(12)

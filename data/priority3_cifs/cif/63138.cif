@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 63138
+_audit_creation_date 1989-06-19
+_chemical_name_systematic
+'Potassium magnesium di-mue-hydrogen bis(carbonate) tetrahydrate'
+_chemical_formula_structural 'K Mg H (C O3)2 (H2 O)4'
+_chemical_formula_sum 'C2 H9 K1 Mg1 O10'
+_chemical_name_structure_type KMgH(CO3)2(H2O)4
+_exptl_crystal_density_diffrn 1.99
+_cell_measurement_temperature 295.
+_publ_section_title
+'Structure of potassium magnesium hydrogenbiscarbonate tetrahydrate.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1988 44 1168 1172 ACSCEE
+loop_
+_publ_author_name
+'Fernandes, N.G.'
+'Tellgren, R.'
+'Olovsson, I.'
+_cell_length_a 6.7125(7)
+_cell_length_b 7.3439(9)
+_cell_length_c 5.3677(8)
+_cell_angle_alpha 107.267(8)
+_cell_angle_beta 107.965(7)
+_cell_angle_gamma 59.546(8)
+_cell_volume 213.77
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Mg2+ 2
+O2- -2
+C4+ 4
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 1 a 0 0 0 . 1. 0
+Mg1 Mg2+ 1 g 0 0.5 0.5 . 1. 0
+O1 O2- 2 i 0.01796(27) 0.76145(23) 0.46025(32) . 1. 0
+O2 O2- 2 i 0.76283(26) 0.50808(23) 0.13759(27) . 1. 0
+O3 O2- 2 i 0.26926(23) 0.29539(22) 0.29597(25) . 1. 0
+O4 O2- 2 i 0.59691(24) 0.24362(24) 0.60656(26) . 1. 0
+O5 O2- 2 i 0.62034(23) 0.05479(22) 0.20124(26) . 1. 0
+C1 C4+ 2 i 0.49123(31) 0.20274(28) 0.37462(35) . 1. 0
+H1 H1+ 2 i 0.156(7) 0.741(5) 0.419(7) 0.073(12) 1. 0
+H2 H1+ 2 i -.090(5) 0.846(4) 0.380(5) 0.035(7) 1. 0
+H3 H1+ 2 i 0.749(7) 0.566(6) 0.006(8) 0.087(13) 1. 0
+H4 H1+ 2 i 0.625(7) 0.591(5) 0.181(7) 0.062(10) 1. 0
+H5 H1+ 1 d 0.5 0 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+K1 K1+ 0.0176(2) 0.0207(2) 0.0179(3) -.0076(2) 0.0065(2) 0.0041(1)
+Mg1 Mg2+ 0.0070(3) 0.0073(2) 0.0108(3) -.0026(2) 0.0024(2) 0.0008(2)
+O1 O2- 0.0092(4) 0.0104(4) 0.0260(6) -.0035(3) 0.0021(4) 0.0068(4)
+O2 O2- 0.0100(4) 0.0139(4) 0.0127(5) -.0036(3) 0.0015(4) 0.0017(3)
+O3 O2- 0.0071(4) 0.0125(4) 0.0139(5) -.0016(3) 0.0031(3) 0.0008(3)
+O4 O2- 0.0096(4) 0.0172(4) 0.0118(5) -.0060(3) 0.0024(3) -.0020(3)
+O5 O2- 0.0075(4) 0.0122(3) 0.0136(5) -.0026(3) 0.0034(3) -.0026(3)
+C1 C4+ 0.0082(5) 0.0084(4) 0.0135(6) -.0036(4) 0.0036(4) 0.0015(4)

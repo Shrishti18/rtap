@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 65183
+_audit_creation_date 1990-06-08
+_chemical_name_systematic 'Tungsten(V) oxide triiodide'
+_chemical_formula_structural 'W O I3'
+_chemical_formula_sum 'I3 O1 W1'
+_chemical_name_structure_type NbOCl3
+_exptl_crystal_density_diffrn 6.75
+_cell_measurement_temperature 143.
+_publ_section_title
+;
+Ueber die Reaktion von W3 O mit Iod. Darstellung, Kristallstruktur und
+Eigenschaften von W O I3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1987
+553 127 135 ZAACAB
+loop_
+_publ_author_name
+'Krebs, B.'
+'Brendel, C.J.'
+'Schaefer, H.'
+_cell_length_a 12.320(4)
+_cell_length_b 12.320(4)
+_cell_length_c 3.764(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 571.31
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W5+ 5
+I1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W5+ 4 f 0.08902(4) 0.08902(4) 0 . 1. 0
+I1 I1- 4 g 0.12667(6) -.12667(6) 0 . 1. 0
+I2 I1- 8 i 0.31035(6) 0.09973(7) 0 . 1. 0
+O1 O2- 4 g 0.0854(6) 0.0854(6) 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+W1 W5+ 0.84(2) 0.84(2) 0.25(3) -.08(2) 0 0
+I1 I1- 1.04(3) 1.04(3) 0.86(4) 0.09(3) 0 0
+I2 I1- 0.96(3) 1.64(4) 1.64(4) -.21(3) 0 0
+O1 O2- 1.4(3) 1.4(3) 0.4(3) -.4(3) 0 0

@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 409724
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Discandium tris(hydrogenphosphate(III))'
+_chemical_formula_structural 'Sc2 (H P O3)3'
+_chemical_formula_sum 'H3 O9 P3 Sc2'
+_chemical_name_structure_type Al2(HPO3)3
+_exptl_crystal_density_diffrn 2.38
+_publ_section_title
+;
+Crystal strucutre of discandium tris-monohydrogenphosphate(III), Sc2 (H P O3)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2003 218
+377 378 ZKNSFT
+loop_
+_publ_author_name
+'Ewald, B.'
+'Prots', Yu.'
+'Kniep, R.'
+_cell_length_a 8.3055(7)
+_cell_length_b 8.3055(7)
+_cell_length_c 7.6969(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 459.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc3+ 3
+P3+ 3
+H1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc3+ 4 f 0.3333 0.6667 0.04587(7) 0.01468(13) 1. 0
+P1 P3+ 6 h 0.35183(8) 0.04198(8) 0.25 0.01389(14) 1. 0
+H1 H1+ 6 h 0.011(4) 0.178(4) 0.25 0.021 1. 0
+O1 O2- 12 i 0.43667(19) 0.15032(18) 0.08576(16) 0.0238(3) 1. 0
+O2 O2- 6 h 0.1407(2) 0.4969(2) 0.25 0.0182(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc3+ 0.01798(16) 0.01798(16) 0.0081(2) 0.00899(8) 0 0
+P1 P3+ 0.0136(2) 0.0160(3) 0.0117(3) 0.0071(2) 0 0
+O1 O2- 0.0260(6) 0.0239(6) 0.0197(6) 0.0112(5) 0.0053(5) 0.0079(5)
+O2 O2- 0.0164(7) 0.0211(8) 0.0112(7) 0.0051(6) 0 0

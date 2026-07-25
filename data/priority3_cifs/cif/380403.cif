@@ -1,0 +1,99 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 380403
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Trilanthanum nickel(II) trisulfohexaoxotungstate(VI)'
+_chemical_formula_structural 'La3 Ni W S3 O6'
+_chemical_formula_sum 'La3 Ni1 O6 S3 W1'
+_chemical_name_structure_type La3FeWS3O6
+_exptl_crystal_density_diffrn 6.64
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+La3 T W S3 O6 (T = Cr, Mn, Fe, Co, Ni): Quinary rare earth transition-metal
+compounds showing a nonmagnetic/magnetic transition (T = Co) - Synthesis,
+structure and physical properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2010
+636 74 78 ZAACAB
+loop_
+_publ_author_name
+'Bryhan, D.N.'
+'Rakers, R.'
+'Klimaszewski, K.'
+'Patel, N.'
+'Bohac, J.J.'
+'Kremer, R.K.'
+'Mattausch, H.J.'
+'Zheng Chong'
+_cell_length_a 9.4996(7)
+_cell_length_b 9.4996(7)
+_cell_length_c 5.4518(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 426.07
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0478
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+W6+ 6
+Ni2+ 2
+S1- -1.666
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 6 h 0.3071(2) 0.3938(2) -0.25 0.0176(8) 1 0
+W1 W6+ 2 c 0.3333 0.6667 0.25 0.0162(9) 1 0
+Ni1 Ni2+ 2 b 0. 0. 0. 0.0120(15) 1 0
+S1 S1- 6 h -0.2361(9) -0.0498(10) 0.25 0.0130(17) 1 0
+O1 O2- 12 i 0.471(2) 0.636(2) 0.015(3) 0.027(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0165(12) 0.0107(12) 0.0151(11) -0.0010(8) 0. 0.
+W1 W6+ 0.0180(10) 0.0180(10) 0.0126(12) 0.0090(5) 0. 0.
+Ni1 Ni2+ 0.010(2) 0.010(2) 0.017(3) 0.0048(10) 0. 0.
+S1 S1- 0.006(3) 0.017(4) 0.012(4) 0.002(3) 0. 0.
+O1 O2- 0.032(10) 0.027(9) 0.027(9) 0.018(9) -0.002(8) -0.007(8)

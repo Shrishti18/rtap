@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 402669
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Copper bis(rhenate(VII)) tetrahydrate'
+_chemical_formula_structural 'Cu (Re O4)2 (H2 O)4'
+_chemical_formula_sum 'H8 Cu1 O12 Re2'
+_chemical_name_structure_type Co(ReO4)2(H2O)4
+_exptl_crystal_density_diffrn 3.91
+_publ_section_title
+'Crystal structure of tetraaquabis(perrhenoato)copper(II), Cu (Re O4)2 (H2 O)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 1997 212
+294 294 ZKNSFT
+loop_
+_publ_author_name
+'Mujica, C.'
+'Peters, K.'
+'Peters, E.M.'
+'von Schnering, H.G.'
+_cell_length_a 6.344(1)
+_cell_length_b 7.022(1)
+_cell_length_c 7.237(1)
+_cell_angle_alpha 63.18(1)
+_cell_angle_beta 71.52(1)
+_cell_angle_gamma 74.31(1)
+_cell_volume 269.77
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0323
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re7+ 7
+Cu2+ 2
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re7+ 2 i 0.07594(5) 0.31814(5) 0.30102(4) . 1. 0
+Cu1 Cu2+ 1 d 0.5 0 0 . 1. 0
+O1 O2- 2 i -.2161(12) 0.3492(11) 0.37854(93) . 1. 0
+O2 O2- 2 i 0.1833(14) 0.2627(12) 0.5086(11) . 1. 0
+O3 O2- 2 i 0.1604(14) 0.5470(11) 0.0937(11) . 1. 0
+O4 O2- 2 i 0.1648(13) 0.1093(13) 0.2243(13) . 1. 0
+O5 O2- 2 i 0.3253(14) -.0660(11) -.1381(12) . 1. 0
+H1 H1+ 2 i 0.298 -.1656 -.1182 0.176(72) 1. 0
+H2 H1+ 2 i 0.2353 0.0338 -.1017 0.176(72) 1. 0
+O6 O2- 2 i 0.52180(95) 0.28816(89) -.22585(82) . 1. 0
+H3 H1+ 2 i 0.3828 0.38109 -.23661 0.072(30) 1. 0
+H4 H1+ 2 i 0.57965 0.29521 -.32703 0.072(30) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re7+ 0.03135(28) 0.02544(24) 0.02453(24) -.00682(16) -.00838(16) -.00606(16)
+Cu1 Cu2+ 0.02572(71) 0.02104(63) 0.02390(61) -.00405(53) -.01029(53) -.00451(50)
+O1 O2- 0.0378(38) 0.0472(36) 0.0335(31) 0.0031(30) -.0027(27) -.0146(27)
+O2 O2- 0.0761(58) 0.0469(38) 0.0368(34) -.0085(36) -.0306(37) 0.0002(29)
+O3 O2- 0.0829(58) 0.0448(38) 0.0441(37) -.0345(37) -.0352(38) 0.0021(31)
+O4 O2- 0.0432(43) 0.0633(47) 0.0804(51) 0.0007(36) -.0089(39) -.0519(43)
+O5 O2- 0.0633(50) 0.0361(35) 0.0538(42) -.0235(34) -.0365(37) -.0021(30)
+O6 O2- 0.0305(33) 0.0331(30) 0.0287(28) -.0055(26) -.0097(25) -.0073(25)

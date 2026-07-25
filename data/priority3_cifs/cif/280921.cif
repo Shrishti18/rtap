@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 280921
+_audit_creation_date 2003-04-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Copper bis(dihydrogenphosphate(I)) - gamma'
+_chemical_formula_structural 'Cu (H2 P O2)2'
+_chemical_formula_sum 'H4 Cu1 O4 P2'
+_exptl_crystal_density_diffrn 2.47
+_cell_measurement_temperature 270.
+_publ_section_title
+;
+Copper(II) hypophosphite: the alpha- and beta-forms at 270 and 100 K, and the
+gamma-form at 270 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2002 58 i55 i60 ACSCEE
+loop_
+_publ_author_name
+'Naumov, D.Yu.'
+'Naumova, M.I.'
+'Kuratieva, N.V.'
+'Boldyreva, E.V.'
+'Howard, J.A.K.'
+_cell_length_a 6.6738(6)
+_cell_length_b 5.4133(5)
+_cell_length_c 7.1954(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 259.95
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m a'
+_symmetry_Int_Tables_number 51
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x+1/2, y, -z'
+6 '-x+1/2, y, z'
+7 '-x, y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+P5+ 5
+H1- -1
+O2- -2
+P5+ 5
+H1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 b 0 0.5 0 0.01590(16) 1. 0
+P1 P5+ 2 e 0.25 0 -.1476(2) 0.0364(4) 1. 0
+H1 H1- 4 i 0.414(5) 0 -.259(3) 0.044 1. 0
+O1 O2- 4 k 0.25 0.2382(4) -.0362(3) 0.0340(7) 1. 0
+P2 P5+ 2 f 0.25 0.5 0.36694(19) 0.0310(4) 1. 0
+H2 H1- 4 k 0.25 0.292(5) 0.484(3) 0.037 1. 0
+O2 O2- 4 j 0.0560(3) 0.5 0.2659(3) 0.0246(6) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0104(3) 0.0149(2) 0.0224(3) 0 0.0008(3) 0
+P1 P5+ 0.0614(13) 0.0170(6) 0.0308(8) 0 0 0
+O1 O2- 0.0481(18) 0.0155(11) 0.0385(16) 0 0 -0.0053(12)
+P2 P5+ 0.0165(8) 0.0544(9) 0.0220(7) 0 0 0
+O2 O2- 0.0101(12) 0.0419(15) 0.0219(12) 0 -0.0021(10) 0

@@ -1,0 +1,110 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 416650
+_audit_creation_date 2009-02-01
+_chemical_name_systematic
+'Dithallium cobalt bis(dihydrogendiphosphate) dihydrate'
+_chemical_formula_structural 'Tl2 Co (H2 P2 O7)2 (H2 O)2'
+_chemical_formula_sum 'H8 Co1 O16 P4 Tl2'
+_chemical_name_structure_type Tl2Ni(H2P2O7)2(H2O)2
+_exptl_crystal_density_diffrn 3.81
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+New thallium diphosphates Tl2 Me (H2 P2 O7)2 * 2H2 O, Me = Mg, Mn, Co, Ni and
+Zn. Synthesis, single crystal x-ray structures and powder x-ray structure of
+the Mg phase
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 2008 223 448 455 ZEKRDZ
+loop_
+_publ_author_name
+'El Bali, B.'
+'Capitelli, F.'
+'Alaoui, T.A.'
+'Lachkar, M.'
+'da Silva, I.'
+'Alvarez Larena, A.'
+'Piniella, J.F.'
+_cell_length_a 6.9767(7)
+_cell_length_b 7.3634(7)
+_cell_length_c 7.7690(7)
+_cell_angle_alpha 81.421(2)
+_cell_angle_beta 71.114(2)
+_cell_angle_gamma 86.424(2)
+_cell_volume 373.36
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0591
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Co2+ 2
+P5+ 5
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 i 0.09229(8) 0.71312(7) 0.79541(7) 0.0387(3) 1 0
+Co1 Co2+ 1 e 0.5 0.5 1. 0.0173(4) 1 0
+P1 P5+ 2 i 0.7619(4) 0.2007(4) 0.7437(4) 0.0166(5) 1 0
+P2 P5+ 2 i 0.3487(4) 0.2628(4) 0.7384(4) 0.0168(5) 1 0
+O1 O2- 2 i 0.7382(15) 0.0098(12) 0.8446(13) 0.0329(19) 1 0
+O2 O2- 2 i 0.9493(12) 0.2194(13) 0.5676(11) 0.0269(18) 1 0
+H1 H1+ 2 i 1.04(2) 0.28(2) 0.58(3) 0.04 1 0
+O3 O2- 2 i 0.7538(12) 0.3503(12) 0.8582(12) 0.0261(17) 1 0
+O4 O2- 2 i 0.5876(11) 0.2325(11) 0.6470(11) 0.0223(15) 1 0
+O5 O2- 2 i 0.2732(12) 0.3343(12) 0.5808(11) 0.0258(17) 1 0
+O6 O2- 2 i 0.2566(13) 0.0697(10) 0.8274(12) 0.0247(16) 1 0
+H2 H1+ 2 i 0.22(2) 0.05(3) 0.939(4) 0.037 1 0
+O7 O2- 2 i 0.3131(12) 0.3882(11) 0.8845(11) 0.0222(15) 1 0
+O8 O2- 2 i 0.5552(15) 0.7132(10) 0.7816(12) 0.0274(18) 1 0
+H3 H1+ 2 i 0.61(2) 0.731(19) 0.669(4) 0.041 1 0
+H4 H1+ 2 i 0.58(3) 0.803(14) 0.822(17) 0.041 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0474(4) 0.0312(4) 0.0386(4) 0.0090(2) -0.0165(3) -0.0059(2)
+Co1 Co2+ 0.0220(9) 0.0111(9) 0.0213(9) 0.0010(7) -0.0093(7) -0.0049(7)
+P1 P5+ 0.0203(12) 0.0107(12) 0.0207(12) 0.0017(9) -0.0089(10) -0.0040(9)
+P2 P5+ 0.0199(11) 0.0114(12) 0.0222(12) 0.0002(9) -0.0109(10) -0.0025(9)
+O1 O2- 0.046(5) 0.019(4) 0.035(5) -0.001(4) -0.017(4) 0.003(4)
+O2 O2- 0.023(4) 0.038(5) 0.022(4) -0.006(3) -0.007(3) -0.009(3)
+O3 O2- 0.023(4) 0.026(4) 0.037(5) 0.007(3) -0.015(3) -0.018(4)
+O4 O2- 0.021(3) 0.026(4) 0.022(4) 0.006(3) -0.008(3) -0.006(3)
+O5 O2- 0.021(4) 0.032(5) 0.027(4) -0.001(3) -0.013(3) -0.002(3)
+O6 O2- 0.038(4) 0.008(3) 0.030(4) -0.009(3) -0.013(4) 0.000(3)
+O7 O2- 0.023(4) 0.018(4) 0.028(4) 0.003(3) -0.010(3) -0.010(3)
+O8 O2- 0.049(5) 0.006(4) 0.029(4) -0.005(3) -0.012(4) -0.003(3)

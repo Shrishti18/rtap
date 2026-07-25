@@ -1,0 +1,126 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 8285
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Dicesium lead copper hexakis(nitrate(III)) - beta'
+_chemical_formula_structural 'Cs2 Pb Cu (N O2)6'
+_chemical_formula_sum 'Cs2 Cu1 N6 O12 Pb1'
+_chemical_name_structure_type K2SrCu2(NO2)6
+_exptl_crystal_density_diffrn 4.14
+_cell_measurement_temperature 323.
+_publ_section_title
+;
+Untersuchungen an Jahn-Teller-verzerrten Strukturen von A2 Pb Cu (N O2)6 mit A
+= K, Rb, Cs
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+; 1976 143 220 238 ZEKGAX
+loop_
+_publ_author_name
+'Helmbold, R.'
+'Mullen, D.J.E.'
+'Ahsbahs, H.'
+'Klopsch, A.'
+'Hellner, E.'
+_cell_length_a 11.026(6)
+_cell_length_b 11.003(6)
+_cell_length_c 10.746(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1303.69
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+_refine_ls_R_factor_all 0.06
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x, y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x, -y+1/2, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x, -y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+17 'x+1/2, y, -z+1/2'
+18 'x+1/2, -y, z+1/2'
+19 '-x+1/2, y, z+1/2'
+20 '-x+1/2, -y, -z+1/2'
+21 '-x+1/2, -y, z+1/2'
+22 '-x+1/2, y, -z+1/2'
+23 'x+1/2, -y, -z+1/2'
+24 'x+1/2, y, z+1/2'
+25 'x+1/2, y+1/2, -z'
+26 'x+1/2, -y+1/2, z'
+27 '-x+1/2, y+1/2, z'
+28 '-x+1/2, -y+1/2, -z'
+29 '-x+1/2, -y+1/2, z'
+30 '-x+1/2, y+1/2, -z'
+31 'x+1/2, -y+1/2, -z'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Cu2+ 2
+Cs1+ 1
+N3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 b 0 0 0.5 . 1. 0
+Cu1 Cu2+ 4 a 0 0 0 . 1. 0
+Cs1 Cs1+ 8 f 0.25 0.25 0.25 . 1. 0
+N1 N3+ 8 i 0 0 0.1930(5) . 1. 0
+N2 N3+ 8 g 0.2019(7) 0 0 . 1. 0
+N3 N3+ 8 h 0 0.2019(7) 0 . 1. 0
+O1 O2- 16 m 0 0.0950(7) 0.2527(8) . 1. 0
+O2 O2- 16 n 0.2595(10) 0 0.0987(8) . 1. 0
+O3 O2- 16 o 0.0949(7) 0.2604(10) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Pb1 Pb2+ 0.0029(3) 0.0029(3) 0.0030(3) 0 0 0
+Cu1 Cu2+ 0.0001(9) 0.0021(8) 0.0040(9) 0 0 0
+Cs1 Cs1+ 0.0041(3) 0.0041(3) 0.0043(4) 0 0 0
+N1 N3+ 0.0031(5) 0.0038(5) 0.0027(5) 0 0 0
+N2 N3+ 0.0072(8) 0.0037(5) 0.0040(6) 0 0 0
+N3 N3+ 0.0021(6) 0.0090(8) 0.0041(6) 0 0 0
+O1 O2- 0.0047(6) 0.0045(5) 0.0048(5) 0 0 -.0010(5)
+O2 O2- 0.0096(9) 0.0062(6) 0.0043(6) 0 0.0008(6) 0
+O3 O2- 0.0030(7) 0.0111(9) 0.0067(7) -.0003(7) 0 0

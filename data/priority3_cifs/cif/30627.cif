@@ -1,0 +1,68 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 30627
+_audit_creation_date 1980-01-01
+_audit_update_record 1998-06-26
+_chemical_name_systematic 'Lead oxide sulfate'
+_chemical_formula_structural 'Pb2 O (S O4)'
+_chemical_formula_sum 'O5 Pb2 S1'
+_chemical_name_structure_type Pb2OSO4
+_chemical_name_mineral Lanarkite
+_exptl_crystal_density_diffrn 7.08
+_publ_section_title 'The crystal structure of lanarkite, Pb O * Pb (S O4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1951 4 471 472 ACCRA9
+loop_
+_publ_author_name
+'Binnie, W.P.'
+_cell_length_a 13.75(4)
+_cell_length_b 5.68(2)
+_cell_length_c 7.05(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.2(2)
+_cell_angle_gamma 90.
+_cell_volume 494.03
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+O2- -2
+S6+ 6
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 i 0.146 0 0.103 . 1. 0
+Pb2 Pb2+ 4 i 0.0235 0.5 0.272 . 1. 0
+O1 O2- 4 i 0.248 0.5 0.244 . 1. 0
+O2 O2- 4 i 0.421 0.5 0.515 . 1. 0
+O3 O2- 8 j 0.384 0.287 0.18 . 1. 0
+O4 O2- 4 g 0 0.25 0 . 1. 0
+S1 S6+ 4 i 0.361 0.5 0.282 . 1. 0

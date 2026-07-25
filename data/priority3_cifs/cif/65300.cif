@@ -1,0 +1,111 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 65300
+_audit_creation_date 1989-12-04
+_chemical_name_systematic 'Tetrarubidium hexabromoplumbate'
+_chemical_formula_structural 'Rb4 Pb Br6'
+_chemical_formula_sum 'Br6 Pb1 Rb4'
+_chemical_name_structure_type K4CdCl6
+_exptl_crystal_density_diffrn 4.04
+_publ_section_title
+;
+Refinement of the structure of Rb4 Pb Br6 and a note on the existence of " Rb4
+Hg I6 " and " K4 Cd I6"
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1988
+562 102 104 ZAACAB
+loop_
+_publ_author_name
+'Beck, H.P.'
+'Milius, W.'
+_cell_length_a 13.329(4)
+_cell_length_b 13.329(4)
+_cell_length_c 16.478(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2535.31
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Pb2+ 2
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 6 a 0 0 0.25 . 1. 0
+Rb2 Rb1+ 18 e 0.3793(2) 0 0.25 . 1. 0
+Pb1 Pb2+ 6 b 0 0 0 . 1. 0
+Br1 Br1- 36 f -.0330(1) 0.1648(1) 0.10592(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0580(14) 0.0580(14) 0.0176(18) 0.0290(7) 0 0
+Rb2 Rb1+ 0.0393(8) 0.0378(12) 0.0317(12) 0.0189(6) -.0031(4) -.0062(8)
+Pb1 Pb2+ 0.0268(4) 0.0268(4) 0.0156(6) 0.0134(2) 0 0
+Br1 Br1- 0.0473(9) 0.0340(8) 0.0251(8) 0.0231(4) 0.0009(3) -.0040(3)

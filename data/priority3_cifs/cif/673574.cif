@@ -1,0 +1,78 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD 673574
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Cesium Boron Oxide'
+_chemical_formula_structural 'Cs B3 O5'
+_chemical_formula_sum 'B3 Cs1 O5'
+_exptl_crystal_density_diffrn 1.92
+_publ_section_title
+;
+Raman spectral and density functional theory analyses of the CsB3O5 melt
+structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 7098 7102 INOCAJ
+loop_
+_publ_author_name
+'Feng, Dexuan'
+'Zhang, Bo'
+'Zheng, Guimei'
+'Wan, Songming'
+'You, Jinglin'
+_cell_length_a 7.
+_cell_length_b 8.8
+_cell_length_c 6.9
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 425.04
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs0+ 0
+B0+ 0
+O0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs0+ 1 a 0.92987 0.25063 0.36816 1. 1. 0
+Cs2 Cs0+ 1 a 0.07198 0.73478 0.68909 1. 1. 0
+B1 B0+ 1 a 0.73881 0.84339 0.23705 1. 1. 0
+B2 B0+ 1 a 0.47658 0.89538 0.4554 1. 1. 0
+B3 B0+ 1 a 0.56942 0.62842 0.39267 1. 1. 0
+B4 B0+ 1 a 0.52527 0.41125 0.60185 1. 1. 0
+B5 B0+ 1 a 0.26304 0.35924 0.8202 1. 1. 0
+B6 B0+ 1 a 0.43244 0.14428 0.66458 1. 1. 0
+O1 O0+ 1 a 0.83529 0.90915 0.07108 1. 1. 0
+O2 O0+ 1 a 0.61526 0.94757 0.32583 1. 1. 0
+O3 O0+ 1 a 0.72297 0.69204 0.27466 1. 1. 0
+O4 O0+ 1 a 0.46874 0.74752 0.50576 1. 1. 0
+O5 O0+ 1 a 0.65167 0.51378 0.52185 1. 1. 0
+O6 O0+ 1 a 0.3866 0.46344 0.73143 1. 1. 0
+O7 O0+ 1 a 0.53311 0.26338 0.55149 1. 1. 0
+O8 O0+ 1 a 0.13214 0.42063 0.93596 1. 1. 0
+O9 O0+ 1 a 0.27889 0.20789 0.7826 1. 1. 0
+O10 O0+ 1 a 0.35019 0.02963 0.5354 1. 1. 0

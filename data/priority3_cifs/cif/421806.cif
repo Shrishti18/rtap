@@ -1,0 +1,103 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 421806
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Dirubidium copper tetrakis(dihydrogen phosphate)'
+_chemical_formula_structural 'Rb2 Cu (H2 P O4)4'
+_chemical_formula_sum 'H8 Cu1 O16 P4 Rb2'
+_chemical_name_structure_type Tl2Ni(H2P2O7)2(H2O)2
+_exptl_crystal_density_diffrn 2.65
+_cell_measurement_temperature 301.
+_publ_section_title 'Li2 H P O3 * (H2 O): crystal structure and IR spectrum'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Crystallography' 2010 40 526 530 JCCYEV
+loop_
+_publ_author_name
+'Chaouche, s.'
+'Ouarsal, R.'
+'El Bali, B.'
+'Lachkar, M.'
+'Bolte, M.'
+'Dusek, M.'
+_cell_length_a 6.970(1)
+_cell_length_b 7.488(1)
+_cell_length_c 7.923(2)
+_cell_angle_alpha 83.60(2)
+_cell_angle_beta 71.78(2)
+_cell_angle_gamma 85.39(2)
+_cell_volume 389.88
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0405
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+P5+ 5
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+Rb1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 1 c 0. 0.5 0. 0.0176(2) 1 0
+P1 P5+ 2 i 0.25158(15) 0.19550(13) -0.24488(13) 0.0166(3) 1 0
+P2 P5+ 2 i -0.16777(15) 0.26597(13) -0.23604(14) 0.0176(3) 1 0
+O1 O2- 2 i 0.2346(5) 0.3374(4) -0.1194(4) 0.0255(7) 1 0
+O2 O2- 2 i 0.4353(5) 0.2207(5) -0.4169(4) 0.0295(7) 1 0
+H1 H1+ 2 i 0.546(6) 0.252(8) -0.393(8) 0.035 1 0
+O3 O2- 2 i 0.2475(6) 0.0030(4) -0.1617(5) 0.0304(7) 1 0
+O4 O2- 2 i 0.0699(5) 0.2268(4) -0.3341(4) 0.0237(7) 1 0
+O5 O2- 2 i -0.1928(4) 0.3841(4) -0.0865(4) 0.0223(6) 1 0
+O6 O2- 2 i -0.2545(5) 0.3456(4) -0.3816(4) 0.0239(6) 1 0
+O7 O2- 2 i -0.2590(5) 0.0790(4) -0.1564(5) 0.0281(7) 1 0
+H2 H1+ 2 i -0.232(9) 0.047(8) -0.053(4) 0.034 1 0
+O8 O2- 2 i 0.0546(6) 0.7148(5) -0.2554(5) 0.0347(8) 1 0
+H3 H1+ 2 i 0.121(8) 0.703(8) -0.364(3) 0.042 1 0
+H4 H1+ 2 i 0.108(8) 0.798(6) -0.224(6) 0.042 1 0
+Rb1 Rb1+ 2 i -0.39726(7) 0.72169(6) -0.21966(6) 0.0320(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0156(4) 0.0156(4) 0.0238(4) -0.0001(3) -0.0074(3) -0.0076(3)
+P1 P5+ 0.0144(5) 0.0167(5) 0.0198(5) -0.0010(4) -0.0054(4) -0.0053(4)
+P2 P5+ 0.0159(5) 0.0162(5) 0.0229(5) -0.0023(4) -0.0077(4) -0.0042(4)
+O1 O2- 0.0205(15) 0.0282(15) 0.0326(17) 0.0041(12) -0.0115(13) -0.0168(13)
+O2 O2- 0.0198(15) 0.0445(19) 0.0243(16) -0.0098(14) -0.0032(13) -0.0073(14)
+O3 O2- 0.0384(19) 0.0200(15) 0.0350(18) -0.0045(13) -0.0153(15) 0.0014(13)
+O4 O2- 0.0170(14) 0.0321(16) 0.0254(15) 0.0007(12) -0.0089(12) -0.0107(13)
+O5 O2- 0.0187(14) 0.0204(14) 0.0301(16) -0.0022(11) -0.0081(12) -0.0096(12)
+O6 O2- 0.0197(14) 0.0265(15) 0.0281(16) -0.0039(12) -0.0115(12) 0.0008(12)
+O7 O2- 0.0354(18) 0.0198(15) 0.0347(18) -0.0104(13) -0.0166(15) -0.0019(13)
+O8 O2- 0.040(2) 0.0327(18) 0.0301(18) -0.0092(15) -0.0060(16) -0.0041(14)
+Rb1 Rb1+ 0.0350(3) 0.0284(3) 0.0341(3) 0.00679(19) -0.0137(2) -0.00632(19)

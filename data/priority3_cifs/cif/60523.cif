@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 60523
+_audit_creation_date 1986-12-03
+_chemical_name_systematic 'Cesium thiocyanate - above room temperature'
+_chemical_formula_structural 'Cs S (C N)'
+_chemical_formula_sum 'C1 Cs1 N1 S1'
+_chemical_name_structure_type CsSCN
+_exptl_crystal_density_diffrn 2.87
+_cell_measurement_temperature 453.
+_publ_section_title
+'Neutron diffraction studies of Cs S C N above room temperature'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Australian Journal of Physics' 1985 38 85 95 AUJPAS
+loop_
+_publ_author_name
+'Irving, M.A.'
+'Elcombe, M.M.'
+'Smith, T.F.'
+_cell_length_a 8.093(7)
+_cell_length_b 6.432(5)
+_cell_length_c 8.480(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 441.42
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+S2- -2
+C4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 c 0.1806(2) 0.25 0.1048(2) . 1. 0
+S1 S2- 4 c 0.0250(4) 0.25 0.6868(3) . 1. 0
+C1 C4+ 4 c 0.1738(1) 0.25 0.5585(1) . 1. 0
+N1 N3- 4 c 0.2836(1) 0.25 0.4689(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cs1 Cs1+ 0.0179(3) 0.0293(4) 0.0153(2) 0 -.0016(2) 0
+S1 S2- 0.0191(6) 0.047(1) 0.0180(4) 0 0.0009(4) 0
+C1 C4+ 0.0167(2) 0.0263(3) 0.0140(2) 0 -.0022(2) 0
+N1 N3- 0.0217(2) 0.0425(3) 0.0187(2) 0 0.0024(2) 0

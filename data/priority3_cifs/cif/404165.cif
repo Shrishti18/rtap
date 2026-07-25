@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 404165
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Tetrarubidium 18-chlorohexaniobate'
+_chemical_formula_structural 'Rb4 (Nb6 Cl18)'
+_chemical_formula_sum 'Cl18 Nb6 Rb4'
+_chemical_name_structure_type K4Nb6Cl18
+_exptl_crystal_density_diffrn 3.41
+_publ_section_title
+'Crystal structure of tetrarubidium octadecachlorohexaniobate Rb4 (Nb6 Cl18)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1996 211 396 396 ZEKRDZ
+loop_
+_publ_author_name
+'Reckeweg, O.'
+'Meyer, H.J.'
+_cell_length_a 10.441(1)
+_cell_length_b 16.6130(20)
+_cell_length_c 9.636(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.408(9)
+_cell_angle_gamma 90.
+_cell_volume 1497.01
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0411
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Nb2+ 2.33
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 8 j 0.60542(7) 0.34160(4) 0.81902(7) . 1. 0
+Nb1 Nb2+ 4 i 0.10967(5) 0.5 0.36480(6) . 1. 0
+Nb2 Nb2+ 8 j 0.13635(4) 0.41174(2) 0.64127(4) . 1. 0
+Cl1 Cl1- 8 j -.03066(13) 0.60420(8) 0.17869(12) . 1. 0
+Cl2 Cl1- 8 j 0.30647(14) 0.30170(8) 0.81822(15) . 1. 0
+Cl3 Cl1- 4 h 0 0.29243(10) 0.5 . 1. 0
+Cl4 Cl1- 8 j 0.28813(13) 0.39567(9) 0.50713(13) . 1. 0
+Cl5 Cl1- 4 i 0.3221(2) 0.5 0.8312(2) . 1. 0
+Cl6 Cl1- 4 i 0.2453(2) 0.5 0.2013(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0492(3) 0.0641(4) 0.0473(3) 0.0066(3) 0.0186(3) 0.0088(3)
+Nb1 Nb2+ 0.0232(3) 0.0397(3) 0.0161(2) 0 0.0071(2) 0
+Nb2 Nb2+ 0.0239(2) 0.0351(2) 0.0160(2) 0.00201(13) 0.00447(15) 0.00151(13)
+Cl1 Cl1- 0.0375(6) 0.0491(6) 0.0212(5) 0.0017(5) 0.0121(4) 0.0074(4)
+Cl2 Cl1- 0.0373(6) 0.0486(7) 0.0328(6) 0.0083(5) 0.0063(5) 0.0097(5)
+Cl3 Cl1- 0.0439(9) 0.0349(8) 0.0269(7) 0 0.0034(6) 0
+Cl4 Cl1- 0.0335(6) 0.0601(7) 0.0275(5) 0.0148(5) 0.0130(4) 0.0056(5)
+Cl5 Cl1- 0.0273(7) 0.0466(9) 0.0215(6) 0 0.0002(5) 0
+Cl6 Cl1- 0.0446(9) 0.0692(12) 0.0351(9) 0 0.0256(8) 0

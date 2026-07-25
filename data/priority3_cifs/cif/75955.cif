@@ -1,0 +1,69 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 75955
+_audit_creation_date 1996-04-22
+_chemical_name_systematic 'Lead sulfate'
+_chemical_formula_structural 'Pb (S O4)'
+_chemical_formula_sum 'O4 Pb1 S1'
+_chemical_name_structure_type Barite#-BaSO4
+_exptl_crystal_density_diffrn 6.32
+_publ_section_title
+;
+The use of the serial-correlations concept in the figure-of-merit function for
+powder diffraction profile fitting
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Crystallography' 1994 27 288 297 JACGAR
+loop_
+_publ_author_name
+'Andreev, Yu.G.'
+_cell_length_a 8.4792(1)
+_cell_length_b 5.3975(1)
+_cell_length_c 6.9590(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 318.49
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 c 0.1880(7) 0.25 0.1667(11) 1.43(15) 1. 0
+S1 S6+ 4 c 0.0651(23) 0.25 0.6832(28) 0.68(34) 1. 0
+O1 O2- 4 c 0.9072(13) 0.25 0.5943(14) 1.85(22) 1. 0
+O2 O2- 4 c 0.1924(14) 0.25 0.5443(16) 1.37(22) 1. 0
+O3 O2- 8 d 0.0813(8) 0.0279(12) 0.8092(10) 1.36(15) 1. 0

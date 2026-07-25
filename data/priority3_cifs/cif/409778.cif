@@ -1,0 +1,97 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 409778
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Lanthanum lead iodide (5/3/1)'
+_chemical_formula_structural 'La5 Pb3 I'
+_chemical_formula_sum 'I1 La5 Pb3'
+_chemical_name_structure_type Ga4Ti5
+_exptl_crystal_density_diffrn 8.4
+_publ_section_title
+'Crystal structure of pentalanthanum trilead monoiodide, La5 Pb 3I'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2004 219 87
+88 ZKNSFT
+loop_
+_publ_author_name
+'Mattausch, H.J.'
+'Simon, A.'
+'Zheng, C.'
+_cell_length_a 9.7360(10)
+_cell_length_b 9.7360(10)
+_cell_length_c 6.9470(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 570.28
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m c m'
+_symmetry_Int_Tables_number 193
+_refine_ls_R_factor_all 0.0296
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z+1/2'
+2 'x-y, -y, -z+1/2'
+3 'y, x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 'x, x-y, z+1/2'
+8 '-x+y, y, z+1/2'
+9 '-y, -x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 'x, x-y, -z'
+14 '-x+y, y, -z'
+15 '-y, -x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 '-x, -x+y, z'
+20 'x-y, -y, z'
+21 'y, x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Pb0+ 0
+I0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 6 g 0.26989(10) 0. 0.25 0.0159(3) 1 0
+La2 La0+ 4 d 0.3333 0.6667 0. 0.0102(3) 1 0
+Pb1 Pb0+ 6 g 0.38409(6) 0.38409(6) 0.25 0.0113(2) 1 0
+I1 I0+ 2 b 1. 0. 0. 0.0274(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La0+ 0.0089(3) 0.0062(4) 0.0318(6) 0.00309(19) 0. 0.
+La2 La0+ 0.0116(3) 0.0116(3) 0.0075(5) 0.00578(16) 0. 0.
+Pb1 Pb0+ 0.0088(2) 0.0088(2) 0.0163(3) 0.0045(2) 0. 0.
+I1 I0+ 0.0244(7) 0.0244(7) 0.0334(13) 0.0122(3) 0. 0.

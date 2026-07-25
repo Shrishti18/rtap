@@ -1,0 +1,86 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 407294
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Trirubidium tungstate(III)'
+_chemical_formula_structural 'Rb3 (Bi O3)'
+_chemical_formula_sum 'Bi1 O3 Rb3'
+_chemical_name_structure_type Na3AsS3
+_exptl_crystal_density_diffrn 5.08
+_publ_section_title
+'Synthesis and crystal structure determination of K3 Bi O3 and Rb3 Bi O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1997 52 1031
+1036 ZNBSEN
+loop_
+_publ_author_name
+'Zoche, N.'
+'Jansen, M.'
+_cell_length_a 8.7548(2)
+_cell_length_b 8.7548(2)
+_cell_length_c 8.7548(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 671.02
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.0254
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Rb1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 a 0.51717(2) 0.51717(2) 0.51717(2) . 1. 0
+Rb1 Rb1+ 4 a 0.02737(8) 0.02737(8) 0.02737(8) . 1. 0
+Rb2 Rb1+ 4 a 0.79112(9) 0.79112(9) 0.79112(9) . 1. 0
+Rb3 Rb1+ 4 a 0.28605(9) 0.28605(9) 0.28605(9) . 1. 0
+O1 O2- 12 b 0.0629(5) -.0036(6) -.2877(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.01816(12) 0.01816(12) 0.01816(12) -.00108(8) -.00108(8) -.00108(8)
+Rb1 Rb1+ 0.0285(2) 0.0285(2) 0.0285(2) -.0009(2) -.0009(2) -.0009(2)
+Rb2 Rb1+ 0.0222(2) 0.0222(2) 0.0222(2) 0.0018(3) 0.0018(3) 0.0018(3)
+Rb3 Rb1+ 0.0217(2) 0.0217(2) 0.0217(2) 0.0000(3) 0.0000(3) 0.0000(3)
+O1 O2- 0.028(2) 0.026(2) 0.026(2) -.003(2) -.008(2) 0.006(2)

@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 404200
+_audit_creation_date 1998-06-26
+_audit_update_record 2011-02-01
+_chemical_name_systematic Difluoramine
+_chemical_formula_structural 'H F2 N'
+_chemical_formula_sum 'H1 F2 N1'
+_chemical_name_structure_type HF2N
+_exptl_crystal_density_diffrn 1.93
+_cell_measurement_temperature 123.
+_publ_section_title 'Die Kristallstruktur von Difluoramin'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie (German Edition)' 1996 108 336 336 ANCEAD
+loop_
+_publ_author_name
+'Klapdor, M.F.'
+'Mootz, D.'
+'Poll, W.'
+'Willner, H.'
+_cell_length_a 6.719(4)
+_cell_length_b 4.871(3)
+_cell_length_c 5.578(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 182.56
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+_refine_ls_R_factor_all 0.0407
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+F0+ 0
+N0+ 0
+H0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+F1 F0+ 4 a 0.0740(2) 0.4534(2) 0.2381(2) . 1. 0
+F2 F0+ 4 a -.03548(14) 0.8730(2) 0.2483(3) . 1. 0
+N1 N0+ 4 a 0.1412(2) 0.7239(2) 0.2548(3) . 1. 0
+H1 H0+ 4 a 0.1924(38) 0.7394(46) 0.1141(49) 0.022(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+F1 F0+ 0.0427(5) 0.0283(5) 0.0384(6) -.0023(3) -.0023(7) -.0030(6)
+F2 F0+ 0.0390(5) 0.0392(6) 0.0392(6) 0.0116(4) -.0005(5) 0.0034(8)
+N1 N0+ 0.0234(5) 0.0323(5) 0.0256(5) -.0036(3) 0.0020(5) -.0005(7)

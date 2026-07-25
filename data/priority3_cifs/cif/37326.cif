@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 37326
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Niobium phosphide sulfide (1/2/8)'
+_chemical_formula_structural 'Nb P2 S8'
+_chemical_formula_sum 'Nb1 P2 S8'
+_exptl_crystal_density_diffrn 2.42
+_publ_section_title 'Synthesis and structure of the new layered phase P2 Nb S8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1983 20 628 635 RVCMA8
+loop_
+_publ_author_name
+'Grenouilleau, P.'
+'Brec, R.'
+'Evain, M.'
+'Rouxel, J.'
+_cell_length_a 20.175(3)
+_cell_length_b 11.569(2)
+_cell_length_c 9.656(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2253.75
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb0+ 0
+S0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb0+ 8 d 0.0709(2) 0 0 . 1. 0
+S1 S0+ 8 f 0 0.0155(1) 0.2126(2) . 1. 0
+S2 S0+ 8 f 0 0.1431(1) 0.8757(2) . 1. 0
+S3 S0+ 16 g 0.11305(5) 0.1902(1) 0.1167(1) . 1. 0
+S4 S0+ 16 g 0.16676(5) 0.0752(1) 0.8339(10) . 1. 0
+S5 S0+ 16 g 0.21830(5) 0.14777(9) 0.4221(1) . 1. 0
+P1 P0+ 16 g 0.18906(4) 0.18607(8) 0.9842(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Nb1 Nb0+ 0.00033(1) 0.00200(2) 0.00436(4) 0 0 -.00029(8)
+S1 S0+ 0.00069(2) 0.00389(11) 0.00485(13) 0 0 -.00009(22)
+S2 S0+ 0.00070(3) 0.00264(9) 0.00689(15) 0 0 0.00206(23)
+S3 S0+ 0.00089(2) 0.00294(6) 0.00637(10) -.00080(7) 0.00087(9) -.00276(15)
+S4 S0+ 0.00077(2) 0.00333(6) 0.00497(9) -.00074(7) 0.00037(8) -.00092(15)
+S5 S0+ 0.00077(2) 0.00292(6) 0.00822(11) 0.00094(7) -.00146(9) -.00311(16)
+P1 P0+ 0.00061(2) 0.00259(6) 0.00527(10) -.00085(6) -.00036(9) -.00029(16)

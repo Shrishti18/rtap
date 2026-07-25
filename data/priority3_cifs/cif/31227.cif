@@ -1,0 +1,86 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 31227
+_audit_creation_date 1981-12-31
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Trimagnesium beryllium octaaluminium hexadecaoxide'
+_chemical_formula_structural 'Mg3 Be Al8 O16'
+_chemical_formula_sum 'Al8 Be1 Mg3 O16'
+_chemical_name_structure_type Mg3BeAl8O16
+_chemical_name_mineral Magnesiotaaffeite-2N'2S
+_exptl_crystal_density_diffrn 3.59
+_publ_section_title 'Taprobanite, a new mineral of the taaffeite-group'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Schweizerische Mineralogische und Petrographische Mitteilungen' 1981 61
+13 21 SMPTA8
+loop_
+_publ_author_name
+'Moor, R.'
+'Oberholzer, W.F.'
+'Guebelin, E.'
+_cell_length_a 5.684(1)
+_cell_length_b 5.684(1)
+_cell_length_c 18.3320(70)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 512.92
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.092
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Al3+ 3
+Mg2+ 2
+Be2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 2 a 0 0 0 . 1. 0
+O2 O2- 6 c -.0454 0.4773(6) -.0100(7) . 1. 0
+O3 O2- 2 b 0.6667 0.3333 0.1057(9) . 1. 0
+O4 O2- 6 c 0.1622(7) 0.3244 0.1092(7) . 1. 0
+O5 O2- 2 b 0.3333 0.6667 0.2388(9) . 1. 0
+O6 O2- 6 c 0.378 0.1890(7) 0.2389(7) . 1. 0
+O7 O2- 2 b 0.6667 0.3333 0.3524(9) . 1. 0
+O8 O2- 6 c 0.1869(6) 0.3738 0.3567(7) . 1. 0
+Al1 Al3+ 6 c 0.3331 0.1665(4) 0.0525(7) . 1. 0
+Al2 Al3+ 2 a 0 0 0.1900(8) . 1. 0
+Al3 Al3+ 6 c -.0056 0.4972(4) 0.2971(6) . 1. 0
+Al4 Al3+ 2 b 0.3333 0.6667 0.4222(7) . 1. 0
+Mg1 Mg2+ 2 b 0.3333 0.6667 0.1410(7) . 1. 0
+Mg2 Mg2+ 2 a 0 0 0.3903(7) . 1. 0
+Mg3 Mg2+ 2 b 0.6667 0.3333 0.4573(7) . 1. 0
+Be1 Be2+ 2 b 0.6667 0.3333 0.196(5) . 1. 0

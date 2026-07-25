@@ -1,0 +1,73 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 74896
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Diindium digermanate'
+_chemical_formula_structural 'In2 (Ge2 O7)'
+_chemical_formula_sum 'Ge2 In2 O7'
+_chemical_name_structure_type Sc2Si2O7
+_exptl_crystal_density_diffrn 5.74
+_publ_section_title
+'Structural investigations and luminescence of In2 Ge2 O7 and In2 Si2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 1965 1970 ZAACAB
+loop_
+_publ_author_name
+'Gaewdang, T.'
+'Chaminade, J.P.'
+'Gravereau, P.'
+'Garcia, A.'
+'Fouassier, C.'
+'Pouchard, M.'
+'Hagenmuller, P.'
+_cell_length_a 6.6612(5)
+_cell_length_b 8.7877(7)
+_cell_length_c 4.9283(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.487(6)
+_cell_angle_gamma 90.
+_cell_volume 281.66
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 g 0 0.3066(1) 0 0.22(2) 1. 0
+Ge1 Ge4+ 4 i 0.2321(2) 0 0.4078(3) 0.33(4) 1. 0
+O1 O2- 2 c 0 0 0.5 3.6(4) 1. 0
+O2 O2- 4 i 0.4068(12) 0 0.7267(14) 0.3(2) 1. 0
+O3 O2- 8 j 0.2406(7) 0.1637(6) 0.215(1) 0.6(2) 1. 0

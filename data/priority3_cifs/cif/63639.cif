@@ -1,0 +1,84 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 63639
+_audit_creation_date 1988-12-19
+_chemical_name_systematic 'Trilead(II) dioxo orthosulfate - alpha'
+_chemical_formula_structural 'Pb3 O2 S O4'
+_chemical_formula_sum 'O6 Pb3 S1'
+_chemical_name_structure_type Pb3SO4O2
+_exptl_crystal_density_diffrn 7.58
+_cell_measurement_temperature 300.
+_publ_section_title 'Polymorphisme du dioxotriplomb(II) tetraoxosulfate(VI)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1985 20 853 861 MRBUAC
+loop_
+_publ_author_name
+'Latrach, A.'
+'Mentzen, B.F.'
+'Bouix, J.'
+_cell_length_a 7.1940(1)
+_cell_length_b 5.79424(8)
+_cell_length_c 8.0642(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.4020(9)
+_cell_angle_gamma 90.
+_cell_volume 328.3
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0767
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 2 e 0.0820(4) 0.25 0.3725(3) . 1. 0
+Pb2 Pb2+ 2 e 0.6061(3) 0.25 0.4147(3) . 1. 0
+Pb3 Pb2+ 2 e 0.2265(4) 0.25 0.8461(3) . 1. 0
+S1 S6+ 2 e 0.7061(12) 0.25 0.8580(9) . 1. 0
+O1 O2- 4 f 0.5840(4) 0.4552(5) 0.8357(4) . 1. 0
+O2 O2- 2 e 0.8325(5) 0.25 0.0260(5) . 1. 0
+O3 O2- 2 e 0.8227(5) 0.25 0.7261(5) . 1. 0
+O4 O2- 4 f 0.8224(4) 0.9993(3) 0.3784(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.013(2) 0.015(1) 0.017(1) 0 0.003(1) 0
+Pb2 Pb2+ 0.012(2) 0.009(1) 0.013(1) 0 0.006(1) 0
+Pb3 Pb2+ 0.022(1) 0.011(1) 0.011(1) 0 0.001(1) 0
+S1 S6+ 0.030(5) 0.026(5) 0.006(3) 0 0.014(3) 0
+O1 O2- 0.052(2) 0.041(3) 0.038(2) 0.030(2) 0.015(1) 0.011(1)
+O2 O2- 0.028(3) 0.041(3) 0.014(3) 0 -.015(2) 0
+O3 O2- 0.025(2) 0.021(3) 0.029(3) 0 0.007(2) 0
+O4 O2- 0.017(1) 0.010(1) 0.014(1) 0.000(1) 0.002(1) -.003(1)

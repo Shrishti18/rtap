@@ -1,0 +1,83 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 47189
+_audit_creation_date 1986-04-06
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Rubidium dihydrogenphosphate(V) - III, HT'
+_chemical_formula_structural 'Rb (H2 P O4)'
+_chemical_formula_sum 'H2 O4 P1 Rb1'
+_exptl_crystal_density_diffrn 2.77
+_publ_section_title
+'Structure of a new form of rubidium dihydrogenphosphate, Rb H2 P O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1985 41 665 667 ACSCEE
+loop_
+_publ_author_name
+'Averbuch-Pouchot, M.T.'
+'Durif, A.'
+_cell_length_a 9.606(5)
+_cell_length_b 6.236(5)
+_cell_length_c 7.738(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.07(5)
+_cell_angle_gamma 90.
+_cell_volume 438.09
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 e 0.28464(6) 0.2383(1) 0.26559(8) . 1. 0
+P1 P5+ 4 e 0.4823(1) 0.2458(4) 0.7577(2) . 1. 0
+O1 O2- 4 e 0.4452(4) 0.7551(10) 0.3979(5) . 1. 0
+O2 O2- 4 e 0.9307(5) 0.5839(8) 0.0944(7) . 1. 0
+O3 O2- 4 e 0.6751(4) 0.8198(9) 0.3312(7) . 1. 0
+O4 O2- 4 e 0.0010(6) 0.9747(9) 0.1618(7) . 1. 0
+H1 H1+ 4 e 0.501(9) 0.55(1) 0.07(1) 4.(2) 1. 0
+H2 H1+ 4 e 0.346(9) 0.74(2) 0.37(1) 5.(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Rb1 Rb1+ 0.00683(4) 0.0153(1) 0.01144(7) 0.0021(3) 0.00334(9) -.0003(4)
+P1 P5+ 0.0042(1) 0.0128(3) 0.0079(2) -.0003(6) 0.0044(2) 0.0007(8)
+O1 O2- 0.0054(3) 0.022(1) 0.0089(5) -.004(2) 0.0061(6) -.001(3)
+O2 O2- 0.0063(5) 0.016(1) 0.0147(8) -.005(1) 0.0069(10) -.009(2)
+O3 O2- 0.0037(4) 0.028(2) 0.0151(9) 0.001(1) 0.0048(9) 0.000(2)
+O4 O2- 0.0150(7) 0.013(1) 0.0135(8) 0.000(2) 0.0123(12) 0.001(2)

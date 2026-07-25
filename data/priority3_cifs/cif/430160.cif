@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 430160
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Barium cesium tetrathiovanadate'
+_chemical_formula_structural 'Ba Cs (V S4)'
+_chemical_formula_sum 'Ba1 Cs1 S4 V1'
+_chemical_name_structure_type TlEuPS4
+_exptl_crystal_density_diffrn 3.74
+_cell_measurement_temperature 100.
+_publ_section_title
+;
+Syntheses, crystal structure, and electronic properties of the five A Ba M Q4
+compounds Rb Ba P S4, Cs Ba P S4, Cs Ba V S4, Rb Ba V Se4, and Cs Ba V Se4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 233 217 220 JSSCBI
+loop_
+_publ_author_name
+'Mesbah, Adel'
+'Prakash, Jai'
+'Rocca, Dario'
+'Lebegue, Sebastien'
+'Beard, Jessica C.'
+'Lewis, Benjamin A.'
+'Ibers, James A.'
+_cell_length_a 11.7964(3)
+_cell_length_b 6.7846(2)
+_cell_length_c 9.9847(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 799.11
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0095
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Cs1+ 1
+V5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0.34807(2) 0.25 0.09450(2) 0.00766(3) 1 0
+Cs1 Cs1+ 4 c 0.43419(2) 0.25 0.63123(2) 0.01025(4) 1 0
+V1 V5+ 4 c 0.17116(3) 0.25 0.38052(3) 0.00669(7) 1 0
+S1 S2- 8 d 0.27831(3) 0.50335(5) 0.36618(3) 0.00971(7) 1 0
+S2 S2- 4 c 0.06039(4) 0.25 0.20887(5) 0.00913(9) 1 0
+S3 S2- 4 c 0.07937(4) 0.25 0.56622(5) 0.00971(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.00742(6) 0.00878(6) 0.00678(6) 0. 0.00012(4) 0.
+Cs1 Cs1+ 0.01320(7) 0.00841(6) 0.00914(6) 0. -0.00253(4) 0.
+V1 V5+ 0.00757(15) 0.00606(15) 0.00643(15) 0. 0.00057(11) 0.
+S1 S2- 0.01052(16) 0.00743(16) 0.01118(16) -0.00147(12) 0.00174(12) -0.00083(11)
+S2 S2- 0.0102(2) 0.0097(2) 0.0074(2) 0. -0.00068(16) 0.
+S3 S2- 0.0097(2) 0.0128(2) 0.0066(2) 0. 0.00072(16) 0.

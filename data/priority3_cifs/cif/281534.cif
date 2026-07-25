@@ -1,0 +1,116 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 281534
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Tetraammonium dihydrogentricarbonate hydrate'
+_chemical_formula_structural '(N H4)4 (H2 (C O3)3) (H2 O)'
+_chemical_formula_sum 'C3 H20 N4 O10'
+_exptl_crystal_density_diffrn 1.51
+_cell_measurement_temperature 173.
+_publ_section_title
+;
+Synthese und struktur des ammoniumsesquicarbonat monohydrates (N H4)4 (H2 (C
+O3)3) * (H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2003 58 511 513
+ZNBSEN
+loop_
+_publ_author_name
+'Margraf, G.'
+'Lerner, H.W.'
+'Bolte, M.'
+'Wagner, M.'
+_cell_length_a 7.1916(6)
+_cell_length_b 15.8913(14)
+_cell_length_c 10.4912(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1198.97
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F m m 2'
+_symmetry_Int_Tables_number 42
+_refine_ls_R_factor_all 0.0223
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+1/2, -y, z+1/2'
+10 '-x+1/2, y, z+1/2'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+1/2, -y+1/2, z'
+14 '-x+1/2, y+1/2, z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+H1+ 1
+N3- -3
+H1+ 1
+C4+ 4
+O2- -2
+C4+ 4
+O2- -2
+H1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 4 a 0 0 0.33490(18) 0.0372(5) 1. 0
+H1 H1+ 8 c 0 0.045(2) 0.394(4) 0.065(11) 1. 0
+N1 N3- 16 e 0.74620(11) 0.12128(4) 0.67537(10) 0.0182(2) 1. 0
+H2 H1+ 16 e 0.817(2) 0.1405(9) 0.618(2) 0.025(4) 1. 0
+H3 H1+ 16 e 0.672(2) 0.162(1) 0.7064(18) 0.025(4) 1. 0
+H4 H1+ 16 e 0.815(3) 0.1018(11) 0.7374(18) 0.028(4) 1. 0
+H5 H1+ 16 e 0.674(2) 0.0848(11) 0.6458(17) 0.028(4) 1. 0
+C1 C4+ 4 a 0.5 0 0.42763(16) 0.0138(3) 1. 0
+O2 O2- 8 c 0.5 0.06990(6) 0.36567(9) 0.0188(2) 1. 0
+O3 O2- 4 a 0.5 0 0.55065(12) 0.0169(3) 1. 0
+C2 C4+ 8 c 0 0.22408(7) 0.41613(13) 0.0151(2) 1. 0
+O4 O2- 8 c 0 0.29081(7) 0.49366(10) 0.0255(3) 1. 0
+H6 H1+ 8 c 0 0.3368(19) 0.448(4) 0.043(7) 1. 0
+O5 O2- 8 c 0 0.15308(7) 0.47048(10) 0.0211(2) 1. 0
+O6 O2- 8 c 0 0.23633(6) 0.29708(10) 0.0208(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0697(13) 0.0220(7) 0.0197(8) 0 0 0
+N1 N3- 0.0189(3) 0.0185(3) 0.0173(4) -0.0016(4) -0.0006(3) 0.0010(2)
+C1 C4+ 0.0142(7) 0.0139(7) 0.0132(8) 0 0 0
+O2 O2- 0.0258(4) 0.0155(4) 0.0152(4) 0 0 0.0034(3)
+O3 O2- 0.0235(6) 0.0165(6) 0.0108(6) 0 0 0
+C2 C4+ 0.0155(4) 0.0158(5) 0.0139(5) 0 0 -0.0015(4)
+O4 O2- 0.0473(7) 0.0165(4) 0.0128(4) 0 0 -0.0027(4)
+O5 O2- 0.0291(4) 0.0163(4) 0.0179(5) 0 0 0.0022(3)
+O6 O2- 0.0316(5) 0.0173(4) 0.0134(5) 0 0 -0.0013(4)

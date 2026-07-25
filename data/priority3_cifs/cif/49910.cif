@@ -1,0 +1,97 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 49910
+_audit_creation_date 1988-05-18
+_audit_update_record 1991-04-20
+_chemical_name_systematic 'Guanidinium molybdate'
+_chemical_formula_structural '(C (N H2)3)2 (Mo O4)'
+_chemical_formula_sum 'C2 H12 Mo1 N6 O4'
+_exptl_crystal_density_diffrn 1.92
+_cell_measurement_temperature 298.
+_publ_section_title 'Structure of guanidinium molybdate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1987 43 2220 2221 ACSCEE
+loop_
+_publ_author_name
+'Ozeki, T.'
+'Ichida, H.'
+'Sasaki, Y.'
+_cell_length_a 10.657(2)
+_cell_length_b 7.006(1)
+_cell_length_c 6.567(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.12(2)
+_cell_angle_gamma 90.
+_cell_volume 485.4
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+O2- -2
+C4+ 4
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 2 e 0.23782(4) 0.25 0.22645(5) . 1. 0
+O1 O2- 2 e 0.2022(3) 0.25 0.4826(4) . 1. 0
+O2 O2- 2 e 0.4034(3) 0.25 0.2352(6) . 1. 0
+O3 O2- 4 f 0.1765(2) 0.0400(3) 0.1023(3) . 1. 0
+C1 C4+ 2 e 0.8827(4) 0.25 0.4131(6) . 1. 0
+C2 C4+ 2 e 0.5008(4) 0.25 0.7895(7) . 1. 0
+N1 N3- 2 e 0.8853(4) 0.25 0.6148(6) . 1. 0
+N2 N3- 4 f 0.8835(3) 0.0853(4) 0.3137(4) . 1. 0
+N3 N3- 2 e 0.6201(4) 0.25 0.8748(8) . 1. 0
+N4 N3- 4 f 0.4395(3) 0.0857(4) 0.7484(5) . 1. 0
+H1 H1+ 4 f 0.877(4) 0.156(6) 0.671(6) 3.6(9) 1. 0
+H2 H1+ 4 f 0.881(3) -.007(6) 0.369(5) 2.7(8) 1. 0
+H3 H1+ 4 f 0.874(4) 0.079(7) 0.179(6) 4.4(1) 1. 0
+H4 H1+ 4 f 0.652(4) 0.141(6) 0.882(6) 4.3(1) 1. 0
+H5 H1+ 4 f 0.477(3) -.018(6) 0.757(5) 3.5(9) 1. 0
+H6 H1+ 4 f 0.358(4) 0.090(7) 0.694(6) 4.6(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.00269(2) 0.00174(1) 0.00202(1) 0 0.00058(1) 0
+O1 O2- 0.0034(2) 0.0035(2) 0.0022(1) 0 0.0007(1) 0
+O2 O2- 0.0032(2) 0.0036(2) 0.0046(2) 0 0.0012(2) 0
+O3 O2- 0.0048(1) 0.0028(1) 0.0030(1) -.0008(1) 0.0005(1) -.0005(1)
+C1 C4+ 0.0022(2) 0.0026(2) 0.0021(2) 0 0.0004(1) 0
+C2 C4+ 0.0029(2) 0.0026(2) 0.0031(2) 0 0.0012(2) 0
+N1 N3- 0.0052(2) 0.0024(2) 0.0025(2) 0 0.0011(2) 0
+N2 N3- 0.0045(2) 0.0025(1) 0.0026(1) -.0002(1) 0.0007(1) -.0004(1)
+N3 N3- 0.0027(2) 0.0031(2) 0.0059(3) 0 0.0004(2) 0
+N4 N3- 0.0034(1) 0.0027(1) 0.0046(2) -.0001(1) 0.0002(1) -.0004(1)

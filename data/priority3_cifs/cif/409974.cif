@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 409974
+_audit_creation_date 2009-08-01
+_chemical_name_systematic
+'Hexastrontium nitride dinitridoferrate(I) bis(carbodiimide)'
+_chemical_formula_structural '(Sr6 N) (Fe N2) (C N2)2'
+_chemical_formula_sum 'C2 Fe1 N7 Sr6'
+_chemical_name_structure_type Sr6NCoN2(CN2)2
+_exptl_crystal_density_diffrn 4.14
+_cell_measurement_temperature 295.15
+_publ_section_title
+;
+Crystal structure of hexastrontium (dinitridoferrate(I)) bis(carbodiimide)
+mononitride, (Sr6 N) (Fe N2) (C N2)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2009 224 5
+6 ZKNSFT
+loop_
+_publ_author_name
+'Bendyna, J.K.'
+'Hoehn, P.'
+'Kniep, R.'
+_cell_length_a 9.9381(19)
+_cell_length_b 14.717(3)
+_cell_length_c 3.8559(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 563.96
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 21 21 2'
+_symmetry_Int_Tables_number 18
+_refine_ls_R_factor_all 0.0368
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z'
+2 'x+1/2, -y+1/2, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Fe1+ 1
+N3- -3
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 c 0.25596(5) 0.05689(3) 0.55556(13) 0.01111(13) 1 0
+Sr2 Sr2+ 4 c 0.40037(5) 0.33275(3) 0.50984(13) 0.01219(13) 1 0
+Sr3 Sr2+ 4 c 0.57096(5) 0.11006(3) 0.05731(14) 0.01129(13) 1 0
+Fe1 Fe1+ 2 a 0. 0. 0.0212(3) 0.0108(2) 1 0
+N1 N3- 4 c 0.1314(6) 0.2482(3) 0.3577(12) 0.0204(12) 1 0
+N2 N3- 4 c 0.3285(5) 0.1922(3) 0.0308(14) 0.0176(11) 1 0
+N3 N3- 4 c 0.8308(5) 0.0558(3) 0.0253(12) 0.0126(9) 1 0
+N4 N3- 2 b 0. 0.5 0.4361(17) 0.0116(13) 1 0
+C1 C4+ 4 c 0.2249(7) 0.2186(4) 0.1798(15) 0.0149(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0103(3) 0.0121(2) 0.0110(3) 0.0002(2) 0.0004(2) 0.00107(19)
+Sr2 Sr2+ 0.0111(3) 0.0126(2) 0.0129(3) 0.0005(2) -0.0004(2) -0.0020(2)
+Sr3 Sr2+ 0.0101(3) 0.0112(2) 0.0125(3) 0.0002(2) 0.0000(2) 0.00155(19)
+Fe1 Fe1+ 0.0093(5) 0.0113(5) 0.0118(6) 0.0004(4) 0. 0.
+N1 N3- 0.018(3) 0.020(3) 0.022(3) 0.002(2) 0.004(2) 0.005(2)
+N2 N3- 0.015(3) 0.016(2) 0.022(3) 0.0029(19) -0.001(2) -0.002(2)
+N3 N3- 0.012(2) 0.015(2) 0.010(2) -0.0007(19) -0.002(2) 0.0013(19)
+N4 N3- 0.013(3) 0.013(3) 0.008(3) 0.006(3) 0. 0.
+C1 C4+ 0.015(3) 0.010(2) 0.020(3) -0.005(2) -0.009(2) 0.004(2)
