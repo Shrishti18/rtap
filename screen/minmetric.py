@@ -77,8 +77,19 @@ def main():
     print(f"{len(rows)} bands, {len(byj)} materials, NORB_CAP={NORB_CAP}, "
           f"MAXFEV={MAXFEV}, RESTARTS={RESTARTS}", flush=True)
 
+    FIELDS = ["jid", "formula", "band", "norb", "dim", "M_naive", "M_min",
+              "ratio", "centres", "status"]
+    csvpath = os.path.join(HERE, os.environ.get("OUT", "minmetric.csv"))
+    fh = open(csvpath, "w", newline="")
+    wr = csv.DictWriter(fh, fieldnames=FIELDS)
+    wr.writeheader(); fh.flush()
+
+    def emit(recs):
+        wr.writerows(recs); fh.flush()
+
     out, t0, skipped, nocen = [], time.time(), 0, 0
     for i, ((jid, dim), rs) in enumerate(sorted(byj.items())):
+        _n0 = len(out)
         norb = int(rs[0]["norb"])
         if norb > NORB_CAP:
             skipped += len(rs)
@@ -92,6 +103,11 @@ def main():
             R, H, deg, cen = load(jid)
             nk = pick_nk(H.shape[1], dim)
             Hk, dks = fastops.hk_grid_fast(R, H, deg, nk, dim=dim)
+            # ONE eigh per material. fastops.band_vectors re-diagonalises on
+            # every call, which for a 4-band material is a 4x redundant eigh
+            # and was the entire cost of the first two attempts.
+            _, V = np.linalg.eigh(Hk)
+            del Hk
             if cen is not None and cen.shape[0] != H.shape[1]:
                 cen = None
             if cen is None:
@@ -99,7 +115,7 @@ def main():
             cfrac = cen[:, :dim] if cen is not None else None
             for r in rs:
                 b = int(r["band"])
-                u = fastops.band_vectors(Hk, b)
+                u = V[..., :, b]
                 naive = fastops.trg_from_u(u, dks)
                 if cfrac is None:
                     out.append(dict(jid=jid, formula=r["formula"],
@@ -123,7 +139,7 @@ def main():
                     dim=dim, M_naive=naive, M_min=mc,
                     ratio=mc / naive if naive > 1e-12 else float("nan"),
                     centres="minus" if vm <= vp else "plus", status="OK"))
-            del Hk
+            del V
         except Exception as e:
             print(f"  FAIL {jid}: {type(e).__name__}: {e}", flush=True)
             for r in rs:
@@ -131,14 +147,13 @@ def main():
                                 norb=norb, dim=dim, M_naive=float(r["M_trg"]),
                                 M_min=float("nan"), ratio=float("nan"),
                                 centres="err", status="FAIL"))
+        emit(out[_n0:])
         if (i + 1) % 10 == 0:
             done = sum(1 for x in out if x["status"] == "OK")
             print(f"  {i+1}/{len(byj)} materials, {done} bands measured, "
                   f"{time.time()-t0:.0f}s", flush=True)
 
-    with open(os.path.join(HERE, "minmetric.csv"), "w", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=list(out[0].keys()))
-        w.writeheader(); w.writerows(out)
+    fh.close()
 
     ok = [x for x in out if x["status"] == "OK"]
     print(f"\n{len(ok)} bands measured, {skipped} above the norb cap "
