@@ -1,0 +1,906 @@
+                                           Peer Review File
+
+Manuscript Title: Catalogue of Flat Band Stoichiometric Materials
+
+
+
+Reviewer Comments & Author Rebuttals
+
+Reviewer Reports on the Initial Version:
+
+Referee #1 (Remarks to the Author):
+
+Report on the manuscript « Catalogue of Flat Band Stoichiometric Materials » by N. Regnault et al.
+
+
+
+Key results, Validity and Originality
+
+This article builds on the recent development of topological quantum chemistry by A. Bernevig, N.
+Regnault and collaborators. Its specific goal is to identify promising candidate materials displaying
+so-called flat energy bands, and potentially displaying exotic strongly interacting phases. The study
+of such states of matter originates from the discovery of fractional quantum Hall states in the 80 ’s,
+and was seriously revitalized by the recent study of twisted bilayer graphene. Identifying materials in
+which physics analogous to twisted bilayer graphene can take place is a natural and major objective
+of the material and quantum chemistry community. The present manuscript is the result of the
+successful program undertaken by the authors. It is heavily based on a method, coined a S-matrix
+approach, developed in a companion manuscript, and the material database developed by a group
+around some of the authors. The key results are thus a list of candidates materials which a promising
+platform to look for exotic interacting states of matter. I have no doubt that such a catalog will be of
+great interest in the following years for exploratory studies of such phases. We can only hope for
+new discoveries based on this catalog.
+
+
+
+In the recent years, the work by A. Bernevig and co-workers has scrambled the domain of numerical
+quantum chemistry, bringing topology as an essential discriminating filter to identify exotic solid
+state phases. The results of this manuscript are an attempt to extend the scope of this program
+towards strongly interacting states of matter. The methods are original, the results stimulating. The
+methods are well presented and convincing, although I cannot comment on the validity of the
+numerical approches which are beyond my domain of expertise.
+
+
+
+Data & methodology
+
+I have some concerns about the presentation of results, and in particular the huge lists of data
+provided in the form of table III, V, VII, VIII.
+
+To my eyes, they look so old fashion and 20th century style. An online datable, such as the one
+provided by the authors, is immensely more practical. Hence I question the real use of these long
+written tables (besides setting some records). Maybe the sustainability of the data is at sake here. I’ll
+leave it to the editor to decide on this point.
+
+
+
+Suggested improvements
+
+1. In this article on a subject of strongly interacting phases targeting a broad audience, no mention
+to high Tc superconductors is made. I believe that it is the keystone in the community of strong
+coupling phases. A contrast (or similarity ?) with the expected phases in flat band materials would be
+welcome.
+
+
+
+2. A great part of the method used by the authors consists in identifying crystals which possess, even
+if approximately, a bipartite (sub)lattice with hopping between its two components. This is just a
+geometrical implementation of the chiral symmetry, one of the three symmetries underlying the
+ten-fold classification of gapped topological phases (see e.g. Topological Insulators and Topological
+Superconductor by A. Bernevig). It was initially discussed in
+
+Bill Sutherland, “Localization of electronic wave func- tions due to local topology,” Phys. Rev. B 34,
+5208 (1986)
+
+E. H. Lieb, « Two theorems on the Hubbard model », Phys. Rev. Lett. 62, 1201 (1989).
+
+
+
+and more recently, in the context of topological gapped phases, in e.g.
+
+Shinsei Ryu et al., Topological insulators and superconductors: tenfold way and dimensional
+hierarchy, 2010 New J. Phys. 12 065010.
+
+
+
+Many implementations in quantum simulators (cold-atoms, light waveguides, polariton lattices) or in
+mechanical systems possess this symmetry.
+
+I think that the relation to the chiral symmetry should be mentioned.
+
+Moreover, does the reliance on this (approximate) geometrical symmetry to seek flat bands has
+consequences on the topological properties of the single particle eigenstates of the flat band ?
+
+Finally, chiral symmetry is usually only a low energy approximation. Indeed the authors discard
+hopping terms smaller than an ad-hoc cutoff. Does this approximation have any consequences on
+the strength of interactions to consider and the associated nature of interacting states ?
+3. On p.5, five candidate materials are selected and said to be paramagnetic instead of Mott
+insulators. It is unclear why this is an advantage. The authors should clarify this point.
+
+
+
+4. Flat bands are a single particle notion. Yet the authors have performed Density Functional Theory
+(DFT) analysis of the huge list of materials. DFT is known to incorporate effects of (strong) electronic
+interactions. What are the implications of this ?
+
+Does that mean that interactions are ineffective in the candidate materials identified by the authors
+? Or that DFT did not capture the potential interacting phases and associated gaps ?
+
+This manuscript would constitute a real milestone is a complementary method, such as DMFT and its
+various refinements, was use in the five material candidates to precise the nature of possible
+interacting instabilities. Given the expertise of the authors, this should not be a major obstacle.
+
+
+
+References
+
+Citations [3-6] do not refer to the historical papers on the Fractional Quantum Hall State ! Although I
+agree that recent work on topological interacting phases is stimulating, we cannot ignore the history
+of the quantum Hall effect which predates the study of fractional Chern insulators. The authors
+should do justice to the historical papers of this field, such as the pioneering papers of Robert
+Laughlin, Bertrand Halperin and the experimental papers of Horst Störmer, and Daniel Tsui.
+
+
+
+
+Referee #2 (Remarks to the Author):
+
+In this work, Regnault et al report the results from their systematic search of stoichiometric
+materials with relatively flat bands over some segments of the Brillouin zone. The main output of the
+work is provided as an online database and also in the appendices. The present manuscript is
+devoted to introducing the search algorithms and providing more detailed elaboration on five
+representative materials they found, together two more in the Appendix. My evaluation on the
+manuscript is divided into two aspects. First, whether or not the list of proposed materials will be of
+interest to the community. Second, if the approach taken by the authors is novel and could lead to
+new developments.
+
+
+
+For the first part, there is no doubt that there is immense scientific interest in materials with flat
+electronic bands not coming from trivially decoupled atomic orbitals. The present generation of
+materials studied is mostly based on a layered kagome motif. The database introduced by the
+current work can indeed expand the possible directions in which one looks for new flat-band
+materials. The reported materials are not perfect, but they could be interesting especially when
+chemically doped to bring the flat bands to the Fermi energy. That said, one has to bear in mind that
+the list here is curated out of an earlier work by some of the authors. In a sense, the authors have
+now added an additional “flat band” filter to their existing data. This will be useful for those who
+would want to look for flat band materials of any sort in any system, excluding the trivially atomic
+ones. However, if one starts with a specific material family in mind, one could query the previously
+published TQC database and discover for themselves that the electronic bands contain flat
+segments. In this regard, the present work adds value by excluding the trivially atomic flat bands.
+
+
+
+For the second part, the authors used three main strategies for identifying interesting flat bands. The
+first is a relatively crude post-processing of the data in the TQC database to identify flat segments of
+electronic bands and peaks in density of states. The second is a geometric approach, which
+automatically identifies near-realization of three well known flat band geometries: kagome,
+pyrochlore, and Lieb lattices. Such automatic recognition is not a trivial task, given the large number
+of space group and Wyckoff combinations that could correspond to the same geometry, and also the
+practical need to identify approximate realization of these lattices. This space-group method can be
+viewed as crystallography at its finest.
+
+
+
+The last approach is centered around what the authors call the “S-matrix method”, which attempts
+to generalize the flat bands in split lattices like the Lieb lattice to a more general setup. The
+theoretical details of this last method are discussed in a separate paper (arXiv:2106.05272), and the
+present work contains a brief introduction in Appendix E. The gist of this method is the observation
+that if a system is bipartite and only inter-sublattice couplings are considered, then the Hamiltonian
+is block off-diagonal. Furthermore, if the two subsystems have different sizes then the the block
+matrix of electron coupling, called S, will admit either left or right zero modes. The last part is an
+elementary fact in linear algebra, and as the authors pointed out it does not rely on any further
+simplification like use of s orbitals or absence of spin orbit coupling. Although the authors discussed
+some slight relaxation, like the possibility of more general intra-sublattice coupling in the smaller
+sublattice and also a constant energy shift in the large sublattice, such approximate bipartition is still
+a very stringent requirement, as intra-sublattice coupling can easily lead to substantial deviation to
+the limit for which the method is applicable.
+
+
+
+Therefore, the real question for applying this “S-matrix” approach to material research is the
+difficulty in realizing the restriction. In practice, the authors impose a distance cutoff to the electron
+coupling range, and then look for materials for which all the remaining couplings are inter-sublattice.
+Conceptually, this is a reasonable criterion to impose, but it is unclear to me if an elaborated theory
+is required to support this simple criterion. Practically, one can also ask if the incorporation of this
+“S-matrix” method adds substantially to the authors’ results, given the Lieb lattice is a special case of
+the split lattices, which are special cases of the bipartite lattices. From the last column of Table I, if
+we add up the entries flagged as Kagome (54.37%), Pyrochlore (8.11%), Lieb (15.91%), and None
+(26.13%), we arrive at 104.52%. Presumably there is no overlap between the None category and the
+other three, and it is unclear how much overlapping there is between the three named lattice types.
+Without this information, it is unclear how important the “S-matrix" based bipartite and split lattice
+methods are for obtaining the authors’ results (after excluding the Lieb lattice).
+Author Rebuttals to Initial Comments:
+
+
+
+Reply to the ﬁrs t Referee
+
+
+
+Key res ults , Validity and Originality
+
+
+
+This article builds on the recent developm ent of topological quantum chem is try by A.
+Bernevig, N. Regnault and collaborators . Its s peciﬁc goal is to identify prom is ing candidate
+m aterials dis playing s o-called ﬂat energy bands , and potentially dis playing exotic s trongly
+interacting phas es . The s tudy of s uch s tates of m atter originates from the dis covery of
+fractional quantum Hall s tates in the 80 ’s , and was s erious ly revitalized by the recent s tudy
+of twis ted bilayer graphene. Identifying m aterials in which phys ics analogous to twis ted
+bilayer graphene can take place is a natural and m ajor objective of the m aterial and
+quantum chem is try com m unity. The pres ent m anus cript is the res ult of the s ucces s ful
+program undertaken by the authors . It is heavily bas ed on a m ethod, coined a S-m atrix
+approach, developed in a com panion m anus cript, and the m aterial databas e developed by
+a group around s om e of the authors . The key res ults are thus a lis t of candidates m aterials
+which a prom is ing platform to look for exotic interacting s tates of m atter. I have no doubt
+that s uch a catalog will be of great interes t in the following years for exploratory s tudies of
+s uch phas es . We can only hope for new dis coveries bas ed on this catalog.
+In the recent years , the work by A. Bernevig and co-workers has s cram bled the dom ain of
+num erical quantum chem is try, bringing topology as an es s ential dis crim inating ﬁlter to
+identify exotic s olid s tate phas es . The res ults of this m anus cript are an attem pt to extend
+the s cope of this program towards s trongly interacting s tates of m atter. The m ethods are
+original, the res ults s tim ulating. The m ethods are well pres ented and convincing, although I
+cannot com m ent on the validity of the num erical approches which are beyond m y dom ain
+of expertis e.
+
+We thank the referee for her/ his pos itive evaluation of our work and s aying “s uch a
+catalogue will be of great interes t in the following years for exploratory s tudies of s uch
+phas es ”.
+
+The validity of our method has been conﬁrmed by s everal s ucces s ful materia l
+predictions . Our current work and catalogue of ﬂat-band materials are bas ed on the
+topological material data bas e (https :// www.topologicalqua ntum chem is try.com / ). This
+databas e was built us ing ﬁrs t-principles calculations and the Topological Quantum
+Chemis try (TQC) theory [Nature 547 (7663), 298-305 (2017), Nature 566 (7745), 480-485
+(2019), arXiv:2105.09954(2021)]. The s ucces s of TQC is marked by the new topological
+materials it found. For exam ple, the ﬁrs t higher-order topological ins ulator Bi was
+predicted by the TQC method and s ucces s fully proved in the experiments [Nature phys ics
+14 (9), 918-924 (2018)]; als o, the predicted hinge s tates in Bi4Br4 have been m eas ured
+with ARPES experiments [2D Mater. 6 031004(2019); Nature Materials 20, 473– 479
+(2021)]. All thes e materials were ﬁrs t availa ble in the TQC high-throughput calcula tions
+and material databas e (www.topologicalqua ntumchem is try.com / ). Us ing TQC, the
+higher-order hinge arcs in Cd3As 2, KMgBi, and -PtO2 [Nature Com m unications 11, 627
+(2020)] were als o predicted and s ubs equently mea s ured in experim ents [Phys . Rev. Lett.
+124, 156601 (2020)], and res earchers have predicted the fra gile phas e in twis ted bilayer
+graphene [Phys . Rev. Lett. 123,036401 (2019)], the TCI phas e in Pt2HgSe3 [Phys . Rev.
+Materials .3.074202 (2019)], the axionic CDW phas e in the Weyl Semim etal (TaSe4)2I
+[Nature 575, 315– 319(2019), Nat. Phys . 17, 381-387 (2021)], and the dark m atter detectors
+Ag2Au(Se2,Te2) [J. Phys . Mater. 3 014001(2019)]. Hence, we s trongly believe that the
+underlying numerical res ults and m ethods for the topological m aterial databas e are
+eﬃcient, a s tatement that thus trans pos es to our catalogue of ﬂa t-band ma terials .
+
+
+
+Data & methodology
+
+
+
+I have s om e concerns about the pres entation of res ults , and in particular the huge lis ts of
+data provided in the form of table III, V, VII, VIII.
+
+To m y eyes , they look s o old fas hion and 20th century s tyle. An online datable, s uch as the
+one provided by the authors , is im m ens ely m ore practical. Hence I ques tion the real us e of
+thes e long written tables (bes ides s etting s om e records ). Maybe the s us tainability of the
+data is at s ake here. I’ll leave it to the editor to decide on this point.
+We agree that thes e long tables might look outdated. This is why we als o provide full
+ﬂedged webs ites with s earch engines . Nevertheles s through colla borations a nd
+feedback, we have realized that s ome people are m ore comfortable with tables tha n
+webs ites . Some of them actually print thes e tables . Moreover, it provides a convenient
+way for data pres erva tion tha t is m a ndatory for publication in s cientiﬁc journals .
+
+The tables s hall be s een as a record and an addition to the webs ites . As s uch, they are
+not a s ubs titute to any online feature. Their location in the s upplem entary material is
+chos en to avoid dis rupting the text ﬂow. All of them have direct links to our various
+webs ites , s o readers can have the bes t of both worlds .
+
+
+
+Sugges ted im provem ents
+
+
+
+1. In this article on a s ubject of s trongly interacting phas es targeting a broad audience, no
+m ention to high Tc s uperconductors is m ade. I believe that it is the keys tone in the
+com m unity of s trong coupling phas es . A contras t (or s im ilarity ?) with the expected phas es
+in ﬂat band m aterials would be welcom e.
+
+
+
+We thank the referee for pointing out high Tc s uperconductors as releva nt for a broad
+audience. Our databas e, as well as the lis ts of curated and bes t repres entative m aterials ,
+informs the reader if a material is known to be a s uperconductor (including high Tc),
+bas ed on the NIMS Materials Databas e (https :// mits .nims .go.jp/ en/ ). Additionally, this
+point is now explicitly written at the end of the introduction “Our clas s iﬁcation and
+predictions take into account the different ﬂat band natures , including their topological
+character, and our databas e is coupled to the Materials Project and the NIMS Materials
+Databas e, providing inform ation about the m agnetic and s uperconducting properties
+(including high Tc) of the candidate m aterials .”Moreover, we have s hortened the
+introduction and put more empha s is on the exotic phas es that m ight em erge from ﬂat
+topological bands .
+
+
+
+2. A great part of the m ethod us ed by the authors cons is ts in identifying crys tals which
+pos s es s , even if approxim ately, a bipartite (s ub)lattice with hopping between its two
+com ponents . This is jus t a geom etrical im plem entation of the chiral s ym m etry, one of the
+three s ym m etries underlying the ten-fold clas s iﬁcation of gapped topological phas es (s ee
+e.g. Topological Ins ulators and Topological Superconductor by A. Bernevig). It was initially
+dis cus s ed in
+
+Bill Sutherland, “Localization of electronic wave func- tions due to local topology,”Phys .
+Rev. B 34, 5208 (1986)
+
+E. H. Lieb, « Two theorem s on the Hubbard m odel », Phys . Rev. Lett. 62, 1201 (1989).
+
+and m ore recently, in the context of topological gapped phas es , in e.g.
+Shins ei Ryu et al., Topological ins ulators and s uperconductors : tenfold way and
+dim ens ional hierarchy, 2010 New J. Phys . 12 065010.
+
+Many im plem entations in quantum s im ulators (cold-atom s , light waveguides , polariton
+lattices ) or in m echanical s ys tem s pos s es s this s ym m etry.
+
+I think that the relation to the chiral s ym m etry s hould be m entioned.
+
+
+
+
+We thank the referee for pointing this out. We have added s everal s entences dis cus s ing
+the relations hip between ﬂat bands and the chiral s ym m etry in the Methods s ection of
+the revis ed manus cript. The related references a re als o cited.
+
+We emphas ize that the S-matrix method us ed in this pres ented work, as well as the BR
+s ubduction rule us ed in our accompanying work [arXiv:2106.05272 (2021)], goes beyond
+the (approximate) chiral s ymmetry. In general, a bipartite lattice cons is ts of two
+s ublattices L and L’, which have N L and N L’ (<NL) orbitals per unit cell, res pectively. Its
+Ham iltonia n matrix is ,
+
+
+
+
+where Ak (Bk) is a NL * NL ( NL’ * NL’) Hermitian m atrix denoting the intra -s ublattice hopping
+ins ide the L (L’) s ublattice and S k denotes the hopping m atrix between s ublattices L and
+(L’). The pres ence of the chiral s ym metry in a bipartite lattice forbids any intra-s ublattice
+hopping terms and hence Ak= Bk=0. Then, as has been proved in Appendix E1 and als o in
+our accompanying work [arXiv:2106.05272 (2021)], Hk contains at lea s t N L - NL’ zero
+modes in the whole k-s pace giving ris e to N L - NL’ perfectly ﬂat bands , as well as 2NL’
+dis pers ive bands com ing in pa irs related by the chira l s ym m etry.
+
+A s imilar argument for the exis tence of ﬂat bands holds for a generalized bipartite lattice,
+which includes intra-s ublattice coupling and breaking of the chiral s ymm etry. To s ee this ,
+we as s ume that Ak has a momentum independent eigenvalue (E=a) with degeneracy n a. If
+NL’ < n a ≤ NL , then Hk has at leas t n a - NL’ perfectly ﬂat ba nds of energy E=a irres pective of
+Bk. (This s tatement is proved in the Appendix I4 of the a ccompanying work
+arXiv:2106.05272). Compared to the chiral ca s e, the pres ence of intra-s ublattice hopping
+in the s maller s ublattice (L’) gaps the accidental band touching points that exis t in a chiral
+cas e. On the other hand, the eigens tates of thes e n a - N L’ ﬂat bands as well as the s table
+touching points remain unperturbed in the genera lized bipartite lattice. (More details can
+be found in Appendix I4 of Ref. [arXiv:2106.05272]).
+
+
+
+Moreover, does the reliance on this (approxim ate) geom etrical s ym m etry to s eek ﬂat bands
+has cons equences on the topological properties of the s ingle particle eigens tates of the
+ﬂat band ?
+As pointed out in the Sec II B “Geometric frus tration in (line-graph and bipartite) lattices
+is known to give ris e to exact FTBs ”, In fact, many interference-originated bands are
+topologically nontrivial. Some examples were dis cus s ed in detail in s ome recent works ,
+e.g. Phys . Rev. B 78, 125104 (2008), Phys . Rev. B 99, 125122 (2019), Phys . Rev. Lett. 125
+(26), 266403 (2020), Phys . Rev. Res earch.2.043414 (2020). A s ys tema tic theoretical
+framework bas ed on topological quantum chemis try to clas s ify and diagnos e the
+ﬂat-band topology is dis cus s ed in an accom panying work [arXiv:2106.05272 (2021)]. In
+the S-matrix method, in order for the ba nd s tructure to pos s es s ﬂat bands , the two
+s ublattices s hould in general have different numbers of degrees of freedom. Let us s ay
+the two s ublattices L and L’, which have NL and NL’ (<N L) orbitals per unit cell, res pectively.
+Then there s hould be NL-NL’ ﬂat bands at zero energy. Moreover, if the larger and s ma ller
+s ublattices form the band repres entations BR and BR’, res pectively, the repres enta tion
+formed by the ﬂat bands is given by BR-BR’. (In topological quantum chemis try, the
+terminology band repres entation refers to a repres entation form ed by local orbita ls . In
+other words , band repres entations a re topologically trivial ins ulators .) If BR-BR’ is not
+cons is tent with any band repres entation, the ﬂat bands m us t be topological. Exa m ples of
+the BR s ubduction rule can be found in [arXiv:2106.05272 (2021)].
+
+As explained above, the S-matrix method, as well as the BR s ubduction rule, goes beyond
+the (approximate) chiral s ymmetry. Starting with a bipartite lattice s atis fying the chiral
+s ymmetry, the ﬂatnes s and topology of the ﬂa t bands will pers is t even if intra-s ublattice
+hoppings (which break the chiral s ymmetry) are added, provided that the total
+Ham iltonia n is s till a s o-called “generalized bipartite crys talline lattice”
+
+
+
+Finally, chiral s ym m etry is us ually only a low energy approxim ation. Indeed the authors
+dis card hopping term s s m aller than an ad-hoc cutoff. Does this approxim ation have any
+cons equences on the s trength of interactions to cons ider and the as s ociated nature of
+interacting s tates ?
+
+
+
+We thank the referee for this comment. In fact, there is no ad-hoc cutoff adopted in the
+DFT calculations . As s hown cas e by cas e of the s ix types of m aterials in Appendices
+F1-F6, the ﬁrs t-principles calculations without any ad-hoc cutoff s how alm os t perfect ﬂat
+bands around the chemical potential. In the no-free parameter Wannier tight-binding
+Hamiltonian of thes e materials , we ﬁnd the kinetic hopping parameters beyond a certa in
+dis tance are negligible, and the hoppings within the cutoff dis tance s atis fy our S-matrix
+conditions . Hence even when the negligible hoppings are cons idered in the model, the ﬂa t
+bands will only become s lightly dis pers ive or even pers is t to be perfectly ﬂat. If pres ent,
+the negligible dis pers ion won’t cha nge the interacting phys ics s ince the interaction has a
+much larger energy s cale.
+3. On p.5, ﬁve candidate m aterials are s elected and s aid to be param agnetic ins tead of
+Mott ins ulators . It is unclear why this is an advantage. The authors s hould clarify this point.
+
+
+
+
+We thank the referee for this com ment. In the main text, we only s howca s e the ma terials
+that have ﬂat bands and non-ferromagnetic ground s tate becaus e all the ﬁrs t-principles
+calculations on the material databas e are paramagnetic (i.e., without the on-s ite s pin
+polarization) and in a s ingle-particle (mean ﬁeld) approxima tion. We tagged materia ls
+reported as magnetic on the Material Project Databas e or experim entally in the tables of
+Appendix H, but we did not perform the high-throughput m agnetic calculations and
+topological clas s iﬁcations for their magnetic ground s tates . In the revis ed manus cript,
+we clariﬁed this point in the ﬁrs t pa ragraph of Sec III B of the main text, i.e., “All of the
+ﬁve repres entative ﬂat-band m aterials are chem ically realis tic, experim entally
+param agnetic and not Mott ins ulators , which is cons is tent with our param agnetic
+calculations ”.
+
+
+
+4. Flat bands are a s ingle particle notion. Yet the authors have perform ed Dens ity
+Functional Theory (DFT) analys is of the huge lis t of m aterials . DFT is known to incorporate
+effects of (s trong) electronic interactions . What are the im plications of this ?
+
+Does that m ean that interactions are ineffective in the candidate m aterials identiﬁed by the
+authors ? Or that DFT did not capture the potential interacting phas es and as s ociated gaps
+?
+
+
+
+We thank the referee for this valuable comment. In the previous works , i.e., [Nature 547,
+298-305 (2017), Nature 566, 480-485 (2019)] and this pres ent m anus cript, we have
+applied the GGA exchange-correlation potential and enforced the param agnetic phas e in
+the DFT calculations . The GGA potential us ually cannot capture orbita l-s elected
+interactions , like Hubbard U for 3d, 4d, and 4f electrons . Therefore, for para magnetic
+materials without correlated atom s (with 3d, 4d, or 4f electrons ), one can think that the
+interaction effect is already incorporated at a m ea n-ﬁeld level and the ﬂa t ba nd is a
+feature of the mean-ﬁeld Hamiltonian. However, for ma gnetic ma teria ls or materials with
+correlated electrons, one can regard the band s tructures in our work as s pectra of the
+“s ingle-particle” Hamiltonians . Spin s plitting and/ or Hubbard U or Hund’s interactions
+s hould be included to des cribe magnetis m and/ or s trong correla tion phys ics .
+
+In the newly a dded Appendix (Appendix G of the revis ed Supplem entary Materials ), we
+picked four ﬂat-band materials which are ferrom agnetic in experiments . We performed
+DFT calculations for the magnetic a nd non-m agnetic pha s es us ing the GGA+U method
+(which included the on-s ite Hubbard U value of ‘d’ or ‘f’ electrons in the m ean-ﬁeld
+approximation). By comparing the total energy of the non-m agnetic and m a gnetic phas es
+for different U values (varying from 0 to 5 eV) with and without SOC, we found tha t the
+magnetic pha s es always have lower tota l energies . The theoretically obta ined m agnetic
+moments of thes e four materials are in agreement with the experimental res ults . Hence,
+their magnetic ground s tates can be captured by the GGA+U calculation. We als o ﬁnd
+that the ﬂat bands obta ined in the paramagnetic ca lculations , dis played in the res ults
+s ection of the manus cript, remain in the ferroma gnetic ca lculations .
+
+
+
+This m anus cript would cons titute a real m iles tone if a com plem entary m ethod, s uch as
+DMFT and its various reﬁnem ents , was us ed in the ﬁve m aterial candidates to precis e the
+nature of pos s ible interacting ins tabilities . Given the expertis e of the authors , this s hould
+not be a m ajor obs tacle.
+
+
+
+We thank the referee for the s ugges tion to us e alternative/ com plementary methods to
+tes t the many-body interacting ground s tates vers us the experim ental ones . We us ed GGA
++U to uncover the magnetic ground s ta te of four com pounds in the newly added Appendix
+(Appendix G of the revis ed Supplementary Ma terials ). The theoretical res ults
+match the experimentally publis hed s tructures well. Becaus e the s tructures a re
+ferromagnetic and the GGA+U calculation clearly converges fas t to the correct
+experimental ground s tate, we expect further alternative methods to give the s am e res ult,
+at leas t for the experimentally known s trong ferrom agnetic com pounds . Speciﬁcally, in
+this newly added Appendix, we picked four ﬂa t-band m aterials i.e. SrRuO3[ICSD 69360],
+Rb2MnCl6[ICSD 9347], Ba2MnReO6[ICSD 4169], and NiMnSb[ICSD 54255] which are
+ferromagnetic in experim ents and did the DFT calculations . The res ults s how tha t the
+GGA+U method ca n predict the ground s tate of the m agnetic ground s tate. The m agnetic
+band s tructures are s hown in ﬁgures 23-26 in the revis ed Supplementary Materia ls . We
+ﬁnd that, in the paramagnetic calcula tions , when the Hubbard U values are added the ﬂa t
+bands remain at (or clos e to) the Fermi level. When we turn to the ferromagnetic
+calculations , for different U values , the ﬂat bands are no longer located at the Ferm i level
+but s plit into two s ets of ﬂat ba nds nea r the Ferm i level. Thus , the ﬂat band fea tures
+obtained in the paramagnetic calculations , dis played in the res ults s ection of the
+manus cript, remain in the ferromagnetic calculations , but their energies change. This type
+of res ults jus tiﬁes why we a re conﬁdent tha t a high-throughput s earch for ﬂa t bands
+bas ed on paramagnetic ab-initio calculations (without SOC) is both m ea ningful and
+releva nt even for potentially (a nti-)ferromagnetic m aterials .
+
+
+
+
+References
+
+Citations [3-6] do not refer to the his torical papers on the Fractional Quantum Hall State !
+Although I agree that recent work on topological interacting phas es is s tim ulating, we
+cannot ignore the his tory of the quantum Hall effect which predates the s tudy of fractional
+Chern ins ulators . The authors s hould do jus tice to the his torical papers of this ﬁeld, s uch
+as the pioneering papers of Robert Laughlin, Bertrand Halperin and the experim ental
+papers of Hors t Störm er, and Daniel Ts ui.
+
+
+
+We apologize for this m is take. We agree that we s hould have cited there the pioneer work
+in the ﬁeld of fractional Quantum Hall effect. We have ﬁxed the citations in the
+manus cript.
+
+
+
+
+Reply to the s econd Referee
+
+
+
+In this work, Regnault et al report the res ults from their s ys tem atic s earch of s toichiom etric
+m aterials with relatively ﬂat bands over s om e s egm ents of the Brillouin zone. The m ain
+output of the work is provided as an online databas e and als o in the appendices . The
+pres ent m anus cript is devoted to introducing the s earch algorithm s and providing m ore
+detailed elaboration on ﬁve repres entative m aterials they found, together two m ore in the
+Appendix. My evaluation on the m anus cript is divided into two as pects . Firs t, whether or
+not the lis t of propos ed m aterials will be of interes t to the com m unity. Second, if the
+approach taken by the authors is novel and could lead to new developm ents .
+
+
+
+For the ﬁrs t part, there is no doubt that there is im m ens e s cientiﬁc interes t in m aterials with
+ﬂat electronic bands not com ing from trivially decoupled atom ic orbitals . The pres ent
+generation of m aterials s tudied is m os tly bas ed on a layered kagom e m otif. The databas e
+introduced by the current work can indeed expand the pos s ible directions in which one
+looks for new ﬂat-band m aterials .
+
+
+
+We thank the referee for her/ his evalua tion of our work s tating that“The databas e
+introduced by the current work can indeed expand the pos s ible directions in which one
+looks for new ﬂat-band m aterials ”. Indeed, the m ethod given in our m anus cript is
+exhaus tive and general. The ﬂat bands that a ttracted abundant s cientiﬁc interes t in the
+phys ics and materials communities do not originate from decoupled atomic orbitals . At
+pres ent, almos t all the known m aterials that pos s es s ﬂat bands and the models
+predicting the ﬂat bands can be expla ined us ing our S-matrix theory. (See Section II of
+Supplementary Materials of arXiv:2106.05272 (2021).)
+
+
+
+The reported m aterials are not perfect, but they could be interes ting es pecially when
+chem ically doped to bring the ﬂat bands to the Ferm i energy.
+We agree with the referee that there are s everal m aterials with ﬂat bands away from the
+Fermi level and hence chemical doping is needed. Nevertheles s , as tabula ted in Appendix
+G3, we s elect 345 bes t materia l candidates (corres ponding to 949 ICSD entries ) that have
+ﬂat bands on or very clos e to the Fermi level. Thes e m aterials do not need (or jus t need
+a s light) chemical doping to have the Fermi level run through the ﬂat bands .
+
+
+
+That s aid, one has to bear in m ind that the lis t here is curated out of an earlier work by
+s om e of the authors . In a s ens e, the authors have now added an additional “ﬂat band”ﬁlter
+to their exis ting data.
+
+
+
+As we point out in the manus cript, we indeed rely on the la tes t vers ion of the TQC
+databas e [arXiv:2105.09954(2021)]. With the exception of the projected dens ity of s tates
+(DOS), the band s tructure, lattice inform ation a nd the topologica l properties were already
+available on the TQC webs ite. But the work pres ented in this manus cript goes beyond
+s im ple addition of a “ﬂat band” ﬁlter. To perform a high-throughput s ea rch of relevant
+ﬂa t-band m aterials , we have developed s everal tools to detect fea tures in the band
+s tructures , DOS and lattice s tructures , as detailed at length in the Supplem entary
+Materials . The whole data had to be proces s ed through thes e tools , and organized to
+dis cover the mos t interes ting and promis ing compounds . The webs ite m ight look like a
+fully-tunable ﬁlter on the TQC databas e to the end us er, but this im pres ion s hould not
+overs ha dow the work and complexity lying under the hood.
+
+
+
+This will be us eful for thos e who would want to look for ﬂat band m aterials of any s ort in
+any s ys tem , excluding the trivially atom ic ones . However, if one s tarts with a s peciﬁc
+m aterial fam ily in m ind, one could query the previous ly publis hed TQC databas e and
+dis cover for them s elves that the electronic bands contain ﬂat s egm ents .
+
+
+
+Technically, the referee is right: s omeone could look for a given com pound, check if it has
+non-trivial ﬂat bands and compute if thes e ﬂat bands emerge from a rema rkable
+s ublattice. Still, it would not be pos s ible to s earch through all the m aterials without the
+tools , data proces s ing, and concepts that we have developed in this m anus cript and the
+a ccompanying pa per on S-m atrix m ethod. Of cours e, a pers on m otiva ted enough could
+theoretically perform a manual check of the individual 35k entries (a s everal m onths of
+tedious work) to look for new candida tes . With the new webs ite that we provide to the
+community, it only takes a few s econds . We are s ure that the referee appreciates the
+value of s uch tools .
+
+
+
+In this regard, the pres ent work adds value by excluding the trivially atom ic ﬂat bands .
+We would like to convince the referee this is fa r from being the only added value. Bes ides
+the tools des cribed in the reply to the las t ques tion, in this work we als o explained the
+phys ical origins of the ﬂatnes s and why they tend not to be atom ic ﬂat bands . We point
+out that the method als o s hows why ﬂat bands by interference tend to be topological.
+
+(i) A s ys tematic theoretical fram ework for ﬂa t ba nds , i.e., the S-matrix m ethod, is
+developed in the accompanying work [arXiv:2106.05272 (2021)] and brieﬂy dis cus s ed in
+the Appendix E of the pres ent work. In general, if there are two s ublattices connecting to
+each other and the hoppings within each s ubla ttice either vanis h or s atis fy the s o-called
+“generalized bipartite lattice” condition, there will be exact ﬂat bands in the middle of the
+s pectrum. The number of ﬂat bands depends on the number of orbitals in the two
+s ublattices and the rank of the hopping m atrix.
+
+(ii) In the pres ent work, we have applied the S-m atrix theory to expla in the ﬂatnes s found
+in the band s tructures in the databas e. In Appendices F1-F6, we demons trate the S-ma trix
+theory in s ix ﬂat-band materials by explicitly cons tructing the effective tight-binding
+models . In Appendix H, we exhaus tively tabulated a ll materials with bipa rtite lattice
+s tructures or line-graph lattice s tructures . (Flat bands in line-graph can als o be explained
+by the S-matrix.) We categorized the ma terials into Kagome, Lieb, pyrochlore, a nd generic
+bipartite lattices . A large number of materia ls (3756 ICSDs ) with s uch s pecial lattices are
+found to pos s es s ﬂat bands .
+
+(iii) As explained in the reply to the ﬁrs t referee, the topology of the ﬂat ba nds can be
+eas ily determined by a band repres enta tion s ubduction rule. (In topological quantum
+chemis try, the term band repres entation refers to a repres entation form ed by local
+orbitals . In other words , band repres entations are trivial ins ulators .) We s uppos e that the
+larger s ubla ttice in the S-matrix theory forms a band repres entation BR a nd the s maller
+s ublattice forms a band repres entation BR’, then the repres entation of the ﬂat bands will
+be BR-BR’. There is a high chance that BR-BR’is not cons is tent with any atom ic orbitals in
+the given s ys tem. BR-BR’ may even be a topological band if it cannot be written as a s um
+of elem entary ba nd repres enta tions .
+
+
+
+For the s econd part, the authors us ed three m ain s trategies for identifying interes ting ﬂat
+bands . The ﬁrs t is a relatively crude pos t-proces s ing of the data in the TQC databas e to
+identify ﬂat s egm ents of electronic bands and peaks in dens ity of s tates . The s econd is a
+geom etric approach, which autom atically identiﬁes near-realization of three well known ﬂat
+band geom etries : kagom e, pyrochlore, and Lieb lattices . Such autom atic recognition is not
+a trivial tas k, given the large num ber of s pace group and Wyckoff com binations that could
+corres pond to the s am e geom etry, and als o the practical need to identify approxim ate
+realization of thes e lattices . This s pace-group m ethod can be viewed as crys tallography at
+its ﬁnes t.
+
+
+
+We are pleas ed to s ee the referee a ppreciates the complexity of identifying thes e
+rem arkable lattices . We hope our effort that s he/ he em pha s izes , will be helpful to a la rge
+community, beyond the one of quantum m aterials .
+The las t approach is centered around what the authors call the “S-m atrix m ethod”, which
+attem pts to generalize the ﬂat bands in s plit lattices like the Lieb lattice to a m ore general
+s etup. The theoretical details of this las t m ethod are dis cus s ed in a s eparate paper
+(arXiv:2106.05272), and the pres ent work contains a brief introduction in Appendix E. The
+gis t of this m ethod is the obs ervation that if a s ys tem is bipartite and only inter-s ublattice
+couplings are cons idered, then the Ham iltonian is block off-diagonal. Furtherm ore, if the
+two s ubs ys tem s have different s izes then the the block m atrix of electron coupling, called
+S, will adm it either left or right zero m odes . The las t part is an elem entary fact in linear
+algebra, and as the authors pointed out it does not rely on any further s im pliﬁcation like us e
+of s orbitals or abs ence of s pin orbit coupling. Although the authors dis cus s ed s om e s light
+relaxation, like the pos s ibility of m ore general intra-s ublattice coupling in the s m aller
+s ublattice and als o a cons tant energy s hift in the large s ublattice, s uch approxim ate
+bipartition is s till a very s tringent requirem ent, as intra-s ublattice coupling can eas ily lead
+to s ubs tantial deviation to the lim it for which the m ethod is applicable.
+
+
+
+We would like to convince the referee tha t the argum ent “s uch approxim ate bipartition is
+s till a very s tringent requirem ent, as intra-s ublattice coupling can eas ily lead to s ubs tantial
+deviation to the lim it for which the m ethod is applicable” does not hold here. Firs t, we point
+out tha t almos t all the known mecha nis m s of ﬂat bands can be thought of as s pecial
+types of the S-matrix theory. (See Section II of Supplem entary Ma terials of
+arXiv:2106.05272 (2021).) In this s ens e, the S-m atrix is already the mos t generic and
+powerful theory framework for ﬂat ba nds . As fa r as we know, there is no theory that can
+guarantee ﬂat bands and does not require the chiral s ymmetry or any “s tringent”
+conditions on the hoppings .
+
+Second, whether the S-matrix is a “s tringent” condition s hould be ans wered by the actual
+material s earch. In fact, many materia ls are indeed well des cribed by the S-m atrix theory.
+In Appendices F1-F6, we s how how the S-m atrix theory ca n s ucces s fully explain ﬂat
+bands in s ix example prototypical materials by explicitly cons tructing/ extracting the
+effective tight-binding models . In Appendix H, we ﬁnd that materials with bipartite lattice
+s tructures or line-graph lattice s tructures (s pecial cas es of the S-matrix theory) have
+higher chances to pos s es s ﬂat ba nds .
+
+
+
+Therefore, the real ques tion for applying this “S-m atrix” approach to m aterial res earch is
+the diﬃculty in realizing the res triction.
+
+
+
+As s hown for the s ix materials given in Appendix F, the res ults obtained from the S-matrix
+method match well with thos e from the DFT calculations . We picked thes e s ix ma terials
+as typical examples of compounds that ca n have ﬂat bands . The m aterials lis ted at the
+end of each s ubs ection of Appendix F 1~ 6 are ana logous with thes e s ix m aterials , and
+their corres ponding ﬂat bands can be explained by the S-m atrix m ethod (s om etim es the
+s am e S m atrices ). Moreover, the S-m atrix method can be applied to all ﬂat bands that a re
+not formed by the decoupled atom ic orbital. Thus , realizing the S-matrix requirem ents in
+real materia ls is fea s ible.
+
+
+
+In practice, the authors im pos e a dis tance cutoff to the electron coupling range, and then
+look for m aterials for which all the rem aining couplings are inter-s ublattice. Conceptually,
+this is a reas onable criterion to im pos e, but it is unclear to m e if an elaborated theory is
+required to s upport this s im ple criterion.
+
+
+
+We thank the referee for this com ment. In principle, the dis tance between two orbitals
+a ffects the s trength of coupling between them (if the coupling is not
+s ymm etry-guaranteed to be zero). As we s how in the Appendix F1 of the revis ed
+Supplementary Materials on WO3 as an exam ple, the S-m atrix theory captures the m ain
+coupling (inter-s ublattice coupling 1.654 eV) that form s ﬂa t bands . The neglected
+couplings (i.e., the intra-s ublattice couplings -0.222 eV and 0.179 eV) are m uch weaker
+than the inter-s ublattice coupling. The as s umption that intra-s ubla ttice couplings va nis h
+is in good agreem ent with the DFT res ults .
+
+
+
+Practically, one can als o as k if the incorporation of this “S-m atrix” m ethod adds
+s ubs tantially to the authors ’ res ults , given the Lieb lattice is a s pecial cas e of the s plit
+lattices , which are s pecial cas es of the bipartite lattices . From the las t colum n of Table I, if
+we add up the entries ﬂagged as Kagom e (54.37%), Pyrochlore (8.11%), Lieb (15.91%), and
+None (26.13%), we arrive at 104.52%. Pres um ably there is no overlap between the None
+category and the other three, and it is unclear how m uch overlapping there is between the
+three nam ed lattice types . Without this inform ation, it is unclear how im portant the
+“S-m atrix" bas ed bipartite and s plit lattice m ethods are for obtaining the authors ’ res ults
+(after excluding the Lieb lattice).
+
+
+
+As the referee pointed out, there is no overlap between the category “None” and the other
+categories . But indeed, we do have overlaps between the remarkable s ublattices . A trivial
+example is the overlap between the “Kagom e” and the “Pyrochlore” categories , s ince
+every pyrochlore lattice detection will als o trigger a kagome lattice detection. Moreover,
+s ome compounds might hos t both a kagome lattice and, e.g., a bipartite la ttice. One s uch
+example is WO3 in SG 221 (ICSD 108651) and dis cus s ed in Appendix F
+
+https :// www.topologicalquantumchem is try.fr/ ﬂatbands / index.htm l?ICSD=108651.
+
+
+
+The online vers ion of the bes t cas es (the las t colum n pointed out by the referee) is
+available here
+
+https :// www.topologicalquantumchem is try.fr/ ﬂatbands / bes tﬂatba nd.htm l.
+There, it is ea s y to obs erve this is not a n is olated cas e. To be more quantitative, there are
+247 ICSD entries among the 949 ICSD entries in the lis t of bes t ca s es that have both a
+Kagome and a bipartite s ublattice. We have added tables in Appendix C providing the
+number of cas es where a materia l hos ts both a Kagom e/ pyrochlore and a bipa rtite
+s ublattices .
+
+Still we s tres s that the Kagome/ pyrochlore s ublattices can als o be viewed a s a limit cas e
+in the S-matrix form alis m. In principle for any given ma terial, we could perform the s ame
+S-matrix analys is that we did in Appendix F to a s s ociate each ﬂat-band s egm ent to one
+type of s ublattice. While a s ys tem atic (high throughput) S-m a trix des cription is out of
+reach, Appendix F already covers m ore than 50 m a terials . The above mentioned WO3 is a
+perfect example. The ﬂat bands aris e from the bipartite lattice made of the W and O
+a toms . The Ka gome lattice made only from the O a toms does not contribute to the ﬂat
+s egment but is s till a utom a tically detected by our algorithm .
+Reviewer Reports on the First Revision:
+
+Referee #1 (Remarks to the Author):
+
+The authors have revised mostly the supplementary material to answer questions by both referees.
+In particular I appreciate the addition of results on ferromagnetic flat band materials obtained using
+a GGA+U method, as well as the brief discussion of flat band in (effectively) chiral symmetric lattice
+models in the Method section.
+
+
+
+I am convinced that this paper will have substantial impact in search for various exotic phases in flat
+band materials and I recommend its publication.
+
+
+
+
+Referee #2 (Remarks to the Author):
+
+I thank the authors for the reply to the comments and for the efforts to revise the manuscript. In
+particular, I appreciate the authors’ effort to clarify the relevance of the “S-matrix”-based method in
+the identification of good flat band materials. As the authors wrote, “whether the S-matrix is a
+“stringent” condition should be answered by the actual material search.” I totally agree with this
+point, and as I noted in the original report it is important to clarify the relevance of the “S-matrix”
+formalism in the material search.
+
+
+
+For instance, suppose one simply goes through the existing database using the DOS and flat-band
+segment checks and the crystallographic screening of the three remarkable lattice types (kagome,
+pyrochlore, and Lieb), how many of the 949 “best” flat band materials will remain in the “None”
+category, i.e., will not have an identified physical origin for the emergence of flat bands? Currently,
+we know that 949 (all under “best) -248 (None) = 701 of the materials can be explained. If, for
+instance, one finds that kagome + pyrochlore + Lieb accounts for 700 of these entries, then one
+could say that the S-matrix formalism has helped to explain the physical origin of flat bands in 1
+extra material through the bipartite lattice search. This is a non-zero yield, but one would likely
+agree that it is not very significant (1/701). (Of course, this interpretation did not take into account
+cases like WO3, which would have been flagged under the kagome category although, as explained
+by the authors, the kagome sub-lattice has nothing to do with the flat bands near the Fermi level.
+But isolating such cases will require some more in-depth analysis of the identified materials.)
+
+
+
+I believe the conclusion of the manuscript will be significantly strengthened if the authors can simply
+quantify the explanatory power of the “S-matrix theory” by providing a direct answer to the
+following question: how many entries have been “rescued” from the None category through the
+bipartite lattice search? In the first version of the manuscript, it was difficult to even estimate the
+yield of the S-matrix discussion because of the overlapping between the three named lattice types.
+In the revised manuscript, the authors have presented data concerning the overlaps in Table III of
+Appendix C. For instance, it is interesting to realize that of the 151 Lieb lattices in the “best” column,
+135 of them are simultaneously identified under the kagome category. This accounts for a good
+fraction of the overlap between the three named lattice types. If we assume there is no overlap
+between kagome and pyrochlore, the numbers add up to be 516 (kagome) + 77 (pyrochlore) + 16
+(“pure” Lieb which is neither kagome nor pyrochlore) = 609. This suggests the remaining 701-609 =
+92 materials are really explained by the bipartite lattice search. If that is a fair estimate, it will be a
+decent yield (92/701 of the explained material = 13%), and the readers will likely be much more
+convinced that the S-matrix theory has additional explanatory power beyond providing a framework
+for the interpretation of the well-known flat-band lattice types.
+
+
+
+Lastly, a comment on terminology: as the authors definitely know, the term “S-matrix” has a
+widespread, well-accepted meaning in physics. The authors’ decision to call their framework “S-
+matrix” seems to come from the rather ad hoc choice of using the symbol S to denote the off-
+diagonal entry in the Bloch Hamiltonian. In my opinion, this is not descriptive, and serves little other
+than confusing the reader given the existing common usage of the term “S-matrix” elsewhere. A
+more boring but descriptive name, like “generalized bipartite theory”, will likely be a better choice.
+Of course, in any case the authors have the jurisdiction on how they would want to call their theory.
+Author Rebuttals to First Revision:
+
+Reply to the Referee #2:
+
+
+We are grateful to the referee for her/his appreciation of our updated version. Beyond her/his
+compliment, s/he also proposes to emphasize the relevance of the “S-matrix” in the material
+search by a one number indicator.
+
+As the referee clearly knows, kagome, pyrochlore or Lieb lattices are all included in the S-matrix
+formalism, showing that it covers more than bipartite lattices (or slightly variant of them). Without
+diving into the accompanying theoretical paper (that will appear in Nature Physics), we provided
+in Appendix E1 how the kagome can be casted into the S-matrix formalism. Still, we understand
+the fair question of the referee: does this formalism bring anything beyond these three
+types mentioned above?
+
+The referee actually provides a very simple quantitative test: among the “best candidates”
+list, how many compounds host solely a bipartite lattice? As she/he pointed out, the flat
+band near a Fermi energy of a given compound hosting both a bipartite and another remarkable
+lattice (a Lieb, Kagome or pyrochlore) could arise from the bipartite sublattice and thus only
+captured by the S-matrix formalism. But such a systematic analysis is out of reach (as
+acknowledged by the referee). The number of compounds hosting only a bipartite lattice thus
+provides a lower bound for the number of compounds explained by the S-matrix formalism.
+Among the 701 ICSD entries in the “best candidates” list where we have detected at least one
+sublattice, 155 entries only host a bipartite lattice and thus can have their flat bands explained
+by the S-matrix formalism. So the yield (155/701 = 22%) is even better than the one quoted as
+“decent” (13%) proposed by the referee. We have added a few sentences in Appendix D3 to
+highlight this result.
+
+
+In addition to this direct and concise answer to her/his suggested test, we would like to bring to
+the referee’s attention two other quantitative pieces of evidence that the S-matrix formalism
+does provide an invaluable tool to probe flat bands, beyond the remarkable lattices.
+
+   1) In Appendix F and in the supplementary material of the accompanying theoretical article
+      (in the version that will be published in Nature Physics), we have presented four
+      prototypical examples of materials (Pb2Sb2O7, WO3, CaNi5 and Ca2Ta2O7) where the flat
+      bands are captured by the S-matrix formalism and not by any other remarkable lattices.
+      Overall, if we include materials with a similar structure, we cover 269 ICSD entries
+      including 129 belonging to the “best candidates” list.
+
+   2)     We would like to point out a recent preprint by C. Chui et al. arXiv:2109.13940 about
+        line graph lattice crystal structures. They performed a high-throughput search of this
+        specific type of lattice on our data set. Their results have been added to our database so
+        we can test how their results overlap with our findings. The line graph lattices are also
+        captured by the S-matrix formalism (note that the number 155 quoted above explicitly
+       excluded compounds with a line graph sublattice, including these latest would add 14
+       entries). Thus these results provide a concrete test to show that more flat band
+       candidates are described by our approach than we actually promote in our own article.
+       Overall, this line graph high throughput search has found 1633 ICSD entries (related to
+       1044 unique materials) that are distinct from our own survey of bipartite, Lieb, split,
+       kagome or pyrochlore lattices (i.e., the “None” category). Among them, 138 (15) ICSD
+       entries belong to our list of curated (best) flat band candidates. Among them we have for
+       example
+            ● MgO (SG 223)
+               https://www.topologicalquantumchemistry.fr/flatbands/index.html?ICSD=181465
+            ● Al8Fe4Hf (SG 139)
+               https://www.topologicalquantumchemistry.fr/flatbands/index.html?ICSD=607535
+            ● Ge O3 Sr (SG 189)
+               https://www.topologicalquantumchemistry.fr/flatbands/index.html?ICSD=28603
+       Even though this does not cover all the materials part of the “None” category, it clearly
+       shows that another subclass of lattices encompassed by our S-matrix approach detects
+       and captures potential candidate flat band materials not covered by the previous
+       categories.
+       At the moment, there are no systematic approaches to find the S-matrix description of all
+       flat band candidates. But we are confident that akin to the line graph example, specific
+       subclasses of S-matrix models can be designed to largely complete this task, an
+       information that would be then added to our database.
+
+
+
+
+Finally, we understand the referee’s concern about the potential confusion when using the
+expression “S-matrix” in Physics where a similar term could mean the scattering matrix. Now
+other expressions such as “generalized bipartite theory” proposed by the referee also have their
+pitfalls. In that precise example, this would wrongly suggest that, e.g. line graphs or kagome
+lattices are excluded from this model which is not correct. Moreover, the term has already been
+coined and used in other publications (such as arXiv:2109.13940). For these reasons, we prefer
+to stick to the current denomination.
+
