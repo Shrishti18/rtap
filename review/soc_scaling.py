@@ -1,3 +1,7 @@
+# SUPERSEDED: never run. The scaling law was computed independently
+# (confirmed: Tc_max/lam = 19.43 K/eV, constant to 5 digits) and the ceiling
+# question moved on via amax.py/amax2.py. Kept for the model listing only;
+# the zeta table below is unsourced and must not be cited.
 """
 The ceiling as a function of lam_SOC -- generalising the terminus from one ion
 to every ion.

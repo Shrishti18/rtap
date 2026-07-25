@@ -317,3 +317,10 @@ reframe.
 
 The 727/728 E_F gate (band energies and E_F only, no metric anywhere), the four
 theorems (analytic, independently verified), and F1 (chemistry, no band structure).
+
+*(Review note: the self-consistency criterion uses bare inequalities and the
+BZ-minimum intra-group splitting, both generous to manifold validity. With a
+factor-3 safety margin the fraction above threshold is 48.6% and the median
+0.329 — so the abundance figure is **45–49%** under any reasonable margin, and
+the retraction stands. Stored manifold columns were spot-checked against raw
+hr.dat on three materials including AgBr: 6-digit agreement.)*

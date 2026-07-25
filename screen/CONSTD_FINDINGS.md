@@ -176,10 +176,14 @@ M_trg, effective 2-band model : 0.1676
 M_trg, full Hamiltonian       : 0.5472        ratio 0.306
 ```
 
-**70% of the metric comes from bands outside the group**, ≥ 0.39 eV away —
-consistent with the manifold cross term being only −0.034 (3%), since a rank-2
-projector removes exactly the intra-pair channel. `|d|` is not constant either.
-LiPbAu₂ is not an empirical instance of integer winding.
+**97% of the metric comes from bands outside the group**, ≥ 0.39 eV away. The
+invariant decomposition is `A_intra = (M₂₄+M₂₅−M_man)/2 = 0.0169`, confirmed by
+direct computation of `Σᵢ|⟨u₂₅|∂ᵢu₂₄⟩|²` = 0.0139: the intra-pair channel is
+**2.5–3.1%** of band 24's metric. *(Correction: this section first said "70%
+from outside, ratio 0.306" — the effective-2-band metric of 0.168 is
+basis-dependent, inflated by the k-dependence of the fixed-orbital Löwdin frame,
+and is not the intra-pair channel. Verdict unchanged, strengthened.)* `|d|` is
+not constant either. LiPbAu₂ is not an empirical instance of integer winding.
 
 ## Where the winding class now stands
 
