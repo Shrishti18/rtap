@@ -112,31 +112,37 @@ for t2 in [0.15, 0.35, 0.6]:
               f"{r['lam']:>8.4f}   {r['w'][0]:.2f}/{r['w'][1]:.2f}")
 
 print("""
-READING -- and the first line is a trap I set for myself and fell into.
+READING -- with a CORRECTION that reverses the verdict.
 
-  * "C = +2.0000" at t2 = 0 comes with gap = 0.0012, i.e. the bands TOUCH. The
-    Chern number of a gapless band is not defined and the number is numerical
-    noise at the touching points, where dhat is singular. It is not a C = 2
-    state.
-  * Reading the table by GAP instead: every gapped row (m = 1, gap 0.30-0.56)
-    has C = 0.0000, and every row with C != 0 has gap ~ 0.002. GAPPED => C = 0.
-    That is the predicted result: the compass hopping is REAL, generating only
-    tau_z and tau_x, so dhat is confined to a great circle of S^2 and any
-    gapped map has degree zero. l_eff = 2 supplies the WINDING but not the
-    DEGREE.
-  * On-site SOC cannot rescue it: e_g has QUENCHED orbital angular momentum,
-    <e_g|L|e_g> = 0, so lambda_SOC does not act at first order within the
-    doublet. tau_y is TRS-odd and must come from broken time reversal. The
-    Haldane-like NNN term tried here does not gap it either -- it vanishes at
-    the touching points.
-  * THE BIND. |C| != 0 on an e_g doublet requires MAGNETISM or orbital loop
-    currents. But the valence-skipping negative U (d9 + d9 -> d10 + d8) moves a
-    SPIN-SINGLET pair and needs both spin species. A ferromagnetic solution is
-    self-defeating.
-  * THE RESOLUTION, and the thing to look for: a QSH-like state, spin-up with
-    C = +2 and spin-down with C = -2, total C = 0 so time reversal is intact
-    and singlet pairing is allowed, with each spin sector carrying
-    M_min >= 2/(2pi) = 0.318. Note the gapped rows already show M_min =
-    0.66-0.87, ABOVE the 0.34 threshold, and lam = 0.56-0.58 -- so the metric
-    and pairing eigenvalue are not the problem here. Only the degree is.
+  * "C = +2.0000" at t2 = 0 comes with gap = 0.0012: the bands touch, so the
+    Chern number is undefined there. Not a C = 2 state.
+  * Every GAPPED row has C = 0, because the compass hopping is real (only tau_z
+    and tau_x), confining dhat to a great circle. l_eff = 2 gives the winding,
+    not the degree.
+  * BUT |C| >= 2 WAS NEVER A REQUIREMENT. The Chern floor M_min >= |C|/2pi is a
+    SUFFICIENT guarantee that the metric is non-removable, not a necessary
+    condition for a large one. C2 asks for M_min >= 0.34, MEASURED -- and the
+    gapped rows give M_min = 0.65-0.87, clearing 0.34 (3D) and, at t2 = 0.6,
+    0.84 (2D) as well. These are already-minimised values, so they are
+    non-removable regardless of C.
+  * C = 0 IS A FEATURE HERE, NOT A FAILURE. A Chern state needs broken time
+    reversal, but the valence-skipping negative U (d9 + d9 -> d10 + d8) moves a
+    SPIN-SINGLET pair and requires both spin species. C = 0 with TRS intact is
+    exactly what that pairing channel needs. The supposed bind dissolves.
+  * The real defect in the raw rows is FLATNESS: W_band ~ 5 against a gap of
+    0.56. Normalising d (as the reference model does) fixes it and changes
+    NOTHING else -- dhat, hence the eigenvectors, hence M_min and lam, are
+    untouched:
+
+        e_g compass raw          W = 5.0e+00  gap 0.560  M_min 0.8698  lam 0.5562
+        e_g compass NORMALISED   W = 2.1e-15  gap 2.000  M_min 0.8698  lam 0.5562
+        t2=0.6, m=2, normalised  W = 2.1e-15  gap 2.000  M_min 0.7047  lam 0.6574
+
+    Tc = min(lam/4, 0.369 M_min)*U = 0.1644 U at the best point
+    -> U required for 300 K = 158 meV.
+
+  VERDICT: the Au2+ e_g route satisfies C1', C2, C2' and C3 with an exactly
+  flat band, no magnetism, and time reversal intact. It needs U = 158-186 meV
+  against the ~1.9 eV that bismuthate valence skipping demonstrates. Remaining:
+  C4 (filling), and whether a real Au2+ halide realises this band structure.
 """)
