@@ -21,5 +21,4 @@ __pycache__/
 
 # generated review fixtures (regenerate with review/mkfixtures.py)
 review/*_hr.dat
-screen/minmetric2.csv
 screen/minmetric2.log
