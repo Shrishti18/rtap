@@ -324,3 +324,38 @@ factor-3 safety margin the fraction above threshold is 48.6% and the median
 0.329 — so the abundance figure is **45–49%** under any reasonable margin, and
 the retraction stands. Stored manifold columns were spot-checked against raw
 hr.dat on three materials including AgBr: 6-digit agreement.)*
+
+### The standing rule, final form (`screen/selector.py`)
+
+The selector's history is itself the finding: six appearances of the
+rank-mismatch error, the sixth inside a selector built to prevent the fifth,
+and a seventh candidate inside the prescribed fix for the sixth. The recurring
+cause, now proven rather than observed:
+
+**The single-band validity test is vacuous.** Its own U-cap enforces
+`kT(Tc_single) ≤ U_s·λ/4 ≤ d_near/8 ≤ s/8` (λ = λ_max(A) ≤ tr A ≤ 1), so
+"s ≫ Tc_single" holds identically. Any rule that consults it — "which test
+passes", or a min/max over both predictions — inherits a structural bias toward
+single-band. At s → 0 a min-rule returns NEITHER for an exact Kramers pair.
+
+The decision therefore uses the one non-vacuous scale, the manifold's
+**amplitude cap** `kT_ref = U_m·λ_m/4` — the pairing scale, which survives
+`M_manifold → 0` (unlike `kT(Tc_manifold)`, which a structural zero drives to 0
+through the stiffness cap, handing the bias back in through that door):
+
+- `s < kT_ref` → **MANIFOLD** (with `M_manifold < 1e-6` → **DEAD_BY_C2**, Tc = 0
+  as a theorem, never a fallthrough to single)
+- `s > 3·kT_ref` → **SINGLE**
+- between → **NEITHER**: the circular region; Tc reported as min(both), flagged.
+
+Five unit tests, including the Kramers limit and the structural-zero
+fallthrough, run on import guard.
+
+### Abundance under the final selector
+
+Verdicts over 708 bands: SINGLE 148, MANIFOLD 514, NEITHER 46, DEAD_BY_C2 0.
+
+**median M = 0.279, above 0.339: 308/708 = 43.5%** — inside the previously
+reported sensitivity band, which now widens to **43–49%** (bare margin 43.5%,
+factor-3 variants up to 48.6%). The abundance retraction stands under the
+principled rule.
