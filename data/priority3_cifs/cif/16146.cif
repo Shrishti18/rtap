@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 16146
+_audit_creation_date 1980-01-01
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Ammonium fluorosulfate'
+_chemical_formula_structural 'N H4 S O3 F'
+_chemical_formula_sum 'H4 F1 N1 O3 S1'
+_chemical_name_structure_type Barite#-BaSO4
+_exptl_crystal_density_diffrn 1.92
+_publ_section_title 'Crystal structure of ammonium fluorosulfate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Journal of the Chemical Society A: Inorganic, Physical, Theoretical
+(1966-1971)
+; 1970 1970 1814 1817 JCSIAP
+loop_
+_publ_author_name
+'O'Sullivan, K.'
+'Thompson, R.C.'
+'Trotter, J.'
+_cell_length_a 8.972(10)
+_cell_length_b 5.996(10)
+_cell_length_c 7.542(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 405.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.078
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N3- -3
+S6+ 6
+O2- -2
+F1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N3- 4 c 0.175(10) 0.25 0.164(13) . 1. 0
+S1 S6+ 4 c 0.0755(30) 0.25 -.3076(20) . 1. 0
+O1 O2- 4 c 0.1933(80) 0.25 -.4443(80) . 1. 0
+F1 F1- 4 c -.070(7) 0.25 -.4061(80) . 1. 0
+O2 O2- 8 d 0.0828(50) 0.0492(50) -.2026(50) . 1. 0
+H1 H1+ 4 c 0.19 0.25 0.29 . 1. 0
+H2 H1+ 4 c 0.13 0.25 0.15 . 1. 0
+H3 H1+ 8 d 0.2 0.13 0.09 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+N1 N3- 0.0378 0.0591 0.0368 0 0.0024 0
+S1 S6+ 0.0355 0.0379 0.0279 0 0.0003 0
+O1 O2- 0.0565 0.065 0.0327 0 0.0209 0
+F1 F1- 0.0477 0.1194 0.0836 0 -0.0344 0
+O2 O2- 0.0521 0.044 0.0492 -0.0009 0.0028 0.0145

@@ -1,0 +1,73 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 158878
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Dirubidium tetranitrato(V)palladate'
+_chemical_formula_structural 'Rb2 (Pd (N O3)4)'
+_chemical_formula_sum 'N4 O12 Pd1 Rb2'
+_exptl_crystal_density_diffrn 2.92
+_publ_section_title
+'Synthesis and X-ray investigation of Rb2 (Pd (N O3)4) and Cs2 (Pd (N O3)4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii (Issue-No. from 1981)' 2005 46 1103 1108
+ZSTKAI
+loop_
+_publ_author_name
+'Khranenko, S.P.'
+'Baidina, I.A.'
+'Gromilov, S.A.'
+'Belyaev, A.V.'
+_cell_length_a 7.843(1)
+_cell_length_b 7.970(1)
+_cell_length_c 9.725(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.39(1)
+_cell_angle_gamma 90.
+_cell_volume 597.93
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd2+ 2
+Rb1+ 1
+O2- -2
+N5+ 5
+O2- -2
+N5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd2+ 2 c 0 0 0.5 0.022(1) 1. 0
+Rb1 Rb1+ 4 e 0.6582(1) 0.0708(1) 0.8212(1) 0.037(1) 1. 0
+O1 O2- 4 e 0.2055(4) 0.0567(5) 0.4139(3) 0.032(1) 1. 0
+N1 N5+ 4 e 0.3228(6) 0.1555(6) 0.4816(5) 0.037(1) 1. 0
+O2 O2- 4 e 0.3070(6) 0.2152(6) 0.5940(6) 0.056(1) 1. 0
+O3 O2- 4 e 0.4500(5) 0.1794(7) 0.4255(4) 0.059(1) 1. 0
+O4 O2- 4 e -0.1586(4) 0.1088(5) 0.3417(3) 0.033(1) 1. 0
+N2 N5+ 4 e -0.1655(6) 0.0463(7) 0.2167(5) 0.040(1) 1. 0
+O5 O2- 4 e -0.0637(6) -0.0600(7) 0.1942(4) 0.054(1) 1. 0
+O6 O2- 4 e -0.2828(7) 0.1051(8) 0.1274(5) 0.077(2) 1. 0

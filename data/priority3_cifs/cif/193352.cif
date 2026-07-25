@@ -1,0 +1,74 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 193352
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Dibismuth trisulfate'
+_chemical_formula_structural 'Bi2 (S O4)3'
+_chemical_formula_sum 'Bi2 O12 S3'
+_exptl_crystal_density_diffrn 4.9
+_publ_section_title 'Polymorphism in Bi2 (S O4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2014 38 25 29 SSSCFJ
+loop_
+_publ_author_name
+'Subban, Chinmayee V.'
+'Rousse, Gwenaelle'
+'Courty, Matthieu'
+'Barboux, Philippe'
+'Tarascon, Jean-Marie'
+_cell_length_a 17.3383(3)
+_cell_length_b 6.77803(12)
+_cell_length_c 8.30978(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.4300(12)
+_cell_angle_gamma 90.
+_cell_volume 957.19
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0665
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+S6+ 6
+O2- -2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 8 f 0.35047(17) 0.8961(5) 0.9486(4) . 1. 0
+S1 S6+ 8 f 0.8122(4) 0.9192(13) 0.8150(10) . 1. 0
+O1 O2- 8 f 0.854(2) 0.777(4) 0.937(4) . 1. 0
+O2 O2- 8 f 0.7258(7) 0.939(5) 0.817(4) . 1. 0
+O3 O2- 8 f 0.8147(18) 0.851(5) 0.6468(20) . 1. 0
+O4 O2- 8 f 0.8634(18) 0.098(4) 0.833(4) . 1. 0
+S2 S6+ 4 e 0.5 0.0633(16) 0.75 . 1. 0
+O5 O2- 8 f 0.4283(11) -0.060(4) 0.751(4) . 1. 0
+O6 O2- 8 f 0.506(2) 0.213(3) 0.883(2) . 1. 0

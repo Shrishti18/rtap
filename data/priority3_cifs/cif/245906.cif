@@ -1,0 +1,75 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 245906
+_audit_creation_date 2009-02-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Tin(II) sulfate'
+_chemical_formula_structural 'Sn (S O4)'
+_chemical_formula_sum 'O4 S1 Sn1'
+_exptl_crystal_density_diffrn 5.28
+_cell_measurement_temperature 293.
+_cell_measurement_pressure 13500000.
+_publ_section_title
+;
+The high pressure crystal structures of tin sulphate: a case study for maximal
+information recovery from 2D powder diffraction data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 2008 223 195 203 ZEKRDZ
+loop_
+_publ_author_name
+'Hinrichsen, B.'
+'Dinnebier, R.E.'
+'Liu Haozhe'
+'Jansen, M.'
+_cell_length_a 8.078(3)
+_cell_length_b 5.141(2)
+_cell_length_c 6.509(2)
+_cell_angle_alpha 90.56(3)
+_cell_angle_beta 90.65(2)
+_cell_angle_gamma 89.46(2)
+_cell_volume 270.27
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.134
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn2+ 2 i 0.312(1) 0.714(2) 0.650(1) . 1. 0
+Sn2 Sn2+ 2 i 0.189(1) 0.259(2) 0.194(1) . 1. 0
+S1 S6+ 2 i 0.938(1) 0.725(1) 0.311(9) . 1. 0
+S2 S6+ 2 i 0.578(8) 0.253(14) 0.845(10) . 1. 0
+O1 O2- 2 i 0.116(5) 0.647(8) 0.348(7) . 1. 0
+O2 O2- 2 i 0.393(2) 0.325(10) 0.906(2) . 1. 0
+O3 O2- 2 i 0.829(6) 0.787(9) 0.482(6) . 1. 0
+O4 O2- 2 i 0.607(2) 0.095(9) 0.028(9) . 1. 0
+O5 O2- 2 i 0.920(7) 0.009(7) 0.217(3) . 1. 0
+O6 O2- 2 i 0.564(8) 0.070(8) 0.641(9) . 1. 0
+O7 O2- 2 i 0.850(6) 0.527(8) 0.147(8) . 1. 0
+O8 O2- 2 i 0.682(2) 0.487(2) 0.806(2) . 1. 0

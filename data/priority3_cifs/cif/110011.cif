@@ -1,0 +1,74 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 110011
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Cadmium bis(methyldithiocarbonate)'
+_chemical_formula_structural 'Cd ((H3 C O) C S2)2'
+_chemical_formula_sum 'C4 H6 Cd1 O2 S4'
+_exptl_crystal_density_diffrn 2.42
+_cell_measurement_temperature 123.
+_publ_section_title Bis(O-methyldithiocarbonato)cadmium(II)
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2002 58
+m537 m539 ACSEBH
+loop_
+_publ_author_name
+'Young, V.G.jr.'
+'Tiekink, E.R.T.'
+_cell_length_a 19.006(2)
+_cell_length_b 3.9728(3)
+_cell_length_c 12.5126(14)
+_cell_angle_alpha 90
+_cell_angle_beta 107.993(4)
+_cell_angle_gamma 90
+_cell_volume 898.58
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+S2- -2
+C4+ 4
+O2- -2
+C2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 4 c 0.25 0.25 0. 0.01603(16) 1 0
+S1 S2- 8 f 0.35350(3) 0.70595(14) 0.08140(5) 0.01264(17) 1 0
+S2 S2- 8 f 0.31582(2) 0.41115(11) -0.15051(3) 0.01345(18) 1 0
+C1 C4+ 8 f 0.37211(9) 0.6362(5) -0.04373(14) 0.0118(4) 1 0
+O1 O2- 8 f 0.43460(12) 0.7738(3) -0.04763(15) 0.0149(4) 1 0
+C2 C2- 8 f 0.45575(14) 0.7352(5) -0.1491(2) 0.0172(5) 1 0
+H1 H1+ 8 f 0.4582 0.4954 -0.1659 0.021(6) 1 0
+H2 H1+ 8 f 0.5043 0.8385 -0.1379 0.025(6) 1 0
+H3 H1+ 8 f 0.419 0.8459 -0.212 0.014(5) 1 0

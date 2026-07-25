@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 163601
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Thallium diseleno(IV)trivanadate'
+_chemical_formula_structural 'Tl (Se2 V3 O12)'
+_chemical_formula_sum 'O12 Se2 Tl1 V3'
+_chemical_name_structure_type KSe2V3O12
+_exptl_crystal_density_diffrn 4.67
+_cell_measurement_temperature 296.
+_publ_section_title
+;
+New polar oxides: synthesis, characterization, calculations and
+structure-property relationships in Rb Se2 V3 O12 and Tl Se2 V3 O12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2009 21 1654 1662 CMATEX
+loop_
+_publ_author_name
+'Chang Hong Young'
+'Kim Sang-Hwan'
+'Ok Kang Min'
+'Halasyamani, P.S.'
+_cell_length_a 7.1248(3)
+_cell_length_b 7.1248(3)
+_cell_length_c 11.4287(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 502.43
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0285
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+V5+ 5
+Se4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 b 0.3333 0.6667 0.92776(8) 0.0536(3) 1 0
+V1 V5+ 6 c 0.8778(2) 0.2116(2) 0.10744(11) 0.0150(3) 1 0
+Se1 Se4+ 2 b 0.6667 0.3333 0.88063(12) 0.0138(3) 1 0
+Se2 Se4+ 2 a 0 0 0.32960(12) 0.0121(3) 1 0
+O1 O2- 6 c 0.7821(8) 0.1999(8) 0.9447(5) 0.0161(11) 1 0
+O2 O2- 6 c 0.8657(8) 0.1168(8) 0.2658(5) 0.0139(10) 1 0
+O3 O2- 6 c 0.5377(8) 0.0794(9) 0.1363(5) 0.0178(11) 1 0
+O4 O2- 6 c 0.7446(8) -0.1311(8) 0.0729(6) 0.0161(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0426(4) 0.0426(4) 0.0755(6) 0.02131(18) 0 0
+V1 V5+ 0.0157(6) 0.0159(7) 0.0172(6) 0.0108(5) 0.0002(4) 0.0004(5)
+Se1 Se4+ 0.0151(4) 0.0151(4) 0.0110(5) 0.00757(19) 0 0
+Se2 Se4+ 0.0129(3) 0.0129(3) 0.0104(5) 0.00646(17) 0 0
+O1 O2- 0.021(3) 0.026(3) 0.012(3) 0.019(2) -0.001(2) -0.002(2)
+O2 O2- 0.017(3) 0.014(2) 0.013(3) 0.009(2) -0.0018(18) 0.0052(19)
+O3 O2- 0.017(3) 0.019(3) 0.021(3) 0.012(2) 0.000(2) 0.003(2)
+O4 O2- 0.011(2) 0.012(2) 0.024(3) 0.0055(19) -0.004(2) 0.004(2)

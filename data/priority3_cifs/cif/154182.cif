@@ -1,0 +1,87 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 154182
+_audit_creation_date 2007-04-01
+_audit_update_record 2009-08-01
+_chemical_name_systematic 'Barium trithiovanadate(IV) - LT'
+_chemical_formula_structural 'Ba (V S3)'
+_chemical_formula_sum 'Ba1 S3 V1'
+_chemical_name_structure_type BaVS3
+_exptl_crystal_density_diffrn 4.35
+_cell_measurement_temperature 100.
+_publ_section_title
+'Structural aspects of the metal-insulator transition in Ba V S3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2005 7 718 725 SSSCFJ
+loop_
+_publ_author_name
+'Fagot, S.'
+'Foury-Leylekian, P.'
+'Ravy, S.'
+'Pouget, J.P.'
+'Anne, M.'
+'Popov, G.'
+'Lobanov, M.V.'
+'Greenblatt, M.'
+_cell_length_a 6.751(1)
+_cell_length_b 11.485(1)
+_cell_length_c 5.597(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 433.96
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.0352
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+V4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 a 0 0.3364 0.25 0.0076(1) 1. 0
+V1 V4+ 4 a 0 0.0223(1) -0.0102(3) 0.0062(5) 1. 0
+S1 S2- 4 a 0 0.8306(1) 0.2377(9) 0.0093(7) 1. 0
+S2 S2- 8 b 0.2442(2) 0.0838(1) 0.2568(8) 0.0073(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0072(1) 0.0080(1) 0.0077(1) 0. 0. 0.0005(3)
+V1 V4+ 0.0067(4) 0.0048(5) 0.0072(5) 0. 0. 0.0019(6)
+S1 S2- 0.0106(5) 0.0087(5) 0.0085(10) 0. 0. -0.0014(10)
+S2 S2- 0.0064(3) 0.0081(3) 0.0074(6) -0.0019(3) -0.0014(10) 0.0024(8)

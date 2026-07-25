@@ -1,0 +1,107 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 10171
+_audit_creation_date 1980-01-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic Carbonyltriborane(7)
+_chemical_formula_structural 'B3 H7 (C O)'
+_chemical_formula_sum 'C1 H7 B3 O1'
+_exptl_crystal_density_diffrn 0.9
+_cell_measurement_temperature 160.
+_publ_section_title
+;
+Studies of boranes. XXXVII. Some reactions of triborane(7) and the structure
+of triborane(7)-carbonyl
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1973 12 2175 2178 INOCAJ
+loop_
+_publ_author_name
+'Glore, J.D.'
+'Rathke, J.W.'
+'Schaeffer, R.'
+_cell_length_a 8.304(6)
+_cell_length_b 5.667(3)
+_cell_length_c 5.683(3)
+_cell_angle_alpha 102.48(6)
+_cell_angle_beta 75.96(7)
+_cell_angle_gamma 104.07(6)
+_cell_volume 248.13
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.0432
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+C2+ 2
+B2+ 2.33
+O2- -2
+C2+ 2
+B2+ 2.3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 1 a 0.169 0.8 0.005 . 1. 0
+C1 C2+ 1 a 0.753(1) 0.046(1) 0.888(1) . 1. 0
+B1 B2+ 1 a 0.355(1) 0.171(1) 0.257(2) . 1. 0
+B2 B2+ 1 a 0.224(1) 0.418(2) 0.377(2) . 1. 0
+B3 B2+ 1 a 0.240(1) 0.228(1) 0.576(1) . 1. 0
+O2 O2- 1 a 0.831 0.201 -.005 . 1. 0
+C2 C2+ 1 a 0.249(1) 0.953(2) 0.111(1) . 1. 0
+B4 B2+ 1 a 0.642(1) 0.827(2) 0.740(1) . 1. 0
+B5 B2+ 1 a 0.764(1) 0.591(2) 0.620(1) . 1. 0
+B6 B2+ 1 a 0.765(1) 0.782(2) 0.420(1) . 1. 0
+H1 H1- 1 a 0.582(7) 0.690(11) 0.801(11) 1.32 1. 0
+H2 H1- 1 a 0.556(7) 0.927(9) 0.698(9) 0.5 1. 0
+H3 H1- 1 a 0.860(8) 0.624(11) 0.691(11) 3.35 1. 0
+H4 H1- 1 a 0.667(10) 0.395(16) 0.629(13) 3.39 1. 0
+H5 H1- 1 a 0.855(11) 0.645(13) 0.406(15) 2.22 1. 0
+H6 H1- 1 a 0.841(7) 0.96(1) 0.364(10) 2.31 1. 0
+H7 H1- 1 a 0.671(7) 0.725(10) 0.312(10) 0.5 1. 0
+H8 H1- 1 a 0.447(6) 0.273(9) 0.113(9) 0.5 1. 0
+H9 H1- 1 a 0.418(9) 0.092(12) 0.361(12) 3.87 1. 0
+H10 H1- 1 a 0.132(7) 0.36(1) 0.248(11) 0.5 1. 0
+H11 H1- 1 a 0.302(7) 0.606(10) 0.413(9) 0.5 1. 0
+H12 H1- 1 a -.156(8) 0.156(10) 0.596(9) 0.5 1. 0
+H13 H1- 1 a 0.130(6) 0.049(9) 0.591(9) 0.5 1. 0
+H14 H1- 1 a 0.323(8) 0.333(12) 0.722(11) 4.07 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+O1 O2- 0.020(1) 0.016(2) 0.010(1) 0.003(1) -.005(1) -.004(1)
+C1 C2+ 0.008(1) 0.005(1) 0.019(2) -.001(1) 0.001(1) -.001(1)
+B1 B2+ 0.008(1) 0.013(2) 0.032(3) 0.004(1) -.008(2) -.002(2)
+B2 B2+ 0.014(1) 0.013(2) 0.026(3) 0.006(2) 0.004(2) 0.006(2)
+B3 B2+ 0.007(1) 0.023(2) 0.022(2) 0.005(1) -.003(1) -.012(2)
+O2 O2- 0.009(1) 0.036(2) 0.040(2) 0.002(1) -.008(1) -.001(2)
+C2 C2+ 0.013(1) 0.047(3) 0.015(2) 0.016(1) -.003(2) 0.009(2)
+B4 B2+ 0.010(1) 0.026(3) 0.007(2) 0.002(2) 0.000(1) 0.002(1)
+B5 B2+ 0.010(1) 0.025(2) 0.025(3) 0.007(2) -.011(2) -.003(2)
+B6 B2+ 0.019(2) 0.028(3) 0.012(2) 0.003(2) -.003(2) 0.012(2)

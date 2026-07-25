@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 190705
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Barium palladium arsenide (1/2/2)'
+_chemical_formula_structural 'Ba Pd2 As2'
+_chemical_formula_sum 'As2 Ba1 Pd2'
+_chemical_name_structure_type CeMg2Si2
+_exptl_crystal_density_diffrn 7.65
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+Superconducting and normal-state properties of A Pd2 As2 (A = Ca, Sr, Ba)
+single crystals
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 2013 87
+224510-1 224510-22 PRBMDO
+loop_
+_publ_author_name
+'Anand, V.K.'
+'Kim, H.'
+'Tanatar, M.A.'
+'Prozorov, R.'
+'Johnston, D.C.'
+_cell_length_a 4.3438(2)
+_cell_length_b 4.3438(2)
+_cell_length_c 5.7536(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 108.56
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 4/m m m'
+_symmetry_Int_Tables_number 123
+_refine_ls_R_factor_all 0.0739
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+Pd0+ 0
+As0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 1 a 0 0 0 . 1. 0
+Pd1 Pd0+ 2 e 0 0.5 0.5 . 1. 0
+As1 As0+ 2 h 0.5 0.5 0.2705(4) . 1. 0

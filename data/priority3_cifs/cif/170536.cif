@@ -1,0 +1,80 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 170536
+_audit_creation_date 2005-10-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Silicon dioxide'
+_chemical_formula_structural 'Si O2'
+_chemical_formula_sum 'O2 Si1'
+_chemical_name_mineral Zeolite
+_exptl_crystal_density_diffrn 2.81
+_publ_section_title 'Chemical evaluation of hypothetical uninodal zeolites'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2004 126 9769 9775 JACSAT
+loop_
+_publ_author_name
+'Foster, M.D.'
+'Friedrichs, O.D.'
+'Bell, R.G.'
+'Paz, F.A.A.'
+'Klinowski, J.'
+_cell_length_a 3.1995
+_cell_length_b 9.34791
+_cell_length_c 9.5113
+_cell_angle_alpha 88.49825
+_cell_angle_beta 88.33954
+_cell_angle_gamma 89.6815
+_cell_volume 284.25
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 1 a 0.71991 0.85352 0.35848 . 1. 0
+Si2 Si4+ 1 a 0.77416 0.13423 0.61983 . 1. 0
+Si3 Si4+ 1 a 0.42768 0.14393 0.36066 . 1. 0
+Si4 Si4+ 1 a 0.4729 0.84829 0.62395 . 1. 0
+Si5 Si4+ 1 a 0.44589 0.63108 0.13711 . 1. 0
+Si6 Si4+ 1 a 0.42836 0.36879 0.83368 . 1. 0
+Si7 Si4+ 1 a 0.76332 0.63574 0.85552 . 1. 0
+Si8 Si4+ 1 a 0.71752 0.35066 0.11883 . 1. 0
+O1 O2- 1 a 0.4377 0.92026 0.46512 . 1. 0
+O2 O2- 1 a 0.39813 0.08545 0.52752 . 1. 0
+O3 O2- 1 a 0.51735 0.48285 0.05482 . 1. 0
+O4 O2- 1 a 0.46315 0.51777 0.91797 . 1. 0
+O5 O2- 1 a 0.54333 0.0042 0.25991 . 1. 0
+O6 O2- 1 a 0.65155 0.99064 0.71909 . 1. 0
+O7 O2- 1 a 0.54757 0.73535 0.98678 . 1. 0
+O8 O2- 1 a 0.51663 0.26133 0.98718 . 1. 0
+O9 O2- 1 a 0.57487 0.72123 0.28017 . 1. 0
+O10 O2- 1 a 0.53099 0.26996 0.69687 . 1. 0
+O11 O2- 1 a 0.52877 0.29384 0.2668 . 1. 0
+O12 O2- 1 a 0.53211 0.6994 0.71573 . 1. 0
+O13 O2- 1 a 0.98368 0.81523 0.55373 . 1. 0
+O14 O2- 1 a 0.93775 0.18241 0.42816 . 1. 0
+O15 O2- 1 a 0.98548 0.56525 0.17298 . 1. 0
+O16 O2- 1 a 0.96909 0.44382 0.7988 . 1. 0

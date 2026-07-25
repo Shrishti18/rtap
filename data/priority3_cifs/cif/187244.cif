@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 187244
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Diammonium octasulfide'
+_chemical_formula_structural '(N H4)2 S8'
+_chemical_formula_sum 'H8 N2 S8'
+_exptl_crystal_density_diffrn 1.8
+_cell_measurement_temperature 100.
+_publ_section_title
+;
+Crystallization-induced asymmetric synthesis of nonracemic platinum (IV)
+polysulfide tris(chelate) complexes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry  (online)' 2012 2012 3675 3679
+EJICFO
+loop_
+_publ_author_name
+'Rybak, W.T.'
+'Cymbaluk, A.'
+'Sizek, M.'
+'Skonieczny, J.'
+_cell_length_a 15.083(8)
+_cell_length_b 8.350(3)
+_cell_length_c 10.271(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 123.52(8)
+_cell_angle_gamma 90.
+_cell_volume 1078.43
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S0+ -0.25
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S0+ 8 j 0.33531(3) 0.65977(5) 0.27452(4) 0.01772(11) 1 0
+S2 S0+ 8 j 0.39961(3) 0.87420(5) 0.38387(4) 0.01458(11) 1 0
+S3 S0+ 8 j 0.35535(3) 0.91520(5) 0.53791(4) 0.01536(11) 1 0
+S4 S0+ 8 j 0.41923(3) 0.72726(5) 0.69556(4) 0.01532(11) 1 0
+N1 N3- 8 j 0.37713(10) 0.34538(17) 0.49083(15) 0.0172(3) 1 0
+H1 H1+ 8 j 0.3222 0.2843 0.414 0.026 1 0
+H2 H1+ 8 j 0.3778 0.35 0.5808 0.026 1 0
+H3 H1+ 8 j 0.4398 0.2988 0.5153 0.026 1 0
+H4 H1+ 8 j 0.3742 0.446 0.4521 0.026 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S0+ 0.0261(2) 0.0132(2) 0.01290(18) -0.00085(14) 0.01019(16) -0.00014(13)
+S2 S0+ 0.01587(18) 0.0135(2) 0.01480(18) -0.00065(13) 0.00875(15) 0.00104(13)
+S3 S0+ 0.01674(18) 0.0146(2) 0.01545(18) 0.00160(14) 0.00932(15) 0.00036(13)
+S4 S0+ 0.01701(19) 0.0148(2) 0.01410(18) -0.00167(13) 0.00854(15) 0.00022(13)
+N1 N3- 0.0173(6) 0.0181(7) 0.0167(6) 0.0014(5) 0.0097(5) 0.0037(5)

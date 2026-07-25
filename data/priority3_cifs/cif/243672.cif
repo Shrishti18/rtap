@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 243672
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Dititanium diphosphate'
+_chemical_formula_structural 'Ti2 P2 O9'
+_chemical_formula_sum 'O9 P2 Ti2'
+_exptl_crystal_density_diffrn 2.59
+_cell_measurement_temperature 298.
+_publ_section_title
+;
+The ability of a fibrous titanium oxophosphate for nitrogen-adsorption above
+room temperature
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'ChemComm - Chemical Communications' 2017 53 2249 2251 CHCOFS
+loop_
+_publ_author_name
+'Garcia-Glez, Jorge'
+'Amghouz, Zakariae'
+'da Silva, Ivan'
+'Ania, Conchi O.'
+'Parra, Jose B.'
+'Trobajo, Camino'
+'Garcia-Granda, Santiago'
+_cell_length_a 5.08431(14)
+_cell_length_b 8.61210(17)
+_cell_length_c 9.6766(2)
+_cell_angle_alpha 74.5011(19)
+_cell_angle_beta 76.1455(18)
+_cell_angle_gamma 74.488(3)
+_cell_volume 386.93
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0265
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 2 i 0.2180(10) 0.7279(5) 0.3534(4) 1.47(5) 1 0
+Ti2 Ti4+ 2 i 0.6463(9) 0.8753(4) 0.8188(4) 1.47(5) 1 0
+P1 P5+ 2 i 0.6326(16) 0.6865(7) 0.5715(7) 1.47(5) 1 0
+P2 P5+ 2 i 0.8077(16) 0.7922(6) 0.1298(6) 1.47(5) 1 0
+O1 O2- 2 i 0.633(3) 0.6864(14) 0.2415(13) 1.47(5) 1 0
+O2 O2- 2 i 0.717(3) 0.9576(13) 0.1277(13) 1.47(5) 1 0
+O3 O2- 2 i 0.373(3) 0.7235(14) 0.5190(13) 1.47(5) 1 0
+O4 O2- 2 i 0.265(3) 0.4999(14) 0.3850(11) 1.47(5) 1 0
+O5 O2- 2 i 0.108(3) 0.7306(14) 0.1722(13) 1.47(5) 1 0
+O6 O2- 2 i 0.842(3) 0.7794(14) 0.4529(13) 1.47(5) 1 0
+O7 O2- 2 i 0.808(3) 0.7698(13) 0.9778(12) 1.47(5) 1 0
+O8 O2- 2 i 0.601(3) 0.7273(14) 0.7234(12) 1.47(5) 1 0
+O9 O2- 2 i 0.836(3) 0.0116(15) 0.7081(14) 1.47(5) 1 0

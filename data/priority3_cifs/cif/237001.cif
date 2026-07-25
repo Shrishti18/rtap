@@ -1,0 +1,90 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 237001
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Octapotassium hexakis(alumohexasilicate)'
+_chemical_formula_structural 'K8 (Al Si O4)6'
+_chemical_formula_sum 'Al6 K8 O24 Si6'
+_chemical_name_structure_type Sodalite-frame
+_exptl_crystal_density_diffrn 2.15
+_cell_measurement_temperature 20.
+_publ_section_title
+;
+Electronic structure of the sodium and potassium electrosodalites (Na/K)8 (Al
+Si O4)6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 2001 64
+195102-1 195102-6 PRBMDO
+loop_
+_publ_author_name
+'Madsen, Georg K.H.'
+'Iversen, Bo B.'
+'Blaha, Peter'
+'Schwarz, Karlheinz'
+_cell_length_a 9.2524(4)
+_cell_length_b 9.2524(4)
+_cell_length_c 9.2524(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 792.07
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -4 3 n'
+_symmetry_Int_Tables_number 218
+_refine_ls_R_factor_all 0.072
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, y+1/2, -x+1/2'
+2 '-y+1/2, x+1/2, -z+1/2'
+3 '-x+1/2, z+1/2, -y+1/2'
+4 'z+1/2, -y+1/2, -x+1/2'
+5 'y+1/2, -x+1/2, -z+1/2'
+6 'x+1/2, -z+1/2, -y+1/2'
+7 '-z+1/2, -y+1/2, x+1/2'
+8 '-y+1/2, -x+1/2, z+1/2'
+9 '-x+1/2, -z+1/2, y+1/2'
+10 'z+1/2, y+1/2, x+1/2'
+11 'y+1/2, x+1/2, z+1/2'
+12 'x+1/2, z+1/2, y+1/2'
+13 '-z, -x, y'
+14 '-y, -z, x'
+15 '-x, -y, z'
+16 'z, -x, -y'
+17 'y, -z, -x'
+18 'x, -y, -z'
+19 '-z, x, -y'
+20 '-y, z, -x'
+21 '-x, y, -z'
+22 'z, x, y'
+23 'y, z, x'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+K0+ 0.75
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 6 d 0.25 0 0.5 0.0026(3) 1. 0
+Al1 Al3+ 6 c 0.25 0.5 0 0.0026(3) 1. 0
+O1 O2- 24 i 0.1459(4) 0.4751(4) 0.1535(5) 0.0048(7) 1. 0
+K1 K0+ 8 e 0.18424(9) 0.18424(9) 0.18424(9) 0.0075(3) 1. 0

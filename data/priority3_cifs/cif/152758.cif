@@ -1,0 +1,70 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 152758
+_audit_creation_date 2006-10-01
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Aluminium tris(iodate(V))'
+_chemical_formula_structural 'Al (I O3)3'
+_chemical_formula_sum 'Al1 I3 O9'
+_chemical_name_structure_type Fe(IO3)3
+_exptl_crystal_density_diffrn 4.98
+_cell_measurement_temperature 298.
+_publ_section_title
+'Hydrothermal synthesis and crystal structures of Nd (I O3)3 and Al (I O3)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2005 398 173 177 JALCEU
+loop_
+_publ_author_name
+'Chen Xue An'
+'Xue Hai Ping'
+'Chang Xi Nan'
+'Zang Hegui'
+'Xiao Wei Qiang'
+_cell_length_a 9.003(1)
+_cell_length_b 9.003(1)
+_cell_length_c 5.2406(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 367.86
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0227
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+I5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 2 b 0.6667 0.3333 0.5845(8) 0.0088(7) 1. 0
+I1 I5+ 6 c 0.02320(5) 0.33605(5) 0.7243(4) 0.0084(2) 1. 0
+O1 O2- 6 c 0.0455(8) 0.2176(7) 0.9796(16) 0.016(1) 1. 0
+O2 O2- 6 c 0.8066(7) 0.2893(8) 0.8058(11) 0.0093(9) 1. 0
+O3 O2- 6 c 0.1317(8) 0.5505(8) 0.8751(12) 0.013(1) 1. 0

@@ -1,0 +1,96 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 156678
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Dicesium copper bis(dichromate) dihydrate'
+_chemical_formula_structural 'Cs2 Cu (Cr2 O7)2 (H2 O)2'
+_chemical_formula_sum 'H4 Cr4 Cs2 Cu1 O16'
+_chemical_name_structure_type K2Zn(Cr2O7)2(H2O)2
+_exptl_crystal_density_diffrn 3.31
+_publ_section_title
+;
+Third update on compounds with kroehnkite-type chains: the crystal structure
+of wendwilsonite (Ca2 Mg (As O4)2 *2(H2 O)) and the new triclinic structure
+types of synthetic Ag Sc (Cr O4)2 * 2(H2 O) and M2 Cu (Cr2 O7)2 *2(H2 O) (M =
+Rb, Cs)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 2006 18 471 482 EJMIER
+loop_
+_publ_author_name
+'Kolitsch, U.'
+'Fleck, M.'
+_cell_length_a 7.462(2)
+_cell_length_b 7.819(2)
+_cell_length_c 7.847(2)
+_cell_angle_alpha 93.19(3)
+_cell_angle_beta 99.57(3)
+_cell_angle_gamma 116.34(3)
+_cell_volume 400.23
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0299
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Cu2+ 2
+Cr6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 i 0.28445(3) 0.75069(3) 0.17853(3) 0.02897(9) 1. 0
+Cu1 Cu2+ 1 b 0. 0. 0.5 0.02125(12) 1. 0
+Cr1 Cr6+ 2 i 0.24420(8) 0.47005(7) 0.66857(7) 0.01997(11) 1. 0
+Cr2 Cr6+ 2 i 0.29627(6) 0.24521(7) 0.15254(7) 0.02118(12) 1. 0
+O1 O2- 2 i 0.2664(5) 0.5330(5) 0.4816(4) 0.0488(8) 1. 0
+O2 O2- 2 i 0.1576(5) 0.5922(4) 0.7686(4) 0.0380(6) 1. 0
+O3 O2- 2 i 0.0851(4) 0.2370(4) 0.6515(3) 0.0284(5) 1. 0
+O4 O2- 2 i 0.5129(4) 0.4811(4) 0.2117(3) 0.0277(5) 1. 0
+O5 O2- 2 i 0.1030(4) 0.2771(4) 0.0745(4) 0.0373(6) 1. 0
+O6 O2- 2 i 0.2619(4) 0.1358(4) 0.3220(4) 0.0318(6) 1. 0
+O7 O2- 2 i 0.3377(4) 0.1181(4) 0.0076(3) 0.0305(5) 1. 0
+O8 O2- 2 i 0.1867(4) -0.0566(4) 0.6698(3) 0.0262(5) 1. 0
+H1 H1+ 2 i 0.303(4) 0.011(5) 0.663(5) 0.012(9) 1. 0
+H2 H1+ 2 i 0.220(8) -0.004(7) 0.773(4) 0.047(15) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.02984(14) 0.02810(13) 0.03413(13) 0.01560(10) 0.01088(9) 0.01217(9)
+Cu1 Cu2+ 0.0217(3) 0.0173(2) 0.0217(3) 0.0084(2) 0.00037(19) -0.00212(19)
+Cr1 Cr6+ 0.0217(3) 0.0172(2) 0.0204(2) 0.00893(19) 0.00327(17) 0.00243(17)
+Cr2 Cr6+ 0.0189(2) 0.0191(2) 0.0247(2) 0.0082(2) 0.00437(18) 0.00247(19)
+O1 O2- 0.062(2) 0.055(2) 0.0301(15) 0.0252(17) 0.0124(14) 0.0214(14)
+O2 O2- 0.0359(15) 0.0296(14) 0.0538(18) 0.0206(12) 0.0101(13) -0.0032(12)
+O3 O2- 0.0305(13) 0.0194(11) 0.0296(12) 0.0080(10) 0.0038(10) -0.0020(9)
+O4 O2- 0.0228(12) 0.0224(11) 0.0349(13) 0.0091(10) 0.0016(9) 0.0061(10)
+O5 O2- 0.0262(13) 0.0385(15) 0.0462(17) 0.0167(12) 0.0019(11) 0.0013(13)
+O6 O2- 0.0376(15) 0.0271(13) 0.0316(13) 0.0123(11) 0.0154(11) 0.0091(10)

@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 195906
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Calcium carbonate hexahydrate'
+_chemical_formula_structural 'Ca (C O3) (H2 O)6'
+_chemical_formula_sum 'C1 H12 Ca1 O9'
+_chemical_name_structure_type CaCO3(H2O)6
+_chemical_name_mineral Ikaite
+_exptl_crystal_density_diffrn 1.82
+_cell_measurement_temperature 253.
+_publ_section_title
+'Structural change induced by dehydration in ikaite (Ca C O3 * 6(H2 O))'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Mineralogical and Petrological Sciences' 2014 109 157 168
+JMPSCA
+loop_
+_publ_author_name
+'Tateno, Natsuki'
+'Kyono, Atsushi'
+_cell_length_a 8.826(2)
+_cell_length_b 8.313(3)
+_cell_length_c 11.023(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.423(7)
+_cell_angle_gamma 90.
+_cell_volume 757.93
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0354
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 e 0.5 0.64711(7) 0.25 1.244(12) 1. 0
+C1 C4+ 4 e 0.5 0.3058(3) 0.25 1.33(5) 1. 0
+O1 O2- 4 e 0.5 0.1521(2) 0.25 2.19(4) 1. 0
+O2 O2- 8 f 0.52603(19) 0.38496(15) 0.15909(12) 1.65(3) 1. 0
+O3 O2- 8 f 0.6134(2) 0.72281(19) 0.09098(13) 1.97(3) 1. 0
+O4 O2- 8 f 0.7871(2) 0.55887(17) 0.38283(12) 1.78(3) 1. 0
+O5 O2- 8 f 0.6710(2) 0.88518(16) 0.35866(12) 1.65(3) 1. 0
+H1 H1+ 8 f 0.577(2) 0.692(2) 0.0066(16) 4.9(7) 1. 0
+H2 H1+ 8 f 0.663(2) 0.816(2) 0.0898(14) 3.6(6) 1. 0
+H3 H1+ 8 f 0.874(2) 0.581(2) 0.3598(14) 4.3(7) 1. 0
+H4 H1+ 8 f 0.8285(17) 0.564(3) 0.4711(17) 6.0(8) 1. 0
+H5 H1+ 8 f 0.779(2) 0.8983(18) 0.367(2) 5.7(9) 1. 0
+H6 H1+ 8 f 0.6342(16) 0.986(2) 0.350(2) 3.5(6) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0190(4) 0.0119(2) 0.0175(2) 0. 0.0078(2) 0.
+C1 C4+ 0.0137(18) 0.0151(13) 0.0204(12) 0. 0.0041(11) 0.
+O1 O2- 0.0275(14) 0.0119(9) 0.0398(11) 0. 0.0063(9) 0.
+O2 O2- 0.0259(10) 0.0183(7) 0.0207(6) -0.0023(6) 0.0108(6) -0.0025(4)
+O3 O2- 0.0343(11) 0.0221(8) 0.0208(7) -0.0052(7) 0.0124(6) -0.0003(5)
+O4 O2- 0.0250(10) 0.0205(8) 0.0221(7) -0.0001(6) 0.0084(6) -0.0006(4)
+O5 O2- 0.0234(10) 0.0145(7) 0.0251(6) -0.0002(6) 0.0091(6) 0.0005(4)

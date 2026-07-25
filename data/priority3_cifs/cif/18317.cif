@@ -1,0 +1,79 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 18317
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Tribarium tetrasilicon hexatantalum oxide'
+_chemical_formula_structural 'Ba3 Si4 Ta6 O26'
+_chemical_formula_sum 'Ba3 O26 Si4 Ta6'
+_chemical_name_structure_type Ba3Si4Ta6O26
+_exptl_crystal_density_diffrn 6.17
+_publ_section_title
+;
+The structures of the reduced and oxidized forms of barium silicon tantalum
+oxide Ba3 Si4 Ta6 O23 and Ba3 Si4 Ta6 O26
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1970 1 399 408 JSSCBI
+loop_
+_publ_author_name
+'Shannon, J.'
+'Katz, L.'
+_cell_length_a 8.99(1)
+_cell_length_b 8.99(1)
+_cell_length_c 7.79(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 545.24
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+_refine_ls_R_factor_all 0.096
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ta5+ 5
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 3 g 0.6022(10) 0 0.5 0.77 1. 0
+Ta1 Ta5+ 6 i 0.2379(3) 0 0.2452(11) 0.36 1. 0
+Si1 Si4+ 4 h 0.3333 0.6667 0.2137(81) 0.52 1. 0
+O1 O2- 2 c 0.3333 0.6667 0 0.02 1. 0
+O2 O2- 3 f 0.2767(86) 0 0 -.16 1. 0
+O3 O2- 6 i 0.8332(97) 0 0.211(17) 0.5 1. 0
+O4 O2- 12 l 0.4881(39) 0.1809(38) 0.2903(62) -.67 1. 0
+O5 O2- 3 g 0.222(11) 0 0.5 0.65 1. 0

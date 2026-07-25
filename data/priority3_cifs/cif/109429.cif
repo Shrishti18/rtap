@@ -1,0 +1,79 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 109429
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Hexaaquairon bis(trifluoromethylsulfonate)'
+_chemical_formula_structural '(Fe (H2 O)6) ((C F3) S O3)2'
+_chemical_formula_sum 'C2 H12 F6 Fe1 O12 S2'
+_chemical_name_structure_type V(H2O)6(CF3SO3)2
+_exptl_crystal_density_diffrn 1.86
+_publ_section_title
+;
+Combining CDIF and PDF information in problem solving: Crystal structure of a
+corrosion deposit, hexaaquoiron(II) trifluoromethanesulfonate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Powder Diffraction' 1999 14 166 170 PODIE2
+loop_
+_publ_author_name
+'Kaduk, J.A.'
+_cell_length_a 18.6415(14)
+_cell_length_b 6.9291(5)
+_cell_length_c 6.5938(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.742(6)
+_cell_angle_gamma 90.
+_cell_volume 823.68
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.013
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+S5+ 5
+F0+ 0
+O2- -2
+C0+ 0
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 2 a 0 0 0 .076(4) 1. 0
+S1 S5+ 4 i 0.3711(3) 0 0.3134(9) .042(3) 1. 0
+F1 F0+ 4 i 0.2612(5) 0 0.4827(13) .067(4) 1. 0
+F2 F0+ 8 j 0.2450(3) 0.1543(7) 0.191(1) .067(4) 1. 0
+O1 O2- 4 i 0.3861(5) 0 0.1141(11) .065(4) 1. 0
+O2 O2- 8 j 0.4029(3) 0.1666(7) 0.4163(12) .065(4) 1. 0
+O3 O2- 4 i -.0506(5) 0 0.2516(21) .040(3) 1. 0
+O4 O2- 8 j 0.0740(4) 0.2185(16) 0.1462(15) .040(3) 1. 0
+C1 C0+ 4 i 0.2727(4) 0 0.2939(14) .140(16) 1. 0
+H3 H1+ 8 j -.0646 0.1018 0.302 .05 1. 0
+H4 H1+ 8 j 0.0809 0.2523 0.2722 .05 1. 0
+H5 H1+ 8 j 0.0861 0.3041 0.0664 .05 1. 0

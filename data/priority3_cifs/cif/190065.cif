@@ -1,0 +1,70 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 190065
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Barium sulfate'
+_chemical_formula_structural 'Ba (S O4)'
+_chemical_formula_sum 'Ba1 O4 S1'
+_chemical_name_structure_type Barite#-BaSO4
+_chemical_name_mineral Barite
+_exptl_crystal_density_diffrn 4.47
+_publ_section_title
+;
+Structural trends for celestite (Sr S O4), anglesite (Pb S O4), and barite (Ba
+S O4): Confirmation of expected variations within the SO4 groups
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2012 97 661 665 AMMIAY
+loop_
+_publ_author_name
+'Sytle M. Antao'
+_cell_length_a 7.15505(1)
+_cell_length_b 8.88101(3)
+_cell_length_c 5.45447(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 346.6
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0271
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0.15803(3) 0.18445(2) 0.25 0.01120(4) 1. 0
+S1 S6+ 4 c 0.19161(8) 0.43803(8) 0.75 0.0061(2) 1. 0
+O1 O2- 4 c 0.1081(2) 0.5874(2) 0.75 0.0178(5) 1. 0
+O2 O2- 4 c 0.0480(2) 0.3187(2) 0.75 0.0104(4) 1. 0
+O3 O2- 8 d 0.3101(2) 0.4200(1) 0.9695(2) 0.0086(3) 1. 0

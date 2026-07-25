@@ -1,0 +1,63 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 190630
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Tungsten trioxide'
+_chemical_formula_structural 'W O3'
+_chemical_formula_sum 'O3 W1'
+_chemical_name_structure_type WO3(mP32)
+_exptl_crystal_density_diffrn 7.42
+_publ_section_title 'An ab initio study of W O3 under pressure up to 30 GPa'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2003 15 3121 3133 JCOMEL
+loop_
+_publ_author_name
+'Pagnier, T.'
+'Pasturel, A.'
+_cell_length_a 7.32
+_cell_length_b 7.46
+_cell_length_c 7.6
+_cell_angle_alpha 90.
+_cell_angle_beta 90.78
+_cell_angle_gamma 90.
+_cell_volume 414.98
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 4 e 0.25497 0.02129 0.28134 . 1. 0
+W2 W6+ 4 e 0.24481 0.02531 0.77915 . 1. 0
+O1 O2- 4 e 0.00085 0.03687 0.21537 . 1. 0
+O2 O2- 4 e 0.99827 0.46291 0.21705 . 1. 0
+O3 O2- 4 e 0.28432 0.26152 0.28025 . 1. 0
+O4 O2- 4 e 0.20882 0.26064 0.73237 . 1. 0
+O5 O2- 4 e 0.28495 0.03606 0.00962 . 1. 0
+O6 O2- 4 e 0.28459 0.48586 0.99109 . 1. 0

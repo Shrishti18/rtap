@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 165335
+_audit_creation_date 2010-02-01
+_chemical_name_systematic
+;
+Tetra-mue3-tellurido-tetrahedro-tetrarhenium-octa-mue-chloro-tetrakis(dichloro
+tellurium)
+;
+_chemical_formula_structural '((Te4 Re4) Cl8 (Te Cl2)4)'
+_chemical_formula_sum 'Cl16 Re4 Te8'
+_chemical_name_structure_type Re4Te4(TeBr2)4Br8
+_exptl_crystal_density_diffrn 4.93
+_cell_measurement_temperature 113.
+_publ_section_title
+;
+Syntheses and characterisations of the new tetranuclear rhenium cluster
+compounds Re4 (mu3-Q)4 (Te Cl2)4 Cl8  (Q= S, Se, Te)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1997 36 944 946 INOCAJ
+loop_
+_publ_author_name
+'Mironov, Yu.V.'
+'Albrecht Schmitt, T.E.'
+'Ibers, J.A.'
+_cell_length_a 10.742(4)
+_cell_length_b 10.742(4)
+_cell_length_c 13.616(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1571.16
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re0+ 0
+Te0+ 0
+Cl0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re0+ 8 g 0.37815(4) -0.45600(4) 0.07532(3) 0.01027(9) 1. 0
+Te1 Te0+ 8 g 0.43076(7) -0.68900(7) 0.10697(5) 0.0128(2) 1. 0
+Te2 Te0+ 8 g 0.22114(7) -0.27089(7) 0.12934(5) 0.0175(2) 1. 0
+Cl1 Cl0+ 8 g 0.1589(3) -0.5224(3) 0.0939(2) 0.0198(6) 1. 0
+Cl2 Cl0+ 8 g 0.3559(3) -0.4330(3) 0.2556(2) 0.0195(6) 1. 0
+Cl3 Cl0+ 8 g 0.3430(3) -0.0915(3) 0.1602(2) 0.0222(6) 1. 0
+Cl4 Cl0+ 8 g 0.1305(3) -0.1908(3) -0.0126(2) 0.0270(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re0+ 0.0101(2) 0.0110(2) 0.0097(2) 0.0000(2) 0.00076(14) -0.00047(14)
+Te1 Te0+ 0.0140(3) 0.0123(3) 0.0120(3) -0.0015(3) -0.0003(2) 0.0030(2)
+Te2 Te0+ 0.0153(4) 0.0182(4) 0.0188(3) 0.0051(3) 0.0044(3) -0.0021(3)
+Cl1 Cl0+ 0.0128(12) 0.0242(14) 0.0224(14) -0.0012(10) 0.0024(10) 0.0005(11)
+Cl2 Cl0+ 0.0232(14) 0.0213(14) 0.0140(10) -0.0020(10) 0.0044(10) -0.0036(10)
+Cl3 Cl0+ 0.026(2) 0.0183(13) 0.0217(13) 0.0053(12) -0.0024(11) -0.0065(11)
+Cl4 Cl0+ 0.025(2) 0.023(2) 0.033(2) 0.0104(11) -0.0113(13) -0.0045(13)

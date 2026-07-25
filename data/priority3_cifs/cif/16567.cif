@@ -1,0 +1,80 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 16567
+_audit_creation_date 1980-01-01
+_audit_update_record 2004-10-01
+_chemical_name_systematic Octacarbonyldicobalt
+_chemical_formula_structural 'Co2 (C O)8'
+_chemical_formula_sum 'C8 Co2 O8'
+_chemical_name_structure_type Co2(CO)8
+_exptl_crystal_density_diffrn 1.95
+_publ_section_title 'The crystal structure of dicobalt octacarbonyl'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1964 17 732 742 ACCRA9
+loop_
+_publ_author_name
+'Sumner, G.G.'
+'Klug, H.P.'
+_cell_length_a 6.62(3)
+_cell_length_b 15.59(3)
+_cell_length_c 11.31(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.01(33)
+_cell_angle_gamma 90.
+_cell_volume 1167.26
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.096
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co0+ 0
+O2- -2
+C2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co0+ 4 f 0.2426(3) 0.1691(1) 0.4459(2) 3.35 1. 0
+Co2 Co0+ 4 f 0.7522(3) 0.1691(1) 0.9134(2) 3.36 1. 0
+O1 O2- 4 f 0.0993(19) 0.1020(9) 0.2166(11) 7.67 1. 0
+O2 O2- 4 f 0.6046(20) 0.1067(8) 0.1452(11) 9.77 1. 0
+O3 O2- 4 f 0.6456(20) 0.0802(8) 0.4377(11) 6.49 1. 0
+O4 O2- 4 f 0.1447(22) 0.0769(9) 0.9270(12) 7.39 1. 0
+O5 O2- 4 f 0.0346(20) 0.0641(8) 0.6435(12) 6.04 1. 0
+O6 O2- 4 f 0.5396(20) 0.0632(9) 0.7336(11) 7.1 1. 0
+O7 O2- 2 e 0.4549(29) 0.25 0.6437(16) 5.77 1. 0
+O8 O2- 2 e 0.9671(29) 0.25 0.7168(17) 5.29 1. 0
+O9 O2- 2 e 0.8463(31) 0.25 0.4185(15) 6.17 1. 0
+O10 O2- 2 e 0.3495(31) 0.25 0.9272(15) 7.02 1. 0
+C1 C2+ 4 f 0.1542(23) 0.1294(11) 0.3039(13) 5.88 1. 0
+C2 C2+ 4 f 0.6643(23) 0.1347(10) 0.0563(13) 6.3 1. 0
+C3 C2+ 4 f 0.4881(25) 0.1184(10) 0.4383(12) 4.41 1. 0
+C4 C2+ 4 f 0.9950(25) 0.1169(10) 0.9237(12) 4.38 1. 0
+C5 C2+ 4 f 0.1116(23) 0.1065(10) 0.5516(13) 4.53 1. 0
+C6 C2+ 4 f 0.6274(22) 0.1041(11) 0.8042(14) 4.45 1. 0
+C7 C2+ 2 e 0.3518(34) 0.25 0.5518(19) 4.11 1. 0
+C8 C2+ 2 e 0.8702(37) 0.25 0.8046(19) 3.51 1. 0
+C9 C2+ 2 e 0.0247(36) 0.25 0.4298(18) 5.18 1. 0
+C10 C2+ 2 e 0.5287(34) 0.25 0.9244(18) 5.06 1. 0

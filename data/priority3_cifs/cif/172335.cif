@@ -1,0 +1,83 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 172335
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Copper bis(trifluormethylsulfonate)'
+_chemical_formula_structural 'Cu (S O3 C F3)2'
+_chemical_formula_sum 'C2 Cu1 F6 O6 S2'
+_exptl_crystal_density_diffrn 2.71
+_cell_measurement_temperature 295.
+_publ_section_title
+;
+Crystal structures of the trifluoromethyl sulfonates M (S O3 C F3)2 (M = Mg,
+Ca, Ba, Zn, Cu) from synchrotron x-ray powder data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2006 62 467 473
+ASBSDK
+loop_
+_publ_author_name
+'Dinnebier, R.'
+'Sofina, N.'
+'Hildebrandt, L.'
+'Jansen, M.'
+_cell_length_a 4.98965(19)
+_cell_length_b 10.7668(4)
+_cell_length_c 4.82189(17)
+_cell_angle_alpha 103.523(3)
+_cell_angle_beta 118.085(3)
+_cell_angle_gamma 79.459(3)
+_cell_volume 221.4
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0886
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+S4+ 4
+O2- -2
+C4+ 4
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 1 f 0.5 0. 0.5 0.02414 1. 0
+S1 S4+ 2 i 0.2422(9) 0.8423(3) 0.7931(9) 0.0056(13) 1. 0
+O1 O2- 2 i 0.4861(15) 0.8887(5) 1.1039(16) 0.0056(13) 1. 0
+O2 O2- 2 i 0.2674(15) 0.8880(6) 0.5448(17) 0.0056(13) 1. 0
+O3 O2- 2 i -0.0526(15) 0.8903(7) 0.7892(18) 0.0056(13) 1. 0
+C1 C4+ 2 i 0.2773(8) 0.6707(4) 0.7214(10) 0.015(2) 1. 0
+F1 F1- 2 i 0.0444(14) 0.6272(6) 0.4470(15) 0.015(2) 1. 0
+F2 F1- 2 i 0.5389(12) 0.6293(7) 0.7041(18) 0.015(2) 1. 0
+F3 F1- 2 i 0.2774(14) 0.6277(5) 0.9596(16) 0.015(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.020(4) 0.049(4) 0.023(4) -0.014(3) 0.022(3) 0.005(3)

@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 200869
+_audit_creation_date 1980-12-31
+_chemical_name_systematic 'Cesium bis(trifluoromethyl) difluoroborate'
+_chemical_formula_structural 'Cs ((C F3)2 B F2)'
+_chemical_formula_sum 'C2 B1 Cs1 F8'
+_exptl_crystal_density_diffrn 2.86
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+Vibrational spectra and normal coordinate analysis of C F3 compounds XXXIV.
+The bis(trifluoromethyl)difluoroborate anion. X-Ray structure of Cs (C F3)2 B
+F2)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Organometallic Chemistry' 1980 192 305 317 JORCAI
+loop_
+_publ_author_name
+'Brauer, D.J.'
+'Buerger, H.'
+'Pawelke, G.'
+_cell_length_a 5.958(1)
+_cell_length_b 7.628(1)
+_cell_length_c 8.2997(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.50(1)
+_cell_angle_gamma 90.
+_cell_volume 370.89
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+B3+ 3
+C2+ 2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 e 0.01987(6) 0.25 0.22237(4) . 1. 0
+B1 B3+ 2 e 0.6832(10) 0.25 0.7928(7) . 1. 0
+C1 C2+ 2 e 0.4312(12) 0.25 0.8350(12) . 1. 0
+C2 C2+ 2 e 0.6867(11) 0.25 0.5966(7) . 1. 0
+F1 F1- 2 e 0.4277(12) 0.25 0.9962(8) . 1. 0
+F2 F1- 4 f 0.3040(8) 0.3913(7) 0.7722(7) . 1. 0
+F3 F1- 2 e 0.4923(11) 0.25 0.4913(7) . 1. 0
+F4 F1- 4 f 0.8058(8) 0.3886(5) 0.5511(4) . 1. 0
+F5 F1- 4 f 0.7945(5) 0.3976(4) 0.8666(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cs1 Cs1+ 0.0589(2) 0.0434(2) 0.0446(2) 0 0.0096(1) 0
+B1 B3+ 0.043(2) 0.056(3) 0.039(2) 0 0.006(2) 0
+C1 C2+ 0.052(3) 0.087(5) 0.088(5) 0 0.028(3) 0
+C2 C2+ 0.060(3) 0.060(3) 0.045(3) 0 0.009(2) 0
+F1 F1- 0.116(5) 0.137(6) 0.102(4) 0 0.074(4) 0
+F2 F1- 0.102(3) 0.157(4) 0.159(4) 0.080(3) 0.044(3) 0.031(4)
+F3 F1- 0.085(3) 0.165(6) 0.059(2) 0 -.015(2) 0
+F4 F1- 0.157(4) 0.089(2) 0.068(2) -.043(2) 0.037(2) 0.006(2)
+F5 F1- 0.085(2) 0.074(2) 0.062(2) -.032(2) 0.017(1) -.014(1)

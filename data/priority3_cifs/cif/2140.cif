@@ -1,0 +1,67 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 2140
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Bismuth calcium (3:5)'
+_chemical_formula_structural 'Ca5 Bi3'
+_chemical_formula_sum 'Bi3 Ca5'
+_chemical_name_structure_type Yb5Sb3
+_exptl_crystal_density_diffrn 5.3
+_publ_section_title 'The crystal structure of Ca5 Bi3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1974 30 2004 2006 ACBCAR
+loop_
+_publ_author_name
+'Martinez-Ripoll, M.'
+'Haase, A.'
+'Brauer, G.'
+_cell_length_a 12.722(8)
+_cell_length_b 9.666(6)
+_cell_length_c 8.432(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1036.89
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Bi0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 8 d 0.0756(5) 0.0445(5) 0.6913(6) 1.9 1. 0
+Ca2 Ca0+ 4 c 0.2277(6) 0.25 0.3208(8) 1.9 1. 0
+Ca3 Ca0+ 4 c 0.2912(7) 0.25 0.8503(8) 2. 1. 0
+Ca4 Ca0+ 4 c 0.5065(6) 0.25 0.4637(8) 1.7 1. 0
+Bi1 Bi0+ 8 d 0.1708(1) -.0136(1) 0.0657(1) 1.56 1. 0
+Bi2 Bi0+ 4 c -.0164(1) 0.25 0.4208(1) 1.54 1. 0

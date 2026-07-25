@@ -1,0 +1,112 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 195083
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Dimethylammonium hydrogen oxalate hemi(oxalic acid)'
+_chemical_formula_structural '((C H3)2 N H2) (H (C2 O4)) (H2 C2 O4)0.5'
+_chemical_formula_sum 'C5 H10 N1 O6'
+_exptl_crystal_density_diffrn 1.5
+_cell_measurement_temperature 100.
+_publ_section_title
+'Crystal structure of dimethylammonium hydrogen oxalate hemi(oxalic acid)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2015 71
+473 475 ACSEBH
+loop_
+_publ_author_name
+'Diallo, Waly'
+'Gueye, Ndongo'
+'Crochet, Aurelien'
+'Plasseraud, Laurent'
+'Cattey, Helene'
+_cell_length_a 5.6519(3)
+_cell_length_b 7.5809(4)
+_cell_length_c 10.3100(6)
+_cell_angle_alpha 75.467(2)
+_cell_angle_beta 88.120(2)
+_cell_angle_gamma 69.487(2)
+_cell_volume 399.75
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0283
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+C3+ 3
+N3- -3
+H1+ 1
+C4+ 4
+H1- -1
+C4+ 4
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 2 i 0.75407(12) 0.32103(10) 0.47166(7) 0.01407(16) 1 0
+O2 O2- 2 i 0.57685(12) 0.40754(10) 0.26360(7) 0.01329(16) 1 0
+O3 O2- 2 i 0.14369(12) 0.38767(11) 0.36954(7) 0.01625(17) 1 0
+H1 H1+ 2 i 0.0215 0.3632 0.4083 0.024 1 0
+O4 O2- 2 i 0.36051(14) 0.20987(11) 0.56626(7) 0.02010(17) 1 0
+O5 O2- 2 i 0.29036(13) 0.37192(10) 0.09144(7) 0.01471(16) 1 0
+H2 H1+ 2 i 0.3683 0.3944 0.1497 0.022 1 0
+O6 O2- 2 i 0.01961(13) 0.67729(10) 0.07499(7) 0.01568(16) 1 0
+C1 C3+ 2 i 0.57857(16) 0.34999(13) 0.38821(9) 0.01061(18) 1 0
+C2 C3+ 2 i 0.34558(17) 0.30728(13) 0.45205(9) 0.01216(19) 1 0
+C3 C3+ 2 i 0.08336(17) 0.52128(13) 0.04793(9) 0.01171(19) 1 0
+N1 N3- 2 i 0.22327(15) 0.83866(11) 0.24521(8) 0.01223(17) 1 0
+H3 H1+ 2 i 0.3034 0.7852 0.3284 0.015 1 0
+H4 H1+ 2 i 0.1697 0.749 0.2236 0.015 1 0
+C4 C4+ 2 i 0.40571(19) 0.88277(15) 0.14735(10) 0.0182(2) 1 0
+H5 H1- 2 i 0.3224 0.9359 0.0569 0.027 1 0
+H6 H1- 2 i 0.55 0.763 0.15 0.027 1 0
+H7 H1- 2 i 0.4653 0.9785 0.1705 0.027 1 0
+C5 C4+ 2 i -0.00007(19) 1.01362(14) 0.24892(11) 0.0177(2) 1 0
+H8 H1- 2 i -0.0886 1.0711 0.1598 0.027 1 0
+H9 H1- 2 i 0.0557 1.1091 0.2751 0.027 1 0
+H10 H1- 2 i -0.1149 0.9761 0.3143 0.027 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0100(3) 0.0212(4) 0.0119(3) -0.0072(3) -0.0008(2) -0.0031(3)
+O2 O2- 0.0113(3) 0.0178(3) 0.0107(3) -0.0060(3) -0.0004(2) -0.0024(3)
+O3 O2- 0.0089(3) 0.0274(4) 0.0131(3) -0.0087(3) 0.0002(3) -0.0030(3)
+O4 O2- 0.0162(4) 0.0286(4) 0.0148(3) -0.0123(3) -0.0008(3) 0.0022(3)
+O5 O2- 0.0134(3) 0.0149(3) 0.0150(3) -0.0021(3) -0.0044(3) -0.0059(3)
+O6 O2- 0.0178(3) 0.0130(3) 0.0166(3) -0.0046(3) -0.0040(3) -0.0051(3)
+C1 C3+ 0.0087(4) 0.0105(4) 0.0127(4) -0.0028(3) 0.0003(3) -0.0039(3)
+C2 C3+ 0.0103(4) 0.0154(4) 0.0126(4) -0.0057(3) 0.0004(3) -0.0050(3)
+C3 C3+ 0.0127(4) 0.0138(4) 0.0091(4) -0.0059(3) -0.0003(3) -0.0018(3)
+N1 N3- 0.0145(4) 0.0118(4) 0.0107(4) -0.0050(3) -0.0005(3) -0.0028(3)
+C4 C4+ 0.0166(5) 0.0202(5) 0.0186(5) -0.0074(4) 0.0050(4) -0.0055(4)
+C5 C4+ 0.0152(5) 0.0148(4) 0.0211(5) -0.0037(4) 0.0033(4) -0.0034(4)

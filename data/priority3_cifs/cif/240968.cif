@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 240968
+_audit_creation_date 2008-08-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Disilver(I) tetrahydroxodioxotellurate(VI)'
+_chemical_formula_structural 'Ag2 (Te O2 (O H)4)'
+_chemical_formula_sum 'H4 Ag2 O6 Te1'
+_chemical_name_structure_type Ag2TeO2(OH)4
+_exptl_crystal_density_diffrn 5.56
+_cell_measurement_temperature 293.
+_publ_section_title
+'Redetermination of Ag2 [Te O2 (O H)4]: a revised hydrogen-bonding scheme'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2007 63
+i77 i79 ACSEBH
+loop_
+_publ_author_name
+'Weil, M.'
+_cell_length_a 18.5845(18)
+_cell_length_b 6.4186(7)
+_cell_length_c 8.8790(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1059.14
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.0327
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te6+ 6
+Ag1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te6+ 8 a 0. 0. 0.002000(11) 0.00736(6) 1 0
+Ag1 Ag1+ 16 b 0.079916(12) 0.52615(4) 0.98669(4) 0.02515(9) 1 0
+O1 O2- 16 b 0.04247(9) 0.8207(4) 0.8601(2) 0.0109(3) 1 0
+O2 O2- 16 b 0.04460(9) 0.8320(5) 0.1599(2) 0.0161(4) 1 0
+O3 O2- 16 b 0.08359(8) 0.1808(3) 0.0064(2) 0.0130(3) 1 0
+H1 H1+ 16 b 0.022(4) 0.787(10) 0.254(5) 0.037(11) 1 0
+H2 H1+ 16 b 0.129(3) 0.126(9) 0.040(6) 0.037(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te6+ 0.00781(8) 0.00498(9) 0.00931(8) 0.00088(5) 0. 0.
+Ag1 Ag1+ 0.02056(11) 0.00880(12) 0.04609(18) 0.00267(6) 0.00392(9) 0.00486(12)
+O1 O2- 0.0108(6) 0.0072(10) 0.0146(6) 0.0001(6) 0.0029(5) -0.0048(7)
+O2 O2- 0.0125(7) 0.0199(12) 0.0159(7) 0.0019(7) -0.0007(5) 0.0099(8)
+O3 O2- 0.0087(5) 0.0071(8) 0.0232(7) -0.0014(5) -0.0030(6) 0.0018(7)

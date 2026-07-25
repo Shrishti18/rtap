@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 243495
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Lanthanum dihydroxide nitrate'
+_chemical_formula_structural 'La (O H)2 N O3'
+_chemical_formula_sum 'H2 La1 N1 O5'
+_chemical_name_structure_type Pr(OH)2NO3
+_exptl_crystal_density_diffrn 3.95
+_cell_measurement_temperature 296.
+_publ_section_title
+;
+Structural modulation of nitrate group with cations to affect SHG responses in
+RE(OH)2NO3 (RE = La, Y, and Gd): new polar materials with large NLO effect
+after adjusting Ph values of reaction systems
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2017 29 896 903 CMATEX
+loop_
+_publ_author_name
+'Song, Yunxia'
+'Luo, Min'
+'Lin, Chensheng'
+'Ye, Ning'
+_cell_length_a 6.495(4)
+_cell_length_b 3.967(2)
+_cell_length_c 7.784(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.913(11)
+_cell_angle_gamma 90.
+_cell_volume 197.56
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.0137
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+O2- -2
+H1+ 1
+N5+ 5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 a 0.27098(3) 2.0193 0.60025(2) 0.00812(8) 1 0
+O1 O2- 2 a 0.1206(3) 2.520(3) 0.4276(3) 0.0099(5) 1 0
+O2 O2- 2 a 0.1388(4) 2.521(4) 0.7942(3) 0.0164(5) 1 0
+O3 O2- 2 a 0.3399(6) 2.1581(9) 0.9448(5) 0.0231(8) 1 0
+O4 O2- 2 a 0.4719(3) 2.024(3) 0.3537(3) 0.0104(5) 1 0
+O5 O2- 2 a 0.1945(6) 2.541(4) 1.0776(4) 0.0320(12) 1 0
+H1 H1+ 2 a 0.3876 2.0229 0.2432 0.038 1 0
+H2 H1+ 2 a 0.1219 2.5231 0.3202 0.038 1 0
+N1 N5+ 2 a 0.2261(6) 2.4111(10) 0.9434(5) 0.0166(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.00844(11) 0.00566(11) 0.01068(11) 0.0000(4) 0.00281(7) 0.0002(4)
+O1 O2- 0.0101(11) 0.0118(12) 0.0075(11) -0.001(6) 0.0007(9) -0.001(7)
+O2 O2- 0.0182(9) 0.0169(9) 0.0139(9) -0.0005(10) 0.0024(7) 0.0003(10)
+O3 O2- 0.030(2) 0.0147(18) 0.0223(19) 0.0031(15) -0.0028(16) 0.0025(14)
+O4 O2- 0.0121(11) 0.0103(12) 0.0080(11) 0.001(6) -0.0004(9) -0.001(6)
+O5 O2- 0.0479(18) 0.039(3) 0.0127(15) 0.000(5) 0.0144(13) -0.006(4)
+N1 N5+ 0.020(2) 0.015(2) 0.015(2) -0.0089(15) 0.0042(17) 0.0018(13)

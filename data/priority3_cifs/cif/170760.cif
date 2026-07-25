@@ -1,0 +1,86 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 170760
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Indium arsenate(V) hydrate'
+_chemical_formula_structural 'In As O4 (H2 O)'
+_chemical_formula_sum 'H2 As1 In1 O5'
+_chemical_name_structure_type MgMoO4H2O
+_exptl_crystal_density_diffrn 4.6
+_publ_section_title
+;
+Octahedral-tetrahedral framework structures of In As O4.H2 O and Pb In (As O4)
+(As O3 O H)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2005 61 i86 i89 ACSCEE
+loop_
+_publ_author_name
+'Kolitsch, U.'
+'Schwendtner, K.'
+_cell_length_a 5.5000(10)
+_cell_length_b 5.7200(10)
+_cell_length_c 6.6850(10)
+_cell_angle_alpha 98.90(3)
+_cell_angle_beta 94.60(3)
+_cell_angle_gamma 107.55(3)
+_cell_volume 196.3
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0128
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+As5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 2 i 0.36738(2) 0.27146(2) -0.218959(18) 0.00643(5) 1 0
+As1 As5+ 2 i 0.26452(3) 0.12140(3) 0.25584(3) 0.00472(5) 1 0
+O1 O2- 2 i 0.3540(3) 0.3488(2) 0.11118(19) 0.0076(2) 1 0
+O2 O2- 2 i 0.3210(3) -0.1381(2) 0.1445(2) 0.0092(2) 1 0
+O3 O2- 2 i 0.4449(3) 0.2396(3) 0.4814(2) 0.0109(2) 1 0
+O4 O2- 2 i -0.0534(3) 0.0638(2) 0.2615(2) 0.0103(2) 1 0
+O5 O2- 2 i 0.0879(3) 0.4616(3) -0.2689(3) 0.0163(3) 1 0
+H1 H1+ 2 i 0.101(8) 0.600(8) -0.260(6) 0.040(10) 1 0
+H2 H1+ 2 i -0.032(7) 0.413(7) -0.237(6) 0.037(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.00618(7) 0.00640(7) 0.00620(7) 0.00141(5) 0.00079(4) 0.00085(4)
+As1 As5+ 0.00481(9) 0.00425(8) 0.00507(9) 0.00095(6) 0.00109(6) 0.00152(6)
+O1 O2- 0.0106(6) 0.0053(5) 0.0061(5) 0.0000(4) 0.0025(4) 0.0030(4)
+O2 O2- 0.0099(6) 0.0072(5) 0.0111(6) 0.0047(5) 0.0007(5) 0.0001(4)
+O3 O2- 0.0106(6) 0.0139(6) 0.0058(5) 0.0012(5) 0.0000(4) 0.0010(4)
+O4 O2- 0.0052(6) 0.0079(5) 0.0180(7) 0.0013(5) 0.0034(5) 0.0033(5)
+O5 O2- 0.0095(6) 0.0105(6) 0.0313(9) 0.0045(5) 0.0045(6) 0.0075(6)

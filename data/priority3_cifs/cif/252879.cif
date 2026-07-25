@@ -1,0 +1,76 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 252879
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Lithium chromium selenide (1/1/2)'
+_chemical_formula_structural 'Li Cr Se2'
+_chemical_formula_sum 'Cr1 Li1 Se2'
+_chemical_name_structure_type LiTiS2
+_exptl_crystal_density_diffrn 4.95
+_cell_measurement_temperature 295.
+_publ_section_title
+;
+Competition between the direct exchange interaction and superexchange
+interaction in layered compounds LiCrSe2, LiCrTe2, and NaCrTe2 with a
+triangular lattice
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 7407 7413 INOCAJ
+loop_
+_publ_author_name
+'Kobayashi, Shintaro'
+'Ueda, Hiroaki'
+'Michioka, Chishiro'
+'Yoshimura, Kazuyoshi'
+_cell_length_a 3.6544(1)
+_cell_length_b 3.6544(1)
+_cell_length_c 6.2911(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 72.76
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0959
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cr3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 1 b 0 0 0.5 0.02 1. 0
+Cr1 Cr3+ 1 a 0 0 0 0.0168(6) 1. 0
+Se1 Se2- 2 d 0.3333 0.6667 0.2253(1) 0.0168(6) 1. 0

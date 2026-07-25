@@ -1,0 +1,84 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 150703
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Lanthanum barium manganese(III) manganese(IV) oxide'
+_chemical_formula_structural 'La Ba Mn2 O6'
+_chemical_formula_sum 'Ba1 La1 Mn2 O6'
+_chemical_name_structure_type Perovskite_double(layered)#PrBaMn2O5+x
+_exptl_crystal_density_diffrn 6.68
+_cell_measurement_temperature 400.
+_publ_section_title
+;
+Ground state properties of the A-site ordered manganites, R Ba Mn2 O6 (R = La,
+Pr and Nd)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Physical Society of Japan' 2003 72 3237 3242 JUPSAU
+loop_
+_publ_author_name
+'Nakajima, T.'
+'Kageyama, H.'
+'Yoshizawa, H.'
+'Ohoyama, K.'
+'Ueda, Y.'
+_cell_length_a 3.9178(1)
+_cell_length_b 3.9178(1)
+_cell_length_c 7.8070(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 119.83
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 4/m m m'
+_symmetry_Int_Tables_number 123
+_refine_ls_R_factor_all 0.0531
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ba2+ 2
+Mn3+ 3.5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 1 a 0 0 0 0.6(1) 1. 0
+Ba1 Ba2+ 1 b 0 0 0.5 0.8(2) 1. 0
+Mn1 Mn3+ 2 h 0.5 0.5 0.2451(13) 0.2(1) 1. 0
+O1 O2- 1 c 0.5 0.5 0 0.9(2) 1. 0
+O2 O2- 4 i 0.5 0 0.2373(5) 1.0(1) 1. 0
+O3 O2- 1 d 0.5 0.5 0.5 1.0(2) 1. 0

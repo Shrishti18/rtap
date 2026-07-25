@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 193216
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Potassium cobalt triphosphate'
+_chemical_formula_structural 'K Co (P O3)3'
+_chemical_formula_sum 'Co1 K1 O9 P3'
+_exptl_crystal_density_diffrn 3.
+_cell_measurement_temperature 298.
+_publ_section_title
+;
+Synthesis, crystal structure and electrical properties of new phosphate K Co
+P3 O9
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 221 278 284 JSSCBI
+loop_
+_publ_author_name
+'Smida, Y. Ben'
+'Guesmi, A.'
+'Georges, S.'
+'Zid, M.F.'
+_cell_length_a 6.6161(7)
+_cell_length_b 6.6161(10)
+_cell_length_c 9.788(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 371.05
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -6 c 2'
+_symmetry_Int_Tables_number 188
+_refine_ls_R_factor_all 0.0141
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 'x, x-y, z+1/2'
+5 '-x+y, y, z+1/2'
+6 '-y, -x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+P5+ 5
+O2- -2
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 c 0.3333 0.6667 0.5 0.00950(17) 1 0
+P1 P5+ 6 k 0.44221(13) 0.05125(12) 0.75 0.00749(17) 1 0
+O1 O2- 6 k 0.7143(4) 0.1432(4) 0.75 0.0166(5) 1 0
+O2 O2- 12 l 0.3368(3) 0.9297(3) 0.87958(12) 0.0194(3) 1 0
+K1 K1+ 2 a 1. 0. 0.5 0.0199(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.0106(2) 0.0106(2) 0.0073(3) 0.00529(11) 0. 0.
+P1 P5+ 0.0064(4) 0.0057(3) 0.0098(3) 0.0026(3) 0. 0.
+O1 O2- 0.0079(11) 0.0071(9) 0.0345(11) 0.0035(8) 0. 0.
+O2 O2- 0.0199(8) 0.0239(8) 0.0174(6) 0.0132(7) 0.0071(7) 0.0109(6)
+K1 K1+ 0.0176(4) 0.0176(4) 0.0246(6) 0.0088(2) 0. 0.

@@ -162,6 +162,11 @@ def clean(n, formula, sg, cat, icsd, has_best):
         if mm.group(2):
             labels.append(mm.group(1) + mm.group(2))
     best = d(best)
+    fignum = ""
+    mf = re.search(r"Fig\.?\s*(\d+)", best)
+    if mf:
+        fignum = mf.group(1)
+        best = "Fig. %s" % fignum
     rec = {
         "num": n,
         "formula": formula,
@@ -177,8 +182,9 @@ def clean(n, formula, sg, cat, icsd, has_best):
         "icsd_extra_sublattice_labels": " ".join(labels),
     }
     if has_best:
-        rec["is_top_candidate"] = "yes" if best.lower().startswith("fig") else "no"
+        rec["is_top_candidate"] = "yes" if fignum else "no"
         rec["best_figure"] = best
+        rec["best_figure_number"] = fignum
     return rec
 
 
@@ -194,7 +200,7 @@ def run(first, last, expect_rows, ncat, has_best, outfile, label):
     order = ["num", "formula", "space_group_symbol", "space_group_number",
              "topology_at_Ef"]
     if has_best:
-        order += ["is_top_candidate", "best_figure"]
+        order += ["is_top_candidate", "best_figure", "best_figure_number"]
     order += ["sublattices", "magnetic", "superconductor", "high_quality",
               "n_icsd", "icsd_ids", "icsd_extra_sublattice_labels"]
     with open(outfile, "w", newline="", encoding="utf8") as f:

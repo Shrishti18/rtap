@@ -1,0 +1,66 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 104487
+_audit_creation_date 2004-10-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Iridium lithium (1/1)'
+_chemical_formula_structural 'Ir Li'
+_chemical_formula_sum 'Ir1 Li1'
+_chemical_name_structure_type LiPt
+_exptl_crystal_density_diffrn 12.44
+_publ_section_title 'The crystal structure of Ir Li, Ir3 Li and Li Rh3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1976 50 279 282 JCOMAH
+loop_
+_publ_author_name
+'Donkersloot, H.C.'
+'van Vucht, J.H.N.'
+_cell_length_a 2.649
+_cell_length_b 2.649
+_cell_length_c 4.3968
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 26.72
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 m 2'
+_symmetry_Int_Tables_number 187
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 'x, x-y, z'
+5 '-x+y, y, z'
+6 '-y, -x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir0+ 0
+Li0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir0+ 1 a 0 0 0 . 1. 0
+Li1 Li0+ 1 d 0.3333 0.6667 0.5 . 1. 0

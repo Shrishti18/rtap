@@ -1,0 +1,89 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 18114
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Dicalcium zinc disilicate'
+_chemical_formula_structural 'Ca2 Zn (Si2 O7)'
+_chemical_formula_sum 'Ca2 O7 Si2 Zn1'
+_chemical_name_structure_type Melilite-Ca2MgSi2O7
+_chemical_name_mineral Hardystonite
+_exptl_crystal_density_diffrn 3.39
+_publ_section_title
+'Refinemente of the crystal structure of hardystonite, Ca2 Zn Si2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+; 1969 130 427 437 ZEKGAX
+loop_
+_publ_author_name
+'Louisnathan, S.J.'
+_cell_length_a 7.8279(10)
+_cell_length_b 7.8279(10)
+_cell_length_c 5.0138(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 307.23
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 21 m'
+_symmetry_Int_Tables_number 113
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y, -x, -z'
+3 'y+1/2, x+1/2, z'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Zn2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 e 0.3322(1) 0.1678(1) 0.5061(3) . 1. 0
+Zn1 Zn2+ 2 a 0 0 0 . 1. 0
+Si1 Si4+ 4 e 0.1393(2) 0.3607(2) 0.9304(3) . 1. 0
+O1 O2- 2 c 0.5 0 0.1771(15) . 1. 0
+O2 O2- 4 e 0.1400(5) 0.3600(5) 0.2551(11) . 1. 0
+O3 O2- 8 f 0.0818(7) 0.1885(5) 0.7847(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ca1 Ca2+ 0.0055(1) 0.0055(1) 0.0076(4) 0.0025(1) 0.0005(2) -.0005(2)
+Zn1 Zn2+ 0.0025(1) 0.0025(1) 0.0073 0 0 0
+Si1 Si4+ 0.0020(1) 0.0020(1) 0.0042(6) -.0001(2) 0.0003(3) -.0003(3)
+O1 O2- 0.0098(10) 0.0098(10) 0.0044(20) -.0050(14) 0 0
+O2 O2- 0.0055(5) 0.0055(5) 0.0069(16) 0.0028(7) -.0004(6) 0.0004(6)
+O3 O2- 0.0145(9) 0.0017(5) 0.0124(15) -.0016(6) 0.0033(8) -.0014(7)

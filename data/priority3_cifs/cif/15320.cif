@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 15320
+_audit_creation_date 1981-12-31
+_audit_update_record 1991-04-17
+_chemical_name_systematic
+'Di-mue-chloro-bis((phosphorus oxide trichloride) oxodichlorooxomolybdenum(V))'
+_chemical_formula_structural '((P O Cl3) O Cl2 Mo Cl2 Mo O Cl2 (P O Cl3))'
+_chemical_formula_sum 'Cl12 Mo2 O4 P2'
+_exptl_crystal_density_diffrn 2.48
+_publ_section_title
+;
+Die Reaktion von Molybdaenpentachlorid mit Trichlornitromethan; die
+Kristallstruktur von ((Mo O Cl3)*(P O Cl3))2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1981
+474 171 181 ZAACAB
+loop_
+_publ_author_name
+'Straehle, J.'
+'Beyendorff, G.'
+'Liebelt, A.'
+'Dehnicke, K.'
+_cell_length_a 6.264(4)
+_cell_length_b 13.341(7)
+_cell_length_c 12.089(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.27(5)
+_cell_angle_gamma 90.
+_cell_volume 994.07
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo5+ 5
+P5+ 5
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo5+ 4 e 0.0769(2) 0.1326(1) 0.0218(1) . 1. 0
+P1 P5+ 4 e 0.3953(5) 0.0317(2) 0.2787(3) . 1. 0
+Cl1 Cl1- 4 e 0.3953(6) 0.2087(2) 0.0032(3) . 1. 0
+Cl2 Cl1- 4 e 0.0082(7) 0.2429(3) 0.1582(4) . 1. 0
+Cl3 Cl1- 4 e 0.1916(5) -.0148(2) -.0762(2) . 1. 0
+Cl4 Cl1- 4 e 0.2032(7) 0.0359(4) 0.3896(4) . 1. 0
+Cl5 Cl1- 4 e 0.5397(8) -.0980(3) 0.2977(4) . 1. 0
+Cl6 Cl1- 4 e 0.6189(6) 0.1315(3) 0.3267(3) . 1. 0
+O1 O2- 4 e -.0886(16) 0.1762(8) -.0868(8) 5.9 1. 0
+O2 O2- 4 e 0.2817(14) 0.0468(6) 0.1651(7) 4.8 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo5+ 0.00376(5) 0.00284(4) 0.00361(4) 0.00015(4) 0.00066(3) 0.00019(4)
+P1 P5+ 0.0045(2) 0.0038(1) 0.0036(1) -.0002(1) 0.0001(1) -.0001(1)
+Cl1 Cl1- 0.0056(2) 0.0041(2) 0.0078(2) -.0011(1) 0.0028(2) 0.0003(2)
+Cl2 Cl1- 0.0073(2) 0.0048(2) 0.0088(3) -.0007(2) 0.0031(2) -.0031(2)
+Cl3 Cl1- 0.0046(1) 0.0037(1) 0.0050(2) -.0003(1) 0.0019(1) -.0011(1)
+Cl4 Cl1- 0.0072(3) 0.0117(4) 0.0063(2) -.0013(3) 0.0029(2) 0.0003(2)
+Cl5 Cl1- 0.0107(3) 0.0046(2) 0.0082(2) 0.0022(2) -.0003(2) 0.0012(2)
+Cl6 Cl1- 0.0053(2) 0.0064(2) 0.0079(3) -.0015(2) 0.0007(2) -.0024(2)

@@ -1,0 +1,106 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 2776
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Magnesium sulfate(VI) pentahydrate'
+_chemical_formula_structural 'Mg (S O4) (H2 O)5'
+_chemical_formula_sum 'H10 Mg1 O9 S1'
+_chemical_name_structure_type Pentahydrite-MgSO4(H2O)5
+_chemical_name_mineral Pentahydrite
+_exptl_crystal_density_diffrn 1.92
+_publ_section_title
+;
+Salt hydrates. IX. The comparison of the crystal structure of magnesium
+sulfate pentahydrate with copper sulfate pentahydrate and magnesium chromate
+pentahydrate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1972 28 1448 1455 ACBCAR
+loop_
+_publ_author_name
+'Baur, W.H.'
+'Rolin, J.L.'
+_cell_length_a 6.314(5)
+_cell_length_b 10.565(18)
+_cell_length_c 6.030(6)
+_cell_angle_alpha 81.12(20)
+_cell_angle_beta 109.82(20)
+_cell_angle_gamma 105.08(5)
+_cell_volume 364.42
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.057
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 1 a 0 0 0 . 1. 0
+Mg2 Mg2+ 1 e 0.5 0.5 0 . 1. 0
+S1 S6+ 2 i 0.0371(1) 0.2897(1) 0.6624(1) . 1. 0
+O1 O2- 2 i 0.9464(4) 0.1509(2) 0.7309(3) . 1. 0
+O2 O2- 2 i 0.2680(4) 0.3344(2) 0.8331(3) . 1. 0
+O3 O2- 2 i 0.8808(4) 0.3711(2) 0.6610(3) . 1. 0
+O4 O2- 2 i 0.0590(4) 0.2686(2) 0.4256(3) . 1. 0
+O5 O2- 2 i 0.8279(4) 0.0768(3) 0.1639(4) . 1. 0
+O6 O2- 2 i 0.3086(4) 0.1139(3) 0.1848(4) . 1. 0
+O7 O2- 2 i 0.4745(4) 0.4042(3) 0.3153(4) . 1. 0
+O8 O2- 2 i 0.7567(4) 0.4077(3) 0.0318(4) . 1. 0
+O9 O2- 2 i 0.4589(4) 0.1324(3) 0.6699(4) . 1. 0
+H1 H1+ 2 i 0.908(15) 0.146(8) 0.260(13) 2.5 1. 0
+H2 H1+ 2 i 0.724(14) 0.023(8) 0.230(13) 2.5 1. 0
+H3 H1+ 2 i 0.331(13) 0.192(7) 0.117(12) 1.9 1. 0
+H4 H1+ 2 i 0.336(12) 0.148(8) 0.321(11) 1.9 1. 0
+H5 H1+ 2 i 0.562(13) 0.402(8) 0.411(11) 1.8 1. 0
+H6 H1+ 2 i 0.350(15) 0.392(8) 0.349(10) 1.8 1. 0
+H7 H1+ 2 i 0.786(13) 0.385(9) 0.919(14) 2.1 1. 0
+H8 H1+ 2 i 0.842(13) 0.374(8) 0.179(12) 2.1 1. 0
+H9 H1+ 2 i 0.585(13) 0.115(8) 0.733(11) 2.2 1. 0
+H10 H1+ 2 i 0.433(13) 0.201(9) 0.706(10) 2.2 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Mg1 Mg2+ 0.0093(4) 0.0018(1) 0.0078(3) -.0005(2) -.0022(3) -.0002(1)
+Mg2 Mg2+ 0.0068(3) 0.0018(1) 0.0061(3) 0.0006(2) 0.0022(2) -.0002(1)
+S1 S6+ 0.0060(2) 0.0017(1) 0.0053(2) 0.0003(1) 0.0012(1) 0.0000(1)
+O1 O2- 0.0125(6) 0.0023(2) 0.0104(5) -.0010(3) 0.0014(4) 0.0015(2)
+O2 O2- 0.0083(5) 0.0028(2) 0.0128(5) -.0002(3) -.0019(4) -.0014(2)
+O3 O2- 0.0126(6) 0.0046(2) 0.0128(5) 0.0044(3) 0.0036(4) -.0008(2)
+O4 O2- 0.0135(6) 0.0038(2) 0.0074(4) -.0012(3) 0.0056(4) -.0003(2)
+O5 O2- 0.0192(8) 0.0039(2) 0.0186(6) -.0004(4) 0.0114(5) -.0032(3)
+O6 O2- 0.0149(7) 0.0032(2) 0.0119(5) -.0008(3) 0.0012(4) -.0006(2)
+O7 O2- 0.0118(6) 0.0052(3) 0.0085(5) 0.0013(3) 0.0028(4) 0.0016(2)
+O8 O2- 0.0118(6) 0.0063(3) 0.0104(5) 0.0047(3) 0.0022(4) -.0006(3)
+O9 O2- 0.0113(7) 0.0051(3) 0.0178(6) 0.0009(3) 0.0035(5) 0.0006(3)

@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 236997
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Lanthanum nickel hydride (1/5/7)'
+_chemical_formula_structural 'La Ni5 H7'
+_chemical_formula_sum 'H7 La1 Ni5'
+_chemical_name_structure_type LaNi5Hx-frame
+_exptl_crystal_density_diffrn 6.7
+_publ_section_title
+'Atomic structures and energetics of La Ni5 - H solid solution and hydrides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 2001 64
+184105-1 184105-10 PRBMDO
+loop_
+_publ_author_name
+'Tatsumi, Kazuyoshi'
+'Tanaka, Isao'
+'Inui, Haruyuki'
+'Tanaka, Katsushi'
+'Yamaguchi, Masaharu'
+'Adachi, Hirohiko'
+_cell_length_a 5.409
+_cell_length_b 5.409
+_cell_length_c 8.6
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 217.9
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Ni0+ 0
+H0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 2 a 0 0 0.022 . 1. 0
+Ni1 Ni0+ 6 c 0.498 -0.498 0.25 . 1. 0
+Ni2 Ni0+ 2 b 0.3333 0.6667 0.002 . 1. 0
+Ni3 Ni0+ 2 b 0.3333 0.6667 0.489 . 1. 0
+H1 H0+ 6 c 0.504 -0.504 0.056 . 1. 0
+H2 H0+ 2 b 0.3333 0.6667 0.814 . 1. 0
+H3 H0+ 6 c 0.16 -0.16 0.28 . 1. 0

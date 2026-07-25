@@ -1,0 +1,69 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 151184
+_audit_creation_date 2006-10-01
+_chemical_name_systematic Hexafluoropropene
+_chemical_formula_structural 'C3 F6'
+_chemical_formula_sum 'C3 F6'
+_exptl_crystal_density_diffrn 2.13
+_cell_measurement_temperature 95.
+_publ_section_title
+;
+Low temperature crystallization and X-ray structure determination of
+hexafluoropropene at 95 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 2000 215 518 522 ZEKRDZ
+loop_
+_publ_author_name
+'Bach, A.'
+'Buschmann, J.'
+'Lentz, D.'
+'Luger, P.'
+_cell_length_a 6.072(6)
+_cell_length_b 6.233(5)
+_cell_length_c 6.569(6)
+_cell_angle_alpha 92.33(5)
+_cell_angle_beta 108.75(7)
+_cell_angle_gamma 94.31(5)
+_cell_volume 234.2
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.05
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+F0+ 0
+C0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+F1 F0+ 2 i 0.6934(4) -0.5004(3) 0.8715(4) 0.0470(6) 1. 0
+F2 F0+ 2 i 0.9323(3) -0.2475(4) 0.8281(4) 0.0429(6) 1. 0
+F3 F0+ 2 i 0.8127(4) -0.2253(4) 0.1004(3) 0.0460(6) 1. 0
+F4 F0+ 2 i 0.5918(4) 0.0417(3) 0.7961(4) 0.0448(6) 1. 0
+F5 F0+ 2 i 0.2798(4) -0.4619(4) 0.5906(4) 0.0514(6) 1. 0
+F6 F0+ 2 i 0.1830(4) -0.1380(5) 0.5297(4) 0.0566(7) 1. 0
+C1 C0+ 2 i 0.7461(5) -0.2897(5) 0.8920(5) 0.0292(7) 1. 0
+C2 C0+ 2 i 0.5474(5) -0.1731(5) 0.7661(5) 0.0262(7) 1. 0
+C3 C0+ 2 i 0.3453(5) -0.2562(6) 0.6346(5) 0.0330(7) 1. 0

@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 162099
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Tricopper zinc hexahydroxide dichloride'
+_chemical_formula_structural 'Cu3 Zn (O H)6 Cl2'
+_chemical_formula_sum 'H6 Cl2 Cu3 O6 Zn1'
+_chemical_name_mineral Kapellasite
+_exptl_crystal_density_diffrn 3.6
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+Toward perfection: kapellasite, Cu3 Zn (O H)6 Cl2, a new model S = 1/2 Kagome
+antiferromagnet
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2008 20 6897 6899 CMATEX
+loop_
+_publ_author_name
+'Colman, R.H.'
+'Ritter, C.'
+'Wills, A.S.'
+_cell_length_a 6.33020(55)
+_cell_length_b 6.33020(55)
+_cell_length_c 5.70167(59)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 197.86
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Zn2+ 2
+O2- -2
+H1+ 1
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 3 f 0.5 0 0.5 0.0264(25) 1. 0
+Zn1 Zn2+ 1 b 0 0 0.5 0.0102(38) 1. 0
+O1 O2- 6 i 0.3567(21) 0.1783(10) 0.34033 0.0305(26) 1. 0
+H1 H1+ 6 i 0.3979(10) 0.1989(5) 0.1849(26) 0.0847(39) 1. 0
+Cl1 Cl1- 2 d 0.3333 0.6667 0.1539(16) 0.0562(28) 1. 0

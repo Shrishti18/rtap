@@ -1,0 +1,930 @@
+material_id,formula,space_group_number,space_group_symbol,topology_soc,high_quality,superconductor,nonzero_magnetisation,is_best_flatband,is_curated_flatband,is_atomic_flatband,n_icsd,icsd_ids,n_icsd_with_cif,materials_project
+16,Cu1 N6 O12 Pb1 Tl2,202,Fm-3,ESFD (SM),1,0,0,0,1,0,1,16,1,https://materialsproject.org/materials/icsd/16
+175,Ba1 Ni1 O3,194,P63/mmc,Trivial,0,0,0,0,1,0,1,175,1,https://materialsproject.org/materials/icsd/175
+179,K2 N6 Ni1 O12 Sr1,202,Fm-3,ESFD (SM),1,0,0,0,1,0,1,179,1,https://materialsproject.org/materials/icsd/179
+1036,As1 Na3 S3,198,P213,Trivial,0,0,1,0,1,0,1,1036,1,https://materialsproject.org/materials/icsd/1036
+1055,Cl2 Cu2 O1,70,Fddd,SEBR (TI),0,0,0,0,1,0,1,1055,1,https://materialsproject.org/materials/icsd/1055
+1076,Cu1 La2 O4,64,Cmce,ESFD (SM),0,0,0,0,1,0,5,1076 173891 173893 173895 186588,5,https://materialsproject.org/materials/icsd/1076
+1120,K2 O7 Zn6,102,P42nm,Trivial,0,0,0,0,1,0,1,1120,1,https://materialsproject.org/materials/icsd/1120
+1129,Ba1 Br1 F1,129,P4/nmm,Trivial,0,0,0,0,1,0,2,1129 155005,2,https://materialsproject.org/materials/icsd/1129
+1144,N3 Na1,166,R-3m,Trivial,0,0,0,0,1,0,1,1144,1,https://materialsproject.org/materials/icsd/1144
+1177,Ba3 Ni1 O9 Sb2,186,P63mc,Trivial,1,0,0,0,1,0,1,1177,1,https://materialsproject.org/materials/icsd/1177
+1274,Cu1 K2 N6 O12 Pb1,69,Fmmm,ESFD (SM),1,0,0,0,1,0,1,1274,1,https://materialsproject.org/materials/icsd/1274
+1322,Be4 O7 Te1,216,F-43m,Trivial,1,0,0,0,1,0,1,1322,1,https://materialsproject.org/materials/icsd/1322
+1372,H1 Cr1 O2,160,R3m,ESFD (SM),1,0,1,0,1,0,1,1372,1,https://materialsproject.org/materials/icsd/1372
+1413,O3 Pb1 Rb2,36,Cmc21,Trivial,0,0,1,0,1,0,1,1413,1,https://materialsproject.org/materials/icsd/1413
+1439,H4 F1 Li1 N1 O3 P1,14,P21/c,Trivial,0,0,0,0,1,0,1,1439,1,https://materialsproject.org/materials/icsd/1439
+1449,Ba3 O5 Si1,140,I4/mcm,Trivial,1,0,0,0,1,0,1,1449,1,https://materialsproject.org/materials/icsd/1449
+1457,O7 Sc2 Si2,227,Fd-3m,Trivial,1,0,0,0,1,0,1,1457,1,https://materialsproject.org/materials/icsd/1457
+1487,H4 N1 O3 V1,57,Pbcm,Trivial,0,0,0,0,1,0,1,1487,1,https://materialsproject.org/materials/icsd/1487
+1504,O2 V1,136,P42/mnm,ESFD (SM),1,0,0,0,1,0,2,1504 10141,2,https://materialsproject.org/materials/icsd/1504
+1522,O3 Sr1 Zr1,140,I4/mcm,Trivial,1,0,0,1,1,0,2,1522 188451,2,https://materialsproject.org/materials/icsd/1522
+1610,O3 Pb1 Ti1,99,P4mm,Trivial,0,0,1,0,1,0,11,1610 1611 1612 16621 161709 162044 162045 162046 162048 165498 186727,11,https://materialsproject.org/materials/icsd/1610
+1626,Na1 O6 S2 Tl3,164,P-3m1,Trivial,1,0,0,0,1,0,1,1626,1,https://materialsproject.org/materials/icsd/1626
+1668,Cl6 K2 Sn1,225,Fm-3m,Trivial,1,0,0,1,1,0,1,1668,1,https://materialsproject.org/materials/icsd/1668
+1830,Ba1 Cu1 K2 N6 O12,69,Fmmm,ESFD (SM),1,0,0,0,1,0,1,1830,1,https://materialsproject.org/materials/icsd/1830
+1879,F6 Mo1,229,Im-3m,Trivial,1,0,0,0,1,0,1,1879,1,https://materialsproject.org/materials/icsd/1879
+1982,Br4 K2 Pd1,123,P4/mmm,Trivial,1,0,0,0,1,0,1,1982,1,https://materialsproject.org/materials/icsd/1982
+10004,Cu4 Na3 S4,55,Pbam,ESFD (SM),1,0,0,0,1,0,1,10004,1,https://materialsproject.org/materials/icsd/10004
+10042,Cs1 I3 Mn1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,5,10042 15949 15950 15951 15952,5,https://materialsproject.org/materials/icsd/10042
+10051,In2 Li3,166,R-3m,ESFD (SM),1,0,0,0,1,0,1,10051,1,https://materialsproject.org/materials/icsd/10051
+10104,La3 O10 Os2,12,C2/m,ESFD (SM),1,0,0,0,1,0,1,10104,1,https://materialsproject.org/materials/icsd/10104
+10137,Cl5 Co1 Tl3,140,I4/mcm,ESFD (SM),0,0,0,0,1,0,1,10137,1,https://materialsproject.org/materials/icsd/10137
+10142,O3 Sb1 Tl1,182,P6322,Trivial,0,0,1,1,1,0,1,10142,1,https://materialsproject.org/materials/icsd/10142
+10185,Br4 Cs2 Cu1,62,Pnma,ES (SM),1,0,0,0,1,0,2,10185 169179,2,https://materialsproject.org/materials/icsd/10185
+10206,Cl3 Cr1 Cs1,186,P63mc,ES (SM),1,0,1,0,1,0,1,10206,1,https://materialsproject.org/materials/icsd/10206
+10326,Br1 F4 K1,140,I4/mcm,Trivial,0,0,0,0,1,0,3,10326 16633 16700,3,https://materialsproject.org/materials/icsd/10326
+10331,Ba1 Mn1 O3,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,2,10331 10332,2,https://materialsproject.org/materials/icsd/10331
+10383,Ge3 O9 Ta1 Tl1,188,P-6c2,Trivial,0,0,1,0,1,0,1,10383,1,https://materialsproject.org/materials/icsd/10383
+10416,F2 O1 Pb2,137,P42/nmc,Trivial,1,0,0,0,1,0,1,10416,1,https://materialsproject.org/materials/icsd/10416
+10462,Ca1 Co2 P2,139,I4/mmm,SEBR (TI),1,1,0,0,1,0,1,10462,1,https://materialsproject.org/materials/icsd/10462
+10474,Cl3 Cs1 Sc1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,10474,1,https://materialsproject.org/materials/icsd/10474
+10486,Ba1 Se3 V1,194,P63/mmc,ESFD (SM),0,0,0,1,1,0,1,10486,1,https://materialsproject.org/materials/icsd/10486
+10509,Al11 Mn4,2,P-1,ESFD (SM),0,0,1,0,1,0,1,10509,1,https://materialsproject.org/materials/icsd/10509
+12134,H2 B1 Na1 O7 Si2,4,P21,Trivial,1,0,0,0,1,0,1,12134,1,https://materialsproject.org/materials/icsd/12134
+14005,Ca1 Ge2 O5,2,P-1,Trivial,0,0,0,0,1,0,12,14005 151568 151569 151570 151571 151572 151573 151574 151575 151576 151577 151586,12,https://materialsproject.org/materials/icsd/14005
+14077,Br3 Mn1 Rb1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,14077,1,https://materialsproject.org/materials/icsd/14077
+14104,Cs1 F4 Mn1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,14104,1,https://materialsproject.org/materials/icsd/14104
+14119,Cs1 F7 Sb2,15,C2/c,Trivial,0,0,0,0,1,0,1,14119,1,https://materialsproject.org/materials/icsd/14119
+14144,Co1 F2,136,P42/mnm,ESFD (SM),1,0,0,0,1,0,1,14144,1,https://materialsproject.org/materials/icsd/14144
+14146,F2 Zn1,136,P42/mnm,Trivial,1,0,0,0,1,0,2,14146 184219,2,https://materialsproject.org/materials/icsd/14146
+14158,K3 O4 Pt2,63,Cmcm,ESFD (SM),0,0,0,0,1,0,1,14158,1,https://materialsproject.org/materials/icsd/14158
+14218,Cl4 Ga2,52,Pnna,Trivial,1,0,0,0,1,0,1,14218,1,https://materialsproject.org/materials/icsd/14218
+14246,O5 Pb2 S1,12,C2/m,Trivial,1,0,0,0,1,0,1,14246,1,https://materialsproject.org/materials/icsd/14246
+14266,Bi2 Mo1 O6,29,Pca21,Trivial,0,0,1,0,1,0,2,14266 201685,2,https://materialsproject.org/materials/icsd/14266
+14321,Mo3 O8 Zn2,186,P63mc,Trivial,1,0,1,0,1,0,1,14321,1,https://materialsproject.org/materials/icsd/14321
+14324,F2 Pb1,62,Pnma,Trivial,0,0,0,0,1,0,11,14324 154994 154995 154996 154997 154998 161080 161391 161392 161393 161394,11,https://materialsproject.org/materials/icsd/14324
+14332,O3 W1,14,P21/c,Trivial,0,0,0,0,1,0,6,14332 16080 17003 190630 190631 190632,6,https://materialsproject.org/materials/icsd/14332
+14363,K1 Nb1 O3,38,Amm2,Trivial,0,0,0,0,1,0,2,14363 190922,2,https://materialsproject.org/materials/icsd/14363
+15010,Cl3 Ni1 Rb1,194,P63/mmc,ES (SM),0,0,0,0,1,0,1,15010,1,https://materialsproject.org/materials/icsd/15010
+15011,Br3 Ni1 Rb1,194,P63/mmc,ES (SM),0,0,0,0,1,0,1,15011,1,https://materialsproject.org/materials/icsd/15011
+15017,H4 Ge4 Na4 O16 Sn2,2,P-1,Trivial,0,0,1,0,1,0,1,15017,1,https://materialsproject.org/materials/icsd/15017
+15057,Fe1 P1,33,Pna21,ES (SM),1,0,1,0,1,0,1,15057,1,https://materialsproject.org/materials/icsd/15057
+15071,O2 Ru1,136,P42/mnm,Trivial,1,0,0,0,1,0,3,15071 108861 172178,3,https://materialsproject.org/materials/icsd/15071
+15082,H1 In1 O2,31,Pmn21,Trivial,1,0,1,0,1,0,2,15082 166253,2,https://materialsproject.org/materials/icsd/15082
+15090,F3 Ni1 Rb1,194,P63/mmc,ES (SM),0,0,0,0,1,0,1,15090,1,https://materialsproject.org/materials/icsd/15090
+15108,F6 Ni1 Pb1,148,R-3,Trivial,0,0,1,0,1,0,1,15108,1,https://materialsproject.org/materials/icsd/15108
+15145,Cl4 Cu1 Rb2,64,Cmce,ESFD (SM),1,0,0,0,1,0,1,15145,1,https://materialsproject.org/materials/icsd/15145
+15147,Br2 Cl2 Cu1 Rb2,64,Cmce,ESFD (SM),1,0,0,0,1,0,1,15147,1,https://materialsproject.org/materials/icsd/15147
+15165,La2 O7 Zr2,227,Fd-3m,Trivial,0,0,0,0,1,0,6,15165 150206 153222 153814 154752 159321,6,https://materialsproject.org/materials/icsd/15165
+15169,F3 Hg1 Rb1,221,Pm-3m,Trivial,0,0,0,0,1,0,1,15169,1,https://materialsproject.org/materials/icsd/15169
+15203,F2 Mg3 O4 Si1,62,Pnma,Trivial,0,0,0,0,1,0,1,15203,1,https://materialsproject.org/materials/icsd/15203
+15225,H3 Al1,167,R-3c,Trivial,0,0,0,0,1,0,4,15225 165294 168162 182533,4,https://materialsproject.org/materials/icsd/15225
+15246,Co1 F3 K1,221,Pm-3m,ESFD (SM),1,0,0,0,1,0,3,15246 15425 189368,3,https://materialsproject.org/materials/icsd/15246
+15289,Ba1 Ni1 S2,129,P4/nmm,SEBR (TI),0,0,0,0,1,0,1,15289,1,https://materialsproject.org/materials/icsd/15289
+15336,Al6 Cl2 Na8 O24 Si6,218,P-43n,Trivial,0,0,1,0,1,0,3,15336 162491 166827,3,https://materialsproject.org/materials/icsd/15336
+15372,Cu1 F4 K2,139,I4/mmm,ESFD (SM),1,0,0,0,1,0,1,15372,1,https://materialsproject.org/materials/icsd/15372
+15373,Cu2 F7 K3,139,I4/mmm,Trivial,1,0,0,0,1,0,1,15373,1,https://materialsproject.org/materials/icsd/15373
+15423,F3 K1 Mn1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,4,15423 189367 201254 201255,4,https://materialsproject.org/materials/icsd/15423
+15424,F3 Fe1 K1,221,Pm-3m,Trivial,0,0,0,1,1,0,2,15424 107514,2,https://materialsproject.org/materials/icsd/15424
+15453,Ba1 O3 Ti1,99,P4mm,Trivial,0,0,0,0,1,0,13,15453 161340 161418 168763 183932 185407 186457 186458 186459 188644 189381 190835 192889,13,https://materialsproject.org/materials/icsd/15453
+15537,Ba1 S3 V1,194,P63/mmc,ESFD (SM),0,1,0,1,1,0,2,15537 154181,2,https://materialsproject.org/materials/icsd/15537
+15586,Ca1 O4 W1,88,I41/a,Trivial,1,0,0,0,1,0,8,15586 15869 18135 155423 155791 157428 193047 193491,8,https://materialsproject.org/materials/icsd/15586
+15590,Cl3 Cu1 K1,14,P21/c,Trivial,1,0,1,0,1,0,2,15590 109325,2,https://materialsproject.org/materials/icsd/15590
+15674,Ba1 Ge4 O9,143,P3,Trivial,0,0,0,0,1,0,1,15674,1,https://materialsproject.org/materials/icsd/15674
+15699,Cl4 Cs2 Cu1,62,Pnma,ES (SM),1,0,0,0,1,0,2,15699 169176,2,https://materialsproject.org/materials/icsd/15699
+15715,Ba2 O8 Si2 Ti1,100,P4bm,Trivial,0,0,1,0,1,0,4,15715 155316 201844 201845,4,https://materialsproject.org/materials/icsd/15715
+15770,Co1 K1 O2,129,P4/nmm,SEBR (TI),0,0,0,0,1,0,1,15770,1,https://materialsproject.org/materials/icsd/15770
+15775,F6 K1 Mo1 Tl2,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,15775,1,https://materialsproject.org/materials/icsd/15775
+15776,F6 Mo1 Na1 Tl2,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,15776,1,https://materialsproject.org/materials/icsd/15776
+15800,B6 O13 Zn4,217,I-43m,Trivial,0,0,1,0,1,0,3,15800 16826 100290,3,https://materialsproject.org/materials/icsd/15800
+15805,Mg1 O3 Si1,14,P21/c,Trivial,0,0,0,0,1,0,8,15805 159550 159551 159552 159553 180445 196432 201535,8,https://materialsproject.org/materials/icsd/15805
+15836,Cu1 Li1 O4 V1,74,Imma,ESFD (SM),1,0,0,0,1,0,1,15836,1,https://materialsproject.org/materials/icsd/15836
+15855,Fe1 Nb2 O6,60,Pbcn,Trivial,0,0,1,0,1,0,2,15855 151720,2,https://materialsproject.org/materials/icsd/15855
+15865,Bi2 Cu1 O4,130,P4/ncc,ESFD (SM),1,1,0,0,1,0,1,15865,1,https://materialsproject.org/materials/icsd/15865
+15889,O2 V1,14,P21/c,Trivial,0,0,0,0,1,0,1,15889,1,https://materialsproject.org/materials/icsd/15889
+15932,Cl3 Cs1 V1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,3,15932 201828 201832,3,https://materialsproject.org/materials/icsd/15932
+15934,Ba3 Nb6 O26 Si4,189,P-62m,Trivial,0,0,0,0,1,0,2,15934 16029,2,https://materialsproject.org/materials/icsd/15934
+15935,Ba3 O26 Si4 Ta6,189,P-62m,Trivial,0,0,0,0,1,0,2,15935 18317,2,https://materialsproject.org/materials/icsd/15935
+15936,O26 Si4 Sr3 Ta6,189,P-62m,Trivial,0,0,0,0,1,0,1,15936,1,https://materialsproject.org/materials/icsd/15936
+15970,Al22 Na2 O34,194,P63/mmc,Trivial,0,0,0,0,1,0,2,15970 16933,2,https://materialsproject.org/materials/icsd/15970
+15984,O5 V2,31,Pmn21,Trivial,0,0,0,0,1,0,2,15984 157988,2,https://materialsproject.org/materials/icsd/15984
+16005,B3 K3 O6,167,R-3c,Trivial,0,0,0,0,1,0,1,16005,1,https://materialsproject.org/materials/icsd/16005
+16013,Cl1 Fe1 O1,59,Pmmn,ESFD (SM),1,0,0,0,1,0,2,16013 167393,2,https://materialsproject.org/materials/icsd/16013
+16083,Ba1 S3 Ta1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,16083,1,https://materialsproject.org/materials/icsd/16083
+16107,As4 S5,11,P21/m,Trivial,1,0,0,0,1,0,1,16107,1,https://materialsproject.org/materials/icsd/16107
+16171,B4 Cr1 Y1,55,Pbam,Trivial,0,0,0,0,1,0,1,16171,1,https://materialsproject.org/materials/icsd/16171
+16217,Cu1 O2 Sr1,63,Cmcm,ESFD (SM),0,1,0,0,1,0,1,16217,1,https://materialsproject.org/materials/icsd/16217
+16254,Ag1 Cs2 F4,139,I4/mmm,ESFD (SM),0,0,0,1,1,0,1,16254,1,https://materialsproject.org/materials/icsd/16254
+16296,P2 Pd3 S8,164,P-3m1,Trivial,0,0,0,0,1,0,1,16296,1,https://materialsproject.org/materials/icsd/16296
+16388,O7 Sr2 Ta2,36,Cmc21,Trivial,1,0,1,0,1,0,1,16388,1,https://materialsproject.org/materials/icsd/16388
+16413,Al1 F4 K1,127,P4/mbm,Trivial,1,0,0,0,1,0,4,16413 201947 201948 201949,4,https://materialsproject.org/materials/icsd/16413
+16543,As1 Mn1,62,Pnma,NLC (TI),0,0,1,0,1,0,1,16543,1,https://materialsproject.org/materials/icsd/16543
+16576,Cd1 Cl4 Cs2,139,I4/mmm,Trivial,0,0,0,0,1,0,1,16576,1,https://materialsproject.org/materials/icsd/16576
+16611,O5 P2,62,Pnma,Trivial,0,0,0,0,1,0,1,16611,1,https://materialsproject.org/materials/icsd/16611
+16616,Ca2 O4 Si1,14,P21/c,Trivial,1,0,0,0,1,0,2,16616 196150,2,https://materialsproject.org/materials/icsd/16616
+16640,F6 Na1 Sb1,225,Fm-3m,Trivial,1,0,0,0,1,0,1,16640,1,https://materialsproject.org/materials/icsd/16640
+16691,Ni1 O4 S1,63,Cmcm,Trivial,0,0,0,1,1,0,2,16691 16741,2,https://materialsproject.org/materials/icsd/16691
+16727,H4 O6 V2,15,C2/c,ESFD (SM),0,0,0,0,1,0,1,16727,1,https://materialsproject.org/materials/icsd/16727
+16729,F6 K1 Nb1,116,P-4c2,Trivial,0,0,1,0,1,0,1,16729,1,https://materialsproject.org/materials/icsd/16729
+16752,N4 Si3,159,P31c,Trivial,0,0,0,0,1,0,1,16752,1,https://materialsproject.org/materials/icsd/16752
+16765,C1 H4 N1 Na1 O2,14,P21/c,Trivial,0,0,0,0,1,0,1,16765,1,https://materialsproject.org/materials/icsd/16765
+16795,F4 Pb1,139,I4/mmm,Trivial,0,0,0,0,1,0,1,16795,1,https://materialsproject.org/materials/icsd/16795
+16797,S4 V1,15,C2/c,Trivial,0,0,0,0,1,0,1,16797,1,https://materialsproject.org/materials/icsd/16797
+16810,O3 Re1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,2,16810 105546,2,https://materialsproject.org/materials/icsd/16810
+16829,As2 Cu1 O4,135,P42/mbc,ESFD (SM),0,0,0,1,1,0,1,16829,1,https://materialsproject.org/materials/icsd/16829
+16844,As1 Fe2,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,1,16844,1,https://materialsproject.org/materials/icsd/16844
+16845,Al2 Ba1 O4,182,P6322,Trivial,0,0,1,0,1,0,1,16845,1,https://materialsproject.org/materials/icsd/16845
+16850,As2 O3,227,Fd-3m,Trivial,0,0,0,0,1,0,2,16850 183098,2,https://materialsproject.org/materials/icsd/16850
+16907,B1 Na1 O8 Si3,2,P-1,Trivial,0,0,0,0,1,0,1,16907,1,https://materialsproject.org/materials/icsd/16907
+16925,Ba1 F4 Zn1,36,Cmc21,Trivial,0,0,0,1,1,0,6,16925 182604 182605 182606 182607 182609,6,https://materialsproject.org/materials/icsd/16925
+16952,S2 Si1,122,I-42d,Trivial,1,0,1,0,1,0,1,16952,1,https://materialsproject.org/materials/icsd/16952
+16959,C6 Ag3 Co1 N6,162,P-31m,Trivial,0,0,0,0,1,0,1,16959,1,https://materialsproject.org/materials/icsd/16959
+17007,In2 Se3,166,R-3m,ES (SM),0,0,0,0,1,0,1,17007,1,https://materialsproject.org/materials/icsd/17007
+17046,H4 Mg3 O9 Si2,157,P31m,Trivial,1,0,0,0,1,0,4,17046 163889 163890 202358,4,https://materialsproject.org/materials/icsd/17046
+18007,Mn1 S1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,7,18007 158647 158648 158649 158650 158651 158652,7,https://materialsproject.org/materials/icsd/18007
+18114,Ca2 O7 Si2 Zn1,113,P-421m,Trivial,1,0,1,0,1,0,2,18114 186944,2,https://materialsproject.org/materials/icsd/18114
+18120,Cr1 Mg1 O4,12,C2/m,Trivial,0,0,0,0,1,0,1,18120,1,https://materialsproject.org/materials/icsd/18120
+18151,O5 Si1 Sr3,130,P4/ncc,Trivial,0,0,0,0,1,0,1,18151,1,https://materialsproject.org/materials/icsd/18151
+18305,Na2 Nb4 O11,15,C2/c,Trivial,0,0,0,0,1,0,1,18305,1,https://materialsproject.org/materials/icsd/18305
+19047,O7 P2 Si1,205,Pa-3,Trivial,0,0,0,0,1,0,1,19047,1,https://materialsproject.org/materials/icsd/19047
+19075,F6 Rb3 Tl1,139,I4/mmm,Trivial,0,0,0,0,1,0,1,19075,1,https://materialsproject.org/materials/icsd/19075
+19076,Cs3 F6 Tl1,139,I4/mmm,Trivial,0,0,0,0,1,0,1,19076,1,https://materialsproject.org/materials/icsd/19076
+19077,F6 Rb3 Y1,139,I4/mmm,Trivial,0,0,0,1,1,0,1,19077,1,https://materialsproject.org/materials/icsd/19077
+19078,Cs3 F6 Y1,139,I4/mmm,Trivial,0,0,0,0,1,0,1,19078,1,https://materialsproject.org/materials/icsd/19078
+20003,F6 O9 Si2 Ti1 Y4,63,Cmcm,Trivial,0,0,0,0,1,0,1,20003,1,https://materialsproject.org/materials/icsd/20003
+20041,O1 Ti3,163,P-31c,ES (SM),0,0,0,1,1,0,1,20041,1,https://materialsproject.org/materials/icsd/20041
+20069,Al4 Bi2 O9,55,Pbam,Trivial,0,0,0,0,1,0,2,20069 200051,2,https://materialsproject.org/materials/icsd/20069
+20114,Na2 O8 Si3 Zn1,4,P21,Trivial,1,0,1,0,1,0,2,20114 200440,2,https://materialsproject.org/materials/icsd/20114
+20129,Ge1 Na2 O5 Ti1,129,P4/nmm,Trivial,0,0,0,0,1,0,2,20129 160148,2,https://materialsproject.org/materials/icsd/20129
+20140,B2 Co5 Ti3,127,P4/mbm,ESFD (SM),0,0,0,0,1,0,1,20140,1,https://materialsproject.org/materials/icsd/20140
+20145,Cl1 Zr1,166,R-3m,SEBR (TI),0,0,0,0,1,0,1,20145,1,https://materialsproject.org/materials/icsd/20145
+20172,Al5 B1 O9,36,Cmc21,Trivial,1,0,0,0,1,0,12,20172 167307 167308 167309 167310 167311 167312 167313 167314 167315 167316 190085,12,https://materialsproject.org/materials/icsd/20172
+20191,B1 Cd1 Li1 O3,174,P-6,Trivial,1,0,0,0,1,0,1,20191,1,https://materialsproject.org/materials/icsd/20191
+20223,Al3 B4 O12 Y1,155,R32,Trivial,1,0,1,0,1,0,2,20223 187082,2,https://materialsproject.org/materials/icsd/20223
+20228,Mn1 O2,62,Pnma,ES (SM),0,0,0,0,1,0,2,20228 171866,2,https://materialsproject.org/materials/icsd/20228
+20229,Mn1 O2,136,P42/mnm,ESFD (SM),0,0,0,1,1,0,1,20229,1,https://materialsproject.org/materials/icsd/20229
+20275,Ca1 O2,139,I4/mmm,Trivial,0,0,0,0,1,0,1,20275,1,https://materialsproject.org/materials/icsd/20275
+100299,F7 K3 Zn2,139,I4/mmm,Trivial,1,0,0,0,1,0,1,100299,1,https://materialsproject.org/materials/icsd/100299
+100301,F6 Fe1 Zr1,225,Fm-3m,Trivial,1,0,0,0,1,0,1,100301,1,https://materialsproject.org/materials/icsd/100301
+100355,Al4 Cu2 O7,216,F-43m,ES (SM),0,0,0,1,1,0,1,100355,1,https://materialsproject.org/materials/icsd/100355
+100395,Al2 O5 Si1,58,Pnnm,Trivial,0,0,0,0,1,0,14,100395 100396 100397 100398 100399 169412 172725 172726 172727 172728 172729 172730 172731 172732,14,https://materialsproject.org/materials/icsd/100395
+100438,Co2 S2 Tl1,139,I4/mmm,ESFD (SM),1,0,0,0,1,0,1,100438,1,https://materialsproject.org/materials/icsd/100438
+100450,Al2 O5 Si1,62,Pnma,Trivial,0,0,0,0,1,0,10,100450 100451 100452 100453 100454 172720 172721 172722 172723 172724,10,https://materialsproject.org/materials/icsd/100450
+100533,Fe1 Ti1,221,Pm-3m,SEBR (TI),1,1,0,0,1,0,4,100533 103660 103661 190972,4,https://materialsproject.org/materials/icsd/100533
+100544,Ni2 O4 Si1,227,Fd-3m,Trivial,0,0,0,0,1,0,10,100544 100545 100546 100547 100548 100549 100550 100551 200129 200130,10,https://materialsproject.org/materials/icsd/100544
+100552,Fe2 O4 Si1,227,Fd-3m,Trivial,1,0,0,0,1,0,10,100552 185517 185518 185519 185520 185521 185522 185523 200133 200134,10,https://materialsproject.org/materials/icsd/100552
+100562,F1 O1 Sc1,14,P21/c,Trivial,1,0,0,0,1,0,3,100562 100563 100564,3,https://materialsproject.org/materials/icsd/100562
+100681,O6 Pb3 S1,11,P21/m,Trivial,1,0,0,0,1,0,1,100681,1,https://materialsproject.org/materials/icsd/100681
+100693,Na2 O3 Te1,14,P21/c,Trivial,0,0,0,0,1,0,1,100693,1,https://materialsproject.org/materials/icsd/100693
+100706,Fe1 Ga2 S4,164,P-3m1,Trivial,1,0,0,0,1,0,1,100706,1,https://materialsproject.org/materials/icsd/100706
+100725,Mg2 O4 Si1,74,Imma,Trivial,1,0,0,0,1,0,5,100725 159955 171064 171065 171066,5,https://materialsproject.org/materials/icsd/100725
+100782,K3 O8 V3,164,P-3m1,Trivial,1,0,0,0,1,0,1,100782,1,https://materialsproject.org/materials/icsd/100782
+102052,Cd1 Pt1,123,P4/mmm,ES (SM),0,0,0,0,1,0,2,102052 102053,2,https://materialsproject.org/materials/icsd/102052
+102061,Cd1 Sc1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,102061,1,https://materialsproject.org/materials/icsd/102061
+102318,Co2 Cr1 Ga1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,102318,1,https://materialsproject.org/materials/icsd/102318
+102385,Co1 Fe2 Ga1,225,Fm-3m,SEBR (TI),0,0,0,1,1,0,1,102385,1,https://materialsproject.org/materials/icsd/102385
+102386,Co2 Fe1 Ga1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,102386,1,https://materialsproject.org/materials/icsd/102386
+102423,Co1 Ga1,221,Pm-3m,ES (SM),0,0,0,0,1,0,1,102423,1,https://materialsproject.org/materials/icsd/102423
+102433,Co2 Ga1 Hf1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,102433,1,https://materialsproject.org/materials/icsd/102433
+102438,Co2 Ga1 Mn1,225,Fm-3m,SEBR (TI),0,0,0,0,1,0,1,102438,1,https://materialsproject.org/materials/icsd/102438
+102441,Co2 Ga1 Nb1,225,Fm-3m,SEBR (TI),0,0,0,0,1,0,1,102441,1,https://materialsproject.org/materials/icsd/102441
+102451,Co2 Ga1 Ta1,225,Fm-3m,SEBR (TI),0,0,0,0,1,0,1,102451,1,https://materialsproject.org/materials/icsd/102451
+102453,Co2 Ga1 Ti1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,2,102453 102454,2,https://materialsproject.org/materials/icsd/102453
+102456,Co2 Ga1 V1,225,Fm-3m,SEBR (TI),0,0,0,0,1,0,1,102456,1,https://materialsproject.org/materials/icsd/102456
+102483,Co2 Hf1 Sn1,225,Fm-3m,SEBR (TI),0,0,0,1,1,0,2,102483 108295,2,https://materialsproject.org/materials/icsd/102483
+102531,Co2 Mn1 Sn1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,2,102531 102532,2,https://materialsproject.org/materials/icsd/102531
+102542,Co3 Mo1,194,P63/mmc,ESFD (SM),0,0,0,1,1,0,1,102542,1,https://materialsproject.org/materials/icsd/102542
+102552,Co1 Nb1 Sn1,216,F-43m,Trivial,0,0,1,1,1,0,2,102552 102553,2,https://materialsproject.org/materials/icsd/102552
+102554,Co2 Nb1 Sn1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,3,102554 102555 190615,3,https://materialsproject.org/materials/icsd/102554
+102582,Co1 Ni1 Sn1,194,P63/mmc,ESFD (SM),0,0,0,1,1,0,2,102582 196627,2,https://materialsproject.org/materials/icsd/102582
+102642,Co1 Sc1,221,Pm-3m,NLC (TI),0,1,0,0,1,0,1,102642,1,https://materialsproject.org/materials/icsd/102642
+102646,Co2 Sc1 Sn1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,102646,1,https://materialsproject.org/materials/icsd/102646
+102671,Co1 Sn1,191,P6/mmm,ESFD (SM),0,0,0,0,1,0,8,102671 151390 161110 161113 161115 161116 161117 161118,8,https://materialsproject.org/materials/icsd/102671
+102672,Co1 Sn2,140,I4/mcm,ESFD (SM),0,1,0,0,1,0,2,102672 108319,2,https://materialsproject.org/materials/icsd/102672
+102673,Co2 Sn1,194,P63/mmc,SEBR (TI),0,0,0,0,1,0,1,102673,1,https://materialsproject.org/materials/icsd/102673
+102682,Co2 Sn1 Ti1,225,Fm-3m,SEBR (TI),0,0,0,1,1,0,2,102682 102683,2,https://materialsproject.org/materials/icsd/102682
+102684,Co2 Sn1 V1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,2,102684 102685,2,https://materialsproject.org/materials/icsd/102684
+102687,Co2 Sn1 Zr1,225,Fm-3m,SEBR (TI),0,0,0,1,1,0,3,102687 108321 190131,3,https://materialsproject.org/materials/icsd/102687
+102689,Co3 Ta1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,3,102689 187967 187985,3,https://materialsproject.org/materials/icsd/102689
+102705,Co1 Ti1,221,Pm-3m,ESFD (SM),0,1,0,0,1,0,5,102705 108322 150937 187975 189225,5,https://materialsproject.org/materials/icsd/102705
+102708,Co3 Ti1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,3,102708 187964 187984,3,https://materialsproject.org/materials/icsd/102708
+102722,Co3 W1,194,P63/mmc,ESFD (SM),0,0,0,1,1,0,2,102722 187993,2,https://materialsproject.org/materials/icsd/102722
+102731,Co5 Y1,191,P6/mmm,ES (SM),0,0,0,0,1,0,6,102731 102732 106506 107253 196872 196875,6,https://materialsproject.org/materials/icsd/102731
+102737,Co1 Zr1,221,Pm-3m,ESFD (SM),0,1,0,0,1,0,3,102737 102738 189944,3,https://materialsproject.org/materials/icsd/102737
+102755,Cr1 Fe2 Ga1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,2,102755 184448,2,https://materialsproject.org/materials/icsd/102755
+102799,Mn1 Sn2,140,I4/mcm,ESFD (SM),0,1,0,0,1,0,2,102799 171198,2,https://materialsproject.org/materials/icsd/102799
+102800,Fe1 Sn2,140,I4/mcm,ES (SM),0,1,0,1,1,0,2,102800 103636,2,https://materialsproject.org/materials/icsd/102800
+102996,Cu2 In1 Mn1,225,Fm-3m,SEBR (TI),0,0,0,1,1,0,2,102996 102997,2,https://materialsproject.org/materials/icsd/102996
+103079,Cu2 Ni1 Zn1,123,P4/mmm,NLC (TI),0,0,0,0,1,0,1,103079,1,https://materialsproject.org/materials/icsd/103079
+103092,Cu1 Rh2 Sn1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,103092,1,https://materialsproject.org/materials/icsd/103092
+103132,Cu3 Ti2,139,I4/mmm,ESFD (SM),0,0,0,0,1,0,1,103132,1,https://materialsproject.org/materials/icsd/103132
+103142,Cu1 Y1,221,Pm-3m,ESFD (SM),0,1,0,0,1,0,3,103142 163697 185944,3,https://materialsproject.org/materials/icsd/103142
+103473,Fe2 Ga1 V1,225,Fm-3m,Trivial,0,0,0,1,1,0,2,103473 103474,2,https://materialsproject.org/materials/icsd/103473
+103582,Fe1 Pd3,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,3,103582 103583 181720,3,https://materialsproject.org/materials/icsd/103582
+103618,Fe2 Sc1,227,Fd-3m,ESFD (SM),0,0,0,0,1,0,2,103618 103619,2,https://materialsproject.org/materials/icsd/103618
+103634,Fe1 Sn1,191,P6/mmm,ES (SM),0,0,0,0,1,0,9,103634 103635 152339 161109 161112 161119 161120 161121 161122,9,https://materialsproject.org/materials/icsd/103634
+103641,Fe2 Sn1 Ti1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,3,103641 103642 186058,3,https://materialsproject.org/materials/icsd/103641
+103644,Fe2 Sn1 V1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,103644,1,https://materialsproject.org/materials/icsd/103644
+103681,Fe1 V1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,2,103681 103682,2,https://materialsproject.org/materials/icsd/103681
+103697,Fe2 Y1,227,Fd-3m,ESFD (SM),0,0,0,0,1,0,4,103697 103698 106699 150744,4,https://materialsproject.org/materials/icsd/103697
+103699,Fe5 Y1,191,P6/mmm,ESFD (SM),0,0,0,0,1,0,3,103699 107256 184905,3,https://materialsproject.org/materials/icsd/103699
+103734,Ga1 Hf1 Ni2,225,Fm-3m,ESFD (SM),0,1,0,0,1,0,1,103734,1,https://materialsproject.org/materials/icsd/103734
+103856,Ga1 Ni3,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,2,103856 103857,2,https://materialsproject.org/materials/icsd/103856
+103861,Ga3 Ni5,65,Cmmm,ESFD (SM),0,0,0,0,1,0,1,103861,1,https://materialsproject.org/materials/icsd/103861
+103874,Ga1 Ni2 Sc1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,103874,1,https://materialsproject.org/materials/icsd/103874
+103885,Ga1 Ni1 Ti1,189,P-62m,ESFD (SM),0,0,1,0,1,0,1,103885,1,https://materialsproject.org/materials/icsd/103885
+103886,Ga1 Ni2 Ti1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,103886,1,https://materialsproject.org/materials/icsd/103886
+103948,Ga1 Rh1,221,Pm-3m,ES (SM),0,0,0,0,1,0,1,103948,1,https://materialsproject.org/materials/icsd/103948
+103950,Ga1 Ru1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,103950,1,https://materialsproject.org/materials/icsd/103950
+103991,Ga1 Ti3,194,P63/mmc,ESFD (SM),0,1,0,0,1,0,2,103991 182429,2,https://materialsproject.org/materials/icsd/103991
+104162,Ge1 Ni3,221,Pm-3m,SEBR (TI),0,0,0,1,1,0,1,104162,1,https://materialsproject.org/materials/icsd/104162
+104188,Se4 Ti1 Zr1,10,P2/m,NLC (TI),0,0,0,0,1,0,1,104188,1,https://materialsproject.org/materials/icsd/104188
+104273,Hf5 Sn3,193,P63/mcm,ES (SM),0,0,0,0,1,0,2,104273 183487,2,https://materialsproject.org/materials/icsd/104273
+104305,Hg1 La1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,104305,1,https://materialsproject.org/materials/icsd/104305
+104323,Hg1 Mn1,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,104323,1,https://materialsproject.org/materials/icsd/104323
+104324,Hg5 Mn2,127,P4/mbm,ES (SM),0,1,0,0,1,0,1,104324,1,https://materialsproject.org/materials/icsd/104324
+104332,Hg1 Ni1,123,P4/mmm,ES (SM),0,0,0,0,1,0,1,104332,1,https://materialsproject.org/materials/icsd/104332
+104337,Hg1 Pt1,123,P4/mmm,ES (SM),0,0,0,0,1,0,1,104337,1,https://materialsproject.org/materials/icsd/104337
+104487,Ir1 Li1,187,P-6m2,NLC (TI),0,0,1,0,1,0,1,104487,1,https://materialsproject.org/materials/icsd/104487
+104498,Ir1 Mn1 Sn1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,104498,1,https://materialsproject.org/materials/icsd/104498
+104557,Ir1 Sc1,221,Pm-3m,NLC (TI),0,1,0,0,1,0,1,104557,1,https://materialsproject.org/materials/icsd/104557
+104558,Ir2 Sc1,227,Fd-3m,ESFD (SM),0,1,0,0,1,0,2,104558 104559,2,https://materialsproject.org/materials/icsd/104558
+104561,Ir1 Sn1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,104561,1,https://materialsproject.org/materials/icsd/104561
+104564,Ir2 Sr1,227,Fd-3m,ES (SM),0,1,0,0,1,0,1,104564,1,https://materialsproject.org/materials/icsd/104564
+104601,Ir2 Y1,227,Fd-3m,ESFD (SM),0,1,0,0,1,0,2,104601 104602,2,https://materialsproject.org/materials/icsd/104601
+104769,Li1 Pd1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,104769,1,https://materialsproject.org/materials/icsd/104769
+104770,Li1 Pd1,187,P-6m2,ESFD (SM),0,0,1,0,1,0,2,104770 104771,2,https://materialsproject.org/materials/icsd/104770
+104847,Mg1 Pd1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,3,104847 104848 163195,3,https://materialsproject.org/materials/icsd/104847
+104859,Mg1 Rh1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,1,104859,1,https://materialsproject.org/materials/icsd/104859
+104920,Mn1 Ni3,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,104920,1,https://materialsproject.org/materials/icsd/104920
+104926,Mn1 Ni2 Sn1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,3,104926 104927 191631,3,https://materialsproject.org/materials/icsd/104926
+104936,Mn1 Pb1 Rh2,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,2,104936 104937,2,https://materialsproject.org/materials/icsd/104936
+104945,Mn1 Pd2 Sn1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,2,104945 104946,2,https://materialsproject.org/materials/icsd/104945
+104955,Mn1 Pt1 Sn1,216,F-43m,ESFD (SM),0,0,1,1,1,0,2,104955 104956,2,https://materialsproject.org/materials/icsd/104955
+104960,Mn1 Rh1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,1,104960,1,https://materialsproject.org/materials/icsd/104960
+104964,Mn1 Rh2 Sn1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,2,104964 104965,2,https://materialsproject.org/materials/icsd/104964
+104980,Mn2 Sn1 W1,225,Fm-3m,SEBR (TI),0,0,0,0,1,0,1,104980,1,https://materialsproject.org/materials/icsd/104980
+105001,Mn2 Y1,227,Fd-3m,ESFD (SM),0,0,0,0,1,0,3,105001 105002 150743,3,https://materialsproject.org/materials/icsd/105001
+105017,Mn1 Zn1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,105017,1,https://materialsproject.org/materials/icsd/105017
+105020,Mn1 Zn3,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,1,105020,1,https://materialsproject.org/materials/icsd/105020
+105222,Nb1 Ru1,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,105222,1,https://materialsproject.org/materials/icsd/105222
+105327,Ni1 Rh2 Sn1,225,Fm-3m,SEBR (TI),0,0,0,1,1,0,1,105327,1,https://materialsproject.org/materials/icsd/105327
+105334,Ni2 Sc1,227,Fd-3m,ESFD (SM),0,0,0,1,1,0,2,105334 105335,2,https://materialsproject.org/materials/icsd/105334
+105336,Ni5 Sc1,191,P6/mmm,ESFD (SM),0,0,0,1,1,0,1,105336,1,https://materialsproject.org/materials/icsd/105336
+105339,Ni2 Sc1 Sn1,225,Fm-3m,ESFD (SM),1,0,0,1,1,0,1,105339,1,https://materialsproject.org/materials/icsd/105339
+105343,Ni3 Si1,221,Pm-3m,SEBR (TI),0,0,0,1,1,0,3,105343 105344 163353,3,https://materialsproject.org/materials/icsd/105343
+105353,Ni3 Sn1,221,Pm-3m,SEBR (TI),0,0,0,1,1,0,1,105353,1,https://materialsproject.org/materials/icsd/105353
+105354,Ni3 Sn1,225,Fm-3m,ES (SM),0,0,0,0,1,0,1,105354,1,https://materialsproject.org/materials/icsd/105354
+105357,Ni3 Sn1,194,P63/mmc,ES (SM),0,0,0,0,1,0,2,105357 150926,2,https://materialsproject.org/materials/icsd/105357
+105376,Ni2 Sn1 V1,225,Fm-3m,ESFD (SM),0,1,0,0,1,0,2,105376 105377,2,https://materialsproject.org/materials/icsd/105376
+105458,Ni2 Y1,227,Fd-3m,ESFD (SM),0,1,0,1,1,0,5,105458 105459 150746 183094 196784,5,https://materialsproject.org/materials/icsd/105458
+105462,Ni5 Y1,191,P6/mmm,ESFD (SM),0,0,0,1,1,0,2,105462 105463,2,https://materialsproject.org/materials/icsd/105462
+105469,Ni1 Zn1,123,P4/mmm,ES (SM),0,0,0,0,1,0,1,105469,1,https://materialsproject.org/materials/icsd/105469
+105470,Ni1 Zn1,221,Pm-3m,ES (SM),0,0,0,0,1,0,1,105470,1,https://materialsproject.org/materials/icsd/105470
+105477,Ni4 Zn1 Zr1,216,F-43m,ESFD (SM),0,0,1,1,1,0,1,105477,1,https://materialsproject.org/materials/icsd/105477
+105529,Al1 Ni3,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,6,105529 151385 185893 187989 196567 196568,6,https://materialsproject.org/materials/icsd/105529
+105673,Pd3 Sc1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,2,105673 105674,2,https://materialsproject.org/materials/icsd/105673
+105689,Pd3 Sn1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,2,105689 105690,2,https://materialsproject.org/materials/icsd/105689
+105707,Pd5 Sr1,191,P6/mmm,SEBR (TI),0,0,0,1,1,0,1,105707,1,https://materialsproject.org/materials/icsd/105707
+105724,Pd3 Ti1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,3,105724 167655 185637,3,https://materialsproject.org/materials/icsd/105724
+105729,Pd3 Tl1,139,I4/mmm,ESFD (SM),0,0,0,1,1,0,1,105729,1,https://materialsproject.org/materials/icsd/105729
+105739,Pd1 V3,223,Pm-3n,ESFD (SM),0,1,0,0,1,0,1,105739,1,https://materialsproject.org/materials/icsd/105739
+105819,Pt1 Tl1,191,P6/mmm,ESFD (SM),0,0,0,0,1,0,1,105819,1,https://materialsproject.org/materials/icsd/105819
+105933,Rh2 Sn1 V1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,105933,1,https://materialsproject.org/materials/icsd/105933
+105972,Rh1 Y1,221,Pm-3m,SEBR (TI),0,1,0,0,1,0,2,105972 105973,2,https://materialsproject.org/materials/icsd/105972
+105993,Ru1 Sn2,140,I4/mcm,ES (SM),0,0,0,0,1,0,1,105993,1,https://materialsproject.org/materials/icsd/105993
+105995,Ru1 Ta1,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,2,105995 105996,2,https://materialsproject.org/materials/icsd/105995
+106004,Ru1 Ti1,221,Pm-3m,SEBR (TI),0,1,0,0,1,0,2,106004 106005,2,https://materialsproject.org/materials/icsd/106004
+106022,Ru1 Zr1,221,Pm-3m,SEBR (TI),0,1,0,0,1,0,1,106022,1,https://materialsproject.org/materials/icsd/106022
+106195,Tl1 Y1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,106195,1,https://materialsproject.org/materials/icsd/106195
+106213,V4 Zn5,139,I4/mmm,ES (SM),0,0,0,0,1,0,1,106213,1,https://materialsproject.org/materials/icsd/106213
+106225,Y1 Zn1,221,Pm-3m,ESFD (SM),0,1,0,0,1,0,2,106225 106226,2,https://materialsproject.org/materials/icsd/106225
+106236,Zn2 Zr1,227,Fd-3m,Trivial,0,1,0,1,1,0,2,106236 106237,2,https://materialsproject.org/materials/icsd/106236
+106303,Ba1 Bi1 Cu1,194,P63/mmc,ES (SM),0,0,0,0,1,0,1,106303,1,https://materialsproject.org/materials/icsd/106303
+106357,Ca1 Pd5,191,P6/mmm,SEBR (TI),0,0,0,1,1,0,1,106357,1,https://materialsproject.org/materials/icsd/106357
+106471,Co1 Ge1 La1,129,P4/nmm,NLC (TI),0,0,0,0,1,0,1,106471,1,https://materialsproject.org/materials/icsd/106471
+106786,Hg2 Rh1,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,106786,1,https://materialsproject.org/materials/icsd/106786
+106932,Mn1 N1,139,I4/mmm,ES (SM),0,0,0,0,1,0,1,106932,1,https://materialsproject.org/materials/icsd/106932
+107033,Mg1 Ni4 Y1,216,F-43m,ESFD (SM),0,0,1,1,1,0,4,107033 107424 183095 191556,4,https://materialsproject.org/materials/icsd/107033
+107085,Ga1 Ir1 Li2,216,F-43m,NLC (TI),0,0,1,0,1,0,1,107085,1,https://materialsproject.org/materials/icsd/107085
+107089,In1 Ir1 Li2,216,F-43m,NLC (TI),0,0,1,0,1,0,1,107089,1,https://materialsproject.org/materials/icsd/107089
+107117,Co1 Sb1 V1,216,F-43m,ESFD (SM),1,0,1,0,1,0,1,107117,1,https://materialsproject.org/materials/icsd/107117
+107333,In1 Ni2 Sc2,127,P4/mbm,ESFD (SM),1,0,0,0,1,0,1,107333,1,https://materialsproject.org/materials/icsd/107333
+107419,Ca1 Mg1 Ni4,216,F-43m,NLC (TI),0,0,1,1,1,0,1,107419,1,https://materialsproject.org/materials/icsd/107419
+107420,La1 Mg1 Ni4,216,F-43m,ESFD (SM),0,0,1,1,1,0,3,107420 162119 184164,3,https://materialsproject.org/materials/icsd/107420
+107472,Co1 Hf1 Sn1,190,P-62c,ESFD (SM),1,0,1,0,1,0,1,107472,1,https://materialsproject.org/materials/icsd/107472
+107500,H6 Fe1 Mg2,225,Fm-3m,Trivial,0,0,0,0,1,0,1,107500,1,https://materialsproject.org/materials/icsd/107500
+107574,Rh1 Zn1,221,Pm-3m,ESFD (SM),1,0,0,0,1,0,1,107574,1,https://materialsproject.org/materials/icsd/107574
+107617,Ge1 La1 Ti1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,1,107617,1,https://materialsproject.org/materials/icsd/107617
+107814,Al1 Fe2 V1,225,Fm-3m,Trivial,0,0,0,0,1,0,1,107814,1,https://materialsproject.org/materials/icsd/107814
+107857,Al3 Nb1,139,I4/mmm,ES (SM),0,1,0,0,1,0,2,107857 186000,2,https://materialsproject.org/materials/icsd/107857
+107862,Al1 Ni3,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,107862,1,https://materialsproject.org/materials/icsd/107862
+107916,As1 B6,166,R-3m,Trivial,0,0,0,1,1,0,1,107916,1,https://materialsproject.org/materials/icsd/107916
+107932,As1 Co1 Li1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,1,107932,1,https://materialsproject.org/materials/icsd/107932
+107955,As1 Mn1 Pd2,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,107955,1,https://materialsproject.org/materials/icsd/107955
+108128,C1 Ca1 Pd3,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,108128,1,https://materialsproject.org/materials/icsd/108128
+108129,C1 Co3 Sn1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,108129,1,https://materialsproject.org/materials/icsd/108129
+108146,Ca1 Ir2,227,Fd-3m,ES (SM),0,1,0,0,1,0,1,108146,1,https://materialsproject.org/materials/icsd/108146
+108289,Co2 Ge1,194,P63/mmc,ES (SM),0,0,0,0,1,0,1,108289,1,https://materialsproject.org/materials/icsd/108289
+108294,Co1 Hf1 Sb1,216,F-43m,Trivial,0,0,1,0,1,0,1,108294,1,https://materialsproject.org/materials/icsd/108294
+108436,Fe3 Ga1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,108436,1,https://materialsproject.org/materials/icsd/108436
+108482,Ga1 Mn1 Pt1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,108482,1,https://materialsproject.org/materials/icsd/108482
+108521,Ge1 Nb3,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,108521,1,https://materialsproject.org/materials/icsd/108521
+108583,Mg1 Sc1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,2,108583 161737,2,https://materialsproject.org/materials/icsd/108583
+108629,Nb3 Si1,221,Pm-3m,ESFD (SM),0,1,0,0,1,0,1,108629,1,https://materialsproject.org/materials/icsd/108629
+108650,Ni7 Y2,166,R-3m,ES (SM),0,0,0,0,1,0,1,108650,1,https://materialsproject.org/materials/icsd/108650
+108651,O3 W1,221,Pm-3m,Trivial,0,1,0,1,1,0,2,108651 183408,2,https://materialsproject.org/materials/icsd/108651
+108675,Pd3 Tl1,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,108675,1,https://materialsproject.org/materials/icsd/108675
+108677,Pd3 V1,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,108677,1,https://materialsproject.org/materials/icsd/108677
+108812,Fe2 O5 P1,141,I41/amd,ESFD (SM),0,0,0,0,1,0,2,108812 108813,2,https://materialsproject.org/materials/icsd/108812
+108826,O3 Sr1 V1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,1,108826,1,https://materialsproject.org/materials/icsd/108826
+108903,Cr1 O3 Sr1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,108903,1,https://materialsproject.org/materials/icsd/108903
+108983,O5 P1 V1,85,P4/n,Trivial,0,0,0,0,1,0,1,108983,1,https://materialsproject.org/materials/icsd/108983
+108991,Ba1 F4 Pd1,140,I4/mcm,Trivial,0,0,0,0,1,0,1,108991,1,https://materialsproject.org/materials/icsd/108991
+108992,F4 Pb1 Pd1,140,I4/mcm,Trivial,0,0,0,0,1,0,1,108992,1,https://materialsproject.org/materials/icsd/108992
+109006,Al1 Na1 O8 Si3,2,P-1,Trivial,0,0,0,0,1,0,4,109006 171090 171091 171092,4,https://materialsproject.org/materials/icsd/109006
+109076,O3 Sr1 Tc1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,2,109076 183453,2,https://materialsproject.org/materials/icsd/109076
+109145,I3 Nb1,193,P63/mcm,ES (SM),0,0,0,1,1,0,1,109145,1,https://materialsproject.org/materials/icsd/109145
+109162,Ba2 In1 Nb1 O6,225,Fm-3m,Trivial,0,0,0,0,1,0,2,109162 172166,2,https://materialsproject.org/materials/icsd/109162
+109165,Ni1 O6 Sr2 W1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,109165,1,https://materialsproject.org/materials/icsd/109165
+109235,Al1 Pt3,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,2,109235 191186,2,https://materialsproject.org/materials/icsd/109235
+109236,In1 Pt3,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,109236,1,https://materialsproject.org/materials/icsd/109236
+109251,Ba2 Ni1 O6 Re1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,109251,1,https://materialsproject.org/materials/icsd/109251
+109252,Ba2 Fe1 O6 Re1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,2,109252 155175,2,https://materialsproject.org/materials/icsd/109252
+109254,Ba2 Co1 O6 Re1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,109254,1,https://materialsproject.org/materials/icsd/109254
+109255,Ba2 O6 Re1 Zn1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,109255,1,https://materialsproject.org/materials/icsd/109255
+109256,Ba2 Mn1 O6 Re1,225,Fm-3m,Trivial,0,0,0,1,1,0,1,109256,1,https://materialsproject.org/materials/icsd/109256
+109259,Ba2 Li1 O6 Re1,225,Fm-3m,Trivial,0,0,0,0,1,0,1,109259,1,https://materialsproject.org/materials/icsd/109259
+109260,Ba2 Na1 O6 Re1,225,Fm-3m,Trivial,0,0,0,0,1,0,2,109260 200876,2,https://materialsproject.org/materials/icsd/109260
+109292,Sn3 Ti5,193,P63/mcm,SEBR (TI),0,0,0,0,1,0,2,109292 169008,2,https://materialsproject.org/materials/icsd/109292
+109293,Cu1 F3 Rb1,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,109293,1,https://materialsproject.org/materials/icsd/109293
+109314,Be12 Pd1,139,I4/mmm,ES (SM),0,1,0,0,1,0,1,109314,1,https://materialsproject.org/materials/icsd/109314
+109327,Ba1 O3 Ti1,123,P4/mmm,ES (SM),0,0,0,0,1,0,1,109327,1,https://materialsproject.org/materials/icsd/109327
+109348,Au1 Mn1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,109348,1,https://materialsproject.org/materials/icsd/109348
+109349,Au1 Mn1,123,P4/mmm,ES (SM),0,0,0,0,1,0,1,109349,1,https://materialsproject.org/materials/icsd/109349
+109365,Al1 F5 Tl2,63,Cmcm,Trivial,0,0,0,0,1,0,1,109365,1,https://materialsproject.org/materials/icsd/109365
+109374,Fe1 S2,58,Pnnm,Trivial,1,0,0,0,1,0,1,109374,1,https://materialsproject.org/materials/icsd/109374
+109739,C3 H3 O6 Y1,160,R3m,Trivial,0,0,0,0,1,0,1,109739,1,https://materialsproject.org/materials/icsd/109739
+109973,C4 H8 Cu1 N2 O6,14,P21/c,ESFD (SM),0,0,0,0,1,0,2,109973 194113,2,https://materialsproject.org/materials/icsd/109973
+110500,C5 H11 Cu1 N1 O6,15,C2/c,ESFD (SM),0,0,1,0,1,0,2,110500 151227,2,https://materialsproject.org/materials/icsd/110500
+110809,Al1 Co2 Hf1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,110809,1,https://materialsproject.org/materials/icsd/110809
+130003,Mo1 Zn7,225,Fm-3m,ES (SM),0,0,0,0,1,0,1,130003,1,https://materialsproject.org/materials/icsd/130003
+130021,Al1 F3,221,Pm-3m,Trivial,1,0,0,0,1,0,1,130021,1,https://materialsproject.org/materials/icsd/130021
+130032,Cu2 Hf2 In1,136,P42/mnm,ES (SM),0,0,0,0,1,0,1,130032,1,https://materialsproject.org/materials/icsd/130032
+150193,F1 I1 Pb1,129,P4/nmm,Trivial,0,0,0,0,1,0,4,150193 150194 150195 155012,4,https://materialsproject.org/materials/icsd/150193
+150258,La1 Mn1 O3,15,C2/c,Trivial,1,0,1,0,1,0,1,150258,1,https://materialsproject.org/materials/icsd/150258
+150279,Au1 Cr1 Te4,10,P2/m,ESFD (SM),1,0,0,1,1,0,1,150279,1,https://materialsproject.org/materials/icsd/150279
+150300,Ag1 Cl2 Cs1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,150300,1,https://materialsproject.org/materials/icsd/150300
+150302,Ag1 Br2 Cs1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,150302,1,https://materialsproject.org/materials/icsd/150302
+150387,O4 Sn1 Sr2,139,I4/mmm,Trivial,1,0,0,0,1,0,4,150387 150388 150389 150390,4,https://materialsproject.org/materials/icsd/150387
+150430,Na1 O3 Ta1,62,Pnma,Trivial,1,0,0,0,1,0,2,150430 173757,2,https://materialsproject.org/materials/icsd/150430
+150527,Al2 Zr1,194,P63/mmc,SEBR (TI),0,1,0,0,1,0,1,150527,1,https://materialsproject.org/materials/icsd/150527
+150619,Be1 Co1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,150619,1,https://materialsproject.org/materials/icsd/150619
+150648,Ni5 Zr1,216,F-43m,ES (SM),0,0,1,1,1,0,3,150648 150939 189201,3,https://materialsproject.org/materials/icsd/150648
+150674,Cr1 Li1 S2,164,P-3m1,ESFD (SM),0,0,1,0,1,0,1,150674,1,https://materialsproject.org/materials/icsd/150674
+150701,Fe1 Mo1 O6 Sr2,87,I4/m,Trivial,1,0,1,1,1,0,4,150701 166816 172212 193690,4,https://materialsproject.org/materials/icsd/150701
+150702,Fe1 O6 Re1 Sr2,87,I4/m,ESFD (SM),1,0,1,1,1,0,1,150702,1,https://materialsproject.org/materials/icsd/150702
+150703,Ba1 La1 Mn2 O6,123,P4/mmm,ESFD (SM),1,0,0,0,1,0,1,150703,1,https://materialsproject.org/materials/icsd/150703
+150829,C1 Mn3 Zn1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,150829,1,https://materialsproject.org/materials/icsd/150829
+150913,Cu1 O2,63,Cmcm,ESFD (SM),1,0,0,0,1,0,1,150913,1,https://materialsproject.org/materials/icsd/150913
+150936,Ru1 Ti1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,1,150936,1,https://materialsproject.org/materials/icsd/150936
+150938,Fe1 Ti1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,3,150938 189111 189112,3,https://materialsproject.org/materials/icsd/150938
+151104,Al3 V1,139,I4/mmm,ES (SM),0,1,0,1,1,0,2,151104 167811,2,https://materialsproject.org/materials/icsd/151104
+151196,In1 Ni3,194,P63/mmc,ESFD (SM),0,0,0,1,1,0,3,151196 185623 185627,3,https://materialsproject.org/materials/icsd/151196
+151207,Co1 Cu2 Sn1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,151207,1,https://materialsproject.org/materials/icsd/151207
+151435,Cr2 Li14 N8 O1,147,P-3,Trivial,1,0,0,0,1,0,1,151435,1,https://materialsproject.org/materials/icsd/151435
+151617,Fe1 Mo1 O6 Sr2,139,I4/mmm,Trivial,0,0,0,1,1,0,3,151617 169377 184911,3,https://materialsproject.org/materials/icsd/151617
+151703,Mg1 O6 Sr2 W1,87,I4/m,Trivial,1,0,0,1,1,0,8,151703 152574 155306 155307 155308 155309 155310 168463,8,https://materialsproject.org/materials/icsd/151703
+151787,Cl2 Co1 O2 Sr2,139,I4/mmm,ESFD (SM),1,0,0,0,1,0,2,151787 151788,2,https://materialsproject.org/materials/icsd/151787
+151789,Br2 Co1 O2 Sr2,139,I4/mmm,ESFD (SM),1,0,0,0,1,0,2,151789 151790,2,https://materialsproject.org/materials/icsd/151789
+151907,Li1 Mn2 O4,227,Fd-3m,ESFD (SM),0,0,0,0,1,0,9,151907 155282 155665 165871 165872 182717 192369 193444 195840,9,https://materialsproject.org/materials/icsd/151907
+151929,Cu1 O2 Sc1,194,P63/mmc,Trivial,0,0,0,1,1,0,1,151929,1,https://materialsproject.org/materials/icsd/151929
+151987,Br5 Cs1 Sn2,140,I4/mcm,Trivial,0,0,0,0,1,0,1,151987,1,https://materialsproject.org/materials/icsd/151987
+152131,Al1 Ni1 Zr1,189,P-62m,ESFD (SM),1,0,1,0,1,0,2,152131 186404,2,https://materialsproject.org/materials/icsd/152131
+152440,Ni1 O6 Os1 Sr2,87,I4/m,Trivial,1,0,0,0,1,0,4,152440 152441 152442 152443,4,https://materialsproject.org/materials/icsd/152440
+152572,Ba2 Mg1 O6 W1,225,Fm-3m,Trivial,1,0,0,0,1,0,3,152572 152573 183771,3,https://materialsproject.org/materials/icsd/152572
+152575,Mg1 O6 Sr2 W1,225,Fm-3m,Trivial,1,0,0,0,1,0,2,152575 152576,2,https://materialsproject.org/materials/icsd/152575
+152588,Ni1 O6 Pb1 Sr3,167,R-3c,Trivial,1,0,0,1,1,0,6,152588 152589 152590 152591 152592 152593,6,https://materialsproject.org/materials/icsd/152588
+152679,Ba2 Ir1 O6 Y1,225,Fm-3m,Trivial,1,0,0,0,1,0,1,152679,1,https://materialsproject.org/materials/icsd/152679
+153055,Mg1 Pd3,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,153055,1,https://materialsproject.org/materials/icsd/153055
+153058,La1 Ni1 O2,123,P4/mmm,ESFD (SM),1,0,0,0,1,0,1,153058,1,https://materialsproject.org/materials/icsd/153058
+153101,Ca2 Cl1 N1,166,R-3m,Trivial,1,0,0,1,1,0,1,153101,1,https://materialsproject.org/materials/icsd/153101
+153105,Br1 Ca2 N1,166,R-3m,Trivial,1,0,0,1,1,0,1,153105,1,https://materialsproject.org/materials/icsd/153105
+153173,Ca1 O3 Ti1,140,I4/mcm,Trivial,1,0,0,1,1,0,6,153173 162919 162920 162921 162922 162923,6,https://materialsproject.org/materials/icsd/153173
+153174,Ca1 O3 Ti1,221,Pm-3m,Trivial,1,1,0,0,1,0,6,153174 162924 162925 162926 165076 187293,6,https://materialsproject.org/materials/icsd/153174
+153307,Ga1 La1 O3,62,Pnma,Trivial,1,0,0,0,1,0,5,153307 160233 160234 160235 161782,5,https://materialsproject.org/materials/icsd/153307
+153327,Ni1 O6 Sr2 W1,87,I4/m,Trivial,1,0,1,1,1,0,2,153327 190591,2,https://materialsproject.org/materials/icsd/153327
+153406,O3 Pb1 Ti1,221,Pm-3m,Trivial,1,0,0,0,1,0,5,153406 162043 162047 187295 187505,5,https://materialsproject.org/materials/icsd/153406
+153453,O2 Si1,152,P3121,Trivial,0,0,1,0,1,0,15,153453 153454 154289 200721 200722 200723 200724 200725 200726 200727 200728 200729 201352 201353 201354,15,https://materialsproject.org/materials/icsd/153453
+153543,Co1 Mo1 O6 Sr2,225,Fm-3m,ESFD (SM),1,0,0,1,1,0,1,153543,1,https://materialsproject.org/materials/icsd/153543
+153544,Co1 Mo1 O6 Sr2,87,I4/m,ESFD (SM),1,0,0,1,1,0,3,153544 153545 153546,3,https://materialsproject.org/materials/icsd/153544
+153831,Al1 La1 O3,221,Pm-3m,Trivial,0,0,0,0,1,0,18,153831 153832 153833 153834 153835 153836 170772 191414 191415 191416 191417 191424 191425 191426 191427 191428 191429 191464,18,https://materialsproject.org/materials/icsd/153831
+153864,Fe1 K1 Mo2 O8,164,P-3m1,ESFD (SM),1,0,1,1,1,0,1,153864,1,https://materialsproject.org/materials/icsd/153864
+153887,Ga1 N1,186,P63mc,Trivial,1,1,0,0,1,0,13,153887 153888 153889 153890 153891 156259 157398 157512 159250 181358 184926 190424 191773,13,https://materialsproject.org/materials/icsd/153887
+154073,Ca1 F3 K1,221,Pm-3m,Trivial,0,0,0,0,1,0,2,154073 154074,2,https://materialsproject.org/materials/icsd/154073
+154123,H4 Cu2 Na2 O13 Si4,2,P-1,Trivial,1,0,1,1,1,0,1,154123,1,https://materialsproject.org/materials/icsd/154123
+154175,Li2 O7 Sr1 Ta2,139,I4/mmm,Trivial,1,0,0,0,1,0,1,154175,1,https://materialsproject.org/materials/icsd/154175
+154182,Ba1 S3 V1,36,Cmc21,ESFD (SM),1,0,1,0,1,0,1,154182,1,https://materialsproject.org/materials/icsd/154182
+154257,Br3 Rb1 Ti1,194,P63/mmc,ES (SM),1,0,0,0,1,0,1,154257,1,https://materialsproject.org/materials/icsd/154257
+154258,Cs1 I3 Ti1,194,P63/mmc,ES (SM),1,0,0,0,1,0,1,154258,1,https://materialsproject.org/materials/icsd/154258
+154344,Ba1 O3 Ti1,221,Pm-3m,Trivial,1,0,0,0,1,0,6,154344 166225 185374 186437 187291 190924,6,https://materialsproject.org/materials/icsd/154344
+154346,Ba1 O3 Ti1,38,Amm2,Trivial,1,0,1,0,1,0,4,154346 161341 161419 186460,4,https://materialsproject.org/materials/icsd/154346
+154360,Al2 O7 Rb2 Sb2,164,P-3m1,Trivial,1,0,0,0,1,0,1,154360,1,https://materialsproject.org/materials/icsd/154360
+154601,O2 Ti1,141,I41/amd,Trivial,1,0,0,0,1,0,24,154601 154602 154603 154604 154607 154608 154609 154610 156838 159910 161908 172914 172916 183767 184368 189318 190785 193265 193267 193269 193271 200392 202242 202243,24,https://materialsproject.org/materials/icsd/154601
+154681,C1 Ca1 F1 K1 O3,187,P-6m2,Trivial,1,0,0,0,1,0,4,154681 154682 154683 154685,4,https://materialsproject.org/materials/icsd/154681
+154716,O6 Se2 Sn1,205,Pa-3,Trivial,0,0,0,0,1,0,1,154716,1,https://materialsproject.org/materials/icsd/154716
+154802,Ba3 Cr1 N3,176,P63/m,ESFD (SM),1,0,0,0,1,0,1,154802,1,https://materialsproject.org/materials/icsd/154802
+154803,Cr1 N3 Sr3,176,P63/m,ESFD (SM),1,0,0,0,1,0,1,154803,1,https://materialsproject.org/materials/icsd/154803
+155009,F1 I1 Sr1,129,P4/nmm,Trivial,0,0,0,0,1,0,2,155009 159280,2,https://materialsproject.org/materials/icsd/155009
+155010,Cl1 F1 Pb1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,155010,1,https://materialsproject.org/materials/icsd/155010
+155011,Br1 F1 Pb1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,155011,1,https://materialsproject.org/materials/icsd/155011
+155126,B1 Li3 N2,141,I41/amd,Trivial,1,0,0,1,1,0,2,155126 155127,2,https://materialsproject.org/materials/icsd/155126
+155151,Fe1 O4 Sb2,135,P42/mbc,Trivial,1,0,0,0,1,0,2,155151 182798,2,https://materialsproject.org/materials/icsd/155151
+155156,B1 Be2 F2 K1 O3,155,R32,Trivial,0,0,1,0,1,0,1,155156,1,https://materialsproject.org/materials/icsd/155156
+155174,Ba2 Fe1 O6 Re1,139,I4/mmm,ESFD (SM),1,0,0,1,1,0,1,155174,1,https://materialsproject.org/materials/icsd/155174
+155253,Ba2 O6 Sb1 Y1,225,Fm-3m,Trivial,1,0,0,0,1,0,3,155253 155346 163373,3,https://materialsproject.org/materials/icsd/155253
+155273,Mo1 Ni1 O6 Sr2,87,I4/m,Trivial,1,0,0,0,1,0,8,155273 155274 155732 157020 157021 157022 157023 157025,8,https://materialsproject.org/materials/icsd/155273
+155317,B2 Cu1 O6 Pb2,14,P21/c,ESFD (SM),1,0,0,0,1,0,1,155317,1,https://materialsproject.org/materials/icsd/155317
+155554,F3 La1,139,I4/mmm,Trivial,0,0,0,0,1,0,3,155554 164056 167555,3,https://materialsproject.org/materials/icsd/155554
+155733,Mo1 Ni1 O6 Sr2,225,Fm-3m,ESFD (SM),1,0,0,0,1,0,2,155733 157027,2,https://materialsproject.org/materials/icsd/155733
+155817,Ag1 Cs2 F4,64,Cmce,ESFD (SM),0,0,0,0,1,0,2,155817 155818,2,https://materialsproject.org/materials/icsd/155817
+155831,Cr1 O2,136,P42/mnm,Trivial,0,0,0,0,1,0,17,155831 166021 166022 166023 166024 166025 166026 166027 166028 166485 167237 185885 186836 202835 202836 202837 202838,17,https://materialsproject.org/materials/icsd/155831
+155832,Cr1 O2,58,Pnnm,Trivial,0,0,0,0,1,0,2,155832 185886,2,https://materialsproject.org/materials/icsd/155832
+155834,Co1 O3 Y1,62,Pnma,Trivial,1,0,0,0,1,0,5,155834 155835 155836 155837 155838,5,https://materialsproject.org/materials/icsd/155834
+155839,Co1 Fe1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,2,155839 187982,2,https://materialsproject.org/materials/icsd/155839
+155847,Cr3 O8,12,C2/m,NLC (TI),0,0,1,1,1,0,1,155847,1,https://materialsproject.org/materials/icsd/155847
+155848,Cr3 O8,12,C2/m,Trivial,0,0,0,0,1,0,1,155848,1,https://materialsproject.org/materials/icsd/155848
+155928,Co1 Si1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,155928,1,https://materialsproject.org/materials/icsd/155928
+156236,O8 Si1 Sn6,186,P63mc,Trivial,1,0,1,0,1,0,1,156236,1,https://materialsproject.org/materials/icsd/156236
+156338,Ge3 N4,227,Fd-3m,Trivial,0,1,0,0,1,0,1,156338,1,https://materialsproject.org/materials/icsd/156338
+156366,Cu2 F6 Hg2 S1,227,Fd-3m,ESFD (SM),1,0,0,0,1,0,3,156366 156367 156368,3,https://materialsproject.org/materials/icsd/156366
+157016,Ga1 O6 Sb1 Sr2,225,Fm-3m,Trivial,1,0,0,1,1,0,4,157016 157017 157018 157019,4,https://materialsproject.org/materials/icsd/157016
+157024,Mo1 Ni1 O6 Sr2,87,I4/m,SEBR (TI),1,0,1,0,1,0,2,157024 157026,2,https://materialsproject.org/materials/icsd/157024
+157402,O4 Sr2 Ti1,139,I4/mmm,Trivial,0,1,0,0,1,0,8,157402 194713 194714 194715 194716 194717 194718 194719,8,https://materialsproject.org/materials/icsd/157402
+157433,Cu1 F1 S1 Sr1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,157433,1,https://materialsproject.org/materials/icsd/157433
+157457,Al2 Ca1 O4,173,P63,Trivial,0,0,0,0,1,0,1,157457,1,https://materialsproject.org/materials/icsd/157457
+157477,Ba5 Nb4 O15,164,P-3m1,Trivial,1,0,0,0,1,0,1,157477,1,https://materialsproject.org/materials/icsd/157477
+157549,Al1 Bi1 O3,221,Pm-3m,Trivial,0,0,0,0,1,0,2,157549 158756,2,https://materialsproject.org/materials/icsd/157549
+157550,Bi1 Ga1 O3,221,Pm-3m,Trivial,0,0,0,0,1,0,2,157550 158757,2,https://materialsproject.org/materials/icsd/157550
+157603,Fe1 Mo1 O6 Sr2,225,Fm-3m,Trivial,1,0,0,1,1,0,2,157603 181752,2,https://materialsproject.org/materials/icsd/157603
+157800,Cr1 Cu1 O2,166,R-3m,ESFD (SM),1,1,1,0,1,0,8,157800 163253 163254 163255 184467 189047 194151 194152,8,https://materialsproject.org/materials/icsd/157800
+157886,O6 Sb1 Sr2 Y1,225,Fm-3m,Trivial,0,0,0,1,1,0,2,157886 157887,2,https://materialsproject.org/materials/icsd/157886
+157933,Cr1 O4 Y1,141,I41/amd,ESFD (SM),1,0,0,0,1,0,1,157933,1,https://materialsproject.org/materials/icsd/157933
+157941,Fe3 Si1,225,Fm-3m,ES (SM),0,0,0,0,1,0,1,157941,1,https://materialsproject.org/materials/icsd/157941
+158194,Ga1 S8 V4,216,F-43m,ESFD (SM),1,0,1,0,1,0,1,158194,1,https://materialsproject.org/materials/icsd/158194
+158198,Ga1 Mo4 S8,216,F-43m,ESFD (SM),1,0,1,0,1,0,1,158198,1,https://materialsproject.org/materials/icsd/158198
+158758,Bi1 In1 O3,221,Pm-3m,Trivial,0,0,0,0,1,0,1,158758,1,https://materialsproject.org/materials/icsd/158758
+158759,Bi1 O3 Sc1,221,Pm-3m,Trivial,0,0,0,0,1,0,7,158759 181115 181116 181117 181118 181119 181120,7,https://materialsproject.org/materials/icsd/158759
+158916,Fe1 O4 Sb2,135,P42/mbc,ES (SM),0,0,0,0,1,0,1,158916,1,https://materialsproject.org/materials/icsd/158916
+158955,Br6 K2 Sn1,225,Fm-3m,Trivial,0,0,0,0,1,0,1,158955,1,https://materialsproject.org/materials/icsd/158955
+158976,Cr1 Ge3 La1,194,P63/mmc,ESFD (SM),1,0,0,0,1,0,1,158976,1,https://materialsproject.org/materials/icsd/158976
+159177,H3 Cs1 Mg1,59,Pmmn,Trivial,0,0,0,0,1,0,1,159177,1,https://materialsproject.org/materials/icsd/159177
+159207,N4 Si3,159,P31c,ES (SM),0,0,1,0,1,0,2,159207 187735,2,https://materialsproject.org/materials/icsd/159207
+160108,Si1 Sr1,123,P4/mmm,ES (SM),0,0,0,0,1,0,1,160108,1,https://materialsproject.org/materials/icsd/160108
+160149,Ge1 Na2 O5 Ti1,59,Pmmn,Trivial,1,0,0,0,1,0,1,160149,1,https://materialsproject.org/materials/icsd/160149
+160172,Ba2 O6 Ta1 Y1,225,Fm-3m,Trivial,1,0,0,0,1,0,5,160172 171172 171173 171174 171175,5,https://materialsproject.org/materials/icsd/160172
+160196,Cr1 O3 Pb1,221,Pm-3m,ESFD (SM),1,0,0,0,1,0,2,160196 194155,2,https://materialsproject.org/materials/icsd/160196
+160321,Cu1 Li2 O7 P2,15,C2/c,ESFD (SM),1,0,1,0,1,0,1,160321,1,https://materialsproject.org/materials/icsd/160321
+160378,C1 Al1 Sc2,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,160378,1,https://materialsproject.org/materials/icsd/160378
+160380,C1 In1 Sc2,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,4,160380 163503 163510 163511,4,https://materialsproject.org/materials/icsd/160380
+160691,C1 Cr2 La1 Si2,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,160691,1,https://materialsproject.org/materials/icsd/160691
+160705,Co1 In1 Mn2,216,F-43m,Trivial,0,0,1,0,1,0,1,160705,1,https://materialsproject.org/materials/icsd/160705
+160706,Co1 Mn2 Si1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,160706,1,https://materialsproject.org/materials/icsd/160706
+160707,Co1 Ge1 Mn2,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,160707,1,https://materialsproject.org/materials/icsd/160707
+160708,Co1 Mn2 Sn1,216,F-43m,ESFD (SM),0,0,1,0,1,0,2,160708 183043,2,https://materialsproject.org/materials/icsd/160708
+160709,Co1 Mn2 Sb1,216,F-43m,Trivial,0,0,1,0,1,0,1,160709,1,https://materialsproject.org/materials/icsd/160709
+160822,Al1 Cs1 O4 Si1,33,Pna21,Trivial,1,0,0,0,1,0,5,160822 186607 186608 186609 186610,5,https://materialsproject.org/materials/icsd/160822
+160823,Al1 O4 Rb1 Si1,33,Pna21,Trivial,1,0,1,0,1,0,1,160823,1,https://materialsproject.org/materials/icsd/160823
+160894,H1 As1 Cu1 O5 Zn1,58,Pnnm,Trivial,0,0,0,0,1,0,1,160894,1,https://materialsproject.org/materials/icsd/160894
+160914,H12 Fe5 La1,191,P6/mmm,ESFD (SM),0,0,0,0,1,0,1,160914,1,https://materialsproject.org/materials/icsd/160914
+160942,O7 P2 V1,15,C2/c,ESFD (SM),1,0,0,0,1,0,3,160942 160943 160944,3,https://materialsproject.org/materials/icsd/160942
+161023,Mg2 O4 Si1,227,Fd-3m,Trivial,0,0,0,0,1,0,5,161023 162347 162348 162406 191506,5,https://materialsproject.org/materials/icsd/161023
+161057,Al2 Mg1 O4,63,Cmcm,Trivial,0,0,0,0,1,0,1,161057,1,https://materialsproject.org/materials/icsd/161057
+161063,C1 Sn1 Ti2,194,P63/mmc,SEBR (TI),0,0,0,0,1,0,2,161063 161064,2,https://materialsproject.org/materials/icsd/161063
+161077,N1 Y1,216,F-43m,Trivial,0,0,1,0,1,0,3,161077 183180 190624,3,https://materialsproject.org/materials/icsd/161077
+161099,Bi2 O7 Rh2,227,Fd-3m,ESFD (SM),0,0,0,0,1,0,1,161099,1,https://materialsproject.org/materials/icsd/161099
+161100,Bi2 O7 Ti2,227,Fd-3m,Trivial,0,0,0,0,1,0,2,161100 180394,2,https://materialsproject.org/materials/icsd/161100
+161102,Bi2 O7 Ru2,227,Fd-3m,Trivial,0,0,0,0,1,0,4,161102 163387 166566 166567,4,https://materialsproject.org/materials/icsd/161102
+161103,Bi2 Ir2 O7,227,Fd-3m,ESFD (SM),0,0,0,0,1,0,1,161103,1,https://materialsproject.org/materials/icsd/161103
+161104,Bi2 O7 Pt2,227,Fd-3m,Trivial,0,0,0,1,1,0,2,161104 202346,2,https://materialsproject.org/materials/icsd/161104
+161111,In1 Ni1,191,P6/mmm,ESFD (SM),0,0,0,1,1,0,7,161111 161114 161123 161124 161125 161126 185625,7,https://materialsproject.org/materials/icsd/161111
+161133,Fe2 Si1,164,P-3m1,SEBR (TI),0,0,0,0,1,0,1,161133,1,https://materialsproject.org/materials/icsd/161133
+161593,Hf1 O3 Sr1,221,Pm-3m,Trivial,0,0,0,0,1,0,3,161593 164620 184791,3,https://materialsproject.org/materials/icsd/161593
+161594,Hf1 O3 Sr1,99,P4mm,Trivial,0,0,0,0,1,0,1,161594,1,https://materialsproject.org/materials/icsd/161594
+161702,Hf1 O3 Pb1,221,Pm-3m,Trivial,1,0,0,0,1,0,1,161702,1,https://materialsproject.org/materials/icsd/161702
+161754,Co1 N1,216,F-43m,ESFD (SM),0,0,1,0,1,0,2,161754 184378,2,https://materialsproject.org/materials/icsd/161754
+161910,Co1 La1 O1 P1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,2,161910 161911,2,https://materialsproject.org/materials/icsd/161910
+161928,La1 Mn1 O3,62,Pnma,Trivial,0,0,1,0,1,0,4,161928 161929 180180 185279,4,https://materialsproject.org/materials/icsd/161928
+162056,As1 Fe1 Li1,129,P4/nmm,ES (SM),0,1,0,0,1,0,5,162056 162250 163870 166457 169175,5,https://materialsproject.org/materials/icsd/162056
+162073,F6 Pb2 Zn1,138,P42/ncm,Trivial,0,0,0,0,1,0,2,162073 162074,2,https://materialsproject.org/materials/icsd/162073
+162099,H6 Cl2 Cu3 O6 Zn1,164,P-3m1,ESFD (SM),1,0,0,0,1,0,1,162099,1,https://materialsproject.org/materials/icsd/162099
+162105,Co1 N3,204,Im-3,SEBR (TI),0,0,0,0,1,0,1,162105,1,https://materialsproject.org/materials/icsd/162105
+162106,Co1 N3,204,Im-3,ESFD (SM),0,0,0,0,1,0,1,162106,1,https://materialsproject.org/materials/icsd/162106
+162107,N3 Rh1,204,Im-3,Trivial,0,0,0,0,1,0,1,162107,1,https://materialsproject.org/materials/icsd/162107
+162108,N3 Rh1,204,Im-3,ESFD (SM),0,0,0,0,1,0,1,162108,1,https://materialsproject.org/materials/icsd/162108
+162158,Br6 Cs4 Pb1,167,R-3c,Trivial,1,0,0,0,1,0,1,162158,1,https://materialsproject.org/materials/icsd/162158
+162261,H4 Cs2 Mg1,139,I4/mmm,Trivial,0,0,0,1,1,0,1,162261,1,https://materialsproject.org/materials/icsd/162261
+162616,O2 Si1,198,P213,Trivial,0,0,0,0,1,0,2,162616 162617,2,https://materialsproject.org/materials/icsd/162616
+162623,O2 Si1,194,P63/mmc,Trivial,0,0,0,0,1,0,5,162623 162624 170481 170496 200478,5,https://materialsproject.org/materials/icsd/162623
+162724,Fe1 La1 O1 P1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,162724,1,https://materialsproject.org/materials/icsd/162724
+162766,Bi2 O6 Ti1 Zn1,99,P4mm,Trivial,0,0,1,0,1,0,4,162766 162767 162768 186801,4,https://materialsproject.org/materials/icsd/162766
+162777,O3 Ru1 Sr1,221,Pm-3m,ESFD (SM),1,0,0,1,1,0,2,162777 187484,2,https://materialsproject.org/materials/icsd/162777
+162808,As1 F1 Fe1 Sr1,129,P4/nmm,Trivial,0,1,0,0,1,0,3,162808 163915 168775,3,https://materialsproject.org/materials/icsd/162808
+162897,Se1 Ti1,129,P4/nmm,ES (SM),0,0,0,0,1,0,1,162897,1,https://materialsproject.org/materials/icsd/162897
+162898,Se1 V1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,1,162898,1,https://materialsproject.org/materials/icsd/162898
+162899,Cr1 Se1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,162899,1,https://materialsproject.org/materials/icsd/162899
+162900,Mn1 Se1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,1,162900,1,https://materialsproject.org/materials/icsd/162900
+162901,Fe1 Se1,129,P4/nmm,ES (SM),0,1,0,0,1,0,13,162901 163559 163560 163561 163562 165958 165959 165960 169970 182544 185464 196297 196298,13,https://materialsproject.org/materials/icsd/162901
+162902,Co1 Se1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,1,162902,1,https://materialsproject.org/materials/icsd/162902
+162981,Bi1 Cs1 Nb2 O7,26,Pmc21,Trivial,1,0,0,0,1,0,4,162981 162982 162983 162984,4,https://materialsproject.org/materials/icsd/162981
+163143,As1 Fe1 Na1,129,P4/nmm,ES (SM),0,1,0,0,1,0,2,163143 163144,2,https://materialsproject.org/materials/icsd/163143
+163228,Fe1 O3 Sr1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,163228,1,https://materialsproject.org/materials/icsd/163228
+163322,Mn1 Sb1,194,P63/mmc,SEBR (TI),0,1,0,0,1,0,3,163322 191176 191783,3,https://materialsproject.org/materials/icsd/163322
+163376,H8 B2 K1 Na1,156,P3m1,Trivial,0,0,0,0,1,0,1,163376,1,https://materialsproject.org/materials/icsd/163376
+163382,O1 Zn1,221,Pm-3m,Trivial,0,0,0,0,1,0,2,163382 182360,2,https://materialsproject.org/materials/icsd/163382
+163496,As1 Fe1 La1 O1,129,P4/nmm,Trivial,0,0,0,0,1,0,10,163496 163497 163835 163868 173432 180438 180439 180440 184645 192739,10,https://materialsproject.org/materials/icsd/163496
+163600,O12 Rb1 Se2 V3,173,P63,Trivial,0,0,0,0,1,0,1,163600,1,https://materialsproject.org/materials/icsd/163600
+163601,O12 Se2 Tl1 V3,173,P63,Trivial,0,0,1,0,1,0,1,163601,1,https://materialsproject.org/materials/icsd/163601
+163660,H8 Cl6 N2 Sn1,225,Fm-3m,Trivial,1,0,0,1,1,0,1,163660,1,https://materialsproject.org/materials/icsd/163660
+163817,Nb2 O7 Sn2,227,Fd-3m,Trivial,0,0,0,1,1,0,1,163817,1,https://materialsproject.org/materials/icsd/163817
+163818,O7 Sn2 Ta2,227,Fd-3m,Trivial,0,0,0,1,1,0,1,163818,1,https://materialsproject.org/materials/icsd/163818
+163981,Mo1 O6 Te1 Zn1,18,P21212,Trivial,1,0,0,0,1,0,1,163981,1,https://materialsproject.org/materials/icsd/163981
+164049,H3 Al1 O3,2,P-1,Trivial,0,0,0,0,1,0,2,164049 164050,2,https://materialsproject.org/materials/icsd/164049
+164171,Fe1 Mg1 O4 Si1,62,Pnma,Trivial,0,0,0,0,1,0,2,164171 164172,2,https://materialsproject.org/materials/icsd/164171
+164176,Ba1 Fe2 O5 Y1,47,Pmmm,ESFD (SM),0,0,0,0,1,0,1,164176,1,https://materialsproject.org/materials/icsd/164176
+165120,As2 Rh2 Sr1,139,I4/mmm,SEBR (TI),0,0,0,0,1,0,1,165120,1,https://materialsproject.org/materials/icsd/165120
+165165,Al1 Fe1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,3,165165 169548 169549,3,https://materialsproject.org/materials/icsd/165165
+165190,H1 Ca5 Sn3,140,I4/mcm,ESFD (SM),1,0,0,0,1,0,1,165190,1,https://materialsproject.org/materials/icsd/165190
+165262,I1 La2 Ni2,187,P-6m2,ESFD (SM),1,0,1,0,1,0,1,165262,1,https://materialsproject.org/materials/icsd/165262
+165315,K1 P1 Pd1 S4,136,P42/mnm,Trivial,1,0,0,0,1,0,1,165315,1,https://materialsproject.org/materials/icsd/165315
+165316,K2 P2 Pd1 S6,62,Pnma,Trivial,0,0,0,0,1,0,1,165316,1,https://materialsproject.org/materials/icsd/165316
+165378,Cs2 Mn1 S6 Te2,165,P-3c1,ESFD (SM),1,0,0,0,1,0,1,165378,1,https://materialsproject.org/materials/icsd/165378
+165614,K8 Tl10 Zn1,126,P4/nnc,ES (SM),0,0,0,0,1,0,1,165614,1,https://materialsproject.org/materials/icsd/165614
+165902,Al1 Ni2 Ti1,225,Fm-3m,ESFD (SM),1,1,0,0,1,0,1,165902,1,https://materialsproject.org/materials/icsd/165902
+165988,N1 Na3,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,1,165988,1,https://materialsproject.org/materials/icsd/165988
+165989,N1 Na3,191,P6/mmm,ES (SM),0,0,0,0,1,0,1,165989,1,https://materialsproject.org/materials/icsd/165989
+165992,N1 Na3,185,P63cm,Trivial,0,0,0,0,1,0,2,165992 165993,2,https://materialsproject.org/materials/icsd/165992
+166016,As2 Ca1 Fe2,139,I4/mmm,SEBR (TI),0,0,0,0,1,0,4,166016 182277 182278 182279,4,https://materialsproject.org/materials/icsd/166016
+166049,Fe2 S3 Tl1,63,Cmcm,ESFD (SM),1,0,0,0,1,0,1,166049,1,https://materialsproject.org/materials/icsd/166049
+166089,C1 O3 Pb1,62,Pnma,Trivial,1,0,0,0,1,0,2,166089 190074,2,https://materialsproject.org/materials/icsd/166089
+166198,Ga2 O3,12,C2/m,Trivial,0,0,0,0,1,0,2,166198 184327,2,https://materialsproject.org/materials/icsd/166198
+166207,Ba1 F4 Sn1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,166207,1,https://materialsproject.org/materials/icsd/166207
+166255,H1 In1 O2,198,P213,Trivial,0,0,0,0,1,0,2,166255 166256,2,https://materialsproject.org/materials/icsd/166255
+166441,Fe1 Se1,67,Cmme,NLC (TI),1,0,0,0,1,0,9,166441 169295 169299 169303 169306 169309 169311 169313 169315,9,https://materialsproject.org/materials/icsd/166441
+166442,Fe1 Se1,194,P63/mmc,ES (SM),0,0,0,0,1,0,25,166442 166443 166444 169252 169254 169256 169258 169260 169262 169264 169266 169268 169270 169272 169284 169286 169288 169290 169292 169294 169296 169298 169300 169302 169307,25,https://materialsproject.org/materials/icsd/166442
+166456,Fe1 Li1 P1,129,P4/nmm,SEBR (TI),0,0,0,0,1,0,1,166456,1,https://materialsproject.org/materials/icsd/166456
+166589,H12 F6 O6 Sn2 Zn1,2,P-1,Trivial,1,0,0,0,1,0,1,166589,1,https://materialsproject.org/materials/icsd/166589
+166673,Co1 O6 Ta2,136,P42/mnm,ESFD (SM),0,0,0,0,1,0,2,166673 166674,2,https://materialsproject.org/materials/icsd/166673
+167376,Fe1 Na1 O2,166,R-3m,ESFD (SM),0,0,1,0,1,0,3,167376 167377 187705,3,https://materialsproject.org/materials/icsd/167376
+167530,Mo3 O12 Rb2 Se1,173,P63,Trivial,0,0,1,0,1,0,1,167530,1,https://materialsproject.org/materials/icsd/167530
+167531,Mo3 O12 Se1 Tl2,159,P31c,Trivial,0,0,1,0,1,0,1,167531,1,https://materialsproject.org/materials/icsd/167531
+167834,Ca1 Se1,216,F-43m,Trivial,0,0,1,0,1,0,1,167834,1,https://materialsproject.org/materials/icsd/167834
+167858,Ag1 N1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,3,167858 183195 185555,3,https://materialsproject.org/materials/icsd/167858
+168206,As1 Fe1 Li1,67,Cmme,NLC (TI),0,0,0,0,1,0,1,168206,1,https://materialsproject.org/materials/icsd/168206
+168215,Ba2 O6 Re1 Y1,225,Fm-3m,ESFD (SM),1,0,0,0,1,0,2,168215 168216,2,https://materialsproject.org/materials/icsd/168215
+168410,C2 Ba1,139,I4/mmm,Trivial,0,0,0,0,1,0,2,168410 186575,2,https://materialsproject.org/materials/icsd/168410
+168415,Si3 Ti5,193,P63/mcm,SEBR (TI),0,1,0,0,1,0,1,168415,1,https://materialsproject.org/materials/icsd/168415
+168448,K2 Se1,225,Fm-3m,Trivial,0,0,0,1,1,0,2,168448 196758,2,https://materialsproject.org/materials/icsd/168448
+168592,La6 Mn2 S10,193,P63/mcm,ES (SM),0,0,0,0,1,0,1,168592,1,https://materialsproject.org/materials/icsd/168592
+168810,Bi2 O3,160,R3m,Trivial,0,0,1,0,1,0,1,168810,1,https://materialsproject.org/materials/icsd/168810
+168902,Ca1 Mn1 O3,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,4,168902 168903 168905 181782,4,https://materialsproject.org/materials/icsd/168902
+168953,Re1 Ti2,164,P-3m1,ESFD (SM),0,0,0,0,1,0,1,168953,1,https://materialsproject.org/materials/icsd/168953
+169051,H16 Mg7 V1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,169051,1,https://materialsproject.org/materials/icsd/169051
+169052,H16 Mg7 Nb1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,169052,1,https://materialsproject.org/materials/icsd/169052
+169166,Co1 Sb1,194,P63/mmc,SEBR (TI),0,1,0,0,1,0,5,169166 169167 169168 169169 189946,5,https://materialsproject.org/materials/icsd/169166
+169253,Fe1 Se1,129,P4/nmm,SEBR (TI),0,0,0,0,1,0,10,169253 169255 169257 169259 169261 169263 169265 169267 169269 169271,10,https://materialsproject.org/materials/icsd/169253
+169283,Fe1 Se1,67,Cmme,Trivial,1,0,0,0,1,0,2,169283 182545,2,https://materialsproject.org/materials/icsd/169283
+169285,Fe1 Se1,67,Cmme,NLC (TI),1,0,0,0,1,0,1,169285,1,https://materialsproject.org/materials/icsd/169285
+169396,N1 Pd1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,2,169396 191243,2,https://materialsproject.org/materials/icsd/169396
+169407,C1 Sc1,216,F-43m,ESFD (SM),0,0,1,0,1,0,2,169407 189086,2,https://materialsproject.org/materials/icsd/169407
+169468,Co2 Ge1 Ti1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,2,169468 169469,2,https://materialsproject.org/materials/icsd/169468
+169731,Co2 Ga1 Ni1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,169731,1,https://materialsproject.org/materials/icsd/169731
+169766,Cr1 Te1,216,F-43m,NLC (TI),0,0,1,0,1,0,2,169766 181056,2,https://materialsproject.org/materials/icsd/169766
+169767,Cr1 Te1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,169767,1,https://materialsproject.org/materials/icsd/169767
+169974,Fe1 Te1,129,P4/nmm,ES (SM),0,0,0,0,1,0,1,169974,1,https://materialsproject.org/materials/icsd/169974
+169980,H1 Ni1 O2,156,P3m1,ESFD (SM),0,0,1,0,1,0,1,169980,1,https://materialsproject.org/materials/icsd/169980
+170227,Cu1 S4 Ti2,227,Fd-3m,ESFD (SM),1,1,0,0,1,0,1,170227,1,https://materialsproject.org/materials/icsd/170227
+170492,O2 Si1,167,R-3c,Trivial,0,0,0,0,1,0,3,170492 170514 170539,3,https://materialsproject.org/materials/icsd/170492
+170495,O2 Si1,163,P-31c,ES (SM),0,0,0,0,1,0,1,170495,1,https://materialsproject.org/materials/icsd/170495
+170500,O2 Si1,132,P42/mcm,Trivial,0,0,0,0,1,0,1,170500,1,https://materialsproject.org/materials/icsd/170500
+170502,O2 Si1,125,P4/nbm,ES (SM),0,0,0,0,1,0,1,170502,1,https://materialsproject.org/materials/icsd/170502
+170503,O2 Si1,126,P4/nnc,ES (SM),0,0,0,0,1,0,1,170503,1,https://materialsproject.org/materials/icsd/170503
+170504,O2 Si1,210,F4132,ESFD (SM),0,0,1,0,1,0,1,170504,1,https://materialsproject.org/materials/icsd/170504
+170506,O2 Si1,211,I432,ESFD (SM),0,0,1,0,1,0,1,170506,1,https://materialsproject.org/materials/icsd/170506
+170511,O2 Si1,118,P-4n2,Trivial,0,0,1,0,1,0,1,170511,1,https://materialsproject.org/materials/icsd/170511
+170515,O2 Si1,167,R-3c,ES (SM),0,0,0,0,1,0,1,170515,1,https://materialsproject.org/materials/icsd/170515
+170527,O2 Si1,68,Ccce,Trivial,0,0,0,0,1,0,1,170527,1,https://materialsproject.org/materials/icsd/170527
+170532,O2 Si1,116,P-4c2,Trivial,0,0,0,0,1,0,1,170532,1,https://materialsproject.org/materials/icsd/170532
+170533,O2 Si1,48,Pnnn,Trivial,0,0,0,0,1,0,1,170533,1,https://materialsproject.org/materials/icsd/170533
+170535,O2 Si1,50,Pban,Trivial,0,0,0,0,1,0,1,170535,1,https://materialsproject.org/materials/icsd/170535
+170537,O2 Si1,126,P4/nnc,Trivial,0,0,0,0,1,0,1,170537,1,https://materialsproject.org/materials/icsd/170537
+170538,O2 Si1,125,P4/nbm,NLC (TI),0,0,0,1,1,0,1,170538,1,https://materialsproject.org/materials/icsd/170538
+170545,O2 Si1,206,Ia-3,Trivial,0,0,0,0,1,0,1,170545,1,https://materialsproject.org/materials/icsd/170545
+170552,O2 Si1,162,P-31m,SEBR (TI),0,0,0,0,1,0,1,170552,1,https://materialsproject.org/materials/icsd/170552
+170760,H2 As1 In1 O5,2,P-1,Trivial,1,0,0,0,1,0,1,170760,1,https://materialsproject.org/materials/icsd/170760
+170847,O7 P2 Sn2,14,P21/c,Trivial,1,0,0,0,1,0,1,170847,1,https://materialsproject.org/materials/icsd/170847
+171011,C2 H6 O1 Se1,2,P-1,Trivial,1,0,0,0,1,0,1,171011,1,https://materialsproject.org/materials/icsd/171011
+171178,Be1 F4 Tl2,62,Pnma,Trivial,1,0,0,0,1,0,6,171178 171179 171180 171181 171182 171183,6,https://materialsproject.org/materials/icsd/171178
+171430,F2 Sb2 Se4 Sr2,129,P4/nmm,Trivial,0,0,0,0,1,0,1,171430,1,https://materialsproject.org/materials/icsd/171430
+171433,Ba1 Co2 O5 Y1,47,Pmmm,ESFD (SM),0,0,0,0,1,0,1,171433,1,https://materialsproject.org/materials/icsd/171433
+171451,I1 La1,194,P63/mmc,SEBR (TI),1,0,0,0,1,0,1,171451,1,https://materialsproject.org/materials/icsd/171451
+171479,Ba3 Mn1 Nb2 O9,164,P-3m1,ESFD (SM),1,0,0,0,1,0,1,171479,1,https://materialsproject.org/materials/icsd/171479
+171579,Mn1 O3 Ti1,148,R-3,SEBR (TI),1,0,1,1,1,0,2,171579 184649,2,https://materialsproject.org/materials/icsd/171579
+171813,F3 Mg1 Na1,221,Pm-3m,Trivial,1,0,0,0,1,0,2,171813 193089,2,https://materialsproject.org/materials/icsd/171813
+171988,Ba2 Ca1 O6 Os1,225,Fm-3m,ESFD (SM),1,0,0,0,1,0,4,171988 171989 192844 192845,4,https://materialsproject.org/materials/icsd/171988
+172330,Ga1 O6 Sr2 Ta1,87,I4/m,Trivial,1,0,0,0,1,0,1,172330,1,https://materialsproject.org/materials/icsd/172330
+172595,Cl1 N1 Sr2,166,R-3m,Trivial,1,0,0,0,1,0,2,172595 172596,2,https://materialsproject.org/materials/icsd/172595
+172600,Br1 N1 Sr2,166,R-3m,Trivial,1,0,0,0,1,0,2,172600 172601,2,https://materialsproject.org/materials/icsd/172600
+172796,Cu1 F1 S1 Sr1,129,P4/nmm,NLC (TI),0,0,0,0,1,0,1,172796,1,https://materialsproject.org/materials/icsd/172796
+172988,H3 As2 Li1 O7,12,C2/m,Trivial,1,0,0,0,1,0,1,172988,1,https://materialsproject.org/materials/icsd/172988
+173014,Al2 O3,1,P1,Trivial,1,0,0,0,1,0,1,173014,1,https://materialsproject.org/materials/icsd/173014
+173026,Ca5 Sb3,193,P63/mcm,ESFD (SM),1,0,0,0,1,0,1,173026,1,https://materialsproject.org/materials/icsd/173026
+173119,Mg1 Mo1 O6 Sr2,2,P-1,Trivial,1,0,0,0,1,0,1,173119,1,https://materialsproject.org/materials/icsd/173119
+173374,B1 Br3,176,P63/m,Trivial,1,0,0,0,1,0,1,173374,1,https://materialsproject.org/materials/icsd/173374
+173375,B1 I3,176,P63/m,Trivial,1,1,0,0,1,0,1,173375,1,https://materialsproject.org/materials/icsd/173375
+173434,Fe1 O2 Sr1,123,P4/mmm,ES (SM),1,0,0,0,1,0,1,173434,1,https://materialsproject.org/materials/icsd/173434
+173438,Ca1 Fe1 O2,123,P4/mmm,ES (SM),1,0,0,0,1,0,1,173438,1,https://materialsproject.org/materials/icsd/173438
+173487,Ni1 O6 Re1 Sr2,87,I4/m,ESFD (SM),1,0,1,0,1,0,2,173487 173490,2,https://materialsproject.org/materials/icsd/173487
+173488,Co1 O6 Re1 Sr2,87,I4/m,SEBR (TI),1,0,1,1,1,0,1,173488,1,https://materialsproject.org/materials/icsd/173488
+173504,Ba1 Co1 O3,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,173504,1,https://materialsproject.org/materials/icsd/173504
+173552,C6 Ag3 Fe1 N6,162,P-31m,ESFD (SM),0,0,1,0,1,0,2,173552 173553,2,https://materialsproject.org/materials/icsd/173552
+173748,F2 O7 Te2 V2,2,P-1,Trivial,1,0,0,0,1,0,1,173748,1,https://materialsproject.org/materials/icsd/173748
+173760,Co3 S2 Sn2,166,R-3m,ESFD (SM),1,0,0,1,1,0,7,173760 173761 173762 173763 173764 195422 196310,7,https://materialsproject.org/materials/icsd/173760
+173795,La2 O7 Zr2,227,Fd-3m,SEBR (TI),0,0,0,0,1,0,15,173795 184089 184090 184091 184092 184093 184094 184095 184096 184097 184098 184099 184100 184101 184102,15,https://materialsproject.org/materials/icsd/173795
+173842,Ba1 O8 P2 Zr1,164,P-3m1,Trivial,1,0,0,0,1,0,1,173842,1,https://materialsproject.org/materials/icsd/173842
+173863,O5 Te1 Tl1 V1,33,Pna21,Trivial,0,0,1,0,1,0,2,173863 173864,2,https://materialsproject.org/materials/icsd/173863
+174027,Co1 O1,139,I4/mmm,ESFD (SM),0,0,0,0,1,0,1,174027,1,https://materialsproject.org/materials/icsd/174027
+174041,Br3 Cs1 Fe1,194,P63/mmc,Trivial,0,0,0,0,1,0,1,174041,1,https://materialsproject.org/materials/icsd/174041
+174116,Cu1 F4 K2,64,Cmce,ESFD (SM),0,0,0,0,1,0,1,174116,1,https://materialsproject.org/materials/icsd/174116
+174118,O3 Ti1 Y1,62,Pnma,ES (SM),0,1,0,0,1,0,1,174118,1,https://materialsproject.org/materials/icsd/174118
+174289,Ba2 Bi1 Ir1 O6,225,Fm-3m,Trivial,1,0,0,0,1,0,1,174289,1,https://materialsproject.org/materials/icsd/174289
+174342,Al2 B1 La1 Ru2,123,P4/mmm,NLC (TI),1,0,0,0,1,0,1,174342,1,https://materialsproject.org/materials/icsd/174342
+174489,S2 Ti1,164,P-3m1,Trivial,0,1,0,0,1,0,2,174489 181500,2,https://materialsproject.org/materials/icsd/174489
+174577,Pb1 Se2,140,I4/mcm,Trivial,1,0,0,0,1,0,1,174577,1,https://materialsproject.org/materials/icsd/174577
+180138,Ba1 O3 Sn1,221,Pm-3m,Trivial,0,0,0,0,1,0,7,180138 181091 184338 185615 186899 188149 190601,7,https://materialsproject.org/materials/icsd/180138
+180289,Ba1 Li2 O4 Si1,185,P63cm,Trivial,0,0,1,0,1,0,1,180289,1,https://materialsproject.org/materials/icsd/180289
+180314,Ca5 F1 O12 P3,176,P63/m,Trivial,0,0,0,0,1,0,2,180314 193552,2,https://materialsproject.org/materials/icsd/180314
+180324,Al2 O10 Rb2 Si3,43,Fdd2,Trivial,0,0,0,0,1,0,1,180324,1,https://materialsproject.org/materials/icsd/180324
+180389,F1 Fe1 Li1 O4 S1,2,P-1,Trivial,0,0,1,0,1,0,3,180389 182944 194597,3,https://materialsproject.org/materials/icsd/180389
+180457,C1 Ni1,225,Fm-3m,SEBR (TI),0,0,0,0,1,0,1,180457,1,https://materialsproject.org/materials/icsd/180457
+180528,As2 Fe2 O6 Sc2 Sr4,129,P4/nmm,Trivial,0,1,0,0,1,0,1,180528,1,https://materialsproject.org/materials/icsd/180528
+180562,Na1 O2,58,Pnnm,ESFD (SM),0,0,0,0,1,0,1,180562,1,https://materialsproject.org/materials/icsd/180562
+180563,K1 O2,139,I4/mmm,ESFD (SM),0,0,0,0,1,0,2,180563 196755,2,https://materialsproject.org/materials/icsd/180563
+180564,O2 Rb1,139,I4/mmm,ESFD (SM),0,0,0,0,1,0,2,180564 196756,2,https://materialsproject.org/materials/icsd/180564
+180570,Na2 O1,225,Fm-3m,Trivial,0,0,0,0,1,0,1,180570,1,https://materialsproject.org/materials/icsd/180570
+180602,Fe1 Te1,129,P4/nmm,SEBR (TI),0,1,0,0,1,0,1,180602,1,https://materialsproject.org/materials/icsd/180602
+180950,F2 Pb1,225,Fm-3m,Trivial,0,0,0,0,1,0,8,180950 180951 180952 180953 181557 201113 201114 201115,8,https://materialsproject.org/materials/icsd/180950
+180972,Fe1 O1,225,Fm-3m,Trivial,0,0,0,0,1,0,3,180972 180973 180974,3,https://materialsproject.org/materials/icsd/180972
+181074,Ca5 Ge3,140,I4/mcm,ES (SM),0,0,0,1,1,0,1,181074,1,https://materialsproject.org/materials/icsd/181074
+181075,Ca5 Ge3,130,P4/ncc,NLC (TI),0,0,0,0,1,0,1,181075,1,https://materialsproject.org/materials/icsd/181075
+181076,Ca5 Ge3,108,I4cm,ES (SM),0,0,0,0,1,0,1,181076,1,https://materialsproject.org/materials/icsd/181076
+181086,Ca1 O3 Sn1,221,Pm-3m,Trivial,0,0,0,0,1,0,2,181086 181087,2,https://materialsproject.org/materials/icsd/181086
+181089,O3 Sn1 Sr1,221,Pm-3m,Trivial,0,0,0,0,1,0,1,181089,1,https://materialsproject.org/materials/icsd/181089
+181185,B2 Co2 La1,139,I4/mmm,ESFD (SM),0,0,0,1,1,0,3,181185 182572 182573,3,https://materialsproject.org/materials/icsd/181185
+181289,Ru1 Zr1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,1,181289,1,https://materialsproject.org/materials/icsd/181289
+181324,Mn1 Te1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,181324,1,https://materialsproject.org/materials/icsd/181324
+181338,Al1 Ti3,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,181338,1,https://materialsproject.org/materials/icsd/181338
+181465,Mg1 O1,223,Pm-3n,Trivial,0,0,0,1,1,0,1,181465,1,https://materialsproject.org/materials/icsd/181465
+181650,Ga3 Nb1 O14 Si2 Sr3,150,P321,Trivial,0,0,0,0,1,0,1,181650,1,https://materialsproject.org/materials/icsd/181650
+181750,Cr1 O6 Sr2 Zr1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,181750,1,https://materialsproject.org/materials/icsd/181750
+181751,Mn1 Nb1 O6 Sr2,225,Fm-3m,Trivial,0,0,0,0,1,0,1,181751,1,https://materialsproject.org/materials/icsd/181751
+181768,Ir2 Si2 Y1,139,I4/mmm,ESFD (SM),0,1,0,0,1,0,3,181768 181769 188326,3,https://materialsproject.org/materials/icsd/181768
+181770,Ir2 Si2 Y1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,2,181770 188325,2,https://materialsproject.org/materials/icsd/181770
+182001,Mn1 O6 Pb2 Re1,225,Fm-3m,Trivial,1,0,0,0,1,0,1,182001,1,https://materialsproject.org/materials/icsd/182001
+182051,Ca2 Ge1 O4,164,P-3m1,Trivial,0,0,0,1,1,0,1,182051,1,https://materialsproject.org/materials/icsd/182051
+182052,Ca2 O4 Si1,164,P-3m1,Trivial,0,0,0,1,1,0,1,182052,1,https://materialsproject.org/materials/icsd/182052
+182053,Ca2 O4 Si1,186,P63mc,Trivial,0,0,0,0,1,0,2,182053 182054,2,https://materialsproject.org/materials/icsd/182053
+182247,O3 Sr1 Ti1,140,I4/mcm,Trivial,0,0,0,0,1,0,4,182247 182762 182763 182764,4,https://materialsproject.org/materials/icsd/182247
+182248,O3 Sr1 Ti1,46,Ima2,Trivial,0,0,0,0,1,0,1,182248,1,https://materialsproject.org/materials/icsd/182248
+182249,Fe1 S1,129,P4/nmm,Trivial,0,1,0,0,1,0,3,182249 182250 182251,3,https://materialsproject.org/materials/icsd/182249
+182276,As2 Ca1 Fe2,139,I4/mmm,SEBR (TI),0,1,0,0,1,0,4,182276 192309 192310 192311,4,https://materialsproject.org/materials/icsd/182276
+182284,Mn1 O3 Y1,194,P63/mmc,SEBR (TI),1,0,0,0,1,0,1,182284,1,https://materialsproject.org/materials/icsd/182284
+182352,N3 O1 Ta2,191,P6/mmm,ESFD (SM),0,0,0,0,1,0,1,182352,1,https://materialsproject.org/materials/icsd/182352
+182353,F1 N3 Ta2,191,P6/mmm,SEBR (TI),0,0,0,0,1,0,1,182353,1,https://materialsproject.org/materials/icsd/182353
+182484,Cr1 Ni1 Sb1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,182484,1,https://materialsproject.org/materials/icsd/182484
+182485,Mn1 Ni1 Sb1,216,F-43m,ES (SM),0,0,1,1,1,0,1,182485,1,https://materialsproject.org/materials/icsd/182485
+182507,Rh1 Si1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,182507,1,https://materialsproject.org/materials/icsd/182507
+182710,Co1 Nb2 O6,60,Pbcn,ES (SM),0,0,0,0,1,0,2,182710 182711,2,https://materialsproject.org/materials/icsd/182710
+182734,H4 B1 Na1,215,P-43m,Trivial,0,0,0,0,1,0,1,182734,1,https://materialsproject.org/materials/icsd/182734
+182742,K2 Te1,225,Fm-3m,Trivial,0,0,0,1,1,0,1,182742,1,https://materialsproject.org/materials/icsd/182742
+182743,Rb2 Te1,225,Fm-3m,Trivial,0,0,0,0,1,0,1,182743,1,https://materialsproject.org/materials/icsd/182743
+182755,Cs2 Cu3 F12 Zr1,166,R-3m,ESFD (SM),1,0,0,0,1,0,1,182755,1,https://materialsproject.org/materials/icsd/182755
+182761,C1,139,I4/mmm,Trivial,0,0,0,0,1,0,5,182761 190716 190717 190718 190719,5,https://materialsproject.org/materials/icsd/182761
+182829,Mn2 Ru1 Sn1,216,F-43m,NLC (TI),0,0,1,0,1,0,1,182829,1,https://materialsproject.org/materials/icsd/182829
+182830,Mn2 Ru1 Si1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,182830,1,https://materialsproject.org/materials/icsd/182830
+182837,Co2 K1 Se2,139,I4/mmm,ESFD (SM),0,0,0,0,1,0,2,182837 182838,2,https://materialsproject.org/materials/icsd/182837
+182948,Ni1 O1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,3,182948 184626 184918,3,https://materialsproject.org/materials/icsd/182948
+183096,As2 O3,86,P42/n,Trivial,0,0,0,0,1,0,1,183096,1,https://materialsproject.org/materials/icsd/183096
+183110,Ca1 Cu3 O12 Ru4,204,Im-3,ESFD (SM),0,0,0,0,1,0,1,183110,1,https://materialsproject.org/materials/icsd/183110
+183160,C1 Y1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,183160,1,https://materialsproject.org/materials/icsd/183160
+183162,C1 Zr1,216,F-43m,Trivial,0,0,1,0,1,0,1,183162,1,https://materialsproject.org/materials/icsd/183162
+183242,Pb1 S1,221,Pm-3m,Trivial,0,0,0,0,1,0,1,183242,1,https://materialsproject.org/materials/icsd/183242
+183385,La1 Ni3 Rh2,191,P6/mmm,ESFD (SM),0,0,0,0,1,0,1,183385,1,https://materialsproject.org/materials/icsd/183385
+183446,Ca1 Mo1 O4,88,I41/a,Trivial,0,0,0,0,1,0,5,183446 183447 193793 194078 194079,5,https://materialsproject.org/materials/icsd/183446
+183452,O3 Sr1 Tc1,140,I4/mcm,ESFD (SM),1,0,0,0,1,0,1,183452,1,https://materialsproject.org/materials/icsd/183452
+183701,O2 Si1,217,I-43m,Trivial,1,0,0,1,1,0,1,183701,1,https://materialsproject.org/materials/icsd/183701
+183712,Ba1 Cu1 F1 S1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,183712,1,https://materialsproject.org/materials/icsd/183712
+183837,K2 S1,225,Fm-3m,Trivial,0,0,0,1,1,0,1,183837,1,https://materialsproject.org/materials/icsd/183837
+184052,Ba1 Hf1 N2,129,P4/nmm,Trivial,0,0,0,0,1,0,6,184052 184053 184054 184055 184056 184057,6,https://materialsproject.org/materials/icsd/184052
+184078,Co1 O3 Sr1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,184078,1,https://materialsproject.org/materials/icsd/184078
+184375,Fe1 N1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,184375,1,https://materialsproject.org/materials/icsd/184375
+184376,Fe1 N1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,184376,1,https://materialsproject.org/materials/icsd/184376
+184446,Al1 Cr1 Fe2,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,184446,1,https://materialsproject.org/materials/icsd/184446
+184455,O3 Sr1 Ti1,221,Pm-3m,Trivial,0,1,0,0,1,0,10,184455 184921 186725 186895 187296 187480 187619 191828 192314 201256,10,https://materialsproject.org/materials/icsd/184455
+184497,Te1 Zn1,225,Fm-3m,Trivial,0,0,0,0,1,0,1,184497,1,https://materialsproject.org/materials/icsd/184497
+184714,Mg1 Mo1 O6 Te1,18,P21212,Trivial,1,0,1,0,1,0,1,184714,1,https://materialsproject.org/materials/icsd/184714
+184909,Ba2 Fe1 Mo1 O6,225,Fm-3m,Trivial,0,0,0,1,1,0,4,184909 190613 190614 191681,4,https://materialsproject.org/materials/icsd/184909
+184910,Ba2 Co1 Mo1 O6,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,184910,1,https://materialsproject.org/materials/icsd/184910
+184922,K1 O3 Ta1,221,Pm-3m,Trivial,0,1,0,0,1,0,1,184922,1,https://materialsproject.org/materials/icsd/184922
+184925,As1 Mn1,216,F-43m,Trivial,0,0,1,0,1,0,2,184925 191787,2,https://materialsproject.org/materials/icsd/184925
+185106,Cd1 Ni4 Sc1,216,F-43m,ESFD (SM),0,0,1,1,1,0,1,185106,1,https://materialsproject.org/materials/icsd/185106
+185350,O1 Sn1,129,P4/nmm,ES (SM),0,0,0,0,1,0,1,185350,1,https://materialsproject.org/materials/icsd/185350
+185610,Al2 Fe1 O4,227,Fd-3m,ES (SM),0,0,0,0,1,0,2,185610 187920,2,https://materialsproject.org/materials/icsd/185610
+185624,In1 Ni2,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,185624,1,https://materialsproject.org/materials/icsd/185624
+185664,Co1 In1 Ti2,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,185664,1,https://materialsproject.org/materials/icsd/185664
+185693,Ge1 O3 Pb1,221,Pm-3m,Trivial,0,0,0,0,1,0,9,185693 185694 185695 185696 185697 185698 185699 185700 185701,9,https://materialsproject.org/materials/icsd/185693
+185831,La1 O3 V1,62,Pnma,Trivial,1,0,1,0,1,0,1,185831,1,https://materialsproject.org/materials/icsd/185831
+185847,Ba2 O6 W1 Zn1,225,Fm-3m,Trivial,1,0,0,0,1,0,1,185847,1,https://materialsproject.org/materials/icsd/185847
+185882,Al1 Ti2 Zn1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,185882,1,https://materialsproject.org/materials/icsd/185882
+185936,Co2 Fe1 Ge1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,185936,1,https://materialsproject.org/materials/icsd/185936
+185966,Al1 Co2 Ti1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,185966,1,https://materialsproject.org/materials/icsd/185966
+185969,Co2 Si1 Ti1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,2,185969 189222,2,https://materialsproject.org/materials/icsd/185969
+185970,Bi1 Cl1 O1,129,P4/nmm,Trivial,0,0,0,0,1,0,2,185970 195115,2,https://materialsproject.org/materials/icsd/185970
+185972,Bi1 I1 O1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,185972,1,https://materialsproject.org/materials/icsd/185972
+185999,Cr1 Fe2 Sn1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,185999,1,https://materialsproject.org/materials/icsd/185999
+186027,Cu1 O6 Sr2 W1,87,I4/m,ESFD (SM),1,0,0,0,1,0,3,186027 190594 193614,3,https://materialsproject.org/materials/icsd/186027
+186038,Cu1 Mo1 O6 Sr2,87,I4/m,ESFD (SM),1,0,1,0,1,0,1,186038,1,https://materialsproject.org/materials/icsd/186038
+186056,Fe2 In1 Ti1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,186056,1,https://materialsproject.org/materials/icsd/186056
+186057,Fe2 Ge1 Ti1,225,Fm-3m,Trivial,0,0,0,1,1,0,1,186057,1,https://materialsproject.org/materials/icsd/186057
+186059,As1 Fe2 Ti1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,186059,1,https://materialsproject.org/materials/icsd/186059
+186060,Fe2 Sb1 Ti1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,186060,1,https://materialsproject.org/materials/icsd/186060
+186262,H4 B1 Li1,186,P63mc,Trivial,1,0,0,0,1,0,1,186262,1,https://materialsproject.org/materials/icsd/186262
+186572,Fe2 K1 S2,139,I4/mmm,ESFD (SM),0,1,0,0,1,0,1,186572,1,https://materialsproject.org/materials/icsd/186572
+186620,Cu1 In1 O2,194,P63/mmc,Trivial,0,0,0,0,1,0,1,186620,1,https://materialsproject.org/materials/icsd/186620
+186636,Fe1 Sb2,140,I4/mcm,NLC (TI),0,0,0,0,1,0,6,186636 186638 186639 186640 186641 186642,6,https://materialsproject.org/materials/icsd/186636
+186830,Co1 Fe1 Ga1 Mn1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,186830,1,https://materialsproject.org/materials/icsd/186830
+186831,Co1 Fe1 Ge1 Mn1,216,F-43m,Trivial,0,0,1,0,1,0,1,186831,1,https://materialsproject.org/materials/icsd/186831
+186838,Cr1 O2,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,186838,1,https://materialsproject.org/materials/icsd/186838
+187039,O4 Sn1 Zn2,227,Fd-3m,Trivial,0,0,0,0,1,0,1,187039,1,https://materialsproject.org/materials/icsd/187039
+187040,Cd2 O4 Sn1,227,Fd-3m,Trivial,0,0,0,0,1,0,1,187040,1,https://materialsproject.org/materials/icsd/187040
+187133,As1 Fe1 Li1,194,P63/mmc,ES (SM),0,0,0,0,1,0,1,187133,1,https://materialsproject.org/materials/icsd/187133
+187134,Fe1 Li1 P1,63,Cmcm,NLC (TI),0,0,0,0,1,0,1,187134,1,https://materialsproject.org/materials/icsd/187134
+187255,Mg1 Ni1,123,P4/mmm,NLC (TI),0,0,0,0,1,0,1,187255,1,https://materialsproject.org/materials/icsd/187255
+187256,Mg1 Ni1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,1,187256,1,https://materialsproject.org/materials/icsd/187256
+187257,H1 Mg1 Ni1,123,P4/mmm,ESFD (SM),0,0,0,0,1,0,1,187257,1,https://materialsproject.org/materials/icsd/187257
+187292,Ba1 O3 Ti1,123,P4/mmm,Trivial,0,0,0,0,1,0,1,187292,1,https://materialsproject.org/materials/icsd/187292
+187294,Ca1 O3 Ti1,65,Cmmm,Trivial,0,0,0,0,1,0,1,187294,1,https://materialsproject.org/materials/icsd/187294
+187481,O3 Sr1 Zr1,221,Pm-3m,Trivial,0,0,0,0,1,0,3,187481 188448 191829,3,https://materialsproject.org/materials/icsd/187481
+187490,Ge2 K1 O9 V3,194,P63/mmc,Trivial,1,0,0,0,1,0,1,187490,1,https://materialsproject.org/materials/icsd/187490
+187492,Fe1 Ga1 Ni2,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,187492,1,https://materialsproject.org/materials/icsd/187492
+187534,Ir2 O7 Y2,227,Fd-3m,ESFD (SM),1,0,0,1,1,0,1,187534,1,https://materialsproject.org/materials/icsd/187534
+187535,Cs1 Fe2 Se3,63,Cmcm,ESFD (SM),1,0,0,0,1,0,1,187535,1,https://materialsproject.org/materials/icsd/187535
+187596,As1 Ni1 Rh1,129,P4/nmm,ES (SM),0,0,0,0,1,0,1,187596,1,https://materialsproject.org/materials/icsd/187596
+187637,O3 Pb1 V1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,1,187637,1,https://materialsproject.org/materials/icsd/187637
+187662,Mg1 Mo1 O6 Sr2,87,I4/m,Trivial,1,0,0,1,1,0,1,187662,1,https://materialsproject.org/materials/icsd/187662
+187669,Mn1 Mo1 O6 Sr2,87,I4/m,ESFD (SM),1,0,1,1,1,0,1,187669,1,https://materialsproject.org/materials/icsd/187669
+187717,Ir1 N1,131,P42/mmc,Trivial,0,0,0,0,1,0,1,187717,1,https://materialsproject.org/materials/icsd/187717
+187963,Co3 W1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,2,187963 187987,2,https://materialsproject.org/materials/icsd/187963
+187965,Co3 V1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,2,187965 187988,2,https://materialsproject.org/materials/icsd/187965
+187966,Co3 Nb1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,1,187966,1,https://materialsproject.org/materials/icsd/187966
+187969,Co3 Mo1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,1,187969,1,https://materialsproject.org/materials/icsd/187969
+187973,Al1 Co1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,1,187973,1,https://materialsproject.org/materials/icsd/187973
+187981,Co1 Mn1,221,Pm-3m,SEBR (TI),0,0,0,0,1,0,1,187981,1,https://materialsproject.org/materials/icsd/187981
+187983,Co1 Ni1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,187983,1,https://materialsproject.org/materials/icsd/187983
+187991,Co3 Ta1,194,P63/mmc,ES (SM),0,0,0,0,1,0,1,187991,1,https://materialsproject.org/materials/icsd/187991
+188038,Cd1 Mo1 O6 Te1,113,P-421m,Trivial,1,0,1,0,1,0,1,188038,1,https://materialsproject.org/materials/icsd/188038
+188056,Al2 Ba1 O8 Si2,147,P-3,Trivial,1,0,0,0,1,0,2,188056 191252,2,https://materialsproject.org/materials/icsd/188056
+188111,Cu2 Li1 O2,62,Pnma,ES (SM),0,0,0,0,1,0,1,188111,1,https://materialsproject.org/materials/icsd/188111
+188269,Fe1 Nb2,227,Fd-3m,SEBR (TI),0,0,0,0,1,0,1,188269,1,https://materialsproject.org/materials/icsd/188269
+188273,Cr1 Ni2,227,Fd-3m,SEBR (TI),0,0,0,0,1,0,1,188273,1,https://materialsproject.org/materials/icsd/188273
+188397,Al1 Co2 V1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,188397,1,https://materialsproject.org/materials/icsd/188397
+188401,La1 Mn1 O3,221,Pm-3m,Trivial,0,0,0,1,1,0,1,188401,1,https://materialsproject.org/materials/icsd/188401
+188415,Mn1 O3 Sr1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,1,188415,1,https://materialsproject.org/materials/icsd/188415
+188449,O3 Sr1 Zr1,99,P4mm,Trivial,0,0,1,0,1,0,1,188449,1,https://materialsproject.org/materials/icsd/188449
+188466,Bi1 Fe1 O3,99,P4mm,ESFD (SM),0,0,1,0,1,0,2,188466 188467,2,https://materialsproject.org/materials/icsd/188466
+188521,Cu1 Na1 O1,119,I-4m2,Trivial,0,0,0,0,1,0,1,188521,1,https://materialsproject.org/materials/icsd/188521
+188522,Cu1 K1 O1,119,I-4m2,Trivial,0,0,0,0,1,0,1,188522,1,https://materialsproject.org/materials/icsd/188522
+188524,Ag1 Na1 O1,119,I-4m2,Trivial,0,0,0,0,1,0,1,188524,1,https://materialsproject.org/materials/icsd/188524
+188525,Ag1 K1 O1,119,I-4m2,Trivial,0,0,0,0,1,0,1,188525,1,https://materialsproject.org/materials/icsd/188525
+188890,C1 O2,122,I-42d,Trivial,0,0,1,0,1,0,1,188890,1,https://materialsproject.org/materials/icsd/188890
+189155,Cl2 Cu2 O6 Pb1 Te2,4,P21,Trivial,1,0,1,0,1,0,1,189155,1,https://materialsproject.org/materials/icsd/189155
+189174,Bi1 Cu1 O1 Se1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,189174,1,https://materialsproject.org/materials/icsd/189174
+189752,H1 Ca1 Ni5,1,P1,ESFD (SM),0,0,1,1,1,0,2,189752 189753,2,https://materialsproject.org/materials/icsd/189752
+189825,Li1 S2 Ti1,166,R-3m,ESFD (SM),1,0,0,0,1,0,2,189825 189826,2,https://materialsproject.org/materials/icsd/189825
+189844,H12 Br2 Mg1 O6,12,C2/m,Trivial,1,0,0,0,1,0,1,189844,1,https://materialsproject.org/materials/icsd/189844
+189939,F1 Mn1 P1 Sr1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,1,189939,1,https://materialsproject.org/materials/icsd/189939
+189940,As1 F1 Mn1 Sr1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,1,189940,1,https://materialsproject.org/materials/icsd/189940
+189941,F1 Mn1 Sb1 Sr1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,1,189941,1,https://materialsproject.org/materials/icsd/189941
+190042,Fe1 O7 Ti3,44,Imm2,Trivial,0,0,1,0,1,0,1,190042,1,https://materialsproject.org/materials/icsd/190042
+190593,Co1 O6 Sr2 W1,87,I4/m,ESFD (SM),0,0,0,1,1,0,1,190593,1,https://materialsproject.org/materials/icsd/190593
+190647,Mn1 O6 Sb1 Sr2,107,I4mm,Trivial,0,0,1,0,1,0,1,190647,1,https://materialsproject.org/materials/icsd/190647
+190656,As3 Li1 O12 Zr2,167,R-3c,Trivial,0,0,0,0,1,0,1,190656,1,https://materialsproject.org/materials/icsd/190656
+190705,As2 Ba1 Pd2,123,P4/mmm,ES (SM),0,0,0,0,1,0,1,190705,1,https://materialsproject.org/materials/icsd/190705
+190731,Cu1 O4 Sb2,106,P42bc,ES (SM),1,0,1,0,1,0,1,190731,1,https://materialsproject.org/materials/icsd/190731
+190920,K1 Nb1 O3,221,Pm-3m,Trivial,1,0,0,0,1,0,1,190920,1,https://materialsproject.org/materials/icsd/190920
+190921,K1 Nb1 O3,99,P4mm,Trivial,1,0,0,0,1,0,1,190921,1,https://materialsproject.org/materials/icsd/190921
+190937,N2 Na1 Ta1,166,R-3m,Trivial,0,0,0,0,1,0,1,190937,1,https://materialsproject.org/materials/icsd/190937
+190941,B1 Ba2 Br1 O3,164,P-3m1,Trivial,1,0,0,0,1,0,1,190941,1,https://materialsproject.org/materials/icsd/190941
+190996,Mn1 Sc2 Si1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,190996,1,https://materialsproject.org/materials/icsd/190996
+190998,Ge1 Mn1 Sc2,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,190998,1,https://materialsproject.org/materials/icsd/190998
+191009,Al2 Zr1,194,P63/mmc,SEBR (TI),0,0,0,0,1,0,1,191009,1,https://materialsproject.org/materials/icsd/191009
+191113,Al3 Ni5,65,Cmmm,ESFD (SM),1,0,0,0,1,0,1,191113,1,https://materialsproject.org/materials/icsd/191113
+191170,Mn1 Sn1,221,Pm-3m,ESFD (SM),0,0,0,1,1,0,1,191170,1,https://materialsproject.org/materials/icsd/191170
+191171,Mn1 Sn1,216,F-43m,ESFD (SM),0,0,1,1,1,0,1,191171,1,https://materialsproject.org/materials/icsd/191171
+191173,Mn1 Sb1,225,Fm-3m,SEBR (TI),0,0,0,0,1,0,1,191173,1,https://materialsproject.org/materials/icsd/191173
+191175,Mn1 Sb1,216,F-43m,Trivial,0,0,1,0,1,0,2,191175 191786,2,https://materialsproject.org/materials/icsd/191175
+191203,Ba1 O3 V1,221,Pm-3m,ESFD (SM),1,0,0,1,1,0,1,191203,1,https://materialsproject.org/materials/icsd/191203
+191232,N1 Pd3,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,191232,1,https://materialsproject.org/materials/icsd/191232
+191281,Fe1 K2 O7 P2,113,P-421m,Trivial,1,0,1,0,1,0,1,191281,1,https://materialsproject.org/materials/icsd/191281
+191282,Cu1 K2 O7 P2,113,P-421m,ESFD (SM),1,0,1,0,1,0,1,191282,1,https://materialsproject.org/materials/icsd/191282
+191342,O5 Te2,4,P21,Trivial,0,0,1,0,1,0,1,191342,1,https://materialsproject.org/materials/icsd/191342
+191359,O6 Sr2 V1 Zr1,139,I4/mmm,ESFD (SM),0,0,0,1,1,0,1,191359,1,https://materialsproject.org/materials/icsd/191359
+191360,Hf1 O6 Sr2 V1,139,I4/mmm,ESFD (SM),0,0,0,1,1,0,1,191360,1,https://materialsproject.org/materials/icsd/191360
+191364,Co1 Hf1 O6 Sr2,139,I4/mmm,ESFD (SM),0,0,0,0,1,0,1,191364,1,https://materialsproject.org/materials/icsd/191364
+191365,Fe1 O6 Sr2 Zr1,139,I4/mmm,Trivial,0,0,0,0,1,0,1,191365,1,https://materialsproject.org/materials/icsd/191365
+191366,Fe1 Hf1 O6 Sr2,139,I4/mmm,Trivial,0,0,0,0,1,0,1,191366,1,https://materialsproject.org/materials/icsd/191366
+191491,Rb1 Sb1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,191491,1,https://materialsproject.org/materials/icsd/191491
+191493,Rb1 Te1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,191493,1,https://materialsproject.org/materials/icsd/191493
+191563,Ba2 Mg1 O6 Te1,225,Fm-3m,Trivial,1,0,0,0,1,0,1,191563,1,https://materialsproject.org/materials/icsd/191563
+191592,Cs1 Fe1 Mo2 O8,147,P-3,ESFD (SM),0,0,1,1,1,0,1,191592,1,https://materialsproject.org/materials/icsd/191592
+191639,Cs1 N1 Rb1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,191639,1,https://materialsproject.org/materials/icsd/191639
+191640,Cs1 P1 Rb1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,191640,1,https://materialsproject.org/materials/icsd/191640
+191641,As1 Cs1 Rb1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,191641,1,https://materialsproject.org/materials/icsd/191641
+191648,As1 Co1 Mn2,216,F-43m,ES (SM),0,0,1,1,1,0,1,191648,1,https://materialsproject.org/materials/icsd/191648
+191657,Al1 Co1 Fe1 Ti1,216,F-43m,Trivial,0,0,1,1,1,0,1,191657,1,https://materialsproject.org/materials/icsd/191657
+191658,Co1 Fe1 Ga1 Ti1,216,F-43m,ESFD (SM),0,0,1,1,1,0,1,191658,1,https://materialsproject.org/materials/icsd/191658
+191659,Co1 Fe1 Si1 Ti1,216,F-43m,ESFD (SM),0,0,1,1,1,0,1,191659,1,https://materialsproject.org/materials/icsd/191659
+191660,Co1 Fe1 Ge1 Ti1,216,F-43m,ESFD (SM),0,0,1,1,1,0,1,191660,1,https://materialsproject.org/materials/icsd/191660
+191661,As1 Co1 Fe1 Ti1,216,F-43m,ESFD (SM),0,0,1,1,1,0,1,191661,1,https://materialsproject.org/materials/icsd/191661
+191662,Co1 Fe1 Sb1 Ti1,216,F-43m,ESFD (SM),0,0,1,1,1,0,1,191662,1,https://materialsproject.org/materials/icsd/191662
+191664,Co1 Fe1 Ga1 V1,216,F-43m,ESFD (SM),0,0,1,1,1,0,1,191664,1,https://materialsproject.org/materials/icsd/191664
+191667,As1 Co1 Fe1 V1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,191667,1,https://materialsproject.org/materials/icsd/191667
+191668,Co1 Fe1 Sb1 V1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,191668,1,https://materialsproject.org/materials/icsd/191668
+191683,Fe1 Te1 V1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,191683,1,https://materialsproject.org/materials/icsd/191683
+191684,Co1 Cr1 Te1,216,F-43m,ESFD (SM),0,0,1,0,1,0,1,191684,1,https://materialsproject.org/materials/icsd/191684
+191749,Ca2 Pb1,225,Fm-3m,Trivial,0,0,0,0,1,0,1,191749,1,https://materialsproject.org/materials/icsd/191749
+191776,Co1 O1,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,191776,1,https://materialsproject.org/materials/icsd/191776
+191788,Mn1 P1,216,F-43m,Trivial,0,0,1,0,1,0,1,191788,1,https://materialsproject.org/materials/icsd/191788
+191790,Ni1 O3 Y1,14,P21/c,Trivial,1,0,1,0,1,0,1,191790,1,https://materialsproject.org/materials/icsd/191790
+192060,Ba1 Cu1 O7 P2,2,P-1,NLC (TI),1,0,1,0,1,0,1,192060,1,https://materialsproject.org/materials/icsd/192060
+192140,F3 Na1 Ni1,62,Pnma,Trivial,0,0,0,1,1,0,4,192140 192142 192144 200062,4,https://materialsproject.org/materials/icsd/192140
+192327,Co1 Nb1 O6 Sr2,87,I4/m,Trivial,0,0,0,1,1,0,1,192327,1,https://materialsproject.org/materials/icsd/192327
+192404,Na1 Nb1 O3,63,Cmcm,Trivial,1,0,0,1,1,0,2,192404 192405,2,https://materialsproject.org/materials/icsd/192404
+192406,Na1 Nb1 O3,127,P4/mbm,Trivial,1,0,0,1,1,0,1,192406,1,https://materialsproject.org/materials/icsd/192406
+192407,Na1 Nb1 O3,221,Pm-3m,Trivial,1,0,0,0,1,0,2,192407 192408,2,https://materialsproject.org/materials/icsd/192407
+192409,F3 K1 Mg1,221,Pm-3m,Trivial,1,0,0,0,1,0,1,192409,1,https://materialsproject.org/materials/icsd/192409
+192470,Ag1 Fe2 Ga1 Te4,121,I-42m,Trivial,1,0,1,0,1,0,1,192470,1,https://materialsproject.org/materials/icsd/192470
+192566,Ge1 Mn1 Ni2,225,Fm-3m,ESFD (SM),0,0,0,0,1,0,1,192566,1,https://materialsproject.org/materials/icsd/192566
+192774,C2 H6 Cd1 I2 N2 O2,2,P-1,Trivial,1,0,0,0,1,0,1,192774,1,https://materialsproject.org/materials/icsd/192774
+192816,As1 Li1 Mn1,216,F-43m,ESFD (SM),1,0,1,0,1,0,1,192816,1,https://materialsproject.org/materials/icsd/192816
+192817,As1 Li1 Mn1,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,7,192817 192818 192819 192820 192821 192822 192823,7,https://materialsproject.org/materials/icsd/192817
+192873,Bi1 Mn1,194,P63/mmc,ES (SM),0,1,0,0,1,0,9,192873 192874 192875 192876 192877 192878 192879 192880 192881,9,https://materialsproject.org/materials/icsd/192873
+193088,F3 Mg1 Na1,127,P4/mbm,Trivial,1,0,0,0,1,0,1,193088,1,https://materialsproject.org/materials/icsd/193088
+193569,Mg1 Ni3,221,Pm-3m,ES (SM),0,1,0,1,1,0,1,193569,1,https://materialsproject.org/materials/icsd/193569
+194052,C1 Mn3 Sn1,221,Pm-3m,ESFD (SM),0,0,0,0,1,0,1,194052,1,https://materialsproject.org/materials/icsd/194052
+194248,F3 Sc1,221,Pm-3m,Trivial,0,0,0,1,1,0,4,194248 194249 194250 194273,4,https://materialsproject.org/materials/icsd/194248
+194588,Ag2 Fe1 O8 Rb1 V2,147,P-3,ESFD (SM),1,0,1,1,1,0,2,194588 194589,2,https://materialsproject.org/materials/icsd/194588
+194807,B4 Mn1,58,Pnnm,ESFD (SM),1,0,0,0,1,0,1,194807,1,https://materialsproject.org/materials/icsd/194807
+194992,Mg1 O9 Sr3 Ta2,164,P-3m1,Trivial,0,0,0,0,1,0,1,194992,1,https://materialsproject.org/materials/icsd/194992
+195084,Ge1 O3 Sr1,221,Pm-3m,Trivial,1,0,0,0,1,0,1,195084,1,https://materialsproject.org/materials/icsd/195084
+195130,Ba2 Co1 O6 W1,225,Fm-3m,ESFD (SM),0,0,0,1,1,0,1,195130,1,https://materialsproject.org/materials/icsd/195130
+195131,Fe1 Ge2,140,I4/mcm,ES (SM),0,1,0,1,1,0,1,195131,1,https://materialsproject.org/materials/icsd/195131
+195183,Al1 F1 O4 Sr3,140,I4/mcm,Trivial,1,0,0,0,1,0,2,195183 195184,2,https://materialsproject.org/materials/icsd/195183
+195251,Al1 S8 V4,216,F-43m,ESFD (SM),1,0,1,0,1,0,1,195251,1,https://materialsproject.org/materials/icsd/195251
+195256,Ge1 Se8 V4,216,F-43m,Trivial,1,0,1,0,1,0,1,195256,1,https://materialsproject.org/materials/icsd/195256
+195305,O7 P2 Pb1 Pd1,62,Pnma,Trivial,0,0,0,0,1,0,1,195305,1,https://materialsproject.org/materials/icsd/195305
+195306,O14 P4 Pb1 Pd1 Si1,11,P21/m,Trivial,0,0,0,0,1,0,1,195306,1,https://materialsproject.org/materials/icsd/195306
+195432,Co3 In2 S2,166,R-3m,ESFD (SM),1,0,0,0,1,0,1,195432,1,https://materialsproject.org/materials/icsd/195432
+195500,Ca3 Ge4 Ir4,217,I-43m,ESFD (SM),1,1,1,0,1,0,1,195500,1,https://materialsproject.org/materials/icsd/195500
+195647,K3 La1 O9 Te2,194,P63/mmc,Trivial,1,0,0,0,1,0,1,195647,1,https://materialsproject.org/materials/icsd/195647
+195954,Ba2 Ca1 O6 W1,225,Fm-3m,Trivial,1,0,0,0,1,0,1,195954,1,https://materialsproject.org/materials/icsd/195954
+196230,Bi2 O1 S2,129,P4/nmm,Trivial,0,1,0,0,1,0,1,196230,1,https://materialsproject.org/materials/icsd/196230
+196345,H1 N3 O1 Zn1,186,P63mc,Trivial,0,0,1,0,1,0,1,196345,1,https://materialsproject.org/materials/icsd/196345
+196424,B4 Fe1,58,Pnnm,Trivial,0,0,0,0,1,0,1,196424,1,https://materialsproject.org/materials/icsd/196424
+196628,Co1 Fe1 Ge1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,196628,1,https://materialsproject.org/materials/icsd/196628
+200009,Fe2 Na1 O3,164,P-3m1,ESFD (SM),0,0,0,0,1,0,1,200009,1,https://materialsproject.org/materials/icsd/200009
+200109,Br1 F3 Rb1 Sb1,2,P-1,Trivial,0,0,0,0,1,0,1,200109,1,https://materialsproject.org/materials/icsd/200109
+200145,Bi2 O4 Pd1,130,P4/ncc,Trivial,1,0,0,0,1,0,1,200145,1,https://materialsproject.org/materials/icsd/200145
+200211,Cl1 F1 O1 Pb2,67,Cmme,Trivial,1,0,0,0,1,0,3,200211 200212 200213,3,https://materialsproject.org/materials/icsd/200211
+200299,Ba3 Ni1 O9 Sb2,194,P63/mmc,ES (SM),0,0,0,0,1,0,1,200299,1,https://materialsproject.org/materials/icsd/200299
+200637,Al1 F4 Tl1,123,P4/mmm,Trivial,1,0,0,0,1,0,3,200637 202453 202454,3,https://materialsproject.org/materials/icsd/200637
+200638,Al1 F4 Rb1,127,P4/mbm,Trivial,1,0,0,0,1,0,1,200638,1,https://materialsproject.org/materials/icsd/200638
+200709,Li1 S2 Ti1,164,P-3m1,ESFD (SM),1,0,0,0,1,0,1,200709,1,https://materialsproject.org/materials/icsd/200709
+200730,Ge1 O2,152,P3121,Trivial,0,0,1,0,1,0,7,200730 200731 200732 200733 200734 200735 200736,7,https://materialsproject.org/materials/icsd/200730
+201057,Cl9 Cs3 Ru2,194,P63/mmc,Trivial,0,0,0,0,1,0,1,201057,1,https://materialsproject.org/materials/icsd/201057
+201112,Cs1 Fe1 S2,71,Immm,SEBR (TI),1,0,0,0,1,0,1,201112,1,https://materialsproject.org/materials/icsd/201112
+201143,B2 K3 O12 Ta3,189,P-62m,Trivial,1,0,1,0,1,0,1,201143,1,https://materialsproject.org/materials/icsd/201143
+201245,F2 V1,136,P42/mnm,ESFD (SM),1,0,0,0,1,0,1,201245,1,https://materialsproject.org/materials/icsd/201245
+201252,Ca1 F3 Rb1,221,Pm-3m,Trivial,0,0,0,0,1,0,2,201252 201253,2,https://materialsproject.org/materials/icsd/201252
+201436,Au4 Cl8,2,P-1,Trivial,1,0,0,0,1,0,1,201436,1,https://materialsproject.org/materials/icsd/201436
+201620,Bi1 F1 O1,129,P4/nmm,Trivial,0,0,0,0,1,0,1,201620,1,https://materialsproject.org/materials/icsd/201620
+201653,Ba2 F4 O3 W1,9,Cc,Trivial,1,0,1,0,1,0,1,201653,1,https://materialsproject.org/materials/icsd/201653
+201806,H2 O4 W1,62,Pnma,Trivial,1,0,0,0,1,0,1,201806,1,https://materialsproject.org/materials/icsd/201806
+201829,Br3 Cs1 V1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,2,201829 201833,2,https://materialsproject.org/materials/icsd/201829
+201830,Cl3 Rb1 V1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,2,201830 201834,2,https://materialsproject.org/materials/icsd/201830
+201831,Br3 Rb1 V1,194,P63/mmc,ESFD (SM),0,0,0,0,1,0,1,201831,1,https://materialsproject.org/materials/icsd/201831
+201891,K2 Ni1 O2,139,I4/mmm,Trivial,1,0,0,0,1,0,1,201891,1,https://materialsproject.org/materials/icsd/201891
+201940,La2 Ni1 O4,50,Pban,Trivial,1,0,0,0,1,0,1,201940,1,https://materialsproject.org/materials/icsd/201940
+201974,Li1 O5 V2,63,Cmcm,ESFD (SM),1,0,0,0,1,0,1,201974,1,https://materialsproject.org/materials/icsd/201974
+201977,B1 Cl6 Sc4,55,Pbam,ESFD (SM),1,0,0,0,1,0,1,201977,1,https://materialsproject.org/materials/icsd/201977
+201979,Cl6 N1 Sc4,55,Pbam,ESFD (SM),1,0,0,0,1,0,1,201979,1,https://materialsproject.org/materials/icsd/201979
+202077,I1 N3 Rb2,127,P4/mbm,Trivial,1,0,0,0,1,0,1,202077,1,https://materialsproject.org/materials/icsd/202077
+202080,Ge1 Hf1 O4,88,I41/a,Trivial,1,0,0,0,1,0,1,202080,1,https://materialsproject.org/materials/icsd/202080
+202186,Cl1 Fe1 Mo1 O4,129,P4/nmm,ESFD (SM),0,0,0,0,1,0,3,202186 202187 202188,3,https://materialsproject.org/materials/icsd/202186
+202359,H4 Mg3 O9 Si2,185,P63cm,Trivial,0,0,0,0,1,0,1,202359,1,https://materialsproject.org/materials/icsd/202359
+202388,Ba1 Cu1 O6 Se2,15,C2/c,ESFD (SM),1,0,1,0,1,0,1,202388,1,https://materialsproject.org/materials/icsd/202388
+202389,Cu1 O6 Se2 Sr1,15,C2/c,ESFD (SM),1,0,1,0,1,0,1,202389,1,https://materialsproject.org/materials/icsd/202389
+202540,Li1 O2 V1,166,R-3m,Trivial,1,0,0,0,1,0,2,202540 202541,2,https://materialsproject.org/materials/icsd/202540
+202681,Al1 F3,63,Cmcm,Trivial,1,0,0,0,1,0,1,202681,1,https://materialsproject.org/materials/icsd/202681
+202907,Cs1 Mo2 O8 V1,164,P-3m1,Trivial,1,0,1,0,1,0,1,202907,1,https://materialsproject.org/materials/icsd/202907

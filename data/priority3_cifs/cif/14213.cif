@@ -1,0 +1,66 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 14213
+_audit_creation_date 1986-10-10
+_chemical_name_systematic 'Diboron tetrachloride'
+_chemical_formula_structural 'B2 Cl4'
+_chemical_formula_sum 'B2 Cl4'
+_chemical_name_structure_type ClO2
+_exptl_crystal_density_diffrn 1.89
+_cell_measurement_temperature 108.
+_publ_section_title
+'Crystal and Molecular Structure of Diboron Tetrachloride, B2 Cl4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Physics' 1957 27 196 199 JCPSA6
+loop_
+_publ_author_name
+'Atoji, M.'
+'Wheatley, P.J.'
+'Lipscomb, W.N.'
+_cell_length_a 11.900(14)
+_cell_length_b 6.281(6)
+_cell_length_c 7.690(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 574.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cl1- -1
+B2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cl1 Cl1- 8 c 0.0897(1) -.2356(9) 0.1815(3) 1.6 1. 0
+Cl2 Cl1- 8 c -.1474(1) -.2252(11) 0.0502(4) 1.6 1. 0
+B1 B2+ 8 c -.014(1) -.1168(63) 0.0584(17) 1.6 1. 0

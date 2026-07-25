@@ -1,0 +1,67 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 27136
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Iron(III) oxide chloride'
+_chemical_formula_structural 'Fe O Cl'
+_chemical_formula_sum 'Cl1 Fe1 O1'
+_chemical_name_structure_type FeOCl
+_exptl_crystal_density_diffrn 3.62
+_publ_section_title 'Structure cristalline de l'oxychlorure de fer.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences (1884 -
+1965)
+; 1934 198 667 669 COREAF
+loop_
+_publ_author_name
+'Goldsztaub, M.S.'
+_cell_length_a 3.75
+_cell_length_b 7.95
+_cell_length_c 3.3
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 98.38
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n m S'
+_symmetry_Int_Tables_number 59
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, -z+1/2'
+2 'x+1/2, -y, z+1/2'
+3 'x, y, -z'
+4 '-x, y, z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x+1/2, -y, -z+1/2'
+7 '-x, y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 b 0 0.097 0.5 . 1. 0
+O1 O2- 2 a 0 -.083 0 . 1. 0
+Cl1 Cl1- 2 a 0 0.305 0 . 1. 0

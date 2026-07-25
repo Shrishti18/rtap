@@ -1,0 +1,85 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 246777
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Bis(oxalic acid) dihydrate - alpha'
+_chemical_formula_structural '(C O O H)2 (H2 O)2'
+_chemical_formula_sum 'C2 H6 O6'
+_chemical_name_structure_type (COOH)2(H2O)2
+_exptl_crystal_density_diffrn 1.64
+_publ_section_title
+;
+An X-ray study of alpha-oxalic acid dihydrate, (C O O H)2 * 2 H2 O, and its
+deuterium analogue, (C O O D)2 * 2 D2 O: Isotope effect in hydrogen bonding
+and anisotropic extinction effects
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1969 25 2423 2437 ACBCAR
+loop_
+_publ_author_name
+'Delaplane, R.'
+'Ibers, J.A.'
+_cell_length_a 6.119(1)
+_cell_length_b 3.607(1)
+_cell_length_c 12.057(1)
+_cell_angle_alpha 90
+_cell_angle_beta 106.19(1)
+_cell_angle_gamma 90
+_cell_volume 255.56
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C3+ 4 e -0.0454(2) 0.0548(3) 0.0511(1) . 1. 0
+O1 O2- 4 e 0.0848(1) -0.0600(3) 0.1481(1) . 1. 0
+O2 O2- 4 e -0.2201(1) 0.2305(2) 0.0361(1) . 1. 0
+O3 O2- 4 e -0.4512(2) -0.3849(4) 0.1800(1) . 1. 0
+H1 H1+ 4 e 0.4623(20) 0.4953(43) 0.2913(12) . 1. 0
+H2 H1+ 4 e 0.0588(23) 0.1587(45) 0.3795(16) . 1. 0
+H3 H1+ 4 e -0.3869(31) 0.4508(52) 0.1584(18) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 C3+ 0.0180(3) 0.0575(11) 0.0042(1) -0.0010(5) 0.0022(1) -0.0001
+O1 O2- 0.0246(3) 0.1019(10) 0.0037(1) 0.0141(4) 0.0026(1) 0.0009(2)
+O2 O2- 0.0226(3) 0.0974(10) 0.0049(1) 0.0158(4) 0.0039(1) 0.0013(2)
+O3 O2- 0.0230(4) 0.1007(15) 0.0046(1) 0.0104(5) 0.0035(1) 0.0022(2)
+H1 H1+ 0.0305(54) 0.1463(183) 0.0070(14) 0.0012(78) -0.0076(22) -0.0076(43)
+H2 H1+ 0.0281(59) 0.1868(238) 0.0096(17) -0.0200(86) 0.0051(27) -0.0015(49)
+H3 H1+ 0.0608(91) 0.1134(252) 0.0172(25) 0.0227(110) -0.0075(37) 0.0210(63)

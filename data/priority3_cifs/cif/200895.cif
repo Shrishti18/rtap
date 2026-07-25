@@ -1,0 +1,84 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 200895
+_audit_creation_date 1980-12-31
+_chemical_name_systematic 'Cesium dihydrogen phosphate'
+_chemical_formula_structural 'Cs H2 P O4'
+_chemical_formula_sum 'H2 Cs1 O4 P1'
+_chemical_name_structure_type CsH2PO4
+_exptl_crystal_density_diffrn 3.25
+_publ_section_title
+;
+X-ray structural study of ferroelectric cesium dihydrogen phosphate at room
+temperature
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Physical Society of Japan' 1980 48 2011 2014 JUPSAU
+loop_
+_publ_author_name
+'Matsunaga, H.'
+'Itoh, K.'
+'Nakamura, E.'
+_cell_length_a 7.912(2)
+_cell_length_b 6.383(1)
+_cell_length_c 4.8802(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.73(2)
+_cell_angle_gamma 90.
+_cell_volume 234.75
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 e 0.26569(6) 0.25 0.0354(1) . 1. 0
+P1 P5+ 2 e 0.2370(2) 0.75 0.5293(3) . 1. 0
+O1 O2- 2 e 0.3898(6) 0.75 0.3874(10) . 1. 0
+O2 O2- 2 e 0.3222(5) 0.75 0.8447(11) . 1. 0
+O3 O2- 4 f 0.1266(5) 0.5540(7) 0.4178(9) . 1. 0
+H1 H1+ 2 e 0.348(13) 0.75 0.195(24) 0.021(28) 1. 0
+H2 H1+ 2 c 0 0.5 0.5 0.055(41) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0309(2) 0.0260(2) 0.0234(2) 0 0.0064(2) 0
+P1 P5+ 0.0191(7) 0.0241(8) 0.0120(7) 0 0.0075(6) 0
+O1 O2- 0.021(2) 0.037(3) 0.015(2) 0 0.009(2) 0
+O2 O2- 0.043(3) 0.061(4) 0.013(2) 0 0.013(2) 0
+O3 O2- 0.043(2) 0.036(2) 0.042(2) -.012(2) 0.024(2) -.016(2)

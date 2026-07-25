@@ -1,0 +1,90 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 12111
+_audit_creation_date 1980-01-01
+_audit_update_record 1988-05-18
+_chemical_name_systematic
+'mue-oxo-chlorodioxorhenate(VI) tetrachlorooxorhenate(VII)'
+_chemical_formula_structural 'Re2 Cl5 O4'
+_chemical_formula_sum 'Cl5 O4 Re2'
+_exptl_crystal_density_diffrn 4.06
+_publ_section_title
+;
+Crystal structure of the adduct of rhenium tetrachloride oxide and rhenium
+chloride trioxide
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Journal of the Chemical Society. Dalton Transactions, Inorganic Chemistry
+(1972-)
+; 1976 1976 2419 2421 JCDTBI
+loop_
+_publ_author_name
+'Edwards, A.J.'
+_cell_length_a 5.78(1)
+_cell_length_b 6.02(1)
+_cell_length_c 8.08(1)
+_cell_angle_alpha 114.8(3)
+_cell_angle_beta 96.2(3)
+_cell_angle_gamma 95.0(3)
+_cell_volume 250.98
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.059
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re7+ 7
+Re6+ 6
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re7+ 1 a 0 0 0 . 1. 0
+Re2 Re6+ 1 a 0.3456(5) -.0247(6) 0.4391(3) . 1. 0
+Cl1 Cl1- 1 a -.0492(38) 0.3049(36) 0.2733(24) . 1. 0
+Cl2 Cl1- 1 a 0.1546(39) -.3245(34) -.1970(22) . 1. 0
+Cl3 Cl1- 1 a 0.3276(41) 0.2419(46) 0.0077(39) . 1. 0
+Cl4 Cl1- 1 a -.2192(36) -.2682(39) 0.0717(27) . 1. 0
+Cl5 Cl1- 1 a 0.5956(51) 0.3000(46) 0.5981(32) . 1. 0
+O1 O2- 1 a 0.311(10) -.05(1) 0.209(7) 5.6 1. 0
+O2 O2- 1 a -.144(9) 0.061(8) -.152(6) 4.5 1. 0
+O3 O2- 1 a 0.126(9) -.006(9) 0.532(7) 4.7 1. 0
+O4 O2- 1 a 0.510(9) -.270(9) 0.439(6) 4.4 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re7+ 0.0154(22) 0.0265(16) 0.0309(21) 0.0013(13) 0.0017(14) 0.0179(15)
+Re2 Re6+ 0.0514(34) 0.0607(31) 0.0186(18) 0.0205(23) 0.0093(18) 0.0186(18)
+Cl1 Cl1- 0.061(15) 0.063(11) 0.046(8) 0.036(9) 0.026(8) 0.015(8)
+Cl2 Cl1- 0.085(16) 0.047(10) 0.036(8) 0.023(9) 0.016(8) 0.014(7)
+Cl3 Cl1- 0.059(17) 0.086(15) 0.063(12) -.004(11) 0.021(9) 0.035(11)
+Cl4 Cl1- 0.043(14) 0.074(13) 0.062(10) -.005(9) 0.016(8) 0.033(9)
+Cl5 Cl1- 0.094(21) 0.068(15) 0.055(11) -.002(12) 0.002(10) 0.016(10)

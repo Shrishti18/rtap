@@ -1,0 +1,100 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 159479
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Potassium titanium(III) bis(sulfate(VI)) hydrate'
+_chemical_formula_structural 'K Ti (S O4)2 (H2 O)'
+_chemical_formula_sum 'H2 K1 O9 S2 Ti1'
+_chemical_name_structure_type KFe(SO4)2H2O
+_exptl_crystal_density_diffrn 2.77
+_cell_measurement_temperature 150.
+_publ_section_title
+'A new realisation of the S= 1/2 frustrated chain antiferromagnet'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2008 20 8 10 CMATEX
+loop_
+_publ_author_name
+'Nilsen, g.J.'
+'Ronnow, H.M.'
+'Laeuchli, A.M.'
+'Fabbiani, F.P.A.'
+'Sanchez Benitez, J.'
+'Kamenev, K.V.'
+'Harrison, A.'
+_cell_length_a 7.6492(3)
+_cell_length_b 5.2580(2)
+_cell_length_c 9.0485(3)
+_cell_angle_alpha 90
+_cell_angle_beta 101.742(2)
+_cell_angle_gamma 90
+_cell_volume 356.31
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0353
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S6+ 6
+O2- -2
+K1+ 1
+Ti3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S6+ 2 e -0.33585(10) -0.75 0.14439(8) 0.0076 1. 0
+S2 S6+ 2 e 0.16492(9) -0.75 0.38504(8) 0.0069 1. 0
+O1 O2- 4 f -0.2736(2) -0.5214(3) 0.24174(17) 0.0101 1. 0
+O2 O2- 2 e -0.5292(3) -0.75 0.1092(3) 0.0135 1. 0
+O3 O2- 2 e -0.2525(3) -0.75 0.0138(3) 0.0118 1. 0
+O4 O2- 4 f 0.1105(2) -0.5217(3) 0.28805(16) 0.0095 1. 0
+O5 O2- 2 e 0.0631(3) -0.75 0.5065(3) 0.0094 1. 0
+O6 O2- 2 e 0.3561(3) -0.75 0.4377(3) 0.0128 1. 0
+K1 K1+ 2 e 0.57227(8) -0.75 0.71791(8) 0.0125 1. 0
+Ti1 Ti3+ 2 e -0.08646(7) -0.25 0.26611(6) 0.0068 1. 0
+O7 O2- 2 e -0.0875(3) -0.25 0.0401(3) 0.0114 1. 0
+H1 H1+ 2 e 0.005(5) -0.25 -0.003(5) 0.018 1. 0
+H2 H1+ 2 e -0.164(5) -0.25 -0.046(4) 0.018 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S6+ 0.0066(4) 0.0078(4) 0.0083(4) 0. 0.0010(3) 0.
+S2 S6+ 0.0068(4) 0.0069(4) 0.0071(4) 0. 0.0014(3) 0.
+O1 O2- 0.0106(7) 0.0085(8) 0.0112(7) -0.0022(6) 0.0020(6) -0.0026(6)
+O2 O2- 0.0069(11) 0.0161(13) 0.0163(12) 0. -0.0002(9) 0.
+O3 O2- 0.0129(11) 0.0140(13) 0.0090(11) 0. 0.0036(8) 0.
+O4 O2- 0.0101(7) 0.0096(8) 0.0095(7) 0.0022(6) 0.0040(5) 0.0032(6)
+O5 O2- 0.0105(10) 0.0104(11) 0.0077(10) 0. 0.0031(8) 0.
+O6 O2- 0.0069(10) 0.0174(14) 0.0134(12) 0. 0.0001(8) 0.
+K1 K1+ 0.0079(3) 0.0155(4) 0.0140(4) 0. 0.0017(2) 0.
+Ti1 Ti3+ 0.0073(3) 0.0066(3) 0.0064(3) 0. 0.0013(2) 0.
+O7 O2- 0.0141(11) 0.0124(12) 0.0081(10) 0. 0.0028(8) 0.

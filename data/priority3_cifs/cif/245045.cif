@@ -1,0 +1,80 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 245045
+_audit_creation_date 2007-04-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic Trimethoxyborane
+_chemical_formula_structural 'B (O C H3)3'
+_chemical_formula_sum 'C3 H9 B1 O3'
+_chemical_name_structure_type B(OCH3)3
+_exptl_crystal_density_diffrn 1.19
+_cell_measurement_temperature 200.
+_publ_section_title
+;
+The crystal structure of trimethyl borate by neutron and x-ray powder
+diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2007
+633 120 126 ZAACAB
+loop_
+_publ_author_name
+'Hartl, M.A.'
+'Williams, D.J.'
+'Acatrinei, A.I.'
+'Stowe, A.'
+'Daemen, L.L.'
+_cell_length_a 7.053(5)
+_cell_length_b 7.053(5)
+_cell_length_c 6.722(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 289.59
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+B3+ 3
+O2- -2
+C4+ 4
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+B1 B3+ 2 a 0 0 0.25 0.018 1. 0
+O1 O2- 6 h 0.101(4) -0.125(3) 0.25 0.0246 1. 0
+C1 C4+ 6 h 0.353(8) 0.325(8) 0.25 0.0571 1. 0
+H1 H1- 6 h 0.442(3) 0.480(4) 0.25 0.3965 1. 0
+H2 H1- 12 i 0.417(8) 0.279(9) 0.112(8) 0.43 1. 0

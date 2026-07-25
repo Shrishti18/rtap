@@ -1,0 +1,99 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 10474
+_audit_creation_date 1980-12-31
+_chemical_name_systematic 'Cesium scandium(II) chloride'
+_chemical_formula_structural 'Cs Sc Cl3'
+_chemical_formula_sum 'Cl3 Cs1 Sc1'
+_chemical_name_structure_type BaNiO3
+_exptl_crystal_density_diffrn 3.34
+_publ_section_title
+;
+Study of the crystal structures and nonstoichiometry in the system Cs3 Sc2 Cl9
+- Cs Sc Cl3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1980 19 129 134 INOCAJ
+loop_
+_publ_author_name
+'Poeppelmeier, K.R.'
+'Corbett, J.D.'
+'McMullen, T.P.'
+'Torgeson, D.R.'
+'Barnes, R.G.'
+_cell_length_a 7.350(2)
+_cell_length_b 7.350(2)
+_cell_length_c 6.045(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 282.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Cl1- -1
+Sc2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 d 0.3333 0.6667 0.75 . 1. 0
+Cl1 Cl1- 6 h 0.1611(3) -.1611 0.25 . 1. 0
+Sc1 Sc2+ 2 a 0 0 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cs1 Cs1+ 0.0174(5) 0.0174(5) 0.0298(9) 0.0087(3) 0 0
+Cl1 Cl1- 0.0155(9) 0.0155(9) 0.0205(13) 0.0087(9) 0 0
+Sc1 Sc2+ 0.0101(15) 0.0101(15) 0.0376(34) 0.0051(8) 0 0

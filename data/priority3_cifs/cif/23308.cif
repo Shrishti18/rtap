@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 23308
+_audit_creation_date 1980-12-31
+_audit_update_record 1999-01-19
+_chemical_name_systematic 'Oxovanadium(IV) sulfate(VI) pentahydrate - beta'
+_chemical_formula_structural '(V O) (S O4) (H2 O)5'
+_chemical_formula_sum 'H10 O10 S1 V1'
+_chemical_name_mineral Orthostanleyite
+_exptl_crystal_density_diffrn 2.02
+_publ_section_title
+;
+Structure du sulfate de vanadyle pentahydrate V O (H2 O)5 S O4 beta (variete
+orthorhombique)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1980 36 1757 1761 ACBCAR
+loop_
+_publ_author_name
+'Tachez, M.'
+'Theobald, F.R.'
+_cell_length_a 7.234(1)
+_cell_length_b 9.304(1)
+_cell_length_c 6.184(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 416.21
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.0335
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 2 a 0 0.2865(1) 0 . 1. 0
+S1 S6+ 2 a 0 0.7648(1) 0.0230(3) . 1. 0
+O1 O2- 2 a 0 0.3473(5) -.2405(9) . 1. 0
+O2 O2- 2 a 0 0.1713(6) 0.3139(8) . 1. 0
+O3 O2- 4 b 0.2029(5) 0.1388(3) -.0461(6) . 1. 0
+O4 O2- 4 b 0.1951(5) 0.4143(4) 0.1318(8) . 1. 0
+O5 O2- 4 b 0.1670(4) 0.8570(3) 0.0418(6) . 1. 0
+O6 O2- 2 a 0 0.6611(6) 0.2026(10) . 1. 0
+O7 O2- 2 a 0 0.6915(6) -.1855(9) . 1. 0
+H1 H1+ 4 b 0.087(6) 0.166(5) 0.390(9) 0.023(14) 1. 0
+H2 H1+ 4 b 0.182(3) 0.048(1) -.061(18) 0.140(44) 1. 0
+H3 H1+ 4 b 0.282(8) 0.155(9) -.146(10) 0.089(34) 1. 0
+H4 H1+ 4 b 0.171(9) 0.466(6) 0.205(11) 0.057(19) 1. 0
+H5 H1+ 4 b 0.313(8) 0.389(6) 0.18(1) 0.038(16) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V4+ 0.0189(4) 0.0145(3) 0.0208(4) 0.0018(4) 0 0
+S1 S6+ 0.0155(4) 0.0153(4) 0.0205(7) -.0032(6) 0 0
+O1 O2- 0.0475(30) 0.0248(22) 0.0259(23) 0.0084(20) 0 0
+O2 O2- 0.0231(20) 0.0377(25) 0.0174(19) 0.0036(19) 0 0
+O3 O2- 0.0307(16) 0.0199(11) 0.0320(18) 0.0033(12) 0.0128(14) 0.0057(12)
+O4 O2- 0.0237(15) 0.0217(14) 0.0518(23) -.0037(16) -.0097(17) 0.0003(13)
+O5 O2- 0.0166(10) 0.0221(10) 0.0289(18) -.0010(12) -.0015(12) -.0033(9)
+O6 O2- 0.0370(29) 0.0191(23) 0.0239(25) 0.0059(20) 0 0
+O7 O2- 0.0252(24) 0.0309(29) 0.0260(23) -.0127(20) 0 0

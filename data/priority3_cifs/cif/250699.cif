@@ -1,0 +1,100 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 250699
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Iron(II) bis(thiocyanate) bis(acetonitrile)'
+_chemical_formula_structural 'Fe (N C S)2 (O C (C H3)2)2'
+_chemical_formula_sum 'C8 H12 Fe1 N2 O2 S2'
+_exptl_crystal_density_diffrn 1.53
+_cell_measurement_temperature 100.
+_publ_section_title
+;
+Extended network thiocyanate- and tetracyanoethanide-based first-row
+transition metal complexes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 9655 9665 INOCAJ
+loop_
+_publ_author_name
+'Shurdha, Endrit'
+'Lapidus, Saul H.'
+'Stephens, Peter W.'
+'Moore, Curtis E.'
+'Rheingold, Arnold L.'
+'Miller, Joel S.'
+_cell_length_a 5.7215(8)
+_cell_length_b 7.6941(11)
+_cell_length_c 7.8456(12)
+_cell_angle_alpha 109.864(2)
+_cell_angle_beta 99.983(2)
+_cell_angle_gamma 97.286(2)
+_cell_volume 313.41
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0278
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+S2- -2
+O2- -2
+N3- -3
+C2+ 2.67
+H1- -1
+C2+ 2.67
+H1- -1
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 1 h 0.5 0.5 0.5 0.01462(16) 1 0
+S1 S2- 2 i 0.84344(9) 0.71590(8) 0.78033(8) 0.01968(17) 1 0
+O1 O2- 2 i 0.4707(3) 0.2902(2) 0.6243(2) 0.0217(4) 1 0
+N1 N3- 2 i 1.2573(3) 0.6197(3) 0.6537(3) 0.0181(4) 1 0
+C1 C2+ 2 i 0.8533(4) 0.2072(4) 0.6998(4) 0.0273(5) 1 0
+H1 H1- 2 i 0.9007 0.2725 0.6227 0.041 1 0
+H2 H1- 2 i 0.8704 0.0783 0.6486 0.041 1 0
+H3 H1- 2 i 0.9545 0.2669 0.8233 0.041 1 0
+C2 C2+ 2 i 0.5960(4) 0.2132(3) 0.7071(3) 0.0213(5) 1 0
+C3 C2+ 2 i 0.4918(4) 0.1179(4) 0.8229(4) 0.0269(5) 1 0
+H4 H1- 2 i 0.3264 0.1311 0.8182 0.04 1 0
+H5 H1- 2 i 0.5839 0.1751 0.9496 0.04 1 0
+H6 H1- 2 i 0.4984 -0.0136 0.7752 0.04 1 0
+C4 C4+ 2 i 1.0870(4) 0.6586(3) 0.7063(3) 0.0159(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe2+ 0.0107(2) 0.0205(3) 0.0166(2) 0.00445(17) 0.00504(17) 0.01029(19)
+S1 S2- 0.0134(3) 0.0277(3) 0.0173(3) 0.0060(2) 0.0053(2) 0.0059(2)
+O1 O2- 0.0192(8) 0.0277(9) 0.0238(8) 0.0052(7) 0.0043(6) 0.0165(7)
+N1 N3- 0.0136(9) 0.0242(10) 0.0173(9) 0.0032(7) 0.0035(7) 0.0089(8)
+C1 C2+ 0.0224(12) 0.0355(14) 0.0325(14) 0.0078(10) 0.0070(10) 0.0220(12)
+C2 C2+ 0.0228(12) 0.0231(12) 0.0176(11) 0.0029(9) 0.0021(9) 0.0087(9)
+C3 C2+ 0.0263(13) 0.0339(14) 0.0287(13) 0.0078(10) 0.0085(10) 0.0199(11)
+C4 C4+ 0.0150(11) 0.0186(11) 0.0125(10) 0.0001(8) -0.0003(8) 0.0066(9)

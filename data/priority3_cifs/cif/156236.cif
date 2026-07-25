@@ -1,0 +1,77 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 156236
+_audit_creation_date 2007-08-01
+_audit_update_record 2008-08-01
+_chemical_name_systematic 'Hexatin tetraoxide silicate'
+_chemical_formula_structural 'Sn6 O4 (Si O4)'
+_chemical_formula_sum 'O8 Si1 Sn6'
+_exptl_crystal_density_diffrn 5.12
+_publ_section_title
+;
+The structures of two novel Sn(2+) oxysalts found with romarchite and
+hydroromarchite as corrosion products of pewter artifacts
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2006 44 1457 1468 CAMIA6
+loop_
+_publ_author_name
+'Locock, A.J.'
+'Ramik, R.A.'
+'Back, M.E.'
+_cell_length_a 7.3742(4)
+_cell_length_b 7.3742(4)
+_cell_length_c 11.9598(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 563.23
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn2+ 6 c 0.82637(4) 0.17363(4) 0.59214(6) 0.03065(15) 1. 0
+Sn2 Sn2+ 6 c 0.49272(5) 0.50728(5) 0.85203(4) 0.02947(15) 1. 0
+Si1 Si4+ 2 b 0.3333 0.6667 0.5963(4) 0.0146(6) 1. 0
+O1 O2- 6 c 0.4547(4) 0.9094(8) 0.5477(4) 0.0275(13) 1. 0
+O2 O2- 2 b 0.3333 0.6667 0.7307(8) 0.024(2) 1. 0
+O3 O2- 2 b 0.6667 0.3333 0.6177(7) 0.0118(17) 1. 0
+O4 O2- 6 c 0.1946(4) 0.3892(7) 0.9208(4) 0.0167(10) 1. 0

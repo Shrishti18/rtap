@@ -1,0 +1,90 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 240330
+_audit_creation_date 2007-04-01
+_chemical_name_systematic Osmiumdioxidtrifluorid
+_chemical_formula_structural 'F6 O4 Os2'
+_chemical_formula_sum 'F6 O4 Os2'
+_exptl_crystal_density_diffrn 5.72
+_publ_section_title 'Osmium(VII) Fluorine Compounds'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2006 45 7929 7934 INOCAJ
+loop_
+_publ_author_name
+'Shorafa, H.'
+'Seppelt, K.'
+_cell_length_a 5.4057(5)
+_cell_length_b 5.0131(5)
+_cell_length_c 12.1373(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.896(3)
+_cell_angle_gamma 90.
+_cell_volume 324.02
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 c 1'
+_symmetry_Int_Tables_number 7
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Os6+ 6
+F1- -1
+O2- -2
+Os8+ 8
+F1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Os1 Os6+ 2 a 0.81777(5) 0.48143(6) 0.44372(3) 0.00930(8) 1 0
+F1 F1- 2 a 0.9466(16) 0.2936(14) 0.5920(7) 0.0120(13) 1 0
+F2 F1- 2 a 1.0340(16) 0.7985(14) 0.5026(7) 0.0121(13) 1 0
+F3 F1- 2 a 1.1225(18) 0.3623(15) 0.4117(7) 0.0135(13) 1 0
+F4 F1- 2 a 0.748(2) 0.6450(15) 0.3081(8) 0.0152(15) 1 0
+F5 F1- 2 a 0.6604(15) 0.1726(15) 0.3911(9) 0.0146(14) 1 0
+O1 O2- 2 a 0.583(2) 0.6118(18) 0.5050(10) 0.0129(15) 1 0
+Os2 Os8+ 2 a 1.17800(5) -0.03159(6) 0.66254(3) 0.01154(9) 1 0
+F6 F1- 2 a 0.8621(18) -0.1372(15) 0.6799(8) 0.0177(15) 1 0
+O2 O2- 2 a 1.320(2) -0.3297(14) 0.7023(9) 0.0141(15) 1 0
+O3 O2- 2 a 1.243(2) 0.1387(17) 0.7863(9) 0.0155(17) 1 0
+O4 O2- 2 a 1.3840(19) 0.1124(16) 0.5886(9) 0.0120(15) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Os1 Os6+ 0.01201(16) 0.00654(12) 0.00920(16) 0.00070(14) 0.00140(12) 0.00156(14)
+F1 F1- 0.015(4) 0.012(3) 0.008(3) 0.005(2) 0.000(2) 0.003(2)
+F2 F1- 0.015(4) 0.010(2) 0.011(3) -0.004(2) 0.001(3) -0.003(2)
+F3 F1- 0.013(3) 0.014(3) 0.014(3) 0.001(2) 0.002(2) -0.005(2)
+F4 F1- 0.021(4) 0.014(3) 0.008(3) 0.001(3) -0.003(3) 0.007(2)
+F5 F1- 0.014(3) 0.008(2) 0.021(3) -0.003(2) 0.000(3) -0.003(2)
+O1 O2- 0.005(3) 0.020(3) 0.014(3) 0.002(2) 0.000(3) -0.001(3)
+Os2 Os8+ 0.0178(2) 0.00605(12) 0.01059(18) 0.00006(15) 0.00204(15) -0.00133(15)
+F6 F1- 0.019(4) 0.018(3) 0.019(3) -0.003(2) 0.008(3) -0.004(2)
+O2 O2- 0.021(4) 0.007(2) 0.013(3) 0.003(3) -0.002(3) 0.000(3)
+O3 O2- 0.021(5) 0.013(3) 0.012(3) 0.004(3) 0.003(3) 0.001(3)
+O4 O2- 0.013(4) 0.007(3) 0.015(3) 0.001(2) 0.002(3) 0.005(2)

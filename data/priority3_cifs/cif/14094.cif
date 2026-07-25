@@ -1,0 +1,82 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 14094
+_audit_creation_date 1980-12-31
+_chemical_name_systematic 'Cesium trio-trisulfide'
+_chemical_formula_structural 'Cs2 S3'
+_chemical_formula_sum 'Cs2 S3'
+_chemical_name_structure_type K2S3
+_exptl_crystal_density_diffrn 3.51
+_publ_section_title
+;
+Darstellung und Kristallstruktur der Dialkalimetalltrichalkogenide Rb2 S3, Rb2
+Se3, Cs2 S3 und Cs2 Se3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1980
+461 13 21 ZAACAB
+loop_
+_publ_author_name
+'Boettcher, P.'
+_cell_length_a 7.712(3)
+_cell_length_b 10.939(4)
+_cell_length_c 8.111(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 684.26
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+S0+ 0
+S1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 a 0 0.1035(3) 0.9654(12) . 1. 0
+Cs2 Cs1+ 4 a 0 0.5673(4) 0.6839(11) . 1. 0
+S1 S0+ 4 a 0 0.7892(9) 0 . 1. 0
+S2 S1- 8 b 0.2197(11) 0.8348(10) 0.8551(17) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0395(27) 0.0258(17) 0.0405(24) 0 0 -.0043(22)
+Cs2 Cs1+ 0.0423(30) 0.0359(25) 0.0357(25) 0 0 0.0032(23)
+S1 S0+ 0.0125(52) 0.0056(56) 0.004(6) 0 0 0.0027(43)
+S2 S1- 0.0334(64) 0.0337(49) 0.0310(65) 0.0011(57) 0.0043(62) -.0009(41)

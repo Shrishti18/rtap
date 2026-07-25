@@ -1,0 +1,87 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 202388
+_audit_creation_date 1988-05-17
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Barium copper diselenate(IV) - modification III'
+_chemical_formula_structural 'Ba Cu (Se O3)2'
+_chemical_formula_sum 'Ba1 Cu1 O6 Se2'
+_chemical_name_structure_type BaCu(SeO3)2
+_exptl_crystal_density_diffrn 4.59
+_publ_section_title
+;
+Three modifications of Ba Cu (Se O3)2 and the compound Sr Cu (Se O3)2:
+Preparation and crystal structure determination
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1987 70 303 312 JSSCBI
+loop_
+_publ_author_name
+'Effenberger, H.'
+_cell_length_a 8.031(1)
+_cell_length_b 5.185(1)
+_cell_length_c 15.823(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.83(1)
+_cell_angle_gamma 90.
+_cell_volume 658.81
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Cu2+ 2
+Se4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 e 0 -.01597(4) 0.25 . 1. 0
+Cu1 Cu2+ 4 a 0 0 0 . 1. 0
+Se1 Se4+ 8 f 0.36468(4) 0.00317(4) 0.09213(2) . 1. 0
+O1 O2- 8 f 0.3218(3) 0.0348(5) 0.1947(2) . 1. 0
+O2 O2- 8 f 0.5231(3) 0.2210(4) 0.0820(2) . 1. 0
+O3 O2- 8 f 0.4727(4) -.2787(4) 0.0959(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0104(1) 0.0162(1) 0.0125(1) 0 0.0026(1) 0
+Cu1 Cu2+ 0.0150(2) 0.0095(2) 0.0131(2) -.0010(1) 0.0018(2) 0.0005(1)
+Se1 Se4+ 0.0112(1) 0.0125(1) 0.0127(1) -.0004(1) 0.0008(1) -.0004(1)
+O1 O2- 0.016(1) 0.033(1) 0.017(1) -.006(1) 0.007(1) -.005(1)
+O2 O2- 0.017(1) 0.016(1) 0.022(1) -.005(1) -.001(1) 0.005(1)
+O3 O2- 0.035(2) 0.013(1) 0.016(1) 0.007(1) -.002(1) -.001(1)

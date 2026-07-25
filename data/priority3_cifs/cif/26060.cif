@@ -1,0 +1,86 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 26060
+_audit_creation_date 1986-10-16
+_chemical_name_systematic 'Cesium octabromodirhenate(III)'
+_chemical_formula_structural 'Cs2 Re2 Br8'
+_chemical_formula_sum 'Br8 Cs2 Re2'
+_exptl_crystal_density_diffrn 5.12
+_publ_section_title
+;
+Some Reactions of the Octahalodirhenate(III) Ions. VIII. Definitive Structural
+Characterization of the Octabromodirhenate(III) Ion
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1970 9 2143 2146 INOCAJ
+loop_
+_publ_author_name
+'Cotton, F.A.'
+'de Boer, B.G.'
+'Jeremic, M.'
+_cell_length_a 12.625(4)
+_cell_length_b 12.953(4)
+_cell_length_c 10.141(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1658.37
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re3+ 3
+Cs1+ 1
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re3+ 8 c 0.0154(1) 0.0704(1) 0.0600(1) . 1. 0
+Cs1 Cs1+ 8 c -.3072(2) 0.1359(2) -.1608(2) . 1. 0
+Br1 Br1- 8 c 0.0640(3) 0.0029(3) 0.2801(3) . 1. 0
+Br2 Br1- 8 c -.1585(3) 0.1146(3) 0.1558(4) . 1. 0
+Br3 Br1- 8 c -.0155(3) 0.2189(3) -.0899(3) . 1. 0
+Br4 Br1- 8 c 0.2068(3) 0.1052(3) 0.0247(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Re1 Re3+ 0.0040(1) 0.0029(1) 0.0063(2) -.0002(1) -.0002(1) -.0003(1)
+Cs1 Cs1+ 0.0088(2) 0.0053(2) 0.0135(3) 0.0021(2) -.0034(3) -.0026(2)
+Br1 Br1- 0.0066(3) 0.0063(3) 0.0074(1) 0.0002(3) -.0014(3) 0.0005(3)
+Br2 Br1- 0.0059(3) 0.0048(3) 0.0096(4) 0.0006(3) 0.0014(3) 0.0008(3)
+Br3 Br1- 0.0076(4) 0.0036(3) 0.0115(5) 0.0008(3) 0.0002(3) 0.0018(3)
+Br4 Br1- 0.0043(3) 0.0047(3) 0.0112(4) -.0005(2) -.0003(3) 0.0000(3)

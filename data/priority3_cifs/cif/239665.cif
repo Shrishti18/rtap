@@ -1,0 +1,80 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 239665
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Tripotassium dizinc heptachloride'
+_chemical_formula_structural 'K3 Zn2 Cl7'
+_chemical_formula_sum 'Cl7 K3 Zn2'
+_chemical_name_mineral Mellizinkalite
+_exptl_crystal_density_diffrn 2.49
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+New zinc and potassium chlorides from fumaroles of the Tolbachik volcano,
+Kamchatka, Russia: mineral data and crystal chemistry. I. Mellizinkalite, K3
+Zn2 Cl7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 2015 27 247 253 EJMIER
+loop_
+_publ_author_name
+'Pekov, Igor V.'
+'Zubkova, Natalia V.'
+'Yapaskurt, Vasiliy O.'
+'Lykova, Inna S.'
+'Belakovskiy, Dmitry I.'
+'Vigasina, Marina F.'
+'Sidorov, Evgeny G.'
+'Britvin, Sergey N.'
+'Pushcharovsky, Dmitry Yu.'
+_cell_length_a 6.7737(4)
+_cell_length_b 10.5715(13)
+_cell_length_c 11.0730(9)
+_cell_angle_alpha 117.930(10)
+_cell_angle_beta 106.909(6)
+_cell_angle_gamma 90.389(8)
+_cell_volume 660.61
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Zn2+ 2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 i 0.3886(4) 0.9051(3) 0.7798(3) 0.0429(6) 1. 0
+K2 K1+ 2 i 0.9033(4) 0.1883(3) -0.2240(3) 0.0475(7) 1. 0
+K3 K1+ 2 i 0.1332(4) 0.4129(3) 0.2860(3) 0.0514(8) 1. 0
+Zn1 Zn2+ 2 i 0.5070(2) 0.34275(14) 0.01227(18) 0.0386(4) 1. 0
+Zn2 Zn2+ 2 i 0.64580(18) 0.73248(14) 0.44018(14) 0.0333(3) 1. 0
+Cl1 Cl1- 2 i 0.6745(5) 0.8392(3) 0.3103(4) 0.0465(8) 1. 0
+Cl2 Cl1- 2 i 0.6950(5) 0.4985(3) 0.3492(4) 0.0502(8) 1. 0
+Cl3 Cl1- 2 i 0.2785(4) 0.1995(3) 0.0271(3) 0.0328(6) 1. 0
+Cl4 Cl1- 2 i 0.2754(4) 0.5033(3) 0.0105(3) 0.0402(7) 1. 0
+Cl5 Cl1- 2 i 0.7453(4) 0.1971(3) 0.0155(3) 0.0338(6) 1. 0
+Cl6 Cl1- 2 i 0.3141(4) 0.7327(3) 0.4523(3) 0.0394(6) 1. 0
+Cl7 Cl1- 2 i 0.8630(5) 0.8586(3) 0.6733(3) 0.0493(8) 1. 0

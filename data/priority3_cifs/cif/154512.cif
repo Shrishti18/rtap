@@ -1,0 +1,95 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 154512
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Dipotassium selenate(VI) - telluric acid (1/1)'
+_chemical_formula_structural '(K2 (Se O4)) (Te (O H)6)'
+_chemical_formula_sum 'H6 K2 O10 Se1 Te1'
+_exptl_crystal_density_diffrn 3.
+_publ_section_title
+'Neutron structural and vibrational studies of dipotassium selenate tellurate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2006 407 176 181 JALCEU
+loop_
+_publ_author_name
+'Dammak, M.'
+'Mhiri, T.'
+'Cousson, A.'
+_cell_length_a 11.572(9)
+_cell_length_b 6.437(7)
+_cell_length_c 13.938(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.07(7)
+_cell_angle_gamma 90.
+_cell_volume 997.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0363
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te6+ 6
+Se6+ 6
+K1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te6+ 4 d 0.75 0.75 0.5 0.0105(1) 1. 0
+Se1 Se6+ 4 e 0 0.7876(1) 0.25 0.0107(1) 1. 0
+K1 K1+ 8 f 0.85075(16) 0.3009(3) 0.3587(2) 0.0267(2) 1. 0
+O1 O2- 8 f 0.73227(9) 0.78451(2) 0.63249(7) 0.0191(4) 1. 0
+O2 O2- 8 f 0.90033(8) 0.6103(2) 0.55328(8) 0.0206(4) 1. 0
+O3 O2- 8 f 0.66963(9) 0.4611(2) 0.48971(7) 0.0199(4) 1. 0
+O4 O2- 8 f 0.88302(9) 0.6411(2) 0.20131(9) 0.0253(4) 1. 0
+O5 O2- 8 f 0.03305(9) 0.9316(2) 0.16392(8) 0.0221(4) 1. 0
+H1 H1+ 8 f 0.6619(2) 0.7050(4) 0.6389(2) 0.0318(2) 1. 0
+H2 H1+ 8 f 0.8926(2) 0.5144(4) 0.60691(2) 0.0316(2) 1. 0
+H3 H1+ 8 f 0.5958(2) 0.4808(3) 0.4335(2) 0.0299(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te6+ 0.0110(4) 0.0117(4) 0.0093(4) 0.0002(3) 0.0037(3) -0.0004(3)
+Se1 Se6+ 0.0107(3) 0.0124(3) 0.0093(3) 0. 0.0033(2) 0.
+K1 K1+ 0.0201(6) 0.0193(7) 0.0401(9) 0.0017(5) 0.0074(6) -0.0005(6)
+O1 O2- 0.0245(4) 0.0223(4) 0.0127(3) -0.0014(3) 0.0087(3) -0.0023(3)
+O2 O2- 0.0132(3) 0.0243(4) 0.0251(4) 0.0053(3) 0.0066(3) 0.0091(3)
+O3 O2- 0.0229(4) 0.0157(4) 0.0180(4) -0.0060(3) 0.0005(3) 0.0014(3)
+O4 O2- 0.0208(4) 0.0299(5) 0.0269(5) -0.0107(4) 0.0094(3) -0.0128(4)
+O5 O2- 0.0208(4) 0.0255(4) 0.0212(4) 0.0021(3) 0.0080(3) 0.0109(3)
+H1 H1+ 0.0363(9) 0.0355(9) 0.0285(8) -0.0043(8) 0.0172(7) -0.0016(7)
+H2 H1+ 0.0260(7) 0.0349(9) 0.0335(9) 0.0070(7) 0.0076(7) 0.0124(8)
+H3 H1+ 0.0270(7) 0.0322(9) 0.0273(8) -0.0060(7) 0.0021(6) -0.0024(6)

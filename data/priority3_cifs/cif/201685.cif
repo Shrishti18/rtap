@@ -1,0 +1,73 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 201685
+_audit_creation_date 1986-04-14
+_audit_update_record 1998-06-26
+_chemical_name_systematic 'Dibismuth molybdenum oxide'
+_chemical_formula_structural 'Bi2 Mo O6'
+_chemical_formula_sum 'Bi2 Mo1 O6'
+_chemical_name_structure_type Bi2WO6(oP36)
+_chemical_name_mineral Koechlinite
+_exptl_crystal_density_diffrn 8.25
+_publ_section_title
+;
+The structure of Koechlinite bismuth molybdate. A controversy resolved by
+neutron diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Ferroelectrics 1984 56 219 237 FEROA8
+loop_
+_publ_author_name
+'Theobald, F.R.'
+'Laarif, A.'
+'Hewat, A.W.'
+_cell_length_a 5.4896(3)
+_cell_length_b 16.22658(70)
+_cell_length_c 5.5131(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 491.09
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+_refine_ls_R_factor_all 0.063
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 a 0.519(1) 0.4231(4) 0.983(2) 0.15(11) 1. 0
+Bi2 Bi3+ 4 a 0.483(1) 0.0786(5) 0.989(2) 0.86(16) 1. 0
+Mo1 Mo6+ 4 a 0.001(2) 0.2479(6) 0 0.94(7) 1. 0
+O1 O2- 4 a 0.049(2) 0.1428(6) 0.091(2) 1.04(19) 1. 0
+O2 O2- 4 a 0.259(1) 0.9956(5) 0.271(2) 0.39(15) 1. 0
+O3 O2- 4 a 0.242(2) 0.5048(5) 0.272(2) 0.97(18) 1. 0
+O4 O2- 4 a 0.698(2) 0.2297(5) 0.251(2) 1.06(14) 1. 0
+O5 O2- 4 a 0.207(2) 0.2624(6) 0.360(2) 1.84(15) 1. 0
+O6 O2- 4 a 0.572(2) 0.3602(9) 0.575(2) 2.19(34) 1. 0

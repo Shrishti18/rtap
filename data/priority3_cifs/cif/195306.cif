@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 195306
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Lead palladium silicon bis(heptaoxodiphosphate)'
+_chemical_formula_structural 'Pb Pd Si (P2 O7)2'
+_chemical_formula_sum 'O14 P4 Pb1 Pd1 Si1'
+_exptl_crystal_density_diffrn 4.6
+_cell_measurement_temperature 293.
+_publ_section_title 'Neue Phosphate der Edelmetalle'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dissertation Universit?t Bonn' 2009 2009 1 310 DUMMY9
+loop_
+_publ_author_name
+'Panagiotidis, Konstantinos'
+_cell_length_a 4.593(1)
+_cell_length_b 17.169(2)
+_cell_length_c 6.435(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.71(1)
+_cell_angle_gamma 90.
+_cell_volume 496.88
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Pd2+ 2
+Si4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 2 e 0.8991(1) 0.25 0.1392(1) 0.0133(1) 1. 0
+Pd1 Pd2+ 2 e 0.3806(1) 0.25 0.6421(1) 0.0054(1) 1. 0
+Si1 Si4+ 2 a 0 0 0 0.0037(2) 1. 0
+P1 P5+ 4 f 0.8832(2) 0.1227(1) 0.6470(1) 0.0062(1) 1. 0
+P2 P5+ 4 f 0.5676(1) 0.0864(1) 0.2228(1) 0.0056(1) 1. 0
+O1 O2- 4 f 0.6775(5) 0.0708(1) 0.4729(4) 0.0101(5) 1. 0
+O2 O2- 4 f 0.0705(5) 0.0673(1) 0.8046(4) 0.0080(5) 1. 0
+O3 O2- 4 f 0.0737(5) 0.1701(1) 0.5235(4) 0.0107(5) 1. 0
+O4 O2- 4 f 0.6899(5) 0.1715(1) 0.7636(4) 0.0108(5) 1. 0
+O5 O2- 4 f 0.8411(4) 0.0752(1) 0.1256(4) 0.0079(5) 1. 0
+O6 O2- 4 f 0.3448(4) 0.0219(1) 0.1594(4) 0.0072(5) 1. 0
+O7 O2- 4 f 0.4644(5) 0.1692(1) 0.1876(4) 0.0115(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.0147(1) 0.0136(1) 0.0121(1) 0. 0.0037(1) 0.
+Pd1 Pd2+ 0.0051(1) 0.0045(1) 0.0063(2) 0. 0.0007(1) 0.
+Si1 Si4+ 0.0031(4) 0.0050(5) 0.0030(6) -0.0001(4) 0.0006(4) -0.0004(4)
+P1 P5+ 0.0070(3) 0.0054(3) 0.0060(4) -0.0005(3) 0.0009(3) 0.0001(3)
+P2 P5+ 0.0060(3) 0.0057(4) 0.0057(4) -0.0006(3) 0.0023(3) -0.0003(3)
+O1 O2- 0.013(1) 0.009(1) 0.007(1) -0.003(1) 0.001(1) 0.001(1)
+O2 O2- 0.005(1) 0.010(1) 0.007(1) 0.0032(1) 0.0020(9) 0.0008(9)
+O3 O2- 0.010(1) 0.012(1) 0.010(1) -0.0026(9) 0.0037(9) 0.0003(10)
+O4 O2- 0.014(1) 0.008(1) 0.008(1) 0.005(1) 0.001(1) -0.0006(9)
+O5 O2- 0.007(1) 0.008(1) 0.008(1) -0.0007(8) 0.003(1) -0.002(1)
+O6 O2- 0.005(1) 0.009(1) 0.006(1) -0.0016(8) 0.0016(9) -0.0018(9)
+O7 O2- 0.011(1) 0.008(1) 0.015(1) 0.0017(9) 0.006(1) -0.0007(10)

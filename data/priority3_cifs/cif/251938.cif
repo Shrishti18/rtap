@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 251938
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Dibismuth nonaoxotetraaluminate'
+_chemical_formula_structural 'Bi2 Al4 O9'
+_chemical_formula_sum 'Al4 Bi2 O9'
+_chemical_name_structure_type Bi2Al4O9
+_exptl_crystal_density_diffrn 6.25
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+Thermal expansion of mullite-type Bi2Al4O9: A study by X-ray diffraction,
+vibrational spectroscopy and density functional theory
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 229 87 96 JSSCBI
+loop_
+_publ_author_name
+'Mangir Murshed, M.'
+'Mendive, Cecilia B.'
+'Curti, Mariano'
+'Sehovic, Malik'
+'Friedrich, Alexandra'
+'Fischer, Michael'
+'Gesing, Thorsten M.'
+_cell_length_a 7.7177(3)
+_cell_length_b 8.1068(4)
+_cell_length_c 5.6928(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 356.17
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 g 0.32929(2) 0.16737(2) 0 0.0042(1) 1. 0
+Al1 Al3+ 4 e 0 0 0.26078(20) 0.0037(2) 1. 0
+Al2 Al3+ 4 h 0.14895(17) 0.33937(15) 0.5 0.0031(2) 1. 0
+O1 O2- 4 g 0.35807(41) 0.43054(36) 0 0.0042(5) 1. 0
+O2 O2- 4 h 0.36308(41) 0.41215(37) 0.5 0.0045(5) 1. 0
+O3 O2- 8 i 0.12813(29) 0.20633(24) 0.25001(41) 0.0054(4) 1. 0
+O4 O2- 2 d 0 0.5 0.5 0.0119(8) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0040(1) 0.0035(1) 0.0051(1) -0.0002(1) 0. 0.
+Al1 Al3+ 0.0045(5) 0.0039(4) 0.0027(5) 0.0004(4) 0. 0.
+Al2 Al3+ 0.0026(5) 0.0032(5) 0.0033(6) -0.0004(4) 0. 0.
+O1 O2- 0.0067(12) 0.0005(11) 0.0053(14) -0.0003(9) 0. 0.
+O2 O2- 0.0051(12) 0.0055(12) 0.0029(13) -0.0009(10) 0. 0.
+O3 O2- 0.0076(8) 0.0049(7) 0.0036(10) -0.0008(7) -0.0013(8) -0.0008(8)
+O4 O2- 0.0082(18) 0.0069(17) 0.0207(23) 0.0034(17) 0. 0.

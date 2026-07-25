@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 151315
+_audit_creation_date 2006-10-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Calcium copper tetraformate'
+_chemical_formula_structural 'Ca Cu (H C O O)4'
+_chemical_formula_sum 'C4 H4 Ca1 Cu1 O8'
+_chemical_name_structure_type CaCu(HCOO)4
+_exptl_crystal_density_diffrn 2.38
+_cell_measurement_temperature 295.
+_publ_section_title
+;
+Structural and magnetic characterization of Ca Cu (H C O O)4 and Ca2 Cu (H C O
+O)6 : two new one-dimensional ferromagnetic bis(mue-oxo-ligand)-bridged chains
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1992 31 2915 2919 INOCAJ
+loop_
+_publ_author_name
+'Sanchis, M.J.'
+'Gomez-Romero, P.'
+'Folgado, J.V.'
+'Sapina, F.'
+'Ibanez, R.'
+'Beltran, A.'
+'Garcia, J.'
+'Beltran, D.'
+_cell_length_a 7.300(2)
+_cell_length_b 8.493(2)
+_cell_length_c 6.449(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.57(1)
+_cell_angle_gamma 90.
+_cell_volume 396.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Ca2+ 2
+O2- -2
+C4+ 4
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 f 0.5 0.4023(1) 0.75 1.71 1. 0
+Ca1 Ca2+ 2 e 0 0.1359(1) 0.75 1.45 1. 0
+O1 O2- 4 g 0.3556(3) 0.4365(3) 0.0821(4) 1.95 1. 0
+O2 O2- 4 g 0.1908(3) 0.0423(3) 0.4668(4) 2.37 1. 0
+O3 O2- 4 g 0.3168(3) 0.2374(3) 0.6562(3) 1.9 1. 0
+O4 O2- 4 g 0.0856(3) 0.3153(3) 0.0107(4) 2.39 1. 0
+C1 C4+ 4 g 0.1952(5) 0.3988(4) 0.1202(5) 1.85 1. 0
+C2 C4+ 4 g 0.3126(5) 0.1437(4) 0.5044(6) 2.01 1. 0
+H1 H1- 4 g 0.1785(53) 0.4290(44) 0.2337(63) 2.37 1. 0
+H2 H1- 4 g 0.4029(54) 0.1436(45) 0.4153(58) 2.37 1. 0

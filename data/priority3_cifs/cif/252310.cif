@@ -1,0 +1,93 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 252310
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Tribarium trizinc tetradecaoxo-telluro-diphosphate'
+_chemical_formula_structural 'Ba3 Zn3 Te P2 O14'
+_chemical_formula_sum 'Ba3 O14 P2 Te1 Zn3'
+_chemical_name_structure_type Ca3Ga2Ge4O14
+_exptl_crystal_density_diffrn 5.16
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+Electronic, crystal chemistry, and nonlinear optical property relationships in
+the dugganite A3 B3 C D2 O14 family
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2016 138 4984 4989 JACSAT
+loop_
+_publ_author_name
+'Yu, Hongwei'
+'Young, Joshua'
+'Wu, Hongping'
+'Zhang, Weiguo'
+'Rondinelli, James M.'
+'Halasyamani, P. Shiv'
+_cell_length_a 8.4744(3)
+_cell_length_b 8.4744(3)
+_cell_length_c 5.2818(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 328.49
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 3 2 1'
+_symmetry_Int_Tables_number 150
+_refine_ls_R_factor_all 0.0161
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Te6+ 6
+Zn2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 3 e 0.56477(6) 0.56477(6) 1. 0.01184(14) 1 0
+Te1 Te6+ 1 a 1. 1. 1. 0.0079(2) 1 0
+Zn1 Zn2+ 3 f 0.76419(11) 1. 0.5 0.0108(2) 1 0
+P1 P5+ 2 d 0.3333 0.6667 0.5344(4) 0.0086(5) 1 0
+O1 O2- 2 d 0.3333 0.6667 0.2453(13) 0.0148(14) 1 0
+O2 O2- 6 g 0.9039(6) 1.1188(6) 0.7936(7) 0.0159(8) 1 0
+O3 O2- 6 g 0.5181(6) 0.8113(6) 0.6450(8) 0.0159(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0160(2) 0.0160(2) 0.0095(2) 0.0124(2) -0.00026(9) 0.00026(9)
+Te1 Te6+ 0.0089(3) 0.0089(3) 0.0059(4) 0.00444(14) 0. 0.
+Zn1 Zn2+ 0.0113(3) 0.0119(4) 0.0095(4) 0.0060(2) -0.00149(16) -0.0030(3)
+P1 P5+ 0.0079(7) 0.0079(7) 0.0100(11) 0.0039(3) 0. 0.
+O1 O2- 0.017(2) 0.017(2) 0.011(3) 0.0083(11) 0. 0.
+O2 O2- 0.020(2) 0.014(2) 0.0168(18) 0.0105(18) -0.0105(16) -0.0052(15)
+O3 O2- 0.010(2) 0.015(2) 0.015(2) 0.0004(16) 0.0011(17) -0.0048(16)

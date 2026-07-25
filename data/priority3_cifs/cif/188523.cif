@@ -1,0 +1,78 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 188523
+_audit_creation_date 2014-02-01
+_audit_update_record 2018-08-01
+_chemical_name_systematic 'Rubidium copper oxide (1/1/1)'
+_chemical_formula_structural 'Rb Cu O'
+_chemical_formula_sum 'Cu1 O1 Rb1'
+_chemical_name_structure_type LiCuO(I4-2m)
+_exptl_crystal_density_diffrn 3.93
+_publ_section_title
+;
+Electronic properties and structural phase transition in A4 (M4 O4) (A=Li, Na,
+K and Rb; M=Ag and Cu): A first principles study
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Communications' 2013 155 62 68 SSCOA4
+loop_
+_publ_author_name
+'Umamaheswari, R.'
+'Yogeswari, M.'
+'Kalpana, G.'
+_cell_length_a 9.71
+_cell_length_b 9.71
+_cell_length_c 5.913
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 557.5
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I -4 m 2'
+_symmetry_Int_Tables_number 119
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, z'
+6 '-x, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y+1/2, x+1/2, -z+1/2'
+10 '-y+1/2, -x+1/2, -z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Cu1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 8 i 0.192 0 0.739 . 1. 0
+Cu1 Cu1+ 8 h 0.364 0.864 0.25 . 1. 0
+O1 O2- 8 i 0.77 0 0.264 . 1. 0

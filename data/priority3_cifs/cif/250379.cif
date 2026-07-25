@@ -1,0 +1,80 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 250379
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Hexarubidium decasilicate'
+_chemical_formula_structural 'Rb6 (Si10 O23)'
+_chemical_formula_sum 'O23 Rb6 Si10'
+_chemical_name_structure_type Ba3Si4Ta6O26
+_exptl_crystal_density_diffrn 3.03
+_cell_measurement_temperature 773.
+_publ_section_title
+;
+Structure and some thermodynamic characteristics of the polymorphs of rubidium
+silicate Rb6 Si10 O23
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 2006 51 487 493 ZNOKAQ
+loop_
+_publ_author_name
+'Lapshin, A.E.'
+'Borisova, N.V.'
+'Ushakov, V.M.'
+'Shepelev, Yu.F.'
+_cell_length_a 9.475(5)
+_cell_length_b 9.475(5)
+_cell_length_c 8.200(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 637.53
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+_refine_ls_R_factor_all 0.0717
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 3 f 0.2374(4) 0 0 0.0305(8) 1 0
+Rb2 Rb1+ 3 g 0.2462(4) 0 0.5 0.0388(9) 1 0
+Si1 Si4+ 6 i 0.4023(8) 0.4023(8) 0.3075(8) 0.0233(11) 1 0
+Si2 Si4+ 4 h 0.66667 0.33333 0.1934(10) 0.0257(15) 1 0
+O1 O2- 6 i 0.251(2) 0.251(2) 0.2253(19) 0.026(4) 1 0
+O2 O2- 12 l 0.581(4) 0.425(2) 0.273(2) 0.072(5) 1 0
+O3 O2- 3 g 0.370(5) 0.370(5) 0.5 0.080(13) 1 0
+O4 O2- 2 c 0.66667 0.33333 0 0.14(3) 1 0

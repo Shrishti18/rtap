@@ -1,0 +1,69 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 109343
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Iron diyttrium diberyllodisilicate'
+_chemical_formula_structural 'Fe Y2 (Be2 Si2 O10)'
+_chemical_formula_sum 'Be2 Fe1 O10 Si2 Y2'
+_chemical_name_structure_type Gadolinite
+_chemical_name_mineral Gadolinite-(Y)
+_exptl_crystal_density_diffrn 4.5
+_publ_section_title
+'The crystal structures of herderite, datolite and gadolinite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1957 114 884 887 DANKAS
+loop_
+_publ_author_name
+'Pavlov, P.V.'
+'Belov, N.V.'
+_cell_length_a 9.87
+_cell_length_b 7.53
+_cell_length_c 4.65
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 345.59
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Si4+ 4
+Be2+ 2
+O2- -2
+Fe2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 e 0.328 0.108 0.99 . 1. 0
+Si1 Si4+ 4 e 0.077 0.283 0.475 . 1. 0
+Be1 Be2+ 4 e 0.334 0.405 0.559 . 1. 0
+O1 O2- 4 e 0.0225 0.395 0.246 . 1. 0
+O2 O2- 4 e 0.445 0.281 0.671 . 1. 0
+O3 O2- 4 e 0.202 0.334 0.676 . 1. 0
+O4 O2- 4 e 0.143 0.107 0.32 . 1. 0
+O5 O2- 4 e 0.336 0.405 0.258 . 1. 0
+Fe1 Fe2+ 2 a 0 0 0 . 1. 0

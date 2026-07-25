@@ -1,0 +1,94 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 201845
+_audit_creation_date 1986-04-14
+_audit_update_record 1998-06-26
+_chemical_name_systematic 'Dibarium titanium silicate'
+_chemical_formula_structural 'Ba2 Ti Si2 O8'
+_chemical_formula_sum 'Ba2 O8 Si2 Ti1'
+_chemical_name_structure_type Ba2TiOSi2O7
+_chemical_name_mineral Fresnoite
+_exptl_crystal_density_diffrn 4.42
+_cell_measurement_temperature 573.
+_publ_section_title
+;
+X-Ray Structure Refinement and Pyroelectric Investigation of Fresnoite, Ba2 Ti
+Si2 O8
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Ferroelectrics 1985 62 17 26 FEROA8
+loop_
+_publ_author_name
+'Markgraf, S.A.'
+'Halliyal, A.'
+'Bhalla, A.S.'
+'Newnham, R.E.'
+'Prewitt, C.T.'
+_cell_length_a 8.542(1)
+_cell_length_b 8.542(1)
+_cell_length_c 5.219(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 380.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4 b m'
+_symmetry_Int_Tables_number 100
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y+1/2, x+1/2, z'
+3 'y, -x, z'
+4 '-y, x, z'
+5 '-x+1/2, y+1/2, z'
+6 'x+1/2, -y+1/2, z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ti4+ 4
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0.32708(4) 0.82708(4) 0 . 1. 0
+Ti1 Ti4+ 2 a 0 0 -.5355(6) . 1. 0
+Si1 Si4+ 4 c 0.1280(2) 0.6280(2) -.5133(10) . 1. 0
+O1 O2- 2 b 0 0.5 -.6284(23) . 1. 0
+O2 O2- 4 c 0.1261(6) 0.6261(6) -.2078(15) . 1. 0
+O3 O2- 8 d 0.2924(7) 0.5774(8) -.6436(13) . 1. 0
+O4 O2- 2 a 0 0 -.2134(26) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ba1 Ba2+ 0.00507(6) 0.00507(6) 0.0116(2) -.00222(5) 0.0001(1) 0.0001(1)
+Ti1 Ti4+ 0.0027(2) 0.0027(2) 0.010(1) 0 0 0
+Si1 Si4+ 0.0025(2) 0.0025(2) 0.0091(8) 0.0000(2) 0.0003(5) 0.0003(5)
+O1 O2- 0.0066(10) 0.0066(10) 0.011(3) -.0031(14) 0 0
+O2 O2- 0.0051(6) 0.0051(6) 0.008(2) -.0018(9) 0.0001(9) 0.0001(9)
+O3 O2- 0.0032(7) 0.0086(10) 0.017(2) 0.0024(7) 0.001(1) 0.001(1)

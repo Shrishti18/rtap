@@ -1,0 +1,99 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 261582
+_audit_creation_date 2011-08-01
+_chemical_name_systematic
+'Bis(dimethylammonium) tetrachloridodimethylstannate(IV)'
+_chemical_formula_structural '(C2 H8 N)2 (Sn (C H3)2 Cl4)'
+_chemical_formula_sum 'C6 H22 Cl4 N2 Sn1'
+_exptl_crystal_density_diffrn 1.66
+_cell_measurement_temperature 297.
+_publ_section_title 'Bis(dimethylammonium) tetrachloridodimethylstannate(IV)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2011 67
+m696 m696 ACSEBH
+loop_
+_publ_author_name
+'Diop, T.'
+'Diop, L.'
+'Michaud, F.'
+_cell_length_a 6.6162(9)
+_cell_length_b 7.3703(11)
+_cell_length_c 8.4555(12)
+_cell_angle_alpha 109.625(14)
+_cell_angle_beta 98.345(12)
+_cell_angle_gamma 92.812(12)
+_cell_volume 382.13
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0229
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C2- -2.67
+H1+ 1
+Cl1- -1
+Sn4+ 4
+C2- -2.67
+H1+ 1
+C2- -2.67
+H1+ 1
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C2- 2 i 0.2689(4) 0.3818(4) 0.5967(3) 0.0404(5) 1 0
+H1 H1+ 2 i 0.2902 0.2502 0.5847 0.061 1 0
+H2 H1+ 2 i 0.1366 0.3849 0.5343 0.061 1 0
+H3 H1+ 2 i 0.275 0.4566 0.715 0.061 1 0
+Cl1 Cl1- 2 i 0.25609(10) 0.40746(9) 0.20155(7) 0.04289(14) 1 0
+Cl2 Cl1- 2 i 0.64584(8) 0.16207(8) 0.39707(7) 0.03603(12) 1 0
+Sn1 Sn4+ 1 h 0.5 0.5 0.5 0.02900(8) 1 0
+C2 C2- 2 i 0.2993(5) 0.8184(6) 0.0309(4) 0.0621(8) 1 0
+H4 H1+ 2 i 0.4272 0.764 0.0166 0.093 1 0
+H5 H1+ 2 i 0.3073 0.9423 0.0167 0.093 1 0
+H6 H1+ 2 i 0.1905 0.7333 -0.0527 0.093 1 0
+C3 C2- 2 i 0.0570(4) 0.9131(4) 0.2302(4) 0.0479(6) 1 0
+H7 H1+ 2 i 0.0331 0.9174 0.3406 0.072 1 0
+H8 H1+ 2 i -0.0493 0.8274 0.1442 0.072 1 0
+H9 H1+ 2 i 0.0563 1.0407 0.2239 0.072 1 0
+N1 N3- 2 i 0.2581(3) 0.8422(3) 0.2023(3) 0.0381(4) 1 0
+H10 H1+ 2 i 0.3576 0.9263 0.28 0.046 1 0
+H11 H1+ 2 i 0.2622 0.7276 0.2183 0.046 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 C2- 0.0393(11) 0.0380(11) 0.0450(12) -0.0035(9) 0.0167(10) 0.0128(10)
+Cl1 Cl1- 0.0486(3) 0.0369(3) 0.0360(3) -0.0001(2) -0.0059(2) 0.0094(2)
+Cl2 Cl1- 0.0387(3) 0.0282(2) 0.0402(3) 0.00715(19) 0.0087(2) 0.0093(2)
+Sn1 Sn4+ 0.03107(11) 0.02496(11) 0.03074(11) -0.00012(7) 0.00626(7) 0.00940(8)
+C2 C2- 0.0604(18) 0.078(2) 0.0417(14) -0.0007(16) 0.0195(13) 0.0098(14)
+C3 C2- 0.0387(12) 0.0550(15) 0.0478(14) 0.0036(11) 0.0083(10) 0.0151(12)
+N1 N3- 0.0382(10) 0.0390(10) 0.0351(9) 0.0007(8) 0.0029(7) 0.0120(8)

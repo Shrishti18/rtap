@@ -1,0 +1,74 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 15795
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sulfur(II) disulfur(IV) dinitride dioxide'
+_chemical_formula_structural 'S3 N2 O2'
+_chemical_formula_sum 'N2 O2 S3'
+_chemical_name_structure_type S3N2O2
+_exptl_crystal_density_diffrn 2.03
+_publ_section_title
+;
+Die Kristall- und Molekuelstruktur von Trischwefel Distickstoffdioxyd, S3 N2
+O2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (2,1947-32,1977)
+; 1961 16 477 477 ZENBAX
+loop_
+_publ_author_name
+'Weiss, J.'
+_cell_length_a 6.84
+_cell_length_b 4.56
+_cell_length_c 16.51999
+_cell_angle_alpha 90.
+_cell_angle_beta 97.
+_cell_angle_gamma 90.
+_cell_volume 511.42
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.185
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y, -z'
+2 '-x, -y, -z'
+3 'x+1/2, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x, -y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S2+ 2
+S4+ 4
+N3- -3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S2+ 4 e 0.25 0.1281 0 . 1. 0
+S2 S4+ 8 f 0.1322 0.2731 0.1533 . 1. 0
+N1 N3- 8 f 0.121 0.947 0.163 . 1. 0
+O1 O2- 8 f 0.1871 0.3754 0.0677 . 1. 0

@@ -1,0 +1,60 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 246660
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Carbon nitride (3/4)'
+_chemical_formula_structural 'C3 N4'
+_chemical_formula_sum 'C3 N4'
+_exptl_crystal_density_diffrn 2.56
+_publ_section_title 'Stability of carbon nitride solids'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 1994 50
+10362 10365 PRBMDO
+loop_
+_publ_author_name
+'Liu, A.Y.'
+'Wentzcovitch, R.M.'
+_cell_length_a 4.11
+_cell_length_b 4.11
+_cell_length_c 4.11
+_cell_angle_alpha 70.5
+_cell_angle_beta 70.5
+_cell_angle_gamma 70.5
+_cell_volume 59.73
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'R 3 m R'
+_symmetry_Int_Tables_number 160
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, x'
+2 'z, x, y'
+3 'x, z, y'
+4 'y, z, x'
+5 'y, x, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C4+ 3 b 0.509 0.509 -0.018 . 1. 0
+N1 N3- 3 b 0.83 0.83 0.34 . 1. 0
+N2 N3- 1 a 0.355 0.355 0.355 . 1. 0

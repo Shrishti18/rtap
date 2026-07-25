@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 150279
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Chromium gold(III) telluride (1/1/4)'
+_chemical_formula_structural 'Cr Au Te4'
+_chemical_formula_sum 'Au1 Cr1 Te4'
+_chemical_name_structure_type TiZrTe4
+_exptl_crystal_density_diffrn 7.78
+_cell_measurement_temperature 166.
+_publ_section_title
+;
+Thermoelectric properties and antiferromagnetism of the new ternary transition
+metal telluride Cr Au Te4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 2998 3006 JSSCBI
+loop_
+_publ_author_name
+'Reynolds, T.K.'
+'McGuire, M.A.'
+'DiSalvo, F.J.'
+_cell_length_a 5.4774(7)
+_cell_length_b 4.0169(6)
+_cell_length_c 7.3692(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.604(10)
+_cell_angle_gamma 90.
+_cell_volume 162.13
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1 2/m 1'
+_symmetry_Int_Tables_number 10
+_refine_ls_R_factor_all 0.0266
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au3+ 3
+Cr3+ 3
+Te2- -2
+Te1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au3+ 1 a 0 0 0 0.00781(14) 1. 0
+Cr1 Cr3+ 1 f 0 0.5 0.5 0.0063(3) 1. 0
+Te1 Te2- 2 n 0.22779(9) 0.5 0.83042(7) 0.00754(14) 1. 0
+Te2 Te1- 2 m 0.70069(8) 0 0.62284(7) 0.00756(14) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au3+ 0.00971(18) 0.00636(18) 0.0074(2) 0. 0.00073(13) 0.
+Cr1 Cr3+ 0.0051(6) 0.0063(6) 0.0073(8) 0. -0.0017(5) 0.
+Te1 Te2- 0.0079(2) 0.0069(2) 0.0079(3) 0. 0.00012(15) 0.
+Te2 Te1- 0.00618(19) 0.0073(2) 0.0092(3) 0. 0.00037(15) 0.

@@ -1,0 +1,85 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 171333
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Selenium selenocyanogen'
+_chemical_formula_structural 'Se (Se (C N))2'
+_chemical_formula_sum 'C2 N2 Se3'
+_chemical_name_structure_type S(SCN)2
+_exptl_crystal_density_diffrn 3.21
+_cell_measurement_temperature 125.
+_publ_section_title 'E2 (C N)2 (E = S, Se) and related compounds'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2006 45 710 716 INOCAJ
+loop_
+_publ_author_name
+'Burchell, C.J.'
+'Kilian, P.'
+'Slawin, A.M.Z.'
+'Woollins, J.D.'
+'Tersago, K.'
+'van Alsenoy, C.'
+'Blockhuys, F.'
+_cell_length_a 10.054(2)
+_cell_length_b 13.332(3)
+_cell_length_c 4.4540(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 597.01
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0246
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se0+ 0.667
+C2+ 2
+N3- -3
+Se0+ 0.667
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se0+ 8 d 1.05550(3) 0.61297(3) -0.25115(7) 0.0180(3) 1 0
+C1 C2+ 8 d 1.2080(4) 0.6060(2) -0.0157(7) 0.0187(8) 1 0
+N1 N3- 8 d 1.3037(3) 0.5994(2) 0.1224(8) 0.0198(7) 1 0
+Se2 Se0+ 4 c 0.95950(3) 0.75 -0.00503(10) 0.0158(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se0+ 0.0173(3) 0.0137(4) 0.0229(4) 0.00196(11) -0.00160(11) -0.00255(16)
+C1 C2+ 0.0210(18) 0.009(2) 0.026(2) -0.0016(14) 0.0050(15) -0.0028(17)
+N1 N3- 0.0219(16) 0.0160(16) 0.021(2) 0.0016(11) 0.0001(13) -0.0024(14)
+Se2 Se0+ 0.0146(4) 0.0129(4) 0.0200(4) 0. 0.00105(16) 0.

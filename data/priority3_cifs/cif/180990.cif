@@ -1,0 +1,97 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 180990
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Cobalt squarate tetrahydrate'
+_chemical_formula_structural 'Co (C4 O4) (H2 O)4'
+_chemical_formula_sum 'C4 H8 Co1 O8'
+_exptl_crystal_density_diffrn 2.04
+_cell_measurement_temperature 153.
+_publ_section_title
+;
+Iron(III), chromium(III) and cobalt(II) complexes with squarate: synthesis,
+crystal structure and magnetic properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganica Chimica Acta' 2011 371 13 19 ICHAA3
+loop_
+_publ_author_name
+'Carranza, J.'
+'Sletten, J.'
+'Lloret, F.'
+'Julve, M.'
+_cell_length_a 8.9773(5)
+_cell_length_b 13.3876(8)
+_cell_length_c 6.6945(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.6850(10)
+_cell_angle_gamma 90.
+_cell_volume 793.11
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0224
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+C1+ 1.5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 4 c 0.25 0.25 0. 0.01082(9) 1 0
+O1 O2- 8 f 0.12548(10) 0.36984(6) 0.09713(13) 0.01618(17) 1 0
+H1 H1+ 8 f 0.1453 0.3771 0.2223 0.057(8) 1 0
+H2 H1+ 8 f 0.1474 0.4275 0.0508 0.035(5) 1 0
+O2 O2- 8 f 0.44669(9) 0.33286(6) 0.00851(13) 0.01371(17) 1 0
+O3 O2- 8 f 0.74876(8) 0.45814(8) 0.00464(12) 0.0150(2) 1 0
+O4 O2- 8 f 0.31868(10) 0.21242(7) 0.30022(13) 0.01859(19) 1 0
+H3 H1+ 8 f 0.2978 0.1599 0.3629 0.039(6) 1 0
+H4 H1+ 8 f 0.3951 0.2394 0.3667 0.029(6) 1 0
+C1 C1+ 8 f 0.47351(11) 0.42479(8) 0.00373(15) 0.01065(19) 1 0
+C2 C1+ 8 f 0.61292(12) 0.48168(8) 0.00263(16) 0.01106(19) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.01037(13) 0.00882(13) 0.01297(13) -0.00156(6) 0.00110(8) 0.00052(6)
+O1 O2- 0.0180(4) 0.0112(4) 0.0200(4) -0.0009(3) 0.0050(3) -0.0004(3)
+O2 O2- 0.0118(4) 0.0090(4) 0.0200(4) -0.0015(3) 0.0017(3) 0.0011(3)
+O3 O2- 0.0112(4) 0.0119(5) 0.0222(5) 0.0007(2) 0.0038(3) 0.0005(3)
+O4 O2- 0.0197(4) 0.0186(4) 0.0156(4) -0.0079(3) -0.0025(3) 0.0045(3)
+C1 C1+ 0.0107(4) 0.0103(5) 0.0108(4) -0.0003(3) 0.0015(3) 0.0000(3)
+C2 C1+ 0.0115(5) 0.0096(4) 0.0119(4) -0.0009(3) 0.0016(3) 0.0006(3)

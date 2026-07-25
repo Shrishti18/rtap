@@ -1,0 +1,76 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 181075
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Calcium germanium (5/3) - beta, hypothetical'
+_chemical_formula_structural 'Ca5 Ge3'
+_chemical_formula_sum 'Ca5 Ge3'
+_chemical_name_structure_type Ba5Si3
+_exptl_crystal_density_diffrn 3.14
+_publ_section_title
+'First-principles investigations of intermetallics in the Ca-Ge system'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica B: Condensed Matter (Amsterdam, Netherlands)' 2011 406 2601
+2609 PHYBE3
+loop_
+_publ_author_name
+'Bouderba, H.'
+'Djaballah, Y.'
+'Belgacem-Bouzida, A.'
+'Beddiaf, R.'
+_cell_length_a 7.728
+_cell_length_b 7.728
+_cell_length_c 14.826
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 885.44
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 4/n c c S'
+_symmetry_Int_Tables_number 130
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z+1/2'
+2 'y+1/2, -x+1/2, z'
+3 '-y, -x, -z+1/2'
+4 'y, -x, -z'
+5 '-y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z'
+7 'y, x, -z+1/2'
+8 '-y, x, -z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, -z'
+11 'x, -y, z+1/2'
+12 '-x, -y, z'
+13 '-x+1/2, y+1/2, -z+1/2'
+14 'x+1/2, y+1/2, -z'
+15 '-x, y, z+1/2'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Ge0+ 0
+Ca0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 4 c 0 0.5 0.2501 . 1. 0
+Ge1 Ge0+ 4 c 0 0.5 0 . 1. 0
+Ge2 Ge0+ 8 f 0.3818 0.3818 0.25 . 1. 0
+Ca2 Ca0+ 16 g 0.178 0.1781 0.1099 . 1. 0

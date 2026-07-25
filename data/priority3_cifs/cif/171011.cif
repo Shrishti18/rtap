@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 171011
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Dimethyl selenoxide'
+_chemical_formula_structural '(C H3)2 Se O'
+_chemical_formula_sum 'C2 H6 O1 Se1'
+_exptl_crystal_density_diffrn 2.06
+_cell_measurement_temperature 173.
+_publ_section_title 'Dimethyl selenoxide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2005 61 o596 o598 ACSCEE
+loop_
+_publ_author_name
+'Filatov, A.S.'
+'Block, E.'
+'Petrukhina, M.A.'
+_cell_length_a 4.9794(7)
+_cell_length_b 6.1470(9)
+_cell_length_c 6.8905(10)
+_cell_angle_alpha 106.850(2)
+_cell_angle_beta 90.177(2)
+_cell_angle_gamma 94.213(2)
+_cell_volume 201.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0183
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+O2- -2
+C4- -4
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 2 i 0.20890(4) 0.39901(3) 0.76732(3) 0.02254(9) 1 0
+O1 O2- 2 i -0.1284(3) 0.3691(3) 0.7526(3) 0.0334(4) 1 0
+C1 C4- 2 i 0.3086(4) 0.2451(4) 0.4938(3) 0.0252(4) 1 0
+C2 C4- 2 i 0.2988(5) 0.1617(4) 0.8825(4) 0.0289(4) 1 0
+H1 H1+ 2 i 0.217(5) 0.027(5) 0.803(4) 0.032(7) 1 0
+H2 H1+ 2 i 0.500(5) 0.242(4) 0.492(4) 0.025(6) 1 0
+H3 H1+ 2 i 0.242(6) 0.333(5) 0.417(4) 0.035(7) 1 0
+H4 H1+ 2 i 0.214(6) 0.098(5) 0.457(4) 0.033(7) 1 0
+H5 H1+ 2 i 0.237(6) 0.208(6) 1.021(5) 0.049(8) 1 0
+H6 H1+ 2 i 0.486(7) 0.147(5) 0.867(5) 0.046(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.02083(13) 0.02192(13) 0.02400(13) 0.00146(8) 0.00169(8) 0.00536(9)
+O1 O2- 0.0183(7) 0.0435(10) 0.0399(9) 0.0067(6) 0.0025(6) 0.0134(7)
+C1 C4- 0.0260(11) 0.0275(11) 0.0221(9) 0.0021(9) 0.0002(8) 0.0070(9)
+C2 C4- 0.0290(11) 0.0315(12) 0.0286(11) 0.0047(9) -0.0009(9) 0.0117(10)

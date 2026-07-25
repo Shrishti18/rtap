@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 100492
+_audit_creation_date 1980-01-01
+_audit_update_record 1998-06-26
+_chemical_name_systematic 'Zinc arsenate octahydrate'
+_chemical_formula_structural 'Zn3 (As O4)2 (H2 O)8'
+_chemical_formula_sum 'H16 As2 O16 Zn3'
+_chemical_name_structure_type Vivianite
+_chemical_name_mineral Koettigite
+_exptl_crystal_density_diffrn 3.26
+_publ_section_title 'The crystal structure of Koettigite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1979 64 376 382 AMMIAY
+loop_
+_publ_author_name
+'Hill, R.J.'
+_cell_length_a 10.241(3)
+_cell_length_b 13.405(3)
+_cell_length_c 4.757(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.21(2)
+_cell_angle_gamma 90.
+_cell_volume 630.17
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+As5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 2 a 0 0 0 . 1. 0
+Zn2 Zn2+ 4 g 0 0.38521(9) 0 . 1. 0
+As1 As5+ 4 i 0.31541(9) 0 0.3744(2) . 1. 0
+O1 O2- 4 i 0.1498(6) 0 0.3754(14) . 1. 0
+O2 O2- 4 i 0.4049(7) 0 0.7226(16) . 1. 0
+O3 O2- 8 j 0.3432(5) 0.1066(4) 0.2135(12) . 1. 0
+O4 O2- 8 j 0.0975(5) 0.1144(4) 0.8081(12) . 1. 0
+O5 O2- 8 j 0.4000(6) 0.2262(5) 0.7179(13) . 1. 0
+H1 H1+ 8 j 0.384(10) 0.425(8) 0.364(22) 2.1 1. 0
+H2 H1+ 8 j 0.34 0.371 0.119 4. 1. 0
+H3 H1+ 8 j 0.121(10) 0.305(8) 0.436(24) 1.7 1. 0
+H4 H1+ 8 j 0.044(8) 0.236(6) 0.289(19) 0.3 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Zn1 Zn2+ 0.0018(2) 0.0014(1) 0.0102(8) 0 -.0002(3) 0
+Zn2 Zn2+ 0.0021(1) 0.0013(1) 0.0115(6) 0 0.0005(2) 0
+As1 As5+ 0.0011(1) 0.0011(1) 0.0067(5) 0 -.0003(1) 0
+O1 O2- 0.0015(6) 0.0021(4) 0.0024(26) 0 -.0001(10) 0
+O2 O2- 0.0032(7) 0.0013(4) 0.0102(32) 0 -.0002(12) 0
+O3 O2- 0.0025(4) 0.0011(3) 0.0133(21) 0.0002(3) 0.0010(7) 0.0005(6)
+O4 O2- 0.0023(4) 0.0022(3) 0.0146(23) 0.0000(3) 0.0011(8) -.0002(7)
+O5 O2- 0.0042(5) 0.0022(3) 0.0145(26) 0.0003(4) 0.0006(10) 0.0007(8)

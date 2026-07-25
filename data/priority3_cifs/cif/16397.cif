@@ -1,0 +1,107 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 16397
+_audit_creation_date 1980-12-31
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Tricesium tetrachlorocobaltate(II) chloride'
+_chemical_formula_structural 'Cs3 (Co Cl4) Cl'
+_chemical_formula_sum 'Cl5 Co1 Cs3'
+_chemical_name_structure_type Cs3CoCl5
+_exptl_crystal_density_diffrn 3.4
+_cell_measurement_temperature 295.
+_publ_section_title
+'The structure of Cs3 Co Cl5 at 295 K: A neutron diffraction study'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1980 36 2893 2897 ACBCAR
+loop_
+_publ_author_name
+'Williams, G.A.'
+'Figgis, B.N.'
+_cell_length_a 9.2315(15)
+_cell_length_b 9.2315(15)
+_cell_length_c 14.5535(24)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1240.26
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 4/m c m'
+_symmetry_Int_Tables_number 140
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z+1/2'
+2 '-y, -x, -z+1/2'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z+1/2'
+10 'y, x, z+1/2'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x, y, z+1/2'
+14 'x, -y, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, x+1/2, -z'
+18 '-y+1/2, -x+1/2, -z'
+19 '-y+1/2, x+1/2, -z+1/2'
+20 'y+1/2, -x+1/2, -z+1/2'
+21 'x+1/2, -y+1/2, -z'
+22 '-x+1/2, y+1/2, -z'
+23 'x+1/2, y+1/2, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/2, -x+1/2, z'
+26 'y+1/2, x+1/2, z'
+27 'y+1/2, -x+1/2, z+1/2'
+28 '-y+1/2, x+1/2, z+1/2'
+29 '-x+1/2, y+1/2, z'
+30 'x+1/2, -y+1/2, z'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Cs1+ 1
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 4 b 0 0.5 0.25 . 1. 0
+Cs1 Cs1+ 4 a 0 0 0.25 . 1. 0
+Cs2 Cs1+ 8 h 0.66565(5) 0.16565(5) 0 . 1. 0
+Cl1 Cl1- 4 c 0 0 0 . 1. 0
+Cl2 Cl1- 16 l 0.13945(2) 0.63945(2) 0.15738(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.0267(6) 0.0267(6) 0.0193(8) 0 0 0
+Cs1 Cs1+ 0.0403(3) 0.0403(3) 0.0341(5) 0 0 0
+Cs2 Cs1+ 0.0249(2) 0.0249(2) 0.0324(3) -.0014(2) 0 0
+Cl1 Cl1- 0.0271(2) 0.0271(2) 0.0428(3) 0 0 0
+Cl2 Cl1- 0.0403(1) 0.0403(1) 0.0347(1) -.0117(1) 0.0065(1) 0

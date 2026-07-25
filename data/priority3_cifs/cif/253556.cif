@@ -1,0 +1,90 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 253556
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'catena-Poly[diammonium [di-mue-oxalato-cuprate(II)]]'
+_chemical_formula_structural '((N H4)2 (Cu (C2 O4)2))'
+_chemical_formula_sum 'C4 H8 Cu1 N2 O8'
+_exptl_crystal_density_diffrn 2.09
+_cell_measurement_temperature 100.
+_publ_section_title
+'Crystal structure of catena-poly[diammonium [di-mu-oxalato-cuprate(II)]]'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2016 72
+1780 1782 ACSEBH
+loop_
+_publ_author_name
+'Dickie, Diane A.'
+'Kemp, Richard A.'
+_cell_length_a 4.8564(2)
+_cell_length_b 13.5188(5)
+_cell_length_c 6.7205(3)
+_cell_angle_alpha 90
+_cell_angle_beta 96.992(2)
+_cell_angle_gamma 90
+_cell_volume 437.93
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0179
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+O2- -2
+C3+ 3
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 c 0 0.5 0 0.00661(5) 1 0
+O1 O2- 4 e 0.32614(14) 0.44779(5) 0.15885(10) 0.00795(12) 1 0
+O2 O2- 4 e 0.15437(14) 0.62834(5) 0.07337(11) 0.00968(13) 1 0
+O3 O2- 4 e 0.72392(16) 0.50253(5) 0.32622(12) 0.01101(14) 1 0
+O4 O2- 4 e 0.52948(15) 0.69388(5) 0.25066(12) 0.01245(14) 1 0
+C1 C3+ 4 e 0.4930(2) 0.51573(7) 0.23064(14) 0.00716(15) 1 0
+C2 C3+ 4 e 0.39072(19) 0.62308(7) 0.18343(14) 0.00800(15) 1 0
+N1 N3- 4 e 0.95132(18) 0.67395(6) 0.57854(13) 0.00966(14) 1 0
+H1 H1+ 4 e 0.840(3) 0.6723(13) 0.662(3) 0.020(4) 1 0
+H2 H1+ 4 e 1.027(3) 0.7319(13) 0.582(3) 0.019(4) 1 0
+H3 H1+ 4 e 1.072(4) 0.6285(14) 0.607(3) 0.023(4) 1 0
+H4 H1+ 4 e 0.849(4) 0.6643(14) 0.468(3) 0.029(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.00454(8) 0.00426(8) 0.01054(8) -0.00002(5) -0.00113(5) 0.00048(5)
+O1 O2- 0.0065(3) 0.0063(3) 0.0106(3) 0.0002(2) -0.0011(2) 0.0008(2)
+O2 O2- 0.0068(3) 0.0060(3) 0.0153(3) 0.0005(2) -0.0026(2) -0.0002(2)
+O3 O2- 0.0084(3) 0.0099(3) 0.0136(3) 0.0011(2) -0.0033(2) -0.0005(2)
+O4 O2- 0.0125(3) 0.0075(3) 0.0160(3) -0.0016(2) -0.0035(2) -0.0014(2)
+C1 C3+ 0.0071(3) 0.0064(3) 0.0081(3) 0.0007(3) 0.0013(3) 0.0003(3)
+C2 C3+ 0.0074(3) 0.0070(4) 0.0094(3) 0.0009(3) 0.0005(3) 0.0000(3)
+N1 N3- 0.0100(3) 0.0075(3) 0.0110(3) -0.0017(3) -0.0007(3) 0.0004(3)

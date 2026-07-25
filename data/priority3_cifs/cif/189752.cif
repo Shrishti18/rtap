@@ -1,0 +1,60 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 189752
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Calcium nickel hydride (1/5/1)'
+_chemical_formula_structural 'Ca Ni5 H'
+_chemical_formula_sum 'H1 Ca1 Ni5'
+_chemical_name_structure_type HCaNi5
+_exptl_crystal_density_diffrn 6.43
+_publ_section_title 'DFT study of the Ca Ni5 Hx compounds (0.0 <= x <= 1.0)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2014 582 466 474 JALCEU
+loop_
+_publ_author_name
+'Miletic, G.I.'
+'Drasner, A.'
+_cell_length_a 5.06
+_cell_length_b 4.98
+_cell_length_c 3.984
+_cell_angle_alpha 89.09
+_cell_angle_beta 90.
+_cell_angle_gamma 120.53
+_cell_volume 86.46
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Ni0+ 0
+H0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 1 a -0.004 -0.008 -0.0204 . 1. 0
+Ni1 Ni0+ 1 a 0.3395 0.6791 0.0119 . 1. 0
+Ni2 Ni0+ 1 a 0.6621 0.3243 0.0095 . 1. 0
+Ni3 Ni0+ 1 a 0.5007 0.0014 0.5128 . 1. 0
+Ni4 Ni0+ 1 a -0.0079 0.5032 0.5169 . 1. 0
+Ni5 Ni0+ 1 a 0.5111 0.5032 0.5169 . 1. 0
+H1 H0+ 1 a 0.2024 0.4048 0.3063 . 1. 0

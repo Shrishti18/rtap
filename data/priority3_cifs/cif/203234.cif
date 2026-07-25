@@ -1,0 +1,101 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 203234
+_audit_creation_date 2010-02-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Catena-diaquatetrathiosquaratoiron tetrahydrate'
+_chemical_formula_structural 'Fe (H2 O)2 (C4 S4) (H2 O)4'
+_chemical_formula_sum 'C4 H12 Fe1 O6 S4'
+_exptl_crystal_density_diffrn 1.77
+_cell_measurement_temperature 293.
+_publ_section_title
+;
+Transition metal tetrathiosquarates: One - dimensional linking in the iron(II)
+salt Fe C4 S4 * 6 H2 O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2009
+635 1991 1996 ZAACAB
+loop_
+_publ_author_name
+'Beck, J.'
+'Glaum, R.'
+'Koegerler, P.'
+'Speldrich, M.'
+'Ben-Amer, Y.'
+_cell_length_a 6.3345(3)
+_cell_length_b 7.2894(4)
+_cell_length_c 7.6016(4)
+_cell_angle_alpha 72.329(3)
+_cell_angle_beta 73.234(3)
+_cell_angle_gamma 81.405(3)
+_cell_volume 319.49
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0292
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+S2- -2
+C1+ 1.5
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 1 a 0. 0. 0. 0.02433(16) 1 0
+S1 S2- 2 i -0.27921(8) 0.10705(8) -0.20307(7) 0.03002(17) 1 0
+S2 S2- 2 i 0.27340(8) -0.11709(8) -0.27003(7) 0.02921(17) 1 0
+C1 C1+ 2 i -0.1131(3) 0.0442(3) -0.3895(3) 0.0248(4) 1 0
+C2 C1+ 2 i 0.1106(3) -0.0489(3) -0.4163(3) 0.0247(4) 1 0
+O1 O2- 2 i 0.1098(3) 0.2846(2) -0.1137(3) 0.0342(4) 1 0
+H1 H1+ 2 i 0.172(5) 0.311(4) -0.053(4) 0.065(10) 1 0
+H2 H1+ 2 i 0.171(5) 0.315(4) -0.216(3) 0.067(11) 1 0
+O2 O2- 2 i 0.7186(3) -0.4431(3) -0.1061(3) 0.0464(5) 1 0
+H3 H1+ 2 i 0.709(5) -0.409(4) -0.206(3) 0.056 1 0
+H4 H1+ 2 i 0.798(4) -0.530(3) -0.101(4) 0.056 1 0
+O3 O2- 2 i 0.6660(4) -0.3806(3) 0.4955(3) 0.0530(5) 1 0
+H5 H1+ 2 i 0.599(5) -0.283(3) 0.502(5) 0.064 1 0
+H6 H1+ 2 i 0.592(5) -0.462(4) 0.539(4) 0.064 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe2+ 0.0261(2) 0.0328(3) 0.0164(2) -0.00234(17) -0.00614(17) -0.00923(17)
+S1 S2- 0.0260(3) 0.0469(4) 0.0207(3) 0.0036(2) -0.0068(2) -0.0165(2)
+S2 S2- 0.0264(3) 0.0449(4) 0.0194(3) 0.0034(2) -0.0090(2) -0.0133(2)
+C1 C1+ 0.0258(10) 0.0328(11) 0.0175(10) -0.0031(8) -0.0062(8) -0.0084(8)
+C2 C1+ 0.0264(10) 0.0318(11) 0.0181(10) -0.0027(8) -0.0063(8) -0.0092(8)
+O1 O2- 0.0356(9) 0.0392(9) 0.0292(10) -0.0069(7) -0.0057(8) -0.0120(8)
+O2 O2- 0.0492(11) 0.0408(11) 0.0518(12) 0.0030(8) -0.0225(10) -0.0104(9)
+O3 O2- 0.0586(13) 0.0449(12) 0.0424(11) -0.0017(9) 0.0005(9) -0.0068(9)

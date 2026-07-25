@@ -1,0 +1,97 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 194348
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Diyttrium copper bis(tellurate(IV)) bis(sulfate)'
+_chemical_formula_structural 'Y2 Cu (Te O3)2 (S O4)2'
+_chemical_formula_sum 'Cu1 O14 S2 Te2 Y2'
+_exptl_crystal_density_diffrn 4.68
+_cell_measurement_temperature 298.
+_publ_section_title
+;
+Challenges in the search for magnetic coupling in 3d/4f materials: syntheses,
+structures, and magnetic properties of the lanthanide copper heterobimetallic
+compounds, RE2 Cu (Te O3)2 (S O4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2014 26 2187 2194 CMATEX
+loop_
+_publ_author_name
+'Lin, Jian'
+'Chai, Ping'
+'Diefenbach, Kariem'
+'Shatruk, Michael'
+'Albrecht-Schmitt, Thomas E.'
+_cell_length_a 5.1645(4)
+_cell_length_b 7.8154(6)
+_cell_length_c 8.1013(6)
+_cell_angle_alpha 62.654(2)
+_cell_angle_beta 73.880(2)
+_cell_angle_gamma 85.266(2)
+_cell_volume 278.64
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0201
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Te4+ 4
+Cu2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 2 i 1.07255(8) 0.25072(5) 0.01942(5) 0.00735(10) 1 0
+Te1 Te4+ 2 i 0.50997(5) 0.27175(4) 0.34482(4) 0.00775(8) 1 0
+Cu1 Cu2+ 1 b 0. 0. 0.5 0.00836(15) 1 0
+S1 S6+ 2 i -0.2514(2) 0.25255(14) 0.74848(14) 0.0078(2) 1 0
+O1 O2- 2 i -0.1374(6) 0.4143(4) 0.7577(4) 0.0144(6) 1 0
+O2 O2- 2 i -0.1369(6) 0.2518(4) 0.5643(4) 0.0124(6) 1 0
+O3 O2- 2 i -0.5462(6) 0.2626(4) 0.7846(4) 0.0143(6) 1 0
+O4 O2- 2 i -0.1768(6) 0.0774(4) 0.9076(4) 0.0120(6) 1 0
+O5 O2- 2 i 0.7469(6) 0.4391(4) 0.1094(4) 0.0090(6) 1 0
+O6 O2- 2 i 0.2728(6) 0.1876(4) 0.2555(4) 0.0101(6) 1 0
+O7 O2- 2 i 0.7486(6) 0.0727(4) 0.3419(4) 0.0094(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0072(2) 0.0072(2) 0.0075(2) 0.00077(15) -0.00220(15) -0.00326(16)
+Te1 Te4+ 0.00629(13) 0.00895(14) 0.00827(13) -0.00002(9) -0.00171(10)
+-0.00422(11)
+Cu1 Cu2+ 0.0062(3) 0.0096(4) 0.0077(3) -0.0003(3) -0.0026(3) -0.0022(3)
+S1 S6+ 0.0079(5) 0.0071(5) 0.0074(4) 0.0009(4) -0.0024(4) -0.0024(4)
+O1 O2- 0.0215(17) 0.0097(15) 0.0145(15) -0.0022(12) -0.0083(13) -0.0051(13)
+O2 O2- 0.0117(15) 0.0146(16) 0.0128(15) 0.0020(12) -0.0023(12) -0.0085(13)
+O3 O2- 0.0100(15) 0.0179(17) 0.0143(15) 0.0026(12) -0.0026(12) -0.0074(13)
+O4 O2- 0.0159(15) 0.0092(15) 0.0106(15) 0.0025(12) -0.0050(12) -0.0038(12)
+O5 O2- 0.0071(13) 0.0075(14) 0.0084(14) -0.0021(11) 0.0015(11) -0.0020(11)
+O6 O2- 0.0122(15) 0.0101(14) 0.0097(14) -0.0009(11) -0.0059(12) -0.0041(12)
+O7 O2- 0.0084(14) 0.0097(15) 0.0102(14) 0.0021(11) -0.0028(12) -0.0046(12)

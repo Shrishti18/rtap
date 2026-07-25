@@ -1,0 +1,88 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 200211
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Lead oxide fluoride chloride - A(I)'
+_chemical_formula_structural 'Pb2 O F Cl'
+_chemical_formula_sum 'Cl1 F1 O1 Pb2'
+_chemical_name_mineral Blixite-(F)
+_exptl_crystal_density_diffrn 7.8
+_publ_section_title
+;
+A case of mimetic twinning the crystal structure of Pb2 O F X (X = Cl, Br and
+I)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemica Scripta' 1977 11 208 210 CSRPB9
+loop_
+_publ_author_name
+'Aurivillius, B.'
+_cell_length_a 5.7521(8)
+_cell_length_b 5.7269(6)
+_cell_length_c 12.5410(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 413.12
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A c m m'
+_symmetry_Int_Tables_number 67
+_refine_ls_R_factor_all 0.05
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x, -y, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-x, y+1/2, z'
+10 'x, -y+1/2, z'
+11 'x, y+1/2, -z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 'x, -y+1/2, -z'
+14 '-x, y+1/2, -z'
+15 '-x, -y+1/2, z+1/2'
+16 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+O2- -2
+F1- -1
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 8 n 0.22046(7) 0.25 0.14651(3) . 1. 0
+O1 O2- 4 a 0 0 0.25 0.92 1. 0
+F1 F1- 4 b 0.5 0 0.25 1.67 1. 0
+Cl1 Cl1- 4 g 0.2227(7) 0.25 0.5 1.75 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Pb1 Pb2+ 0.0089(2) 0.0080(3) 0.00156(3) 0 0.00035(3) 0

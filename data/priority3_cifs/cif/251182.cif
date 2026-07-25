@@ -1,0 +1,68 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 251182
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Sodium vanadium(IV/V) oxide'
+_chemical_formula_structural 'Na V2 O5'
+_chemical_formula_sum 'Na1 O5 V2'
+_chemical_name_structure_type CaV2O5
+_exptl_crystal_density_diffrn 3.46
+_publ_section_title 'Chemical sodiation of V2O5 by Na2S'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2014
+640 3197 3202 ZAACAB
+loop_
+_publ_author_name
+'Haberkorn, Robert'
+'Bauer, Jessica'
+'Kickelbick, Guido'
+_cell_length_a 11.3195(1)
+_cell_length_b 3.6131(1)
+_cell_length_c 4.8055(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 196.54
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m n Z'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.146
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x, y+1/2, -z'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y+1/2, z'
+6 'x, -y+1/2, z'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4.5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 f 0.0971(1) 0.75 0.6082(2) 2.31(3) 1. 0
+O1 O2- 2 b 0.25 0.75 0.4629(8) 3.22(6) 1. 0
+O2 O2- 4 f 0.1184(3) 0.75 0.9246(6) 3.22(6) 1. 0
+O3 O2- 4 f 0.0714(4) 0.25 0.4985(6) 3.22(6) 1. 0
+Na1 Na1+ 2 a 0.25 0.25 0.1419 3.90(9) 1. 0

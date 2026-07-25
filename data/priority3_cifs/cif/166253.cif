@@ -1,0 +1,65 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 166253
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Indium oxide hydroxide - (CaCl2)-type'
+_chemical_formula_structural 'In O (O H)'
+_chemical_formula_sum 'H1 In1 O2'
+_chemical_name_structure_type CrOOH(oP8)
+_exptl_crystal_density_diffrn 5.86
+_cell_measurement_pressure 0.
+_publ_section_title
+'First principles prediction of new high-pressure phase of In O O H'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Mineralogical and Petrological Sciences' 2008 103 116 120
+JMPSCA
+loop_
+_publ_author_name
+'Tsuchiya, J.'
+'Tsuchiya, T.'
+'Sano, A.'
+'Ohtani, E.'
+_cell_length_a 5.381
+_cell_length_b 4.649
+_cell_length_c 3.349
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 83.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 21 n m'
+_symmetry_Int_Tables_number 31
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 'x+1/2, -y, -z+1/2'
+3 'x, y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 2 a 0 0.227 0 . 1. 0
+O1 O2- 2 a 0.366 0.482 0 . 1. 0
+O2 O2- 2 a 0.636 0.025 0 . 1. 0
+H1 H1+ 2 a 0.48 0.302 0 . 1. 0

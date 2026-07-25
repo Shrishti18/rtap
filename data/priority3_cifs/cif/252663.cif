@@ -1,0 +1,70 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 252663
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Potassium trichlorocuprate(II)'
+_chemical_formula_structural 'K Cu Cl3'
+_chemical_formula_sum 'Cl3 Cu1 K1'
+_chemical_name_structure_type KCuCl3
+_chemical_name_mineral Sanguite
+_exptl_crystal_density_diffrn 2.88
+_publ_section_title
+'Sanguite, KCuCl3, a new mineral from the Tolbachik Volcano, Kamchatka, Russia'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2015 53 633 641 CAMIA6
+loop_
+_publ_author_name
+'Igor V. Pekov,'
+'Zubkova, Natalia V.'
+'Belakovskiy, Dmitry I.'
+'Lykova, Inna S.'
+'Yapaskurt, Vasiliy O.'
+'Vigasina, Marina F.'
+'Sidorov, Evgeny G.'
+'Pushcharovsky, Dmitry Yu.'
+_cell_length_a 4.0281(2)
+_cell_length_b 13.7906(5)
+_cell_length_c 8.7335(4)
+_cell_angle_alpha 90
+_cell_angle_beta 97.137(4)
+_cell_angle_gamma 90
+_cell_volume 481.39
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0545
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+K1+ 1
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 e 0.24055(49) 0.04990(6) 0.15765(8) 0.0200(3) 1. 0
+K1 K1+ 4 e 0.2178(3) -0.17062(10) 0.44269(17) 0.0268(4) 1. 0
+Cl1 Cl1- 4 e 0.2738(4) 0.19899(11) 0.26298(18) 0.0245(4) 1. 0
+Cl2 Cl1- 4 e 0.6794(4) -0.00779(11) 0.32167(17) 0.0211(4) 1. 0
+Cl3 Cl1- 4 e -0.1806(4) 0.09868(11) -0.03440(17) 0.0214(4) 1. 0

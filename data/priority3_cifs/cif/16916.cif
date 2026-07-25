@@ -1,0 +1,71 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 16916
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Lead sulfate(VI)'
+_chemical_formula_structural 'Pb (S O4)'
+_chemical_formula_sum 'O4 Pb1 S1'
+_chemical_name_structure_type Barite#-BaSO4
+_chemical_name_mineral Anglesite
+_exptl_crystal_density_diffrn 6.27
+_publ_section_title
+;
+Die Verfeinerung der Kristallstrukutren von Pb Cl2 (Cotunnit), Ba Cl2, Pb S O4
+(Anglesit) und Ba S O4 (Baryt)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Beitraege zur Mineralogie und Petrographie (-11,1965)' 1963 9 111 132
+BMUPA4
+loop_
+_publ_author_name
+'Sahl, K.'
+_cell_length_a 8.516(20)
+_cell_length_b 5.399(10)
+_cell_length_c 6.989(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 321.34
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 c 0.1882 0.25 0.167 1.2 1. 0
+S1 S6+ 4 c 0.437 0.75 0.186 0.7 1. 0
+O1 O2- 4 c 0.595 0.75 0.1 1.6 1. 0
+O2 O2- 4 c 0.319 0.75 0.043 1.6 1. 0
+O3 O2- 8 d 0.415 0.974 0.306 1.6 1. 0

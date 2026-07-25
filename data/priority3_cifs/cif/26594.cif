@@ -1,0 +1,65 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 26594
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Tetrachlorophosphorus(V) dichloroiodate(I)'
+_chemical_formula_structural '(P Cl4) (I Cl2)'
+_chemical_formula_sum 'Cl6 I1 P1'
+_exptl_crystal_density_diffrn 2.53
+_publ_section_title
+'The Crystal Structure of Tetrachlorophosphonium Dichloroiodide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 1952 74 6151 6152 JACSAT
+loop_
+_publ_author_name
+'Zelezny, W.F.'
+'Baenziger, N.C.'
+_cell_length_a 9.26
+_cell_length_b 9.26
+_cell_length_c 5.68
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 487.05
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 21 m'
+_symmetry_Int_Tables_number 113
+_refine_ls_R_factor_all 0.27
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y, -x, -z'
+3 'y+1/2, x+1/2, z'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+I1+ 1
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 2 b 0 0 0.5 . 1. 0
+I1 I1+ 2 c 0 0.5 0.161 . 1. 0
+Cl1 Cl1- 4 e 0.18 0.68 0.161 . 1. 0
+Cl2 Cl1- 8 f 0.345 0.579 -.298 . 1. 0

@@ -1,0 +1,87 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 10206
+_audit_creation_date 1980-01-01
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Cesium chromium(II) chloride'
+_chemical_formula_structural 'Cs Cr Cl3'
+_chemical_formula_sum 'Cl3 Cr1 Cs1'
+_chemical_name_structure_type CsCrBr3
+_exptl_crystal_density_diffrn 3.41
+_publ_section_title
+;
+Effect of exchange coupling on the spectra of transition metal ions. The
+ligand field spectrum and crystal structure of Cs Cr Cl3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Physics' 1972 57 3771 3780 JCPSA6
+loop_
+_publ_author_name
+'McPherson, G.L.'
+'Kistenmacher, T.J.'
+'Folkers, J.B.'
+'Stucky, G.D.'
+_cell_length_a 7.256(3)
+_cell_length_b 7.256(3)
+_cell_length_c 6.224(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 283.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Cr2+ 2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 b 0.3333 0.6667 0.75 . 1. 0
+Cr1 Cr2+ 2 a 0 0 0.0014(9) . 1. 0
+Cl1 Cl1- 6 c 0.1572(2) -.1572 0.2772(10) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cs1 Cs1+ 0.0140(1) 0.014 0.0297(4) 0.007 0 0
+Cr1 Cr2+ 0.0147(3) 0.0147 0.0121(4) 0.0073 0 0
+Cl1 Cl1- 0.0158(3) 0.0158 0.0294(10) 0.0081(3) 0.0032(3) -.0032

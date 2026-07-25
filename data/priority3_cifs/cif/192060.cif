@@ -1,0 +1,72 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 192060
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Barium copper pyrophosphate'
+_chemical_formula_structural 'Ba Cu (P2 O7)'
+_chemical_formula_sum 'Ba1 Cu1 O7 P2'
+_chemical_name_structure_type BaZnP2O7
+_exptl_crystal_density_diffrn 4.4
+_publ_section_title
+;
+Mild hydrothermal synthesis, isomorphous substitution, crystal structure
+characterization and magnetic properties of Ba M P2 O7 (M = Mn, Cu)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2013 26 59 64 SSSCFJ
+loop_
+_publ_author_name
+'Lopes, Armandina M.L.'
+'Oliveira, Goncalo N.P.'
+'Ferdov, Stanislav'
+_cell_length_a 5.2334(4)
+_cell_length_b 7.5827(3)
+_cell_length_c 7.3527(4)
+_cell_angle_alpha 103.0006(34)
+_cell_angle_beta 95.5772(46)
+_cell_angle_gamma 90.8670(37)
+_cell_volume 282.75
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0631
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Cu2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 i 0.20125(85) 0.07195(49) 0.22293(71) 0.67(3) 1. 0
+Cu1 Cu2+ 2 i 0.1863(20) 0.60091(97) 0.3583(15) 1.51(4) 1. 0
+P1 P5+ 2 i 0.7205(37) 0.4070(16) 0.1891(27) 0.88(5) 1. 0
+P2 P5+ 2 i 0.6989(37) 0.7841(19) 0.2644(26) 0.88(5) 1. 0
+O1 O2- 2 i 0.8894(84) 0.7781(39) 0.4032(60) 1.9(1) 1. 0
+O2 O2- 2 i 0.4352(82) 0.8018(39) 0.3613(59) 1.9(1) 1. 0
+O3 O2- 2 i 0.7361(74) 0.9480(46) 0.1790(67) 1.9(1) 1. 0
+O4 O2- 2 i 0.7215(78) 0.5882(38) 0.0993(55) 1.9(1) 1. 0
+O5 O2- 2 i 0.0803(91) 0.5898(44) 0.6480(64) 1.9(1) 1. 0
+O6 O2- 2 i 0.7578(82) 0.2219(45) 0.0187(61) 1.9(1) 1. 0
+O7 O2- 2 i 0.5726(93) 0.5894(40) 0.7340(58) 1.9(1) 1. 0

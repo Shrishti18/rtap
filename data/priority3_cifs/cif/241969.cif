@@ -1,0 +1,110 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 241969
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Niobium trichloro dithio dimethylethylene'
+_chemical_formula_structural 'Nb Cl3 O S2 (C H3)2 (C2 H4)'
+_chemical_formula_sum 'C4 H10 Cl3 Nb1 O1 S2'
+_exptl_crystal_density_diffrn 2.
+_cell_measurement_temperature 100.
+_publ_section_title
+;
+Niobium tetrachloride complexes with thio-, seleno- and telluro-ether
+coordination - synthesis and structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2016 45 16262 16274 DTARAF
+loop_
+_publ_author_name
+'Chang, Yao-Pang'
+'Levason, William'
+'Light, Mark E.'
+'Reid, Gillian'
+_cell_length_a 6.7898(3)
+_cell_length_b 6.9745(3)
+_cell_length_c 7.2523(4)
+_cell_angle_alpha 108.917(4)
+_cell_angle_beta 99.404(4)
+_cell_angle_gamma 113.677(4)
+_cell_volume 279.93
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.0252
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb4+ 4
+Cl1- -1
+S2- -2
+O2- -2
+C1- -1.25
+H1+ 1
+C1- -1.25
+H1+ 1
+C1- -1.25
+H1+ 1
+C1- -1.25
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb4+ 1 a 0.47326(3) 0.87591(3) 0.74330(3) 0.01528(14) 1 0
+Cl1 Cl1- 1 a 0.2952(2) 0.4950(2) 0.4724(2) 0.0193(3) 1 0
+Cl2 Cl1- 1 a 0.2873(2) 1.0047(2) 0.5521(2) 0.0210(3) 1 0
+Cl3 Cl1- 1 a 0.5755(2) 1.1720(2) 1.0749(2) 0.0216(3) 1 0
+S1 S2- 1 a 0.5349(2) 0.6331(2) 0.9428(2) 0.0165(3) 1 0
+S2 S2- 1 a 0.0664(2) 0.7160(2) 0.8455(2) 0.0172(3) 1 0
+O1 O2- 1 a 0.7410(7) 0.9741(7) 0.7229(6) 0.0214(9) 1 0
+C1 C1- 1 a 0.6917(11) 0.8139(11) 1.2156(10) 0.0243(13) 1 0
+H1 H1+ 1 a 0.6151 0.8989 1.2747 0.036 1 0
+H2 H1+ 1 a 0.8474 0.9244 1.2347 0.036 1 0
+H3 H1+ 1 a 0.6976 0.7166 1.2858 0.036 1 0
+C2 C1- 1 a 0.2534(9) 0.4537(9) 0.9417(9) 0.0173(11) 1 0
+H4 H1+ 1 a 0.1609 0.3287 0.7999 0.021 1 0
+H5 H1+ 1 a 0.2694 0.3793 1.0344 0.021 1 0
+C3 C1- 1 a 0.1248(10) 0.5832(10) 1.0098(10) 0.0198(12) 1 0
+H6 H1+ 1 a 0.2152 0.7057 1.1529 0.024 1 0
+H7 H1+ 1 a -0.0221 0.4736 1.0121 0.024 1 0
+C4 C1- 1 a -0.1582(10) 0.4681(10) 0.6173(9) 0.0240(13) 1 0
+H8 H1+ 1 a -0.1075 0.3542 0.5648 0.036 1 0
+H9 H1+ 1 a -0.1942 0.518 0.5106 0.036 1 0
+H10 H1+ 1 a -0.2949 0.3975 0.6524 0.036 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb4+ 0.0157(2) 0.0158(2) 0.0136(2) 0.00765(18) 0.00353(18) 0.00615(17)
+Cl1 Cl1- 0.0244(7) 0.0186(6) 0.0159(7) 0.0121(5) 0.0065(6) 0.0064(5)
+Cl2 Cl1- 0.0255(7) 0.0197(6) 0.0180(7) 0.0131(6) 0.0036(6) 0.0074(5)
+Cl3 Cl1- 0.0250(7) 0.0177(6) 0.0155(7) 0.0097(6) 0.0011(6) 0.0034(5)
+S1 S2- 0.0164(7) 0.0205(6) 0.0154(7) 0.0110(5) 0.0048(5) 0.0085(5)
+S2 S2- 0.0153(6) 0.0184(6) 0.0168(7) 0.0090(5) 0.0044(5) 0.0059(5)
+O1 O2- 0.018(2) 0.026(2) 0.018(2) 0.0106(17) 0.0048(17) 0.0082(17)
+C1 C1- 0.021(3) 0.029(3) 0.017(3) 0.011(3) -0.002(2) 0.008(2)
+C2 C1- 0.018(3) 0.017(3) 0.017(3) 0.008(2) 0.005(2) 0.009(2)
+C3 C1- 0.021(3) 0.023(3) 0.019(3) 0.011(2) 0.010(2) 0.010(2)
+C4 C1- 0.015(3) 0.026(3) 0.018(3) 0.007(2) -0.001(2) 0.002(2)

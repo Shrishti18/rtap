@@ -1,0 +1,76 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 110536
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Dimethylammonium iodide'
+_chemical_formula_structural '((C H3)2 N H2) I'
+_chemical_formula_sum 'C2 H8 I1 N1'
+_exptl_crystal_density_diffrn 2.01
+_publ_section_title
+;
+Polyhalide anions in crystals. Part 2. I3- asymmetry and the N-H...I bonding:
+triiodides of the Me2 N H2+, Ph2 I+, tropanium,
+N,N,N',N'-Me4-1,2-ethanediammonium, N,N,N',N'-Me4-1,3-propane- diammonium,
+N-Me-piperazinium(2+), and N,N'-Me2-piperazinium(2+) cations, and Me2 N H2 I
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Journal of Chemistry' 1996 74 1572 1591 CJCHAG
+loop_
+_publ_author_name
+'Robertson, K.N.'
+'Cameron, T.S.'
+'Knop, O.'
+_cell_length_a 11.026(4)
+_cell_length_b 9.993(3)
+_cell_length_c 5.514(2)
+_cell_angle_alpha 90
+_cell_angle_beta 110.08(3)
+_cell_angle_gamma 90
+_cell_volume 570.62
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+I1- -1
+N3- -3
+C4+ 4
+H1+ 1
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+I1 I1- 4 i 0.78274(8) 0 0.0421(2) 3.84(4) 1. 0
+N1 N3- 4 h 0 0.2121(10) 0.5 4.5(4) 1. 0
+C1 C4+ 8 j 0.9318(9) 0.2945(10) 0.6347(16) 4.7(4) 1. 0
+H1 H1+ 8 j 0.934 0.153 0.368 4.7 1. 0
+H2 H1- 8 j 0 0.356 0.777 4.7 1. 0
+H3 H1- 8 j 0.862 0.357 0.497 4.7 1. 0
+H4 H1- 8 j 0.883 0.23 0.729 4.7 1. 0

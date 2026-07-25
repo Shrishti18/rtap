@@ -1,0 +1,75 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 242056
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Yttrium bromide molybdate(VI)'
+_chemical_formula_structural 'Y Br (Mo O4)'
+_chemical_formula_sum 'Br1 Mo1 O4 Y1'
+_chemical_name_structure_type YbBrMoO4
+_exptl_crystal_density_diffrn 4.47
+_publ_section_title
+;
+On halide derivatives of rare-earth metal(III) oxidomolybdates(VI) and
+-tungstates(VI)
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2016 231 449
+466 ZKCMAJ
+loop_
+_publ_author_name
+'Schleid, Thomas'
+'Hartenbach, Ingo'
+_cell_length_a 6.8548(2)
+_cell_length_b 7.1737(2)
+_cell_length_c 10.8881(4)
+_cell_angle_alpha 104.917(2)
+_cell_angle_beta 107.427(2)
+_cell_angle_gamma 93.172(2)
+_cell_volume 488.5
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Br1- -1
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 2 i 0.35398(4) 0.87259(4) 0.26988(3) . 1 0
+Y2 Y3+ 2 i 0.60504(4) 0.35420(4) 0.23118(3) . 1 0
+Br1 Br1- 2 i 0.74521(8) 0.03444(10) 0.48045(6) . 1 0
+Br2 Br1- 2 i 0.80925(9) 0.28919(10) 0.02038(6) . 1 0
+Mo1 Mo6+ 2 i 0.26690(6) 0.18258(6) 0.86642(4) . 1 0
+Mo2 Mo6+ 2 i 0.22380(6) 0.40619(6) 0.36976(4) . 1 0
+O1 O2- 2 i 0.3242(6) 0.2681(6) 0.0350(4) . 1 0
+O2 O2- 2 i 0.0077(6) 0.1324(6) 0.7938(4) . 1 0
+O3 O2- 2 i 0.3786(6) 0.3393(5) 0.8002(4) . 1 0
+O4 O2- 2 i 0.6053(6) 0.0183(5) 0.1767(4) . 1 0
+O5 O2- 2 i 0.9624(6) 0.3613(6) 0.3240(4) . 1 0
+O6 O2- 2 i 0.3027(6) 0.5676(6) 0.2964(4) . 1 0
+O7 O2- 2 i 0.3177(6) 0.4866(6) 0.5398(4) . 1 0
+O8 O2- 2 i 0.3358(6) 0.2034(5) 0.3029(4) . 1 0

@@ -1,0 +1,110 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 169171
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Magnesium bis(methanesulfonate) dodecahydrate'
+_chemical_formula_structural 'Mg (C H3 S O3)2 (H2 O)12'
+_chemical_formula_sum 'C2 H30 Mg1 O18 S2'
+_exptl_crystal_density_diffrn 1.36
+_cell_measurement_temperature 110.
+_publ_section_title
+;
+Crystallization and characterization of magnesium methanesulfonate hydrate Mg
+(C H3 S O3)2 * 12(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Growth and Design' 2010 10 4327 4333 CGDEFU
+loop_
+_publ_author_name
+'Genceli Guner, F.E.'
+'Lutz, M.'
+'Sakurai, T.'
+'Spek, A.L.'
+'Hondoh, T.'
+_cell_length_a 9.27150(8)
+_cell_length_b 9.27150(8)
+_cell_length_c 21.1298(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1572.99
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0187
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+O2- -2
+H1+ 1
+S6+ 6
+O2- -2
+C4- -4
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 3 a 0. 0. 0. 0.01224(8) 1 0
+O1 O2- 18 f 0.19610(5) 0.16209(5) 0.055551(19) 0.02002(9) 1 0
+H1 H1+ 18 f 0.2920(15) 0.1764(14) 0.0539(5) 0.036(3) 1 0
+H2 H1+ 18 f 0.1901(15) 0.2059(15) 0.0896(5) 0.039(3) 1 0
+S1 S6+ 6 c 0.6667 0.3333 0.039204(9) 0.01519(6) 1 0
+O2 O2- 18 f 0.50862(5) 0.19142(5) 0.05909(2) 0.02350(9) 1 0
+C1 C4- 6 c 0.6667 0.3333 -0.04396(6) 0.0455(3) 1 0
+H3 H1+ 18 f 0.6555(18) 0.2296(17) -0.0576(6) 0.059(4) 1 0
+O3 O2- 18 f 0.20571(5) 0.32811(5) 0.166376(19) 0.01987(8) 1 0
+H4 H1+ 18 f 0.1814(14) 0.2716(14) 0.1996(5) 0.035(3) 1 0
+H5 H1+ 18 f 0.1416(15) 0.3687(15) 0.1680(5) 0.040(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 Mg2+ 0.01228(10) 0.01228(10) 0.01216(16) 0.00614(5) 0. 0.
+O1 O2- 0.01517(15) 0.02384(17) 0.01958(16) 0.00865(13) -0.00350(11) -0.00739(12)
+S1 S6+ 0.01560(7) 0.01560(7) 0.01437(9) 0.00780(4) 0. 0.
+O2 O2- 0.01609(16) 0.01804(16) 0.0322(2) 0.00538(13) -0.00179(13) 0.00431(14)
+C1 C4- 0.0605(6) 0.0605(6) 0.0153(4) 0.0303(3) 0. 0.
+O3 O2- 0.01960(16) 0.02174(17) 0.01923(16) 0.01106(13) 0.00087(12) -0.00060(12)

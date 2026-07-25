@@ -1,0 +1,81 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 15087
+_audit_creation_date 1980-01-01
+_audit_update_record 1998-06-26
+_chemical_name_systematic 'Copper chloride dihydrate'
+_chemical_formula_structural 'Cu Cl2 (H2 O)2'
+_chemical_formula_sum 'H4 Cl2 Cu1 O2'
+_chemical_name_mineral Eriochalcite
+_exptl_crystal_density_diffrn 2.5
+_cell_measurement_temperature 301.5
+_publ_section_title
+'An X-Ray refinement of the crystal structure of copper(II) chloride dihydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (1-27,1973-42,1988)' 1970 24 3510 3526 ACSAA4
+loop_
+_publ_author_name
+'Engberg, A.'
+_cell_length_a 8.104(8)
+_cell_length_b 3.757(4)
+_cell_length_c 7.433(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 226.31
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n a'
+_symmetry_Int_Tables_number 53
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x+1/2, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Cl1- -1
+H1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 a 0 0 0 . 1. 0
+Cl1 Cl1- 4 h 0 0.3803(2) 0.24020(8) . 1. 0
+H1 H1+ 8 i 0.3065 0.1295 0.0822 . 1. 0
+O1 O2- 4 e 0.2402(3) 0 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cu1 Cu2+ 0.00369(6) 0.0327(4) 0.00664(7) 0 0 -.00406(9)
+Cl1 Cl1- 0.00661(8) 0.0312(4) 0.00660(8) 0 0 -.00148(11)
+H1 H1+ 0.0042 0.069 0.0118 0 0 -.0127
+O1 O2- 0.0042(2) 0.069(2) 0.0118(4) 0 0 -.0127(7)

@@ -1,0 +1,98 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 203141
+_audit_creation_date 1990-12-27
+_chemical_name_systematic 'Barium zirconium chloride boride (2/6/17/1)'
+_chemical_formula_structural 'Ba2 Zr6 Cl17 B'
+_chemical_formula_sum 'B1 Ba2 Cl17 Zr6'
+_exptl_crystal_density_diffrn 3.66
+_publ_section_title
+;
+Synthesis and Structure of Ba2 Zr6 Cl17 B, The Missing Link in Cluster
+Stoichiometries and Structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1989 156 49 58 JCOMAH
+loop_
+_publ_author_name
+'Zhang, J.'
+'Corbett, J.D.'
+_cell_length_a 11.4735(4)
+_cell_length_b 11.4735(4)
+_cell_length_c 9.8812(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1300.77
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4/m'
+_symmetry_Int_Tables_number 87
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, -z+1/2'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+1/2, -x+1/2, z+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr2+ 2.67
+Cl1- -1
+Ba2+ 2
+B3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr2+ 8 h 0.07181(2) 0.18658(2) 0 . 1. 0
+Zr2 Zr2+ 4 e 0 0 0.23442(3) . 1. 0
+Cl1 Cl1- 16 i 0.42077(4) 0.29165(4) 0.24444(4) . 1. 0
+Cl2 Cl1- 8 h 0.28625(5) 0.12703(5) 0 . 1. 0
+Cl3 Cl1- 8 h 0.14036(6) 0.40773(5) 0 . 1. 0
+Cl4 Cl1- 2 b 0 0 0.5 . 1. 0
+Ba1 Ba2+ 4 d 0 0.5 0.25 . 1. 0
+B1 B3- 2 a 0 0 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Zr1 Zr2+ 0.945(7) 0.703(6) 0.801(7) -.073(5) 0 0
+Zr2 Zr2+ 0.965(5) 0.965(5) 0.426(8) 0 0 0
+Cl1 Cl1- 2.18(1) 1.33(1) 0.92(1) -.35(1) -.15(1) -.27(1)
+Cl2 Cl1- 0.97(2) 1.28(2) 1.94(2) -.28(1) 0 0
+Cl3 Cl1- 1.90(2) 1.00(2) 1.76(2) -.39(2) 0 0
+Cl4 Cl1- 3.31(4) 3.31(4) 0.51(3) 0 0 0
+Ba1 Ba2+ 2.284(5) 2.284(5) 1.233(7) 0 0 0
+B1 B3- 0.86(8) 0.86(8) 0.5(1) 0 0 0

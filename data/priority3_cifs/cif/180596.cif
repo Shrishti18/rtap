@@ -1,0 +1,74 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 180596
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Tetracalcium lanthanum oxide triborate'
+_chemical_formula_structural 'Ca4 La (O (B O3)3)'
+_chemical_formula_sum 'B3 Ca4 La1 O10'
+_chemical_name_structure_type Ca5(BO3)3F
+_exptl_crystal_density_diffrn 3.49
+_cell_measurement_temperature 293.
+_publ_section_title 'Growth and structure of Ca4 La (O (B O3)3)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Crystal Growth' 2011 320 90 94 JCRGAE
+loop_
+_publ_author_name
+'Reuther, C.'
+'Moeckel, R.'
+'Hengst, M.'
+'Goetze, J.'
+'Schwarzer, A.'
+'Schmidt, H.'
+_cell_length_a 8.17079(8)
+_cell_length_b 16.08406(16)
+_cell_length_c 3.62844(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.352(1)
+_cell_angle_gamma 90.
+_cell_volume 467.52
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 m 1'
+_symmetry_Int_Tables_number 8
+_refine_ls_R_factor_all 0.0201
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ca2+ 2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 a -0.00028(2) 0 -0.00509(2) . 1. 0
+Ca1 Ca2+ 4 b 0.14685(10) 0.38620(5) 0.3300(3) . 1. 0
+Ca2 Ca2+ 4 b 0.27111(10) 0.18010(5) 0.6614(2) . 1. 0
+B1 B3+ 2 a 0.3877(8) 0 0.7077(17) . 1. 0
+B2 B3+ 4 b 0.9582(6) 0.1957(3) 0.0856(13) . 1. 0
+O1 O2- 2 a 0.8227(6) 0 0.4100(14) . 1. 0
+O2 O2- 4 b 0.4728(4) 0.0745(2) 0.7543(9) . 1. 0
+O3 O2- 4 b 0.3055(4) 0.3301(2) 0.8886(9) . 1. 0
+O4 O2- 4 b 0.0988(4) 0.1479(3) 0.0887(9) . 1. 0
+O5 O2- 4 b 0.9691(5) 0.2704(3) 0.2737(13) . 1. 0
+O6 O2- 2 a 0.2170(6) 0 0.6076(16) . 1. 0

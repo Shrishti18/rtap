@@ -1,0 +1,100 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 23750
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Diammonium tetrachlorocuprate dihydrate'
+_chemical_formula_structural '(N H4)2 (Cu Cl4) (H2 O)2'
+_chemical_formula_sum 'H12 Cl4 Cu1 N2 O2'
+_chemical_name_structure_type (NH4)2CuCl4(H2O)2
+_exptl_crystal_density_diffrn 1.98
+_publ_section_title
+;
+The positions of hydrogen atoms in (N H4)2 Cu Cl2 (H2 O)2 by neutron
+diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Croatica Chemica Acta' 1969 41 65 72 CCACAA
+loop_
+_publ_author_name
+'Matkovic, B.'
+'Peterson, S.W.'
+'Willett, R.D.'
+_cell_length_a 7.64(1)
+_cell_length_b 7.64(1)
+_cell_length_c 7.98(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 465.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N3- -3
+Cu2+ 2
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N3- 4 d 0 0.5 0.25 . 1. 0
+Cu1 Cu2+ 2 a 0 0 0 . 1. 0
+Cl1 Cl1- 4 f 0.2125(15) 0.2125(15) 0 . 1. 0
+Cl2 Cl1- 4 g 0.2195(13) 0.2195(13) 0.5 . 1. 0
+O1 O2- 4 e 0 0 0.2480(52) . 1. 0
+H1 H1+ 8 j 0.0673(11) 0.0673(11) 0.3275(60) . 1. 0
+H2 H1+ 16 k 0.0708(15) 0.4137(15) 0.1832(56) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+N1 N3- 0.0113(5) 0.0113(5) 0.007(25) 0 0 0
+Cu1 Cu2+ 0.0071(23) 0.0071(23) 0.0064(34) 0 0 0
+Cl1 Cl1- 0.0101(9) 0.0101(9) 0.0055(18) 0 0 0
+Cl2 Cl1- 0.0098(9) 0.0098(9) 0.0094(17) 0 0 0
+O1 O2- 0.0177(23) 0.0177(23) 0.007(52) 0 0 0
+H1 H1+ 0.0145(9) 0.0145(9) 0.0003(83) 0 0 0
+H2 H1+ 0.0247(23) 0.0184(18) 0.0263(57) 0 0 0

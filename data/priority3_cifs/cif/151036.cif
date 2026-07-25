@@ -1,0 +1,80 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 151036
+_audit_creation_date 2006-04-01
+_audit_update_record 2008-08-01
+_chemical_name_systematic N,N-dichlormethylsulfonamide
+_chemical_formula_structural '(C H3) S (O)2 N Cl2'
+_chemical_formula_sum 'C1 H3 Cl2 N1 O2 S1'
+_exptl_crystal_density_diffrn 1.95
+_cell_measurement_temperature 173.
+_publ_section_title
+;
+Neue N,N-Dichlormethylsulfonammoniumsalze (C H3 S (O)2 N Cl2 X)(+) (M F6)(-)
+(x = C H3, Cl, F; M = As, Sb) und Kristallstruktur von C H3 S (O)2 N Cl2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1997
+623 333 339 ZAACAB
+loop_
+_publ_author_name
+'Minkwitz, R.'
+'Garzarek, P.'
+'Neikes, F.'
+'Kornath, A.'
+'Preut, H.'
+_cell_length_a 6.151(3)
+_cell_length_b 9.373(5)
+_cell_length_c 9.703(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 559.41
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0751
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cl1- -1
+S6+ 6
+O2- -2
+N1+ 1
+C4- -4
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cl1 Cl1- 8 d 0.3464(9) 0.59873(6) 0.62846(5) 0.0292 1. 0
+S1 S6+ 4 c 0.1313(1) 0.75 0.40608(7) 0.0213 1. 0
+O1 O2- 8 d 0.1570(3) 0.6183(2) 0.3344(2) 0.0363 1. 0
+N1 N1+ 4 c 0.3445(4) 0.75 0.5237(2) 0.021 1. 0
+C1 C4- 4 c -0.1129(5) 0.75 0.5001(3) 0.0266 1. 0
+H1 H1+ 4 c -0.227(6) 0.75 0.434(4) 0.0284 1. 0
+H2 H1+ 8 d -0.125(4) 0.666(3) 0.555(2) 0.0398 1. 0

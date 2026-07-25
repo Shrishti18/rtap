@@ -1,0 +1,83 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 16107
+_audit_creation_date 1980-01-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Tetraarsenic pentasulfide'
+_chemical_formula_structural 'As4 S5'
+_chemical_formula_sum 'As4 S5'
+_chemical_name_structure_type As4S5
+_chemical_name_mineral Uzonite
+_exptl_crystal_density_diffrn 3.37
+_publ_section_title
+'Crystal and molecular structure of tetraarsenic pentasulphide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+;
+Journal of the Chemical Society. Dalton Transactions, Inorganic Chemistry
+(1972-)
+; 1973 1973 1740 1742 JCDTBI
+loop_
+_publ_author_name
+'Whitfield, H.J.'
+_cell_length_a 7.98(2)
+_cell_length_b 8.10(2)
+_cell_length_c 7.14(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.0(5)
+_cell_angle_gamma 90.
+_cell_volume 453.04
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As2+ 2.5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As2+ 2 e 0.0217(7) 0.25 0.8033(9) . 1. 0
+As2 As2+ 2 e 0.0505(6) 0.25 0.4543(8) . 1. 0
+As3 As2+ 4 f 0.3912(4) 0.4890(5) 0.7439(6) . 1. 0
+S1 S2- 4 f 0.1853(11) 0.4649(11) 0.9140(14) . 1. 0
+S2 S2- 4 f 0.2318(10) 0.4629(11) 0.4511(13) . 1. 0
+S3 S2- 2 e 0.5414(15) 0.25 0.7894(19) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+As1 As2+ 0.0080(8) 0.0117(9) 0.0136(16) 0 0.0009(8) 0
+As2 As2+ 0.0084(8) 0.0108(8) 0.0086(15) 0 0.0028(8) 0
+As3 As2+ 0.0082(5) 0.0112(5) 0.0149(10) -.0011(5) -.0007(5) -.0021(6)
+S1 S2- 0.0079(12) 0.0112(13) 0.0147(26) 0.0003(11) 0.0008(12) -.0033(14)
+S2 S2- 0.0089(12) 0.0094(13) 0.0100(26) -.0008(10) -.0004(12) 0.0019(13)
+S3 S2- 0.0062(18) 0.0103(18) 0.0150(36) 0 -.0041(18) 0

@@ -1,0 +1,91 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 260895
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Diiron(III) borotriphosphate'
+_chemical_formula_structural 'Fe2 (B P3 O12)'
+_chemical_formula_sum 'B1 Fe2 O12 P3'
+_chemical_name_structure_type Fe2B(PO4)3
+_exptl_crystal_density_diffrn 3.26
+_cell_measurement_temperature 293.
+_publ_section_title 'Redetermination of Fe2 [B P3 O12]'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2010 66
+i63 i63 ACSEBH
+loop_
+_publ_author_name
+'Li Feifei'
+'Zhang Huiju'
+'Zhang Lina'
+_cell_length_a 8.0347(8)
+_cell_length_b 8.0347(8)
+_cell_length_c 7.4163(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 414.63
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0348
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P5+ 5
+O2- -2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 f 0.6667 0.3333 0.45190(12) 0.0072(3) 1 0
+P1 P5+ 6 h 1.04513(17) 0.68473(17) 0.25 0.0064(3) 1 0
+O1 O2- 6 h 0.8735(5) 0.4782(5) 0.25 0.0080(7) 1 0
+O2 O2- 6 h 0.9428(5) 0.8099(5) 0.25 0.0097(8) 1 0
+B1 B3+ 2 a 1. 1. 0.25 0.0101(19) 1 0
+O3 O2- 12 i 1.1626(3) 0.7289(3) 0.4200(4) 0.0115(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0076(3) 0.0076(3) 0.0063(5) 0.00381(15) 0. 0.
+P1 P5+ 0.0055(6) 0.0057(6) 0.0077(7) 0.0025(5) 0. 0.
+O1 O2- 0.0067(15) 0.0059(16) 0.0099(19) 0.0021(13) 0. 0.
+O2 O2- 0.0060(16) 0.0056(16) 0.017(2) 0.0022(13) 0. 0.
+B1 B3+ 0.008(2) 0.008(2) 0.014(5) 0.0040(12) 0. 0.
+O3 O2- 0.0116(12) 0.0115(12) 0.0127(15) 0.0066(10) -0.0045(11) -0.0019(10)

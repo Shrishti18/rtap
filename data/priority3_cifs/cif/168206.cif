@@ -1,0 +1,76 @@
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 168206
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Lithium iron arsenide'
+_chemical_formula_structural 'Li Fe As'
+_chemical_formula_sum 'As1 Fe1 Li1'
+_chemical_name_structure_type NaFeAs
+_exptl_crystal_density_diffrn 5.15
+_publ_section_title
+;
+First-principles study of the magnetic, structural and electronic properties
+of Li Fe As
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2010 22 046006-1 046006-4 JCOMEL
+loop_
+_publ_author_name
+'Zhang Xin Xin'
+'Wang Hui'
+'Ma Yan Ming'
+_cell_length_a 5.26
+_cell_length_b 5.41
+_cell_length_c 6.24
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 177.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m m a'
+_symmetry_Int_Tables_number 67
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z'
+2 'x+1/2, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z'
+6 '-x+1/2, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z'
+10 'x, -y+1/2, z'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x, -y+1/2, z'
+14 '-x, y+1/2, -z'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe2+ 2
+As3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 g 0 0.25 0.66424 . 1. 0
+Fe1 Fe2+ 4 a 0.25 0 0 . 1. 0
+As1 As3- 4 g 0 0.25 0.2364 . 1. 0

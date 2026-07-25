@@ -1,0 +1,92 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 247206
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Strontium dicopper bis(borate)'
+_chemical_formula_structural 'Sr Cu2 (B O3)2'
+_chemical_formula_sum 'B2 Cu2 O6 Sr1'
+_exptl_crystal_density_diffrn 4.06
+_cell_measurement_temperature 590.
+_publ_section_title
+;
+Structural investigation of quaternary copper oxides with low dimensional
+magnetic properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dissertation Rheinisch-Westfaelische Hochschule Aachen' 2003 2003 1 132
+DIAACP
+loop_
+_publ_author_name
+'Sparta, K.'
+_cell_length_a 9.004(2)
+_cell_length_b 9.004(2)
+_cell_length_c 6.706(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 543.67
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 4 c m'
+_symmetry_Int_Tables_number 108
+_refine_ls_R_factor_all 0.0165
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z'
+2 '-y+1/2, -x+1/2, z'
+3 'y, -x, z'
+4 '-y, x, z'
+5 'x+1/2, -y+1/2, z'
+6 '-x+1/2, y+1/2, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y, x, z+1/2'
+10 '-y, -x, z+1/2'
+11 'y+1/2, -x+1/2, z+1/2'
+12 '-y+1/2, x+1/2, z+1/2'
+13 'x, -y, z+1/2'
+14 '-x, y, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Cu2+ 2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 a 0 0 0 . 1. 0
+Cu1 Cu2+ 8 c 0.38606(4) 0.11394(4) 0.254(1) . 1. 0
+B1 B3+ 8 c 0.2054(4) 0.2946(4) 0.271(2) . 1. 0
+O1 O2- 8 c 0.5981(3) 0.0981(3) 0.258(5) . 1. 0
+O2 O2- 16 d 0.1735(3) 0.1465(3) 0.238(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0156(3) 0.0156(3) 0.0189(4) 0. 0. 0.
+Cu1 Cu2+ 0.0085(3) 0.0085(3) 0.0589(5) 0.0014(2) 0. 0.
+O1 O2- 0.009(1) 0.009(1) 0.131(6) 0. 0.017(7) 0.017(7)
+O2 O2- 0.011(1) 0.010(1) 0.036(4) 0.0013(9) -0.007(4) -0.004(3)

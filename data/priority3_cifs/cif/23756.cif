@@ -1,0 +1,90 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 23756
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Dicopper cyclo-tetraphosphate(V)'
+_chemical_formula_structural 'Cu2 (P4 O12)'
+_chemical_formula_sum 'Cu2 O12 P4'
+_chemical_name_structure_type Fe2(PO3)4
+_exptl_crystal_density_diffrn 3.44
+_publ_section_title 'Etude systematique des phosphates condenses'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Seminaire de Chimie de l'Etat Solide 1971-72' 1972 1972 157 175 SESOLV
+loop_
+_publ_author_name
+'Laugt, M.'
+'Durif, A.'
+_cell_length_a 12.562
+_cell_length_b 8.088
+_cell_length_c 9.574
+_cell_angle_alpha 90.
+_cell_angle_beta 118.58
+_cell_angle_gamma 90.
+_cell_volume 854.2
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 c 0.25 0.25 0 . 1. 0
+Cu2 Cu2+ 4 e 0 0.55410(16) 0.25 . 1. 0
+P1 P5+ 8 f 0.31167(17) 0.50197(24) 0.30487(22) . 1. 0
+P2 P5+ 8 f 0.51093(16) 0.74175(24) 0.47652(21) . 1. 0
+O1 O2- 8 f 0.41945(52) 0.62695(77) 0.33467(67) . 1. 0
+O2 O2- 8 f 0.37219(54) 0.37105(79) 0.44606(74) . 1. 0
+O3 O2- 8 f 0.27059(58) 0.42681(77) 0.14731(71) . 1. 0
+O4 O2- 8 f 0.21697(51) 0.59032(70) 0.32839(67) . 1. 0
+O5 O2- 8 f 0.53844(52) 0.23235(70) 0.40920(68) . 1. 0
+O6 O2- 8 f 0.45884(56) 0.11302(75) 0.59067(71) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cu1 Cu2+ 0.00096(10) 0.00098(18) 0.00095(16) 0.00017(9) 0.00057(2) 0.00027(12)
+Cu2 Cu2+ 0.00143(11) 0.00082(18) 0.00128(17) 0 0.00073(10) 0
+P1 P5+ 0.00052(17) 0.00091(22) 0.00100(21) 0.00002(12) 0.00022(13) 0.00022(16)
+P2 P5+ 0.00063(13) 0.00085(22) 0.00113(21) 0.00015(12) 0.00049(13) 0.00032(17)
+O1 O2- 0.00152(39) 0.00469(80) 0.00303(65) -.00160(12) 0.00127(43) 0.00157(58)
+O2 O2- 0.00211(42) 0.00468(83) 0.00531(76) 0.00174(45) 0.00273(50) 0.00244(64)
+O3 O2- 0.00254(46) 0.00343(85) 0.00290(68) 0.00044(47) 0.00079(47) 0.00098(57)
+O4 O2- 0.00126(38) 0.00251(73) 0.00292(66) 0.00057(41) 0.00091(43) 0.00016(53)
+O5 O2- 0.00194(39) 0.00206(71) 0.00388(65) 0.00005(42) 0.00200(44) 0.00030(53)
+O6 O2- 0.00248(44) 0.00242(72) 0.00367(69) 0.00038(46) 0.00127(47) 0.00101(58)

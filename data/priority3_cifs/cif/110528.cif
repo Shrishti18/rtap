@@ -1,0 +1,76 @@
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+_database_code_ICSD 110528
+_audit_creation_date 2008-08-01
+_chemical_name_systematic (N,N-Dimethylhydroxylamino)chlorosilane
+_chemical_formula_structural '(C H3)2 N O Si H2 Cl'
+_chemical_formula_sum 'C2 H8 Cl1 N1 O1 Si1'
+_exptl_crystal_density_diffrn 1.33
+_cell_measurement_temperature 134.
+_publ_section_title
+;
+Beta-donor interactions of exceptional strength in
+N,N-dimethylhydroxylaminochlorosilane, Cl H2 Si O N Me2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 1998 120 7320 7327 JACSAT
+loop_
+_publ_author_name
+'Mitzel, N.W.'
+'Losehand, U.'
+_cell_length_a 5.7284(4)
+_cell_length_b 6.5347(5)
+_cell_length_c 8.7954(9)
+_cell_angle_alpha 101.236(7)
+_cell_angle_beta 102.126(8)
+_cell_angle_gamma 95.056(7)
+_cell_volume 312.85
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0356
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cl1- -1
+Si4+ 4
+N1- -1
+O2- -2
+C4+ 4
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cl1 Cl1- 2 i 0.27711(4) 0.40856(4) 0.64293(3) . 1. 0
+Si1 Si4+ 2 i -0.06002(4) 0.29940(3) 0.67904(3) . 1. 0
+N1 N1- 2 i -0.24234(13) 0.14789(11) 0.80803(8) . 1. 0
+O1 O2- 2 i 0.02439(12) 0.18140(11) 0.82985(8) . 1. 0
+C1 C4+ 2 i -0.2982(2) 0.2538(2) 0.95585(11) . 1. 0
+C2 C4+ 2 i -0.3229(2) -0.07827(15) 0.76767(13) . 1. 0
+H1 H1- 2 i -0.2426(29) 0.4029(26) 0.9763(19) . 1. 0
+H2 H1- 2 i -0.4945(32) -0.1046(27) 0.7482(21) . 1. 0
+H3 H1- 2 i -0.473(3) 0.2185(26) 0.9381(20) . 1. 0
+H4 H1- 2 i -0.2815(30) -0.1470(27) 0.6644(21) . 1. 0
+H5 H1- 2 i -0.2279(28) 0.1866(25) 1.0383(20) . 1. 0
+H6 H1- 2 i -0.1574(30) 0.4750(28) 0.7118(21) . 1. 0
+H7 H1- 2 i -0.2536(30) -0.1522(29) 0.8528(21) . 1. 0
+H8 H1- 2 i -0.1690(29) 0.1678(25) 0.5352(20) . 1. 0
