@@ -359,3 +359,64 @@ Verdicts over 708 bands: SINGLE 148, MANIFOLD 514, NEITHER 46, DEAD_BY_C2 0.
 reported sensitivity band, which now widens to **43–49%** (bare margin 43.5%,
 factor-3 variants up to 48.6%). The abundance retraction stands under the
 principled rule.
+
+---
+
+## RETRACTION: C4's winding metric is gauge, and the winding class is dead
+
+Prompted by asking whether the winding hopping structure could be *engineered*
+(tilted lattice + Raman addressing, momentum/frequency synthetic lattices,
+angular-momentum-derived phases). It cannot be usefully engineered, because the
+structure carries no current. `review/winding_stiffness.py`, four checks:
+
+**1. It is not "n-th-neighbour dominant". It is one bond.**
+`d(k) = D[cos(nk)σx + sin(nk)σy]` gives `H₁₂(k) = D e^{-ink}`, so
+`H₁₂(R) = D·δ_{R,n}` — a single hop at range n and *nothing else*. No A–A, no
+B–B, no A–B at any other range. The lattice decomposes into **decoupled dimers**
+`{A_R, B_{R+n}}`.
+
+**2. Superfluid stiffness is exactly zero.** Threading flux θ through an N-site
+ring, every range-n hop picks up `e^{inθ/N}`; each dimer is a two-site problem
+with eigenvalues `±D|e^{iφ}| = ±D`, so the phase is removable by a local gauge
+on each dimer. Measured spread of the total and half-filled energies over
+θ ∈ {0, 0.3, 0.7, 1.1}: **2×10⁻¹⁶ and exactly 0.0**, for n = 1, 2, 3.
+
+This is the pathology `sawtooth.py`'s own docstring records the project meeting
+before — *"the two earlier test lattices where H(R=1)² = 0 forced zero transport
+and made the ED/BdG comparison meaningless."* C4 is that lattice.
+
+**3. `tr g = n²/4` is a molecular-orbital spread, not a transport property.**
+For `(|A₀⟩ ± |B_n⟩)/√2`, weight ½ at 0 and ½ at n gives
+`⟨r²⟩−⟨r⟩² = n²/4` — matching `<tr g>` to 5 digits at n = 1,2,3,4. Intra-dimer
+geometry.
+
+**4. The project's own v4 correction detects it.** With the documented
+convention (`u_a → e^{ik·d_a}u_a`, `d_a = −r_a`) and B at its true position
+`r_B = n`: `M_naive = 0.25 / 1.00 / 2.25` → `M_shifted = 3×10⁻²⁷`. **The entire
+metric is gauge.** `M_min = 0.`
+
+### Consequence
+
+`M = n²/4 independent of the gap` — the result that overturned the 8.1 K
+terminus, produced 334 K at Ir's own λ, and left "one open door" — is
+**M_naive on a disconnected lattice**. Under `M_min` it is zero, and `D_s` is
+zero by direct measurement. The 334/454 K figures are withdrawn.
+
+The gauge-invariance correction was shipped by the author in harvest v2→v4 and
+**never applied back to C4**, which then sat unexamined as a load-bearing claim
+through the entire review. Eighth appearance of the family, and the most
+expensive: it is the one that reopened the project.
+
+### What this restores, and what it does not
+
+The 8.1 K terminus and its linear scaling `Tc_max = 19.4 K/eV × λ_SOC` stand
+again as the class bound — they were computed with atomic SOC on a *connected*
+lattice. The winding escape is closed **by theorem, not by absence**: it is not
+that no material realizes it, but that the structure which produces `M = n²/4`
+produces `D_s = 0` identically.
+
+Still open, and now the only thing: whether a *connected* lattice can have both
+a large **minimal** metric and a uniform gap. Every result in this project that
+used `M_naive` on a near-disconnected manifold needs re-reading — the abundance
+screen used `M_trg` (naive) throughout, so the 43.5% figure is an upper bound
+on physically usable metric.
