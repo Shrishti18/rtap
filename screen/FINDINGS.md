@@ -186,3 +186,29 @@ chemistry is untouched and is the binding open question.
 | `full_scan.py`, `ef_gate.py`, `analyze_full.py` | the sweep and its analysis |
 | `fastops.py` | rank-r reformulations, validated against `harvest` to ~1e-14 |
 | `validate_fastops.py` | that validation |
+
+---
+
+## Terminus
+
+The project closes on `review/LIGAND_U.md`. The final chain:
+
+> n_φ = 2 forced → M ≤ ⟨v²⟩/Δ² → winding breaks the tie → isolation vs.
+> metallicity → SOC is the only non-hopping scale → isolating it quenches n_φ
+> → g → 0
+
+The last link is the first one: C1/C2 (n_φ → 1 ⇒ tr g ≡ 0) is what closes the
+tetragonal-crystal-field loophole in the SOC route. The cRPA U question that was
+expected to decide it does invert — U(Ir⁴⁺, telluride) ≈ 0.95 eV < 3λ = 1.25 eV —
+and is irrelevant: U is capped by Δ_iso/2 = 0.106 eV at the metric optimum, 9×
+below the telluride estimate. Ceiling **4–16 K** depending on the projection
+condition (8.1 K under the project's own U ≤ Δ_iso/2), three orders of magnitude
+short.
+
+**No viable route to room-temperature superconductivity through flat-band
+quantum geometry in d-electron systems.** Every link derived.
+
+Two limitations carried on the record: there is **no published cRPA U for any Ir
+chalcogenide or halide** (the 0.95 eV is an extrapolation from Ta/Nb/Ru/Fe ligand
+factors, and is a genuine hole in the literature), and `c = 0.67` is mean-field
+and uncalibrated, so the Kelvin figures are ceilings on a ceiling.

@@ -195,6 +195,42 @@ symmetry — for isolation. The 8.1 K ceiling stands.
 - `iso` here is the gap to the j = 3/2 quartet in a 6-state model. Real materials
   have e_g, ligand p, and further bands that can only reduce it.
 
+---
+
+## 5. On the record
+
+### F1. There is no published cRPA U for any Ir chalcogenide or halide.
+
+Stated as a finding, not a caveat. Every ab-initio screened-interaction value for
+Ir⁴⁺ 5d t₂g in the literature is an oxide. The non-oxide Ir literature — IrTe₂,
+IrX₃, A₂IrX₆ — parameterises U empirically, by fitting a gap. The 0.95 eV in §1d
+is an **extrapolation** from Ta/Nb (MX₂), Ru (RuX₃) and Fe (pnictide/chalcogenide)
+ligand factors applied to an Ir oxide anchor. It is a bound in the useful
+direction, not a calculation on an Ir compound. Anyone who needs this number for
+real has to compute it.
+
+### F2. The 8 K ceiling is a ceiling on a ceiling.
+
+`c = 0.67` is mean-field and uncalibrated against exact methods (the standing
+caveat from the stood-down ED validation). Every Tc here is an upper bound
+*within* mean field, and the true stiffness is expected to be lower.
+
+### F3. The Tc bracket, by projection condition
+
+| condition | U at t = 52 meV | Tc |
+|---|---|---|
+| U ≤ Δ_iso (no safety factor) | 0.212 eV | **16.3 K** |
+| U ≤ Δ_iso/2 (the project's own rule) | 0.106 eV | **8.1 K** |
+| U ≤ Δ_iso/4 (D8's defensible rule) | 0.053 eV | **4.1 K** |
+
+The 8.1 K quoted in §2b is the **Δ_iso/2** number — the project's own rule, not
+D8's tightening. The factor 2 between it and 16.3 K is the safety factor on the
+projection, not an amplitude-vs-stiffness branch: stiffness binds throughout
+(at U = 0.106 eV the pairing cap U·λ_pair/4 is 202 K, 25× above the geometric
+cap). Applying D8 would give 4.1 K.
+
+Three orders of magnitude short under every one of them.
+
 ## Sources
 
 - MX₂ cRPA sweep: <https://arxiv.org/pdf/2402.01273>
