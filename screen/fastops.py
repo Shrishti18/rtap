@@ -137,3 +137,98 @@ def descriptors_fast(E, V, dks, band):
     return dict(M=float(M), M_trg=float(trg), lam=lam, W=W,
                 d_iso=float(min(gl, gu)), unif=unif, nphi=float(nphi), w=w,
                 Emid=float(Eb.mean()))
+
+
+# ---------------- rank-r manifolds (harvest v5) ----------------
+
+def manifold_vectors(V, bands):
+    """Orthonormal frame of a band manifold -> (..., norb, r)."""
+    return V[..., :, list(bands)]
+
+
+def trg_from_U(U, dks, shifts=None):
+    """<tr g> for a rank-r manifold, commutator form, without forming P.
+
+    P = U U^dag with U^dag U = I_r. Writing U_pm for U rolled -/+1 along the
+    axis, V = D U, G = U^dag D U, S_pm = U^dag U_pm, T_pm = U_pm^dag V:
+
+        Tr[(d_iP)^2]      = (2r - 2 ||U_p^dag U_m||_F^2) / (2h)^2
+        2i Tr[d_iP [D,P]] = -4 (Im tr[T_p S_p] - Im tr[T_m S_m]) / (2h)
+        -Tr[[D,P]^2]      = 2 (tr[V^dag V] - tr[G^2])
+
+    Reduces to trg_from_u for r = 1.
+    """
+    r = U.shape[-1]
+    tot = 0.0
+    for i, h in enumerate(dks):
+        Up = np.roll(U, -1, i)
+        Um = np.roll(U, 1, i)
+        ovm = np.einsum('...am,...an->...mn', np.conj(Up), Um)
+        acc = (2.0 * r - 2.0 * np.sum(np.abs(ovm) ** 2, axis=(-2, -1))) / (2 * h) ** 2
+        if shifts is not None:
+            d = np.asarray(shifts, float)[:, i]
+            Vv = d[:, None] * U
+            G = np.einsum('...am,...an->...mn', np.conj(U), Vv)
+            Sp = np.einsum('...am,...an->...mn', np.conj(U), Up)
+            Tp = np.einsum('...am,...an->...mn', np.conj(Up), Vv)
+            Sm = np.einsum('...am,...an->...mn', np.conj(U), Um)
+            Tm = np.einsum('...am,...an->...mn', np.conj(Um), Vv)
+            trTS_p = np.einsum('...mn,...nm->...', Tp, Sp)
+            trTS_m = np.einsum('...mn,...nm->...', Tm, Sm)
+            acc = acc - 4.0 * (np.imag(trTS_p) - np.imag(trTS_m)) / (2 * h)
+            trVV = np.sum(np.abs(Vv) ** 2, axis=(-2, -1))
+            trG2 = np.einsum('...mn,...nm->...', G, G)
+            acc = acc + 2.0 * (trVV - np.real(trG2))
+        tot += float(np.mean(0.5 * acc))
+    return tot
+
+
+def descriptors_manifold_fast(E, V, dks, bands):
+    """harvest.descriptors_manifold from a precomputed eigh, without P."""
+    U = manifold_vectors(V, bands)
+    r = U.shape[-1]
+    d = len(dks)
+    trg = trg_from_U(U, dks)
+    rho = np.sum(np.abs(U) ** 2, axis=-1)          # P_aa = sum_m |U_am|^2
+    rf = rho.reshape(-1, rho.shape[-1])
+    A = (rf.T @ rf) / rf.shape[0]
+    w = rf.mean(0)
+    Es = E[..., list(bands)]
+    nbnd = E.shape[-1]
+    b0, b1 = bands[0], bands[-1]
+    gl = float(Es.min() - E[..., b0 - 1].max()) if b0 > 0 else np.inf
+    gu = float(E[..., b1 + 1].min() - Es.max()) if b1 + 1 < nbnd else np.inf
+    return dict(M=float(trg * (2 * np.pi) ** (d - 1)), M_trg=float(trg),
+                lam=float(np.linalg.eigvalsh(A)[-1]),
+                nphi=float(r ** 2 / np.sum(w ** 2)),
+                W=float(Es.max() - Es.min()), d_iso=float(min(gl, gu)),
+                unif=float(np.max(np.abs(w - r / len(w)))),
+                w=w, Emid=float(Es.mean()))
+
+
+def minimal_metric_manifold(dks, U, dim, centres=None, restarts=2, seed=0,
+                            maxfev=40000):
+    """M_min / M_naive in raw <tr g> units for a rank-r manifold."""
+    from scipy.optimize import minimize as _min
+    norb = U.shape[-2]
+    naive = trg_from_U(U, dks)
+
+    def obj(x):
+        s = np.zeros((norb, dim))
+        s[1:] = x.reshape(norb - 1, dim)
+        return trg_from_U(U, dks, s)
+
+    best, bestx = naive, np.zeros((norb - 1) * dim)
+    starts = [np.zeros((norb - 1) * dim)]
+    if centres is not None:
+        c = np.asarray(centres, float)
+        rel = (c[1:] - c[0]).ravel()
+        starts += [-rel, rel]
+    rng = np.random.default_rng(seed)
+    starts += [rng.uniform(-1, 1, (norb - 1) * dim) for _ in range(restarts)]
+    for x0 in starts:
+        r = _min(obj, x0, method="Powell",
+                 options=dict(xtol=1e-6, ftol=1e-8, maxiter=20000, maxfev=maxfev))
+        if r.fun < best:
+            best, bestx = float(r.fun), r.x
+    return dict(M_min=best, M_naive=naive, shifts=bestx.reshape(norb - 1, dim))
