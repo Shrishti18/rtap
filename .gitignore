@@ -18,3 +18,6 @@ screen/*.cif
 # python bytecode
 __pycache__/
 *.pyc
+
+# generated review fixtures (regenerate with review/mkfixtures.py)
+review/*_hr.dat
