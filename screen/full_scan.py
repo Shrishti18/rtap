@@ -6,8 +6,16 @@ The 69.5 GB problem does not need batching: each wannier90_hr.dat is read
 straight out of its zip into memory, used, and dropped. Nothing is written to
 disk, so peak disk cost is zero and peak memory is one material per worker.
 
-nk is deliberately coarse (24 in 3D). M is underestimated on a coarse grid but
-the ORDERING is stable, and Phase B re-runs the survivors on a fine grid.
+manifold_bands is used ONLY TO LOCATE isolated groups. The metric is then
+taken PER BAND, because when a group's bands jointly span a fixed orbital
+subspace the projector is a subspace identity and M_manifold vanishes
+identically even though each band has a healthy metric (verified: 2.3e-14 for
+the group against 1.62 per band). M_manifold is kept as a diagnostic column
+only.
+
+nk is deliberately coarse (24 in 3D, ~2% low for a smooth band). M is
+underestimated on a coarse grid but the ORDERING is stable, and Phase B
+re-runs the survivors at nk=64.
 """
 import os
 # BLAS reads these at import time, so they must be set before numpy loads;
@@ -61,7 +69,9 @@ def manifolds_from_E(E, nb=NB, wmax=WMAX, iso_min=ISO_MIN):
 
 def one(rec):
     import harvest, fastops
-    jid, dim, norb = rec["jid"], (2 if rec["dimensionality"] == "2D" else 3), int(rec["num_wann"] or 0)
+    jid = rec["jid"]
+    dim = 2 if rec["dimensionality"] == "2D" else 3
+    norb = int(rec["num_wann"] or 0)
     t0 = time.time()
     try:
         with zipfile.ZipFile(os.path.join(ZIPS, "%s.zip" % jid)) as z:
@@ -70,26 +80,40 @@ def one(rec):
         norb = H.shape[1]
         nk = pick_nk(norb, dim)
         Hk, dks = fastops.hk_grid_fast(R, H, deg, nk, dim=dim)
+        # Locate first with eigenVALUES only; most materials have no isolated
+        # group at all, and eigvalsh is far cheaper than a full eigh.
+        E = np.linalg.eigvalsh(Hk)
+        mans = manifolds_from_E(E)
+        if not mans:
+            del Hk, E
+            return jid, [], None, time.time() - t0, norb, nk
         E, V = np.linalg.eigh(Hk)
         del Hk
-        mans = manifolds_from_E(E)
         rows = []
         for bands, wb, iso, wspan in mans:
-            d = fastops.descriptors_manifold_fast(E, V, dks, bands)
-            row = dict(jid=jid, formula=rec["formula"], spg=rec["spg_number"],
-                       dim=dim, norb=norb, nk=nk,
-                       bands="-".join(map(str, bands)), b0=bands[0], rank=len(bands),
-                       W_band=d["W"], W_span=d["W_span"], d_iso=d["d_iso"],
-                       M_trg=d["M_trg"], M_trg_per_band=d["M_trg_per_band"],
-                       lam_eff=d["lam"], lam_raw=d["lam_raw"], nphi=d["nphi"],
-                       unif=d["unif"], Emid=d["Emid"])
-            for Rv in R_VALUES:
-                tc = harvest.tc_max(d, dim=dim, R=Rv)
-                row["Tc_R%.2f" % Rv] = tc["Tc_max_K"]
-                row["binds_R%.2f" % Rv] = tc["binds"]
-                row["cap_R%.2f" % Rv] = tc["U_capped_by"]
-                row["U_R%.2f" % Rv] = tc["U_used"]
-            rows.append(row)
+            dm = fastops.descriptors_manifold_fast(E, V, dks, bands)
+            for b in bands:
+                d = fastops.descriptors_fast(E, V, dks, b)
+                # isolation of the ENCLOSING group, not of the single band
+                d_iso_group = iso
+                dd = dict(d, d_iso=d_iso_group)
+                row = dict(jid=jid, formula=rec["formula"], spg=rec["spg_number"],
+                           dim=dim, norb=norb, nk=nk,
+                           group="-".join(map(str, bands)), band=b,
+                           rank=len(bands),
+                           W_band=d["W"], W_group_max=wb, W_span=wspan,
+                           d_iso=d_iso_group,
+                           M_trg=d["M_trg"], lam=d["lam"], nphi=d["nphi"],
+                           unif=d["unif"], Emid=d["Emid"],
+                           M_manifold_diag=dm["M_trg"],
+                           lam_manifold_diag=dm["lam"])
+                for Rv in R_VALUES:
+                    tc = harvest.tc_max(dd, dim=dim, R=Rv)
+                    row["Tc_R%.2f" % Rv] = tc["Tc_max_K"]
+                    row["binds_R%.2f" % Rv] = tc["binds"]
+                    row["cap_R%.2f" % Rv] = tc["U_capped_by"]
+                    row["U_R%.2f" % Rv] = tc["U_used"]
+                rows.append(row)
         del E, V
         return jid, rows, None, time.time() - t0, norb, nk
     except Exception as e:
@@ -104,6 +128,9 @@ def main():
     print("materials to scan: %d" % len(recs), flush=True)
     rows, errs, done, withman = [], [], 0, 0
     nw = max(1, min(4, (os.cpu_count() or 2)))
+    out_p = os.path.join(HERE, "full_bands.csv")
+    fh = None
+    wr = None
     with ProcessPoolExecutor(max_workers=nw) as ex:
         for jid, rs, err, dt, norb, nk in ex.map(one, recs, chunksize=1):
             done += 1
@@ -112,20 +139,22 @@ def main():
             if rs:
                 withman += 1
                 rows.extend(rs)
+                if fh is None:      # checkpoint as we go
+                    fh = open(out_p, "w", newline="", encoding="utf8")
+                    wr = csv.DictWriter(fh, fieldnames=list(rs[0].keys()))
+                    wr.writeheader()
+                wr.writerows(rs)
+                fh.flush()
             if done % 25 == 0 or err:
                 best = max([r["Tc_R1.00"] for r in rows], default=0.0)
                 print("  %4d/%d  %-13s norb=%-3d nk=%-3d man=%-2d  "
                       "materials_with_manifold=%d  bestTc=%.1f K  %s"
                       % (done, len(recs), jid, norb, nk, len(rs), withman, best,
                          err or ""), flush=True)
-    if rows:
-        p = os.path.join(HERE, "full_manifolds.csv")
-        with open(p, "w", newline="", encoding="utf8") as f:
-            w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
-            w.writeheader()
-            w.writerows(rows)
-        print("-> %s (%d manifold rows, %d materials)"
-              % (p, len(rows), len({r["jid"] for r in rows})))
+    if fh:
+        fh.close()
+        print("-> %s (%d band rows, %d materials)"
+              % (out_p, len(rows), len({r["jid"] for r in rows})))
     with open(os.path.join(HERE, "full_scan_errors.csv"), "w", newline="") as f:
         csv.writer(f).writerows([["jid", "error"]] + errs)
     print("materials scanned: %d | with >=1 manifold: %d | errors: %d"
