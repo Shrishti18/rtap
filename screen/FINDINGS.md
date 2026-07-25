@@ -212,3 +212,35 @@ Two limitations carried on the record: there is **no published cRPA U for any Ir
 chalcogenide or halide** (the 0.95 eV is an extrapolation from Ta/Nb/Ru/Fe ligand
 factors, and is a genuine hole in the literature), and `c = 0.67` is mean-field
 and uncalibrated, so the Kelvin figures are ceilings on a ceiling.
+
+### The three root assumptions
+
+The framework assumed singlet pairing from an instantaneous attraction in an
+isolated narrow band. All three were tested.
+
+| assumption | status |
+| --- | --- |
+| (i) singlet pairing | **branch.** The pairing channel moves only the amplitude cap, which sits 12.6× above the binding one. `review/triplet.py`: the on-site orbital-antisymmetric channel is exactly empty without SOC (0.000e+00), is repulsive in every real d-electron system (Kanamori U − 3J > 0 for measured J/U = 0.10–0.25), and at λ = 1/3, 2/3 or 1 the terminus stays 8.1 K. |
+| (ii) instantaneous attraction | **costs a factor, does not move the ceiling.** |
+| (iii) isolated narrow band | **root, and closed both ways.** Gapped: M ∝ t² exactly, ceiling 8.1 K. Ungapped: `<tr g>` has no limit — `review/lieb.py` gives `<tr g> = ln(nk)/2π + const`, increment per octave 0.11033 against ln2/2π = 0.11032, with the whole divergence localised at the touching (excision restores convergence to 0.999). And D_s at the touching is *smaller* than gapped anyway: 0.100 vs 0.125 at U = 0.5. |
+
+Isolation caps the metric; removing isolation removes the metric's *meaning*,
+not merely its usefulness. There is no third position.
+
+**The terminus and the project's worst error are the same statement.** A rank-1
+projector at a degeneracy is not a property of the Hamiltonian — that is D1, and
+it is also why "the metric of the flat band" at a touching does not exist. The
+first theorem closes the last door.
+
+### Retracted
+
+- **`c_eff = 0.047` for the touching flat band, and `M_Lieb = 4.3016`.** Both
+  were computed in the non-periodic `2t·cos(k/2)` gauge, where `H(0) = −H(2π)`,
+  so differencing across the BZ boundary injected a false discontinuity (the
+  same term `harvest._trg_shifted` was fixed for; it shows up as a metric peak
+  at Γ, where the gap is *largest*). Corrected, `<tr g>` is log-divergent, so a
+  conversion coefficient at a touching is not a constant — it falls like
+  1/ln(nk) without bound. The M-free comparison D_s(touching) < D_s(gapped)
+  replaces it and carries the same conclusion.
+- **Pairing cap "202 K, 25×".** Correct values: 102.3 K at U ≤ Δ_iso/2, ratio
+  12.6× and constant across projection conditions.
