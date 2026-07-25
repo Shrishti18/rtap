@@ -57,30 +57,52 @@ def hk(k, t, lam, tp=0.0):
 
 
 def analyse(t=0.4, lam=0.45, tp=0.0, nk=24, bands=(4, 5)):
+    """Metric of the j=1/2 doublet.
+
+    Bands 4 and 5 are a KRAMERS PAIR, degenerate by time reversal to machine
+    precision (max|E5-E4| ~ 3e-15 across the BZ). A rank-1 projector built from
+    one member is therefore not a property of the Hamiltonian: the eigenvector
+    LAPACK returns inside the degenerate subspace is arbitrary, it re-randomises
+    between adjacent k-points, and the resulting <tr g> DIVERGES as nk^2
+    (2.50 at nk=16 -> 37.2 at nk=64) while also shifting under a random U(2)
+    rotation inside the pair. The earlier "M_trg = 5.3" was that artefact.
+
+    The rank-2 projector onto the whole doublet is the gauge-invariant object
+    and it converges: 0.4965 / 0.5312 / 0.5447 / 0.5585 at nk = 16 / 24 / 32 / 64,
+    Richardson (q=2) limit M_trg = 0.563.
+
+    lam_pair and n_phi are unaffected -- the j=1/2 doublet is orbitally isotropic
+    (exactly 1/3 on each t2g orbital), so any mixing inside the pair preserves
+    them. They come out at exactly 1/3 and 3 either way.
+    """
     kk = 2 * np.pi * (np.arange(nk) + 0.5) / nk
     K = np.stack(np.meshgrid(kk, kk, kk, indexing='ij'), axis=-1)
     dk = 2 * np.pi / nk
     E, V = np.linalg.eigh(hk(K, t, lam, tp))
-    out = []
-    for b in bands:
-        u = V[..., :, b]
-        P = np.einsum('...i,...j->...ij', u, u.conj())
-        trg = np.zeros(P.shape[:-2])
-        for i in range(3):
-            dP = (np.roll(P, -1, i) - np.roll(P, 1, i)) / (2 * dk)
-            trg += 0.5 * np.real(np.einsum('...ij,...ji->...', dP, dP))
-        # orbital weights: trace over spin, so rho_alpha for alpha in {xy,yz,zx}
-        w = np.abs(u.reshape(u.shape[:-1] + (3, 2))) ** 2
-        rho = w.sum(-1)
-        rf = rho.reshape(-1, 3)
-        A = (rf.T @ rf) / rf.shape[0]
-        gl = float(E[..., b].min() - E[..., b - 1].max()) if b > 0 else np.inf
-        gu = float(E[..., b + 1].min() - E[..., b].max()) if b < 5 else np.inf
-        out.append(dict(band=b, W=float(E[..., b].max() - E[..., b].min()),
-                        M_trg=float(trg.mean()),
-                        lam_pair=float(np.linalg.eigvalsh(A)[-1]),
-                        nphi=float(1 / np.sum(rf.mean(0) ** 2)),
-                        iso=min(gl, gu), w=rf.mean(0)))
-    # manifold gap: j=1/2 pair (bands 4,5) vs j=3/2 (bands 0-3)
+    bl = list(bands)
+
+    # rank-len(bands) projector: gauge invariant under mixing inside the manifold
+    Um = V[..., :, bl]
+    P = np.einsum('...ia,...ja->...ij', Um, Um.conj())
+    trg = np.zeros(P.shape[:-2])
+    for i in range(3):
+        dP = (np.roll(P, -1, i) - np.roll(P, 1, i)) / (2 * dk)
+        trg += 0.5 * np.real(np.einsum('...ij,...ji->...', dP, dP))
+
+    r = len(bl)
+    rho = np.real(np.einsum('...ii->...i', P)).reshape(-1, 6)
+    orb = rho.reshape(-1, 3, 2).sum(-1)            # trace over spin -> xy,yz,zx
+    Am = (orb.T @ orb) / orb.shape[0]
+    w = orb.mean(0)
+    b0, b1 = bl[0], bl[-1]
+    gl = float(E[..., bl].min() - E[..., b0 - 1].max()) if b0 > 0 else np.inf
+    gu = float(E[..., b1 + 1].min() - E[..., bl].max()) if b1 < 5 else np.inf
+
+    out = [dict(bands=tuple(bl), rank=r,
+                W=float(max(E[..., j].max() - E[..., j].min() for j in bl)),
+                M_trg=float(trg.mean()),
+                lam_pair=float(np.linalg.eigvalsh(Am)[-1]) / r ** 2,
+                nphi=float(r ** 2 / np.sum(w ** 2)),
+                iso=float(min(gl, gu)), w=w)]
     gap_manifold = float(E[..., 4].min() - E[..., 3].max())
     return out, gap_manifold

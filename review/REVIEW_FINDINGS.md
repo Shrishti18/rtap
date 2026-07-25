@@ -274,3 +274,78 @@ particular validates neither of the two numbers C8 actually rests on.
 **The single most consequential finding is D2**: at the physical Ir⁴⁺ point the
 j=1/2 manifold overlaps j=3/2 by 2.5 eV, and every parameter choice that opens a
 real gap drives M_trg 8–24x below threshold. C7 describes no reachable regime.
+
+---
+
+# Addendum — post-review verification
+
+## D3 extended and confirmed: the rebuilt Hamiltonian is rank 3, and the chain geometry protects the degeneracy
+
+The author's extension is correct, and the mechanism is sharper than "δ hopping
+is small". Building the Slater-Koster d-d hopping
+`t = D(n) diag(ddσ, ddδ, ddδ, ddπ, ddπ) D(n)ᵀ` for the actual Co-Co bond:
+
+| ddδ / ddσ | rank | singular values |
+|---|---|---|
+| 0 (Harrison) | **3** | 1.0, 0.5, 0.5, **0, 0** |
+| −0.05 | 5 | 1.0, 0.5, 0.5, 0.05, 0.05 |
+| −0.10 | 5 | 1.0, 0.5, 0.5, 0.10, 0.10 |
+
+The two dead channels are **xy and x²−y²** — the δ pair about the chain axis.
+
+The part that makes this structural rather than incidental: **every Co-Co bond in
+the chain is collinear** (both A→B and B→A(+c) are exactly `[0,0,1]`, verified).
+So all bonds share the *same* δ null space, and summing over bonds cannot restore
+rank — confirmed, the two-bond sum is still rank 3. In a non-collinear network
+different bonds would kill different δ combinations and the flatness would be
+lifted by geometry alone. Here it is not.
+
+Harrison's η_ddδ = 0 is exact, not an approximation of a small number, so the
+flatness is put in by hand at the parameterisation level.
+
+## Quantitative input to fix #2 — the δ bandwidth is not obviously negligible
+
+Harrison for Co-Co at the measured d = 3.1613 Å (r_d = 1.045 Å, ħ²/m = 7.6199 eV·Å²):
+
+```
+V_ddσ = -0.4462 eV     V_ddπ = +0.2410 eV     V_ddδ = 0 (η = 0 exactly)
+```
+
+Restoring ddδ gives the previously-flat δ bands a width ≈ 4|V_ddδ|:
+
+| |V_ddδ| / |V_ddσ| | |V_ddδ| | W_δ |
+|---|---|---|
+| 0.05 | 0.0223 eV | **0.089 eV** |
+| 0.10 | 0.0446 eV | **0.179 eV** |
+| 0.20 | 0.0892 eV | **0.357 eV** |
+
+Against the quoted band 6/7 overlap of 0.05–1.0 eV: at the **tight end of that
+range the δ bandwidth exceeds the overlap**. So "the verdict probably survives"
+is right for the loose end and unsafe for the tight end — it has to be
+recomputed, not assumed. That matches the author's own instinct to re-derive.
+
+## Fix #1 applied
+
+`jeff.analyse` now builds the rank-`len(bands)` projector rather than a rank-1
+one, with `lam` normalised by r² as `descriptors_manifold` does. Result:
+
+| nk | 20 | 24 | 32 | 48 |
+|---|---|---|---|---|
+| M_trg | 0.518387 | 0.531200 | 0.544699 | 0.554854 |
+| lam_pair | 0.333333 | 0.333333 | 0.333333 | 0.333333 |
+| n_phi | 3.000000 | 3.000000 | 3.000000 | 3.000000 |
+
+Converges instead of diverging; `lam_pair` and `n_phi` unchanged at exactly 1/3
+and 3. **VALIDATE_ALL still passes 17/17**, and its §8 INFO line now reports
+M_trg = 0.1892 in place of 3.7496.
+
+### One further consequence, not previously noted
+
+That INFO value is at VALIDATE's own parameters (t = 0.2, λ = 0.45), and
+**0.189 is below the 3D threshold of 0.339**. The converged metric is strongly
+t-dependent — 0.563 at t = 0.4, 0.189 at t = 0.2, 0.014 at t = 0.05 — so whether
+the j=1/2 doublet clears the threshold at all depends on which hopping is chosen,
+and at the parameters the validation suite itself uses, **it does not clear**.
+This tightens D2 rather than softening it: there is no t at which the doublet is
+both isolated and above threshold, and now there are also t values where it is
+above neither.
