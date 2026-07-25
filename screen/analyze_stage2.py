@@ -33,28 +33,53 @@ print("  candidate bands total          : %d" % len(bands))
 if not bands:
     print("\n  No candidate band in any of the %d materials." % len(jids))
 else:
+    THRESH = [("3D_R1.00", 0.339), ("3D_R0.85", 0.399),
+              ("3D_R0.55", 0.617), ("2D_R1.00", 0.839)]
+    mt = [f(b["M_trg"]) for b in bands]
+    mmin = [f(b["M_min_trg"]) for b in bands if f(b["M_min_trg"]) is not None]
+    print("\n" + "#" * 118)
+    print("HEADLINE")
+    print("#" * 118)
+    print("  1. max M_trg  (naive, grid)      : %.6f" % max(mt))
+    if mmin:
+        print("     max M_min_trg (gauge-invariant): %.6f" % max(mmin))
+    print("  2. bands clearing each threshold (of %d candidate bands):" % len(bands))
+    for name, thr in THRESH:
+        n_naive = sum(1 for v in mt if v >= thr)
+        n_min = sum(1 for v in mmin if v >= thr)
+        print("       %-10s >= %.3f : M_trg %3d   M_min_trg %3d" % (name, thr, n_naive, n_min))
+    trip = [b for b in bands
+            if f(b["M_min_trg"], -1) >= 0.339 and b["pass_iso"] == "True"
+            and b["pass_unif"] == "True"]
+    tripn = [b for b in bands
+             if f(b["M_trg"], -1) >= 0.339 and b["pass_iso"] == "True"
+             and b["pass_unif"] == "True"]
+    print("  3. clearing 0.339 AND pass_iso AND pass_unif :  %d  (on M_min_trg)"
+          "   |  %d  (on naive M_trg)" % (len(trip), len(tripn)))
+    if not trip:
+        print("     -> NOTHING clears 0.339 together with d_iso and uniform pairing.")
+
     print("\n" + "-" * 118)
-    print("PER BAND (M is the naive grid metric; M_min is gauge-invariant)")
+    print("PER BAND (M_trg raw <tr g>; M_min_trg gauge-invariant minimum)")
     print("-" * 118)
-    h = ("%-13s %-9s %4s %5s %4s | %8s %6s %6s %7s %6s %5s | %4s %4s %4s | %8s %8s %6s %4s"
-         % ("jid", "formula", "dim", "norb", "band", "M_grid", "lam", "W", "d_iso",
-            "unif", "nphi", "iso", "M", "unif", "M_min", "M_naive", "ratio", "Mmin"))
-    print(h)
+    print("%-13s %-9s %3s %5s %4s | %8s %8s %8s %6s | %6s %6s %7s %6s %5s | %4s %4s | %s"
+          % ("jid", "formula", "dim", "norb", "band", "M_trg", "M_naive", "M_min",
+             "ratio", "lam", "W", "d_iso", "unif", "nphi", "iso", "unif",
+             "clears (on M_min)"))
     for b in sorted(bands, key=lambda r: (r["jid"], int(r["band"]))):
-        mm, mn = f(b["M_min"]), f(b["M_naive"])
+        mm, mn = f(b["M_min_trg"]), f(b["M_naive_trg"])
         rt = f(b["M_ratio"])
-        print("%-13s %-9s %4s %5s %4s | %8.4f %6.3f %6.3f %7.4f %6.3f %5.2f | "
-              "%4s %4s %4s | %8s %8s %6s %4s"
+        cl = [n for n, _ in THRESH if b.get("min_clears_" + n) == "True"] or ["none"]
+        print("%-13s %-9s %3s %5s %4s | %8.5f %8s %8s %6s | %6.3f %6.3f %7.4f %6.3f %5.2f | "
+              "%4s %4s | %s"
               % (b["jid"], b["formula"], b["dim"], b["norb"], b["band"],
-                 f(b["M_grid"]), f(b["lam"]), f(b["W"]), f(b["d_iso"]),
-                 f(b["unif"]), f(b["nphi"]),
-                 "OK" if b["pass_iso"] == "True" else "no",
-                 "OK" if b["pass_M_spec"] == "True" else "no",
-                 "OK" if b["pass_unif"] == "True" else "no",
-                 ("%.4f" % mm) if mm is not None else "-",
-                 ("%.4f" % mn) if mn is not None else "-",
+                 f(b["M_trg"]),
+                 ("%.5f" % mn) if mn is not None else "-",
+                 ("%.5f" % mm) if mm is not None else "-",
                  ("%.2f" % rt) if rt is not None and np.isfinite(rt) else "-",
-                 b["pass_M_min"] or "-"))
+                 f(b["lam"]), f(b["W"]), f(b["d_iso"]), f(b["unif"]), f(b["nphi"]),
+                 "OK" if b["pass_iso"] == "True" else "no",
+                 "OK" if b["pass_unif"] == "True" else "no", ",".join(cl)))
 
     npi = [b for b in bands if b["pass_iso"] == "True"]
     print("\n  pass_iso (coarse grid) : %d / %d bands" % (len(npi), len(bands)))
@@ -66,7 +91,7 @@ else:
                  f(b["d_iso_fine"], float("nan")), b["nk_fine"],
                  "CONFIRMED" if b["pass_iso_fine"] == "True" else "FALSE POSITIVE"))
 
-    have = [b for b in bands if f(b["M_min"]) is not None]
+    have = [b for b in bands if f(b["M_min_trg"]) is not None]
     if have:
         rs = [f(b["M_ratio"]) for b in have if f(b["M_ratio"]) is not None
               and np.isfinite(f(b["M_ratio"]))]
@@ -74,11 +99,11 @@ else:
         if rs:
             print("  M_naive / M_min : min %.3f  median %.3f  max %.3f"
                   % (min(rs), float(np.median(rs)), max(rs)))
-        fp = [b for b in have if b["pass_M_spec"] == "True" and b["pass_M_min"] == "False"]
-        print("  naive metric clears but M_min does not (false positives): %d / %d"
-              % (len(fp), len(have)))
-        print("  M_min passing threshold (0.34 3D / 0.84 2D): %d"
-              % sum(1 for b in have if b["pass_M_min"] == "True"))
+        for name, thr in THRESH:
+            fp = [b for b in have if f(b["M_naive_trg"], -1) >= thr
+                  and f(b["M_min_trg"], -1) < thr]
+            print("  %-10s naive clears but M_min does not (false positives): %d / %d"
+                  % (name, len(fp), len(have)))
 
     allp = [b for b in bands if b["pass_iso"] == "True" and b["pass_unif"] == "True"]
     print("\n  bands passing BOTH d_iso and unif: %d" % len(allp))

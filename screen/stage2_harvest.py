@@ -25,7 +25,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 HR = os.path.join(HERE, "hr")
 SMALL = "/home/user/rtap/data/priority1_wannier_jarvis/extracted_small"
 
-M_THRESH = {2: 0.84, 3: 0.34}      # user-supplied M_min thresholds
+# Fixed thresholds on M_trg = <tr g>_BZ (raw) for Tc = 300 K, n_phi = 2.
+# Every band is scored against all four, not collapsed to one boolean.
+THRESHOLDS = [("3D_R1.00", 0.339), ("3D_R0.85", 0.399),
+              ("3D_R0.55", 0.617), ("2D_R1.00", 0.839)]
 WMAX, ISO_MIN = 0.5, 0.2
 NK_WANT, NK_FINE_3D, NK_FINE_2D = 40, 96, 400
 MEM = 8.0e9                        # peak bytes for Hk + V
@@ -103,7 +106,7 @@ def iso_from_extrema(lo, hi, b):
     return float(min(gl, gu)), float(hi[b] - lo[b])
 
 
-def run_one(rec, min_budget=2):
+def run_one(rec):
     jid = rec["jid"]
     dim = 2 if rec["dimensionality"] == "2D" else 3
     R, H, deg = harvest.read_hr(os.path.join(HR, "%s_hr.dat" % jid))
@@ -120,16 +123,22 @@ def run_one(rec, min_budget=2):
     rows = []
     for b, W, iso in cands:
         d = fastops.descriptors_fast(E, V, dks, b)
-        sp = harvest.spec(d, Tc_K=300, dim=dim)
+        sp = harvest.spec(d, Tc_K=300, dim=dim, R=1.0)
         row = dict(jid=jid, formula=rec["jarvis_formula"], spg=rec["jarvis_spg"],
                    dim=dim, norb=norb, nk=nk, band=b,
-                   M_grid=d["M"], lam=d["lam"], W=d["W"], d_iso=d["d_iso"],
+                   M_trg=d["M_trg"], M_scaled_legacy=d["M"],
+                   lam=d["lam"], W=d["W"], d_iso=d["d_iso"],
                    unif=d["unif"], nphi=d["nphi"], Emid=d["Emid"],
-                   U_req=sp["U_req"], iso_req=sp["iso_req"], M_req_spec=sp["M_req"],
-                   pass_iso=sp["pass_iso"], pass_M_spec=sp["pass_M"],
-                   pass_unif=sp["pass_unif"], calibrated=sp["calibrated"],
-                   M_min="", M_naive="", M_ratio="", pass_M_min="",
+                   U_req=sp["U_req"], iso_req=sp["iso_req"],
+                   M_req_trg_band=sp["M_req_trg"],
+                   pass_iso=sp["pass_iso"], pass_M_band=sp["pass_M"],
+                   pass_unif=sp["pass_unif"],
+                   M_min_trg="", M_naive_trg="", M_ratio="",
                    d_iso_fine="", W_fine="", nk_fine="", pass_iso_fine="")
+        for name, thr in THRESHOLDS:
+            row["clears_" + name] = bool(d["M_trg"] >= thr)
+        for name, thr in THRESHOLDS:
+            row["min_clears_" + name] = ""
         if sp["pass_iso"]:                       # trap 2 — the unsafe direction
             if lo is None:
                 lo, hi = band_extrema_fine(R, H, deg, nk_fine, dim)
@@ -138,19 +147,16 @@ def run_one(rec, min_budget=2):
                        pass_iso_fine=bool(iso_f >= sp["iso_req"]))
         rows.append((row, d))
 
-    # gauge-invariant metric on the most promising bands only
-    order = sorted(range(len(rows)),
-                   key=lambda i: (not rows[i][0]["pass_iso"],
-                                  rows[i][0]["unif"]))
-    for i in order[:min_budget]:
-        row, d = rows[i]
+    # gauge-invariant metric, in RAW <tr g> units, on every candidate band
+    for row, d in rows:
         mm = fastops.minimal_metric_fast(None, dks, row["band"], dim,
                                          centres=centres, restarts=2,
                                          u=V[..., :, row["band"]], maxfev=40000)
-        row.update(M_min=mm["M_min"] * (2 * np.pi) ** (dim - 1),
-                   M_naive=mm["M_naive"] * (2 * np.pi) ** (dim - 1))
-        row["M_ratio"] = (row["M_naive"] / row["M_min"]) if row["M_min"] > 0 else np.inf
-        row["pass_M_min"] = bool(row["M_min"] >= M_THRESH[dim])
+        row["M_min_trg"] = mm["M_min"]
+        row["M_naive_trg"] = mm["M_naive"]
+        row["M_ratio"] = (mm["M_naive"] / mm["M_min"]) if mm["M_min"] > 0 else np.inf
+        for name, thr in THRESHOLDS:
+            row["min_clears_" + name] = bool(mm["M_min"] >= thr)
     del V, E
     return [r for r, _ in rows], [d for _, d in rows], cands, nk, dim, time.time() - t0
 

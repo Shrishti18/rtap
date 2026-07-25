@@ -139,7 +139,8 @@ def descriptors_fast(E, V, dks, band):
     """
     u = V[..., :, band]
     d = len(dks)
-    M = trg_from_u(u, dks) * (2 * np.pi) ** (d - 1)
+    trg = trg_from_u(u, dks)          # raw <tr g>_BZ -- the screening quantity
+    M = trg * (2 * np.pi) ** (d - 1)  # legacy scaled value
     rho = np.abs(u) ** 2
     rf = rho.reshape(-1, rho.shape[-1])
     A = (rf.T @ rf) / rf.shape[0]
@@ -152,5 +153,6 @@ def descriptors_fast(E, V, dks, band):
     nb = E.shape[-1]
     gl = float(Eb.min() - E[..., band - 1].max()) if band > 0 else np.inf
     gu = float(E[..., band + 1].min() - Eb.max()) if band < nb - 1 else np.inf
-    return dict(M=float(M), lam=lam, W=W, d_iso=float(min(gl, gu)),
-                unif=unif, nphi=float(nphi), w=w, Emid=float(Eb.mean()))
+    return dict(M=float(M), M_trg=float(trg), lam=lam, W=W,
+                d_iso=float(min(gl, gu)), unif=unif, nphi=float(nphi), w=w,
+                Emid=float(Eb.mean()))
