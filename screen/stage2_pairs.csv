@@ -1,0 +1,2 @@
+W_eps0,band_ref,basis,d_var,dzhat,gap_min,i1,i2,jid,pass_const,pass_flat,pass_iso,pass_unif,ratio
+0.4293587980130238,27,dominant Wannier orbitals of the band,0.10306913091134895,0.988767371710655,15.58688380522979,14,24,JVASP-6889,True,False,True,False,3.574600698379804

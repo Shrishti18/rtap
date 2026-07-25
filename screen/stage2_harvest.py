@@ -25,10 +25,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 HR = os.path.join(HERE, "hr")
 SMALL = "/home/user/rtap/data/priority1_wannier_jarvis/extracted_small"
 
-# Fixed thresholds on M_trg = <tr g>_BZ (raw) for Tc = 300 K, n_phi = 2.
-# Every band is scored against all four, not collapsed to one boolean.
-THRESHOLDS = [("3D_R1.00", 0.339), ("3D_R0.85", 0.399),
-              ("3D_R0.55", 0.617), ("2D_R1.00", 0.839)]
+# No thresholds: harvest.tc_max gives one number per band per mediator speed.
+R_VALUES = [1.00, 0.85, 0.55]
 WMAX, ISO_MIN = 0.5, 0.2
 NK_WANT, NK_FINE_3D, NK_FINE_2D = 40, 96, 400
 MEM = 8.0e9                        # peak bytes for Hk + V
@@ -127,18 +125,16 @@ def run_one(rec):
         row = dict(jid=jid, formula=rec["jarvis_formula"], spg=rec["jarvis_spg"],
                    dim=dim, norb=norb, nk=nk, band=b,
                    M_trg=d["M_trg"], M_scaled_legacy=d["M"],
-                   lam=d["lam"], W=d["W"], d_iso=d["d_iso"],
-                   unif=d["unif"], nphi=d["nphi"], Emid=d["Emid"],
-                   U_req=sp["U_req"], iso_req=sp["iso_req"],
-                   M_req_trg_band=sp["M_req_trg"],
-                   pass_iso=sp["pass_iso"], pass_M_band=sp["pass_M"],
-                   pass_unif=sp["pass_unif"],
+                   lam=d["lam"], W=d["W"], d_iso=d["d_iso"], nphi=d["nphi"],
+                   Emid=d["Emid"], U_req=sp["U_req"], iso_req=sp["iso_req"],
+                   pass_iso=sp["pass_iso"],
                    M_min_trg="", M_naive_trg="", M_ratio="",
                    d_iso_fine="", W_fine="", nk_fine="", pass_iso_fine="")
-        for name, thr in THRESHOLDS:
-            row["clears_" + name] = bool(d["M_trg"] >= thr)
-        for name, thr in THRESHOLDS:
-            row["min_clears_" + name] = ""
+        for Rv in R_VALUES:
+            tc = harvest.tc_max(d, dim=dim, R=Rv)
+            row["Tc_max_K_R%.2f" % Rv] = tc["Tc_max_K"]
+            row["binds_R%.2f" % Rv] = tc["binds"]
+        row["U_used"] = harvest.tc_max(d, dim=dim, R=1.0)["U_used"]
         if sp["pass_iso"]:                       # trap 2 — the unsafe direction
             if lo is None:
                 lo, hi = band_extrema_fine(R, H, deg, nk_fine, dim)
@@ -155,8 +151,12 @@ def run_one(rec):
         row["M_min_trg"] = mm["M_min"]
         row["M_naive_trg"] = mm["M_naive"]
         row["M_ratio"] = (mm["M_naive"] / mm["M_min"]) if mm["M_min"] > 0 else np.inf
-        for name, thr in THRESHOLDS:
-            row["min_clears_" + name] = bool(mm["M_min"] >= thr)
+        # Tc_max recomputed on the gauge-invariant metric
+        dmin = dict(d, M_trg=mm["M_min"])
+        for Rv in R_VALUES:
+            tc = harvest.tc_max(dmin, dim=dim, R=Rv)
+            row["Tc_max_K_Mmin_R%.2f" % Rv] = tc["Tc_max_K"]
+            row["binds_Mmin_R%.2f" % Rv] = tc["binds"]
     del V, E
     return [r for r, _ in rows], [d for _, d in rows], cands, nk, dim, time.time() - t0
 

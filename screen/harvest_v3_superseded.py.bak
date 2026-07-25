@@ -16,7 +16,8 @@ Quantities per band:
 g_ij = (1/2) Tr[d_i P  d_j P]. P(k) is gauge-invariant, so finite-differencing
 P avoids all gauge/branch problems. No Wannierization gauge fixing required.
 """
-import re
+import re  # noqa: F401  (used by read_wout_centres; missing in the shipped file)
+
 import numpy as np
 
 KB_MEV = 0.086173  # meV/K
@@ -145,33 +146,8 @@ def spec(dsc, Tc_K=300.0, dim=2, R=1.0):
                 M_req_trg=M_req, M_trg=Mt, R=R,
                 pass_iso=dsc['d_iso'] >= 2 * U_req,
                 pass_M=Mt >= M_req,
-                calibrated=True,
-                **tc_max(dsc, dim, R))
-
-
-def tc_max(dsc, dim=3, R=1.0):
-    '''
-    Best achievable Tc for a band, with NO arbitrary thresholds.
-
-        Tc = min( U*lam/4 , coef*R*U*M_trg ),     U <= d_iso/2
-     => Tc_max = (d_iso/2) * min( lam/4 , coef*R*M_trg )
-
-    lam already carries the n_phi dilution (lam = 1/n_phi under uniform
-    pairing, and rises if uniform pairing is broken), so a separate
-    `unif` gate is unnecessary -- and mine was mis-normalised anyway:
-    it compared w_a to 1/norb over ALL Wannier functions, so a genuine
-    2-orbital doublet inside a 60-orbital Hamiltonian scored unif~0.48
-    and always failed. Report lam and M_trg; let this function decide.
-    '''
-    coef = 0.2225 * C_STIFF if dim == 2 else 0.55 * C_STIFF
-    Mt = dsc.get('M_trg', dsc['M'] / (2 * np.pi) ** (dim - 1))
-    amp = dsc['lam'] / 4.0
-    stf = coef * R * Mt
-    U_use = dsc['d_iso'] / 2.0
-    Tc_eV = U_use * min(amp, stf)
-    return dict(Tc_max_K=Tc_eV / (KB_MEV / 1000.0),
-                binds='amp' if amp < stf else 'stiff',
-                U_used=U_use)
+                pass_unif=dsc['unif'] < 0.05,
+                calibrated=True)
 
 
 def auto_bands(Hk, wmax=0.5, iso_min=0.2):
@@ -225,30 +201,14 @@ def pair_criterion(R, H, deg, bands, nk=40, dim=3, U=0.207):
 # ---------------- minimal quantum metric (Huhtinen et al.) ----------------
 
 def _trg_shifted(P, dks, kgrids, shifts):
-    """
-    tr g for orbital-position shifts d_a, WITHOUT phase-then-roll.
-
-    Under u_a -> e^{i k.d_a} u_a we have P -> V P V^dag, V=diag(e^{i k.d_a}),
-    and since dV = i D V with D = diag(d_a):
-        dP' = V ( dP + i[D, P] ) V^dag
-    so    g_ij = (1/2) Tr[ A_i A_j ],   A_i = d_iP + i[D_i, P]   (Hermitian).
-    A_i is manifestly PERIODIC in k because P is. Applying the phase to P and
-    then finite-differencing with np.roll is NOT periodic for non-integer d_a:
-    it picks up a spurious boundary term at the wrap (true dk = 2h - 2pi there)
-    and makes the answer depend on the k-grid offset. This form has neither
-    defect and needs no kgrids argument.
-    """
-    d = len(dks)
-    trg = None
-    A = []
-    for i in range(d):
-        dP = (np.roll(P, -1, i) - np.roll(P, 1, i)) / (2 * dks[i])
-        Di = np.diag(shifts[:, i]).astype(complex)
-        comm = np.einsum('ab,...bc->...ac', Di, P) - np.einsum('...ab,bc->...ac', P, Di)
-        A.append(dP + 1j * comm)
-    trg = np.zeros(P.shape[:-2])
-    for i in range(d):
-        trg += 0.5 * np.real(np.einsum('...ij,...ji->...', A[i], A[i]))
+    """P_ab -> exp(i k.(d_a - d_b)) P_ab, then tr g. No re-diagonalisation needed."""
+    ph = sum(kgrids[i][..., None] * shifts[:, i] for i in range(len(dks)))  # (...,norb)
+    V = np.exp(1j * ph)
+    Ps = P * V[..., :, None] * np.conj(V)[..., None, :]
+    trg = np.zeros(Ps.shape[:-2])
+    for i in range(len(dks)):
+        dP = (np.roll(Ps, -1, i) - np.roll(Ps, 1, i)) / (2 * dks[i])
+        trg += 0.5 * np.real(np.einsum('...ij,...ji->...', dP, dP))
     return trg.mean()
 
 
@@ -262,7 +222,8 @@ def minimal_metric(Hk, dks, band, nk, dim, centres=None, restarts=6, seed=0):
     from scipy.optimize import minimize as _min
     P, _ = projector(Hk, [band])
     norb = P.shape[-1]
-    kgrids = None
+    ks = [2 * np.pi * (np.arange(nk) + 0.5) / nk for _ in range(dim)]
+    kgrids = np.meshgrid(*ks, indexing='ij')
     naive = float(_trg_shifted(P, dks, kgrids, np.zeros((norb, dim))))
 
     def obj(x):
