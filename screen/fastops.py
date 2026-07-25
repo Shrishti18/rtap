@@ -198,8 +198,12 @@ def descriptors_manifold_fast(E, V, dks, bands):
     b0, b1 = bands[0], bands[-1]
     gl = float(Es.min() - E[..., b0 - 1].max()) if b0 > 0 else np.inf
     gu = float(E[..., b1 + 1].min() - Es.max()) if b1 + 1 < nbnd else np.inf
+    lam_raw = float(np.linalg.eigvalsh(A)[-1])
+    # rho_a sums to r, so A ~ r^2 and lam_raw is inflated by r^2 relative to the
+    # single-band case; lam_eff = lam_raw / r^2 reduces to 1/n_phi at r = 1.
     return dict(M=float(trg * (2 * np.pi) ** (d - 1)), M_trg=float(trg),
-                lam=float(np.linalg.eigvalsh(A)[-1]),
+                M_trg_per_band=float(trg / r),
+                lam=lam_raw / r ** 2, lam_raw=lam_raw, rank=r,
                 nphi=float(r ** 2 / np.sum(w ** 2)),
                 W=float(Es.max() - Es.min()), d_iso=float(min(gl, gu)),
                 unif=float(np.max(np.abs(w - r / len(w)))),
