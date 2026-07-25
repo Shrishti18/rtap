@@ -225,9 +225,14 @@ caveat from the stood-down ED validation). Every Tc here is an upper bound
 
 The 8.1 K quoted in §2b is the **Δ_iso/2** number — the project's own rule, not
 D8's tightening. The factor 2 between it and 16.3 K is the safety factor on the
-projection, not an amplitude-vs-stiffness branch: stiffness binds throughout
-(at U = 0.106 eV the pairing cap U·λ_pair/4 is 202 K, 25× above the geometric
-cap). Applying D8 would give 4.1 K.
+projection, not an amplitude-vs-stiffness branch: stiffness binds throughout, and
+by a **constant 12.6×** at every projection condition, since both caps are linear
+in U (amplitude 204.5 / 102.3 / 51.1 K against geometric 16.3 / 8.1 / 4.1 K).
+Applying D8 would give 4.1 K.
+
+*(Correction: an earlier statement of this gave the pairing cap as 202 K and the
+ratio as 25×. 204.5 K is the U ≤ Δ_iso figure; at U ≤ Δ_iso/2 it is 102.3 K and
+the ratio is 12.6. No conclusion changes — stiffness binds either way.)*
 
 Three orders of magnitude short under every one of them.
 
