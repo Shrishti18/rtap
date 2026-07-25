@@ -244,3 +244,76 @@ first theorem closes the last door.
   replaces it and carries the same conclusion.
 - **Pairing cap "202 K, 25×".** Correct values: 102.3 K at U ≤ Δ_iso/2, ratio
   12.6× and constant across projection conditions.
+
+---
+
+## RETRACTION: "geometry is abundant" degrades by 3.5× under self-consistency
+
+The claim — *median `M_trg` = 0.97, 542/708 bands above the 0.339 threshold* —
+is **single-band `M` throughout**, paired with the group's isolation gap. That
+mismatch is the D1 error in the primary data product (see
+`screen/CONSTD_FINDINGS.md`).
+
+### The standing rule that replaces it
+
+A quantity must be computed on a projector whose rank matches the degeneracy
+structure of what it projects onto — and **which rank that is is decided by Tc,
+not by convention**:
+
+- **rank-r manifold** treatment is valid iff the intra-group splitting δ ≲ k_B·Tc
+  (the bands then pair coherently): `U ≤ d_iso/2`, `M = M_manifold`, `lam = lam_manifold`.
+- **single-band** treatment is valid iff δ ≫ k_B·Tc (the partner is spectrally
+  inert): `U ≤ δ_nearest/2` — the band's **own** nearest gap — `M = M_trg`, `lam = lam`.
+
+Using one treatment's `U` with the other's `M` is what inflated LiPbAu₂ from 9 K
+to 186 K.
+
+### Result (`selfconsist.py`, 708 bands, 179 materials, 599 s)
+
+Group ranks: 688 of 708 bands sit in rank-2 groups, 20 in rank-1.
+Self-consistency admits **single** for 222, **either** for 486, and **neither**
+for none. The two resolutions of "either" agree:
+
+| | median `M` | above 0.339 |
+|---|---|---|
+| stored (single-band throughout) | **0.9657** | **542/708 (76.6%)** |
+| applied, either → min | 0.2797 | 318/708 (44.9%) |
+| applied, either → manifold | 0.2895 | 322/708 (45.5%) |
+
+**The median falls below the threshold it was being compared against.**
+
+### The degradation is uniform, not a tail effect
+
+| percentile | stored | applied |
+|---|---|---|
+| 10th | 0.0829 | 0.0182 |
+| 25th | 0.3668 | 0.0704 |
+| 50th | 0.9657 | 0.2797 |
+| 75th | 2.2008 | 0.5662 |
+| 90th | 3.4893 | 1.0919 |
+| 99th | 7.6737 | 2.5280 |
+
+A roughly constant ~3.5× across the whole distribution. This is **unlike** the Tc
+ranking, where the median was near-correct (1.06×) and only the tail was
+corrupted (up to 374×). Predicting "survives in the median, degrades at the top"
+was wrong in both directions: here it degrades in the median and the top alike.
+
+Cause: among the 486 either-cases, `M_manifold < M_single` in **444**, median
+0.281 against 1.483 — a 5.3× inflation. A rank-2 projector removes the
+intra-pair channel, and for a near-degenerate pair that channel is most of the
+single-band metric. In 44/708 bands `M_manifold < 0.01` outright — the
+"both bands span the same orbitals" case.
+
+### What survives
+
+**Geometry is common but not abundant**: ~45% of candidate bands exceed the 3D
+threshold, not 77%, and the typical band sits just below it. The qualitative
+conclusion that large quantum metric is *not* the scarce ingredient still holds
+— `n_φ`, isolation and filling remain scarcer — but the margin is 3.5× smaller
+than every strategic discussion has assumed, including the geometry-first
+reframe.
+
+### Not affected
+
+The 727/728 E_F gate (band energies and E_F only, no metric anywhere), the four
+theorems (analytic, independently verified), and F1 (chemistry, no band structure).
