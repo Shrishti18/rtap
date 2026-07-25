@@ -1,0 +1,621 @@
+icsd,source,formula,spg,spg_symbol,M,X,priority,dim,motif,n_M_sites,angles_raw,angles_grouped,angle_min,angle_max,spread,d_MX,d_MX_mean,regime
+262356,ICSD (local cache),As2 Co2 O6 Sc2 Sr4,129,P4/nmm,Co,As,1,2,2D layer,2,104.45 104.45 104.45 104.45 120.05 120.05,104.45 x4; 120.05 x2,104.45,120.05,15.6,2.353 2.353 2.353 2.353,2.353,SPLIT-A
+80203,ICSD (local cache),Co1 La1 O1 P1,129,P4/nmm,Co,P,1,2,2D layer,2,101.32 101.32 101.32 101.32 127.41 127.41,101.32 x4; 127.41 x2,101.32,127.41,26.09,2.213 2.213 2.213 2.213,2.213,SPLIT-A
+161910,ICSD (local cache),Co1 La1 O1 P1,129,P4/nmm,Co,P,1,2,2D layer,2,103.10 103.10 103.10 103.10 123.15 123.15,103.10 x4; 123.15 x2,103.1,123.15,20.06,2.240 2.240 2.240 2.240,2.24,SPLIT-A
+161911,ICSD (local cache),Co1 La1 O1 P1,129,P4/nmm,Co,P,1,2,2D layer,2,103.73 103.73 103.73 103.73 121.69 121.69,103.73 x4; 121.69 x2,103.73,121.69,17.97,2.272 2.272 2.272 2.272,2.272,SPLIT-A
+624599,ICSD (local cache),Co1 P1 Pd1,129,P4/nmm,Co,P,1,2,2D layer,2,103.56 103.56 103.56 103.56 122.08 122.08,103.56 x4; 122.08 x2,103.56,122.08,18.51,2.053 2.053 2.053 2.053,2.053,SPLIT-A
+622533,ICSD (local cache),Co2 Cs1 Se2,139,I4/mmm,Co,Se,1,2,2D layer,4,103.46 103.46 103.46 103.46 122.31 122.31,103.46 x4; 122.31 x2,103.46,122.31,18.85,2.183 2.183 2.183 2.183,2.183,SPLIT-A
+262357,ICSD (local cache),Co2 O6 P2 Sc2 Sr4,129,P4/nmm,Co,P,1,2,2D layer,2,101.92 101.92 101.92 101.92 125.94 125.94,101.92 x4; 125.94 x2,101.92,125.94,24.02,2.264 2.264 2.264 2.264,2.264,SPLIT-A
+624798,ICSD (local cache),Co2 Rb1 Se2,139,I4/mmm,Co,Se,1,2,2D layer,4,103.29 103.29 103.29 103.29 122.70 122.70,103.29 x4; 122.70 x2,103.29,122.7,19.41,2.179 2.179 2.179 2.179,2.179,SPLIT-A
+67389,ICSD (local cache),Co1 Cs2 S2,72,Ibam,Co,S,1,1,1D chain/ladder,4,96.12 96.12 114.92 114.92 118.17 118.17,96.12 x2; 114.92 x2; 118.17 x2,96.12,118.17,22.05,2.365 2.365 2.365 2.365,2.365,SPLIT-B
+67392,ICSD (local cache),Co1 Cs2 Se2,72,Ibam,Co,Se,1,1,1D chain/ladder,4,96.56 96.56 114.27 114.27 118.34 118.34,96.56 x2; 114.27 x2; 118.34 x2,96.56,118.34,21.78,2.473 2.473 2.473 2.473,2.473,SPLIT-B
+67387,ICSD (local cache),Co1 K2 S2,72,Ibam,Co,S,1,1,1D chain/ladder,4,98.71 98.71 114.54 114.54 115.67 115.67,98.71 x2; 115.10 x4,98.71,115.67,16.96,2.336 2.336 2.336 2.336,2.336,SPLIT-B
+623958,ICSD (local cache),Co1 K2 S2,72,Ibam,Co,S,1,1,1D chain/ladder,4,98.78 98.78 113.79 113.79 116.35 116.35,98.78 x2; 113.79 x2; 116.35 x2,98.78,116.35,17.58,2.331 2.331 2.331 2.331,2.331,SPLIT-B
+67390,ICSD (local cache),Co1 K2 Se2,72,Ibam,Co,Se,1,1,1D chain/ladder,4,99.36 99.36 113.41 113.41 116.11 116.11,99.36 x2; 113.41 x2; 116.11 x2,99.36,116.11,16.74,2.469 2.469 2.469 2.469,2.469,SPLIT-B
+624264,ICSD (local cache),Co1 Na2 Se2,72,Ibam,Co,Se,1,1,1D chain/ladder,4,97.81 97.81 115.02 115.02 116.18 116.18,97.81 x2; 115.60 x4,97.81,116.18,18.37,2.302 2.302 2.302 2.302,2.302,SPLIT-B
+67388,ICSD (local cache),Co1 Rb2 S2,72,Ibam,Co,S,1,1,1D chain/ladder,4,97.31 97.31 114.67 114.67 117.09 117.09,97.31 x2; 114.67 x2; 117.09 x2,97.31,117.09,19.77,2.354 2.354 2.354 2.354,2.354,SPLIT-B
+67391,ICSD (local cache),Co1 Rb2 Se2,72,Ibam,Co,Se,1,1,1D chain/ladder,4,98.09 98.09 113.66 113.66 117.26 117.26,98.09 x2; 113.66 x2; 117.26 x2,98.09,117.26,19.17,2.468 2.468 2.468 2.468,2.468,SPLIT-B
+623956,ICSD (local cache),Co2 K1 S2,139,I4/mmm,Co,S,1,2,2D layer,4,109.23 109.23 109.23 109.23 109.96 109.96,109.47 x6,109.23,109.96,0.73,2.277 2.277 2.277 2.277,2.277,REGULAR
+67370,ICSD (local cache),Co2 K1 Se2,139,I4/mmm,Co,Se,1,2,2D layer,4,108.73 108.73 108.73 108.73 110.96 110.96,108.73 x4; 110.96 x2,108.73,110.96,2.23,2.345 2.345 2.345 2.345,2.345,REGULAR
+182838,ICSD (local cache),Co2 K1 Se2,139,I4/mmm,Co,Se,1,2,2D layer,4,108.36 108.36 108.36 108.36 111.72 111.72,108.36 x4; 111.72 x2,108.36,111.72,3.36,2.352 2.352 2.352 2.352,2.352,REGULAR
+623961,ICSD (local cache),Co2 K1 Se2,139,I4/mmm,Co,Se,1,2,2D layer,4,108.73 108.73 108.73 108.73 110.96 110.96,108.73 x4; 110.96 x2,108.73,110.96,2.23,2.345 2.345 2.345 2.345,2.345,REGULAR
+624795,ICSD (local cache),Co2 Rb1 S2,139,I4/mmm,Co,S,1,2,2D layer,4,107.17 107.17 110.64 110.64 110.64 110.64,107.17 x2; 110.64 x4,107.17,110.64,3.47,2.314 2.314 2.314 2.314,2.314,REGULAR
+100438,ICSD (local cache),Co2 S2 Tl1,139,I4/mmm,Co,S,1,2,2D layer,4,108.23 108.23 108.23 108.23 111.99 111.99,108.23 x4; 111.99 x2,108.23,111.99,3.76,2.256 2.256 2.256 2.256,2.256,REGULAR
+624879,ICSD (local cache),Co2 S2 Tl1,139,I4/mmm,Co,S,1,2,2D layer,4,108.14 108.14 108.14 108.14 112.16 112.16,108.14 x4; 112.16 x2,108.14,112.16,4.02,2.256 2.256 2.256 2.256,2.256,REGULAR
+95138,ICSD (local cache),Co2 Se2 Tl1,139,I4/mmm,Co,Se,1,2,2D layer,4,107.99 107.99 110.22 110.22 110.22 110.22,107.99 x2; 110.22 x4,107.99,110.22,2.23,2.368 2.368 2.368 2.368,2.368,REGULAR
+95139,ICSD (local cache),Co2 Se2 Tl1,139,I4/mmm,Co,Se,1,2,2D layer,4,107.93 107.93 110.25 110.25 110.25 110.25,107.93 x2; 110.25 x4,107.93,110.25,2.32,2.369 2.369 2.369 2.369,2.369,REGULAR
+95140,ICSD (local cache),Co2 Se2 Tl1,139,I4/mmm,Co,Se,1,2,2D layer,4,107.88 107.88 110.27 110.27 110.27 110.27,107.88 x2; 110.27 x4,107.88,110.27,2.39,2.370 2.370 2.370 2.370,2.37,REGULAR
+95141,ICSD (local cache),Co2 Se2 Tl1,139,I4/mmm,Co,Se,1,2,2D layer,4,108.21 108.21 110.11 110.11 110.11 110.11,108.21 x2; 110.11 x4,108.21,110.11,1.9,2.373 2.373 2.373 2.373,2.373,REGULAR
+625007,ICSD (local cache),Co2 Se2 Tl1,139,I4/mmm,Co,Se,1,2,2D layer,4,107.59 107.59 110.42 110.42 110.42 110.42,107.59 x2; 110.42 x4,107.59,110.42,2.84,2.384 2.384 2.384 2.384,2.384,REGULAR
+674509,ICSD (local cache),Co2 Se2 Tl1,139,I4/mmm,Co,Se,1,2,2D layer,4,109.14 109.14 109.14 109.14 110.14 110.14,109.47 x6,109.14,110.14,1.0,2.334 2.334 2.334 2.334,2.334,REGULAR
+191661,ICSD (local cache),As1 Co1 Fe1 Ti1,216,F-43m,Co,As,1,3,3D network,4,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.524 2.524 2.524 2.524,2.524,REGULAR
+191667,ICSD (local cache),As1 Co1 Fe1 V1,216,F-43m,Co,As,1,3,3D network,4,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.490 2.490 2.490 2.490,2.49,REGULAR
+191648,ICSD (local cache),As1 Co1 Mn2,216,F-43m,Co,As,1,3,3D network,4,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.460 2.460 2.460 2.460,2.46,REGULAR
+23929,ICSD (local cache),Co9 S8,225,Fm-3m,Co,S,1,3,3D network,36,107.98 107.98 107.98 110.92 110.92 110.92,107.98 x3; 110.92 x3,107.98,110.92,2.94,2.132 2.208 2.208 2.208,2.189,REGULAR
+31753,ICSD (local cache),Co9 S8,225,Fm-3m,Co,S,1,3,3D network,36,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.149 2.149 2.149 2.149,2.149,REGULAR
+40046,ICSD (local cache),Co9 S8,225,Fm-3m,Co,S,1,3,3D network,36,107.42 107.42 107.42 111.44 111.44 111.44,107.42 x3; 111.44 x3,107.42,111.44,4.02,2.127 2.227 2.227 2.227,2.202,REGULAR
+600664,ICSD (local cache),Co9 S8,225,Fm-3m,Co,S,1,3,3D network,36,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.150 2.150 2.150 2.150,2.15,REGULAR
+624834,ICSD (local cache),Co9 S8,225,Fm-3m,Co,S,1,3,3D network,36,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.150 2.150 2.150 2.150,2.15,REGULAR
+657415,ICSD (local cache),Co9 S8,225,Fm-3m,Co,S,1,3,3D network,36,109.04 109.04 109.04 109.90 109.90 109.90,109.47 x6,109.04,109.9,0.87,2.131 2.154 2.154 2.154,2.148,REGULAR
+660368,ICSD (local cache),Co9 S8,225,Fm-3m,Co,S,1,3,3D network,36,107.56 107.56 107.56 111.32 111.32 111.32,107.56 x3; 111.32 x3,107.56,111.32,3.76,2.122 2.231 2.231 2.231,2.204,REGULAR
+623960,ICSD (local cache),Co1 K2 S2,72,Ibam,Co,S,1,1,1D chain/ladder,4,100.68 100.68 111.67 111.67 116.45 116.45,100.68 x2; 111.67 x2; 116.45 x2,100.68,116.45,15.77,2.387 2.387 2.387 2.387,2.387,OTHER
+107932,ICSD (local cache),As1 Co1 Li1,129,P4/nmm,Co,As,1,2,2D layer,2,103.52 103.52 112.53 112.53 112.53 112.53,103.52 x2; 112.53 x4,103.52,112.53,9.01,2.392 2.392 2.392 2.392,2.392,OTHER
+609899,ICSD (local cache),As2 Ca1 Co2,139,I4/mmm,Co,As,1,2,2D layer,4,106.18 106.18 106.18 106.18 116.28 116.28,106.18 x4; 116.28 x2,106.18,116.28,10.1,2.348 2.348 2.348 2.348,2.348,OTHER
+610073,ICSD (local cache),As2 Co2 La1,139,I4/mmm,Co,As,1,2,2D layer,4,105.79 105.79 105.79 105.79 117.11 117.11,105.79 x4; 117.11 x2,105.79,117.11,11.32,2.376 2.376 2.376 2.376,2.376,OTHER
+10462,ICSD (local cache),Ca1 Co2 P2,139,I4/mmm,Co,P,1,2,2D layer,4,105.63 105.63 105.63 105.63 117.47 117.47,105.63 x4; 117.47 x2,105.63,117.47,11.84,2.257 2.257 2.257 2.257,2.257,OTHER
+85890,ICSD (local cache),Ca1 Co2 P2,139,I4/mmm,Co,P,1,2,2D layer,4,105.73 105.73 105.73 105.73 117.25 117.25,105.73 x4; 117.25 x2,105.73,117.25,11.53,2.262 2.262 2.262 2.262,2.262,OTHER
+85891,ICSD (local cache),Ca1 Co2 P2,139,I4/mmm,Co,P,1,2,2D layer,4,105.73 105.73 105.73 105.73 117.25 117.25,105.73 x4; 117.25 x2,105.73,117.25,11.53,2.262 2.262 2.262 2.262,2.262,OTHER
+85892,ICSD (local cache),Ca1 Co2 P2,139,I4/mmm,Co,P,1,2,2D layer,4,106.03 106.03 106.03 106.03 116.59 116.59,106.03 x4; 116.59 x2,106.03,116.59,10.55,2.263 2.263 2.263 2.263,2.263,OTHER
+619210,ICSD (local cache),Ca1 Co2 P2,139,I4/mmm,Co,P,1,2,2D layer,4,105.63 105.63 105.63 105.63 117.46 117.46,105.63 x4; 117.46 x2,105.63,117.46,11.82,2.256 2.256 2.256 2.256,2.256,OTHER
+162902,ICSD (local cache),Co1 Se1,129,P4/nmm,Co,Se,1,2,2D layer,2,102.46 102.46 113.08 113.08 113.08 113.08,102.46 x2; 113.08 x4,102.46,113.08,10.62,2.264 2.264 2.264 2.264,2.264,OTHER
+622529,ICSD (local cache),Co2 Cs1 S2,139,I4/mmm,Co,S,1,2,2D layer,4,107.67 107.67 107.67 107.67 113.14 113.14,107.67 x4; 113.14 x2,107.67,113.14,5.47,2.238 2.238 2.238 2.238,2.238,OTHER
+182837,ICSD (local cache),Co2 K1 Se2,139,I4/mmm,Co,Se,1,2,2D layer,4,106.24 106.24 111.11 111.11 111.11 111.11,106.24 x2; 111.11 x4,106.24,111.11,4.87,2.348 2.348 2.348 2.348,2.348,OTHER
+87581,ICSD (local cache),Co2 La1 P2,139,I4/mmm,Co,P,1,2,2D layer,4,106.05 106.05 106.05 106.05 116.55 116.55,106.05 x4; 116.55 x2,106.05,116.55,10.49,2.242 2.242 2.242 2.242,2.242,OTHER
+87582,ICSD (local cache),Co2 La1 P2,139,I4/mmm,Co,P,1,2,2D layer,4,106.06 106.06 106.06 106.06 116.53 116.53,106.06 x4; 116.53 x2,106.06,116.53,10.47,2.237 2.237 2.237 2.237,2.237,OTHER
+87583,ICSD (local cache),Co2 La1 P2,139,I4/mmm,Co,P,1,2,2D layer,4,105.88 105.88 105.88 105.88 116.92 116.92,105.88 x4; 116.92 x2,105.88,116.92,11.04,2.236 2.236 2.236 2.236,2.236,OTHER
+624010,ICSD (local cache),Co2 La1 P2,139,I4/mmm,Co,P,1,2,2D layer,4,106.10 106.10 106.10 106.10 116.45 116.45,106.10 x4; 116.45 x2,106.1,116.45,10.35,2.243 2.243 2.243 2.243,2.243,OTHER
+67362,ICSD (local cache),Co2 Se2 Tl1,139,I4/mmm,Co,Se,1,2,2D layer,4,104.20 104.20 112.17 112.17 112.17 112.17,104.20 x2; 112.17 x4,104.2,112.17,7.97,2.434 2.434 2.434 2.434,2.434,OTHER
+COD-1536136,COD,,,,Co,P,1,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.28 A (coordination > 4)
+COD-1538443,COD,,,,Co,As,1,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.34 A (coordination > 4)
+COD-2106188,COD,,,,Co,As,1,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 5th neighbour at 2.33 A (coordination > 4)
+COD-9000133,COD,,,,Co,As,1,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.63 A > cutoff 3.09 A (not bonded)
+COD-9007662,COD,,,,Co,As,1,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.44 A (coordination > 4)
+COD-9008928,COD,,,,Co,P,1,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.37 A (coordination > 4)
+COD-9009908,COD,,,,Co,As,1,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.40 A (coordination > 4)
+610034,ICSD (local cache),As2 Co1,58,Pnnm,Co,As,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.36 A (coordination > 4)
+80350,ICSD (local cache),As2 Co1 O6,162,P-31m,Co,As,1,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.56 A > cutoff 3.09 A (not bonded)
+202853,ICSD (local cache),Ba1 Co1 O7 P2,2,P-1,Co,P,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.24 A > cutoff 2.96 A (not bonded)
+82639,ICSD (local cache),Ba1 Co1 S2,129,P4/nmm,Co,S,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.43 A (coordination > 4)
+250709,ICSD (local cache),Ba1 Co2 O8 P2,147,P-3,Co,P,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.29 A > cutoff 2.96 A (not bonded)
+280965,ICSD (local cache),Ba2 Cl2 Co1 O6 Se2,58,Pnnm,Co,Se,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.33 A > cutoff 3.10 A (not bonded)
+92479,ICSD (local cache),C6 H18 Co1 N12 Os1 S6,148,R-3,Co,S,1,-1,EXCLUDED,3,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+193216,ICSD (local cache),Co1 K1 O9 P3,188,P-6c2,Co,P,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.34 A > cutoff 2.96 A (not bonded)
+71536,ICSD (local cache),Co1 K2 O6 Se2,166,R-3m,Co,Se,1,-1,EXCLUDED,3,,,,,,,,not-tetrahedral: 4th neighbour at 3.25 A > cutoff 3.10 A (not bonded)
+380405,ICSD (local cache),Co1 La3 O6 S3 W1,176,P63/m,Co,S,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.44 A (coordination > 4)
+5437,ICSD (local cache),Co3 In1 S2 Sn1,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+425136,ICSD (local cache),Co3 In1 S2 Sn1,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+425137,ICSD (local cache),Co3 In1 S2 Sn1,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+5436,ICSD (local cache),Co3 In2 S2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+195432,ICSD (local cache),Co3 In2 S2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+423459,ICSD (local cache),Co3 In2 S2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+5435,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+173760,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+173761,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+173762,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+173763,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+173764,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+195422,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+196310,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+426752,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+426753,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+624867,ICSD (local cache),Co3 S2 Sn2,166,R-3m,Co,S,1,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+79091,ICSD (local cache),H10 Co1 O10 Se2,15,C2/c,Co,Se,1,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.38 A > cutoff 3.10 A (not bonded)
+98686,ICSD (local cache),H4 Co1 K2 O10 Se2,2,P-1,Co,Se,1,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.44 A > cutoff 3.10 A (not bonded)
+261204,ICSD (local cache),H4 Co1 N2 O4 S1,56,Pccn,Co,S,1,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.37 A > cutoff 2.93 A (not bonded)
+98683,ICSD (local cache),H4 Co1 Na2 O10 Se2,2,P-1,Co,Se,1,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.48 A > cutoff 3.10 A (not bonded)
+280044,ICSD (local cache),H6 Co1 N1 O5 P1,31,Pmn21,Co,P,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.31 A > cutoff 2.96 A (not bonded)
+424548,ICSD (local cache),H6 Co1 N1 O5 P1,62,Pnma,Co,P,1,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.30 A > cutoff 2.96 A (not bonded)
+75134,ICSD (local cache),H6 Co1 O8 Se2,14,P21/c,Co,Se,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.44 A > cutoff 3.10 A (not bonded)
+415462,ICSD (local cache),H8 Cl2 Co1 O8 Se2,14,P21/c,Co,Se,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 Se neighbours
+261585,ICSD (local cache),H8 Co1 K2 O16 P4,2,P-1,Co,P,1,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.30 A > cutoff 2.96 A (not bonded)
+281336,ICSD (local cache),H8 Co1 O14 P2 V2,87,I4/m,Co,P,1,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 P neighbours
+421807,ICSD (local cache),H8 Co1 O16 P4 Rb2,2,P-1,Co,P,1,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.31 A > cutoff 2.96 A (not bonded)
+416650,ICSD (local cache),H8 Co1 O16 P4 Tl2,2,P-1,Co,P,1,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.31 A > cutoff 2.96 A (not bonded)
+423230,ICSD (local cache),As1 Cu1 Mn1,129,P4/nmm,Cu,As,2,2,2D layer,2,97.41 97.41 115.82 115.82 115.82 115.82,97.41 x2; 115.82 x4,97.41,115.82,18.42,2.529 2.529 2.529 2.529,2.529,SPLIT-B
+187596,ICSD (local cache),As1 Ni1 Rh1,129,P4/nmm,Ni,As,2,2,2D layer,2,98.31 98.31 115.32 115.32 115.32 115.32,98.31 x2; 115.32 x4,98.31,115.32,17.01,2.346 2.346 2.346 2.346,2.346,SPLIT-B
+COD-1541349,COD,,,,Cu,P,2,2,2D layer,4,95.18 100.99 102.96 118.30 118.59 119.18,95.18 x1; 100.99 x1; 102.96 x1; 118.69 x3,95.18,119.18,24.0,2.274 2.320 2.397 2.500,2.373,OTHER
+40435,ICSD (local cache),Ni4 P2 Zr1,136,P42/mnm,Ni,P,2,3,3D network,8,0.01 103.17 120.07 120.07 120.07 120.07,0.01 x1; 103.17 x1; 120.07 x4,0.01,120.07,120.06,2.253 2.254 2.275 2.275,2.264,OTHER
+40435,ICSD (local cache),Ni4 P2 Zr1,136,P42/mnm,Ni,P,2,3,3D network,8,0.01 103.13 120.07 120.07 120.08 120.08,0.01 x1; 103.13 x1; 120.07 x4,0.01,120.08,120.07,2.253 2.254 2.276 2.276,2.265,OTHER
+COD-1526196,COD,,,,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+COD-1527899,COD,,,,Cu,P,2,-1,EXCLUDED,18,,,,,,,,not-tetrahedral: fewer than 4 P neighbours
+COD-4003029,COD,,,,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.28 A (coordination > 4)
+COD-9000258,COD,,,,Ni,As,2,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+91551,ICSD (local cache),Al1 As1 Cu1 O5,14,P21/c,Cu,As,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.60 A > cutoff 2.89 A (not bonded)
+61677,ICSD (local cache),As1 Cu1 O4 Pb1,2,P-1,Cu,As,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 As neighbours
+44030,ICSD (local cache),As1 Ni1 Rh1,129,P4/nmm,Ni,As,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.83 A > cutoff 2.79 A (not bonded)
+601484,ICSD (local cache),As1 Ni1 Rh1,129,P4/nmm,Ni,As,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.88 A > cutoff 2.79 A (not bonded)
+63058,ICSD (local cache),As2 Cu1 Na4 O8,2,P-1,Cu,As,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.89 A (not bonded)
+4287,ICSD (local cache),As2 Cu1 O4,135,P42/mbc,Cu,As,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.24 A > cutoff 2.89 A (not bonded)
+16829,ICSD (local cache),As2 Cu1 O4,135,P42/mbc,Cu,As,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.23 A > cutoff 2.89 A (not bonded)
+18115,ICSD (local cache),As2 Cu1 O8 Zn2,2,P-1,Cu,As,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.22 A > cutoff 2.89 A (not bonded)
+26839,ICSD (local cache),As2 Cu1 O8 Zn2,2,P-1,Cu,As,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.22 A > cutoff 2.89 A (not bonded)
+100249,ICSD (local cache),As2 Cu1 O8 Zn2,2,P-1,Cu,As,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.21 A > cutoff 2.89 A (not bonded)
+300120,ICSD (local cache),As2 K2 Ni1,63,Cmcm,Ni,As,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+1830,ICSD (local cache),Ba1 Cu1 K2 N6 O12,69,Fmmm,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.31 A (coordination > 4)
+66534,ICSD (local cache),Ba1 Cu1 O7 P2,2,P-1,Cu,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.13 A > cutoff 2.75 A (not bonded)
+192060,ICSD (local cache),Ba1 Cu1 O7 P2,2,P-1,Cu,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.33 A > cutoff 2.75 A (not bonded)
+41549,ICSD (local cache),C1 B2 Ni2 Y1,139,I4/mmm,Ni,C,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.17 A > cutoff 2.30 A (not bonded)
+75816,ICSD (local cache),C1 B2 Ni2 Y1,139,I4/mmm,Ni,C,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.17 A > cutoff 2.30 A (not bonded)
+79574,ICSD (local cache),C1 B2 Ni2 Y1,139,I4/mmm,Ni,C,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.18 A > cutoff 2.30 A (not bonded)
+83231,ICSD (local cache),C1 B2 Ni2 Y1,139,I4/mmm,Ni,C,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.17 A > cutoff 2.30 A (not bonded)
+89142,ICSD (local cache),C1 B2 Ni2 Y1,139,I4/mmm,Ni,C,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.17 A > cutoff 2.30 A (not bonded)
+75401,ICSD (local cache),C1 Cu1 F1 K1 O3,26,Pmc21,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 C neighbours
+6179,ICSD (local cache),C1 Cu1 O3,8,Cm,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.39 A (not bonded)
+74875,ICSD (local cache),C1 H1 Cu1 O4 Tl1,176,P63/m,Cu,C,2,-1,EXCLUDED,6,,,,,,,,not-tetrahedral: 4th neighbour at 3.37 A > cutoff 2.39 A (not bonded)
+279589,ICSD (local cache),C1 H8 Cu1 N2 O5 P2,15,C2/c,Cu,C/N/P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.12 A > cutoff 2.75 A (not bonded)
+279590,ICSD (local cache),C1 H8 Cu1 N2 O5 P2,15,C2/c,Cu,C/N/P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.11 A > cutoff 2.75 A (not bonded)
+279591,ICSD (local cache),C1 H8 Cu1 N2 O5 P2,15,C2/c,Cu,C/N/P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.11 A > cutoff 2.75 A (not bonded)
+237798,ICSD (local cache),C1 Na3 Ni1 O7 P1,11,P21/m,Ni,C/P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.36 A > cutoff 2.66 A (not bonded)
+180457,ICSD (local cache),C1 Ni1,225,Fm-3m,Ni,C,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.04 A (coordination > 4)
+673582,ICSD (local cache),C1 Ni6 Y2,225,Fm-3m,Ni,C,2,-1,EXCLUDED,24,,,,,,,,not-tetrahedral: fewer than 4 C neighbours
+109784,ICSD (local cache),C10 H14 N8 Ni1 O2,12,C2/m,Ni,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+66776,ICSD (local cache),C2 Ba4 Cu1 Na1 O10,121,I-42m,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 C neighbours
+80606,ICSD (local cache),C2 Ba4 Cu1 Na1 O10,121,I-42m,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 C neighbours
+380468,ICSD (local cache),C2 Br1 Cs1 N2 Ni1,139,I4/mmm,Ni,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+380470,ICSD (local cache),C2 Br1 N2 Ni1 Rb1,139,I4/mmm,Ni,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+380469,ICSD (local cache),C2 Cl1 Cs1 N2 Ni1,139,I4/mmm,Ni,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+380471,ICSD (local cache),C2 Cl1 N2 Ni1 Rb1,139,I4/mmm,Ni,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+172335,ICSD (local cache),C2 Cu1 F6 O6 S2,2,P-1,Cu,C,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: fewer than 4 C neighbours
+412037,ICSD (local cache),C2 Cu1 K1,131,P42/mmc,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.06 A > cutoff 2.39 A (not bonded)
+412038,ICSD (local cache),C2 Cu1 K1,131,P42/mmc,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.06 A > cutoff 2.39 A (not bonded)
+36447,ICSD (local cache),C2 Cu1 K2 O6,43,Fdd2,Cu,C,2,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 4th neighbour at 2.92 A > cutoff 2.39 A (not bonded)
+200695,ICSD (local cache),C2 Cu1 K2 O6,43,Fdd2,Cu,C,2,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 4th neighbour at 2.92 A > cutoff 2.39 A (not bonded)
+200779,ICSD (local cache),C2 Cu1 K2 O6,43,Fdd2,Cu,C,2,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 4th neighbour at 2.92 A > cutoff 2.39 A (not bonded)
+10355,ICSD (local cache),C2 Cu1 Na2 O6,14,P21/c,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.83 A > cutoff 2.39 A (not bonded)
+60858,ICSD (local cache),C2 Cu1 Na2 O6,14,P21/c,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.80 A > cutoff 2.39 A (not bonded)
+426579,ICSD (local cache),C2 Cu1 Na2 O6,14,P21/c,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.79 A > cutoff 2.39 A (not bonded)
+412039,ICSD (local cache),C2 Cu1 Rb1,131,P42/mmc,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.06 A > cutoff 2.39 A (not bonded)
+412040,ICSD (local cache),C2 Cu1 Rb1,131,P42/mmc,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.07 A > cutoff 2.39 A (not bonded)
+48155,ICSD (local cache),C2 H10 N4 Ni1 O6,15,C2/c,Ni,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 2.82 A > cutoff 2.30 A (not bonded)
+72515,ICSD (local cache),C2 H12 N6 Ni1 S2,12,C2/m,Ni,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.10 A (coordination > 4)
+251432,ICSD (local cache),C2 H14 Cu1 F8 N2 O4 V2,2,P-1,Cu,C/N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: fewer than 4 C/N neighbours
+110471,ICSD (local cache),C2 H8 Br3 Cu1 N1 O1,2,P-1,Cu,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 C/N neighbours
+68710,ICSD (local cache),C2 H9 K1 Ni1 O10,2,P-1,Ni,C,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: fewer than 4 C neighbours
+16399,ICSD (local cache),C4 Cs1 K1 N4 Ni1,2,P-1,Ni,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+242098,ICSD (local cache),C4 Cu1 Na2 O8,14,P21/c,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.72 A > cutoff 2.39 A (not bonded)
+61122,ICSD (local cache),C4 H16 Cl2 N8 Ni1 S4,79,I4,Ni,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.54 A > cutoff 2.30 A (not bonded)
+61123,ICSD (local cache),C4 H16 Cl2 N8 Ni1 S4,79,I4,Ni,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.55 A > cutoff 2.30 A (not bonded)
+417562,ICSD (local cache),C4 H20 N4 Ni1 O12 Pd1,23,I222,Ni,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.78 A > cutoff 2.30 A (not bonded)
+417564,ICSD (local cache),C4 H20 N4 Ni1 O12 Pt1,23,I222,Ni,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.79 A > cutoff 2.30 A (not bonded)
+151315,ICSD (local cache),C4 H4 Ca1 Cu1 O8,13,P2/c,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.94 A > cutoff 2.39 A (not bonded)
+40090,ICSD (local cache),C4 H4 Cu1 Na2 O10,2,P-1,Cu,C,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 2.69 A > cutoff 2.39 A (not bonded)
+150120,ICSD (local cache),C4 H4 Cu1 O8 Sr1,13,P2/c,Cu,C,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.95 A > cutoff 2.39 A (not bonded)
+290326,ICSD (local cache),C4 H6 Cu1 N8,14,P21/c,Cu,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+250269,ICSD (local cache),C4 H8 Cl2 Cu1 N8,14,P21/c,Cu,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.03 A > cutoff 2.39 A (not bonded)
+109973,ICSD (local cache),C4 H8 Cu1 N2 O6,14,P21/c,Cu,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.89 A > cutoff 2.39 A (not bonded)
+194113,ICSD (local cache),C4 H8 Cu1 N2 O6,14,P21/c,Cu,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.88 A > cutoff 2.39 A (not bonded)
+253556,ICSD (local cache),C4 H8 Cu1 N2 O8,14,P21/c,Cu,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.71 A > cutoff 2.39 A (not bonded)
+169760,ICSD (local cache),C4 N4 Ni1 Zn1,132,P42/mcm,Ni,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+85617,ICSD (local cache),C4 N6 Ni1,58,Pnnm,Ni,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.14 A (coordination > 4)
+414021,ICSD (local cache),C5 Cu1 Fe1 N6 O1,107,I4mm,Cu,C/N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.13 A (coordination > 4)
+110500,ICSD (local cache),C5 H11 Cu1 N1 O6,15,C2/c,Cu,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 2.90 A > cutoff 2.39 A (not bonded)
+151227,ICSD (local cache),C5 H11 Cu1 N1 O6,15,C2/c,Cu,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 2.90 A > cutoff 2.39 A (not bonded)
+249724,ICSD (local cache),C6 Au3 K1 N6 Ni1,149,P312,Ni,C/N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 5th neighbour at 2.09 A (coordination > 4)
+56603,ICSD (local cache),C6 Cr1 Cs1 N6 Ni1,216,F-43m,Ni,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.10 A (coordination > 4)
+151706,ICSD (local cache),C6 Cs2 Fe1 N6 Ni1,225,Fm-3m,Ni,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.06 A (coordination > 4)
+99499,ICSD (local cache),C6 Cu1 Fe1 K2 N6,2,P-1,Cu,C/N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+66806,ICSD (local cache),C6 H12 N6 Ni1 O10,69,Fmmm,Ni,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.36 A > cutoff 2.30 A (not bonded)
+168724,ICSD (local cache),C6 H4 Cu1 N8 O4,2,P-1,Cu,C/N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+411632,ICSD (local cache),C8 H16 Cu1 N8 Ni1,2,P-1,Ni,C/N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+411632,ICSD (local cache),C8 H16 Cu1 N8 Ni1,2,P-1,Cu,C/N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+428562,ICSD (local cache),C8 H6 Cu1 N8,15,C2/c,Cu,C/N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+6183,ICSD (local cache),Ca1 Cu1 K2 N6 O12,69,Fmmm,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.31 A (coordination > 4)
+26748,ICSD (local cache),Ca1 K2 N6 Ni1 O12,202,Fm-3,Ni,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.18 A (coordination > 4)
+69044,ICSD (local cache),Ca1 N1 Ni1,131,P42/mmc,Ni,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+656846,ICSD (local cache),Ca1 N1 Ni1,131,P42/mmc,Ni,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+249777,ICSD (local cache),Cd2 Cu1 O8 P2,2,P-1,Cu,P,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.13 A > cutoff 2.75 A (not bonded)
+2381,ICSD (local cache),Cs2 Cu1 N6 O12 Pb1,202,Fm-3,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.17 A (coordination > 4)
+8284,ICSD (local cache),Cs2 Cu1 N6 O12 Pb1,69,Fmmm,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.23 A (coordination > 4)
+8285,ICSD (local cache),Cs2 Cu1 N6 O12 Pb1,69,Fmmm,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.23 A (coordination > 4)
+56252,ICSD (local cache),Cs2 Cu1 N6 O12 Pb1,69,Fmmm,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.24 A (coordination > 4)
+56253,ICSD (local cache),Cs2 Cu1 N6 O12 Pb1,69,Fmmm,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.20 A (coordination > 4)
+56254,ICSD (local cache),Cs2 Cu1 N6 O12 Pb1,202,Fm-3,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.13 A (coordination > 4)
+430123,ICSD (local cache),Cs2 Cu1 O7 P2,9,Cc,Cu,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.18 A > cutoff 2.75 A (not bonded)
+656056,ICSD (local cache),Cs2 Ni1 P2,63,Cmcm,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+89606,ICSD (local cache),Cu1 In1 O5 P1,62,Pnma,Cu,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.60 A > cutoff 2.75 A (not bonded)
+1274,ICSD (local cache),Cu1 K2 N6 O12 Pb1,69,Fmmm,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.17 A (coordination > 4)
+16127,ICSD (local cache),Cu1 K2 N6 O12 Pb1,202,Fm-3,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.11 A (coordination > 4)
+26228,ICSD (local cache),Cu1 K2 N6 O12 Pb1,202,Fm-3,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.11 A (coordination > 4)
+26749,ICSD (local cache),Cu1 K2 N6 O12 Pb1,202,Fm-3,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.24 A (coordination > 4)
+36135,ICSD (local cache),Cu1 K2 N6 O12 Pb1,196,F23,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.04 A (coordination > 4)
+191282,ICSD (local cache),Cu1 K2 O7 P2,113,P-421m,Cu,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.14 A > cutoff 2.75 A (not bonded)
+72485,ICSD (local cache),Cu1 Li2 O7 P2,15,C2/c,Cu,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.19 A > cutoff 2.75 A (not bonded)
+160321,ICSD (local cache),Cu1 Li2 O7 P2,15,C2/c,Cu,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.20 A > cutoff 2.75 A (not bonded)
+236815,ICSD (local cache),Cu1 N1,225,Fm-3m,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.04 A (coordination > 4)
+236816,ICSD (local cache),Cu1 N1,225,Fm-3m,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.09 A (coordination > 4)
+236835,ICSD (local cache),Cu1 N1,221,Pm-3m,Cu,N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 5th neighbour at 2.21 A (coordination > 4)
+236836,ICSD (local cache),Cu1 N1,221,Pm-3m,Cu,N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 5th neighbour at 2.27 A (coordination > 4)
+413267,ICSD (local cache),Cu1 N4 Na2 O12,14,P21/c,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.76 A > cutoff 2.33 A (not bonded)
+422033,ICSD (local cache),Cu1 N4 O10,11,P21/m,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 2.87 A > cutoff 2.33 A (not bonded)
+372,ICSD (local cache),Cu1 N6 O12 Pb1 Rb2,69,Fmmm,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.18 A (coordination > 4)
+16,ICSD (local cache),Cu1 N6 O12 Pb1 Tl2,202,Fm-3,Cu,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.12 A (coordination > 4)
+35451,ICSD (local cache),Cu1 Na1 O4 P1,19,P212121,Cu,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.22 A > cutoff 2.75 A (not bonded)
+2822,ICSD (local cache),Cu1 Na2 O12 P4,15,C2/c,Cu,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.17 A > cutoff 2.75 A (not bonded)
+79868,ICSD (local cache),Cu1 Na2 O7 P2,15,C2/c,Cu,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.20 A > cutoff 2.75 A (not bonded)
+80418,ICSD (local cache),Cu1 Na2 O7 P2,15,C2/c,Cu,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.20 A > cutoff 2.75 A (not bonded)
+260010,ICSD (local cache),Cu1 O12 P2 Rb2 V2,14,P21/c,Cu,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.05 A > cutoff 2.75 A (not bonded)
+23756,ICSD (local cache),Cu2 O12 P4,15,C2/c,Cu,P,2,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 4th neighbour at 3.33 A > cutoff 2.75 A (not bonded)
+426627,ICSD (local cache),Cu3 Ge1 O10 P2,11,P21/m,Cu,P,2,-1,EXCLUDED,6,,,,,,,,not-tetrahedral: 4th neighbour at 3.55 A > cutoff 2.75 A (not bonded)
+251665,ICSD (local cache),F2 Na4 Ni1 O7 P2,74,Imma,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.16 A > cutoff 2.66 A (not bonded)
+251666,ICSD (local cache),F2 Na4 Ni1 O7 P2,74,Imma,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.17 A > cutoff 2.66 A (not bonded)
+53505,ICSD (local cache),Fe1 N1 Ni1,123,P4/mmm,Ni,N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.38 A > cutoff 2.24 A (not bonded)
+160894,ICSD (local cache),H1 As1 Cu1 O5 Zn1,58,Pnnm,Cu,As,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.46 A > cutoff 2.89 A (not bonded)
+62742,ICSD (local cache),H1 Cu2 K3 O14 P4,2,P-1,Cu,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.18 A > cutoff 2.75 A (not bonded)
+59158,ICSD (local cache),H10 As4 Cu1 O16,2,P-1,Cu,As,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.38 A > cutoff 2.89 A (not bonded)
+88887,ICSD (local cache),H12 Br4 Cu1 N2 O2,136,P42/mnm,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+88888,ICSD (local cache),H12 Br4 Cu1 N2 O2,136,P42/mnm,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+88889,ICSD (local cache),H12 Br4 Cu1 N2 O2,136,P42/mnm,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+23750,ICSD (local cache),H12 Cl4 Cu1 N2 O2,136,P42/mnm,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+163014,ICSD (local cache),H12 Cl4 Cu1 N2 O2,136,P42/mnm,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+420586,ICSD (local cache),H12 Cl4 Cu1 N2 O2,136,P42/mnm,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+74551,ICSD (local cache),H12 Cu1 F2 N2 O8 P2,12,C2/m,Cu,N/P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.21 A > cutoff 2.75 A (not bonded)
+4072,ICSD (local cache),H12 Cu1 I4 N4,12,C2/m,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+61243,ICSD (local cache),H12 Cu1 Mn2 N4 O8,11,P21/m,Cu,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: square-planar / trans (max angle 179.1 deg)
+412606,ICSD (local cache),H12 Cu1 N10 O8,2,P-1,Cu,N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+103,ICSD (local cache),H12 Cu1 N2 O6 Sn1,2,P-1,Cu,N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+169583,ICSD (local cache),H12 Cu1 N4 O8 Re2,2,P-1,Cu,N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+410198,ICSD (local cache),H12 N2 Ni1 O10 S2,2,P-1,Ni,N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: fewer than 4 N neighbours
+201208,ICSD (local cache),H12 N6 Ni1 O4,12,C2/m,Ni,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.15 A (coordination > 4)
+201209,ICSD (local cache),H12 N6 Ni1 O4,12,C2/m,Ni,N,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.14 A (coordination > 4)
+247564,ICSD (local cache),H2 Na2 Ni1 O6 P2,62,Pnma,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.31 A > cutoff 2.66 A (not bonded)
+409898,ICSD (local cache),H3 B1 Ca1 Ni1 O10 P2,15,C2/c,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.24 A > cutoff 2.66 A (not bonded)
+280917,ICSD (local cache),H4 Cu1 O4 P2,14,P21/c,Cu,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.14 A > cutoff 2.75 A (not bonded)
+280918,ICSD (local cache),H4 Cu1 O4 P2,14,P21/c,Cu,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.14 A > cutoff 2.75 A (not bonded)
+280921,ICSD (local cache),H4 Cu1 O4 P2,51,Pmma,Cu,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.35 A > cutoff 2.75 A (not bonded)
+250189,ICSD (local cache),H6 Cu1 N1 O5 P1,31,Pmn21,Cu,N/P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.75 A (not bonded)
+424553,ICSD (local cache),H6 N1 Ni1 O5 P1,31,Pmn21,Ni,N/P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.66 A (not bonded)
+421806,ICSD (local cache),H8 Cu1 O16 P4 Rb2,2,P-1,Cu,P,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.22 A > cutoff 2.75 A (not bonded)
+417429,ICSD (local cache),H8 Ni1 O10 P2,14,P21/c,Ni,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.39 A > cutoff 2.66 A (not bonded)
+417430,ICSD (local cache),H8 Ni1 O10 P2,14,P21/c,Ni,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.39 A > cutoff 2.66 A (not bonded)
+85597,ICSD (local cache),H8 Ni1 O14 P2 V2,87,I4/m,Ni,P,2,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 P neighbours
+421808,ICSD (local cache),H8 Ni1 O16 P4 Rb2,2,P-1,Ni,P,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.66 A (not bonded)
+416651,ICSD (local cache),H8 Ni1 O16 P4 Tl2,2,P-1,Ni,P,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.66 A (not bonded)
+91527,ICSD (local cache),K1 Ni1 O9 P3,146,R3,Ni,P,2,-1,EXCLUDED,3,,,,,,,,not-tetrahedral: 4th neighbour at 3.21 A > cutoff 2.66 A (not bonded)
+1937,ICSD (local cache),K2 N6 Ni1 O12 Pb1,202,Fm-3,Ni,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.08 A (coordination > 4)
+179,ICSD (local cache),K2 N6 Ni1 O12 Sr1,202,Fm-3,Ni,N,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.08 A (coordination > 4)
+300119,ICSD (local cache),K2 Ni1 P2,63,Cmcm,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+97767,ICSD (local cache),Li1 Ni1 O4 P1,63,Cmcm,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.32 A > cutoff 2.66 A (not bonded)
+72409,ICSD (local cache),Mg2 Ni3 P1,166,R-3m,Ni,P,2,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: fewer than 4 P neighbours
+76056,ICSD (local cache),Mn3 N1 Ni1,221,Pm-3m,Ni,N,2,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.37 A > cutoff 2.24 A (not bonded)
+37137,ICSD (local cache),Ni1 O12 P4 Zn1,15,C2/c,Ni,P,2,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.18 A > cutoff 2.66 A (not bonded)
+76681,ICSD (local cache),Ni4 P2 Zr1,136,P42/mnm,Ni,P,2,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 4th neighbour at 3.26 A > cutoff 2.66 A (not bonded)
+163496,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,105.30 105.30 105.30 105.30 118.17 118.17,105.30 x4; 118.17 x2,105.3,118.17,12.87,2.339 2.339 2.339 2.339,2.339,SPLIT-A
+166016,ICSD (local cache),As2 Ca1 Fe2,139,I4/mmm,Fe,As,3,2,2D layer,4,104.81 104.81 104.81 104.81 119.25 119.25,104.81 x4; 119.25 x2,104.81,119.25,14.44,2.309 2.309 2.309 2.309,2.309,SPLIT-A
+182277,ICSD (local cache),As2 Ca1 Fe2,139,I4/mmm,Fe,As,3,2,2D layer,4,104.58 104.58 104.58 104.58 119.78 119.78,104.58 x4; 119.78 x2,104.58,119.78,15.2,2.123 2.123 2.123 2.123,2.123,SPLIT-A
+162724,ICSD (local cache),Fe1 La1 O1 P1,129,P4/nmm,Fe,P,3,2,2D layer,2,104.53 104.53 104.53 104.53 119.87 119.87,104.53 x4; 119.87 x2,104.53,119.87,15.34,2.290 2.290 2.290 2.290,2.29,SPLIT-A
+391428,ICSD (local cache),Fe1 La1 O1 P1,129,P4/nmm,Fe,P,3,2,2D layer,2,104.76 104.76 104.76 104.76 119.36 119.36,104.76 x4; 119.36 x2,104.76,119.36,14.6,2.294 2.294 2.294 2.294,2.294,SPLIT-A
+420381,ICSD (local cache),Fe1 La1 O1 P1,129,P4/nmm,Fe,P,3,2,2D layer,2,104.64 104.64 104.64 104.64 119.64 119.64,104.64 x4; 119.64 x2,104.64,119.64,15.0,2.289 2.289 2.289 2.289,2.289,SPLIT-A
+162056,ICSD (local cache),As1 Fe1 Li1,129,P4/nmm,Fe,As,3,2,2D layer,2,96.45 96.45 116.35 116.35 116.35 116.35,96.45 x2; 116.35 x4,96.45,116.35,19.91,2.529 2.529 2.529 2.529,2.529,SPLIT-B
+93237,ICSD (local cache),As1 Fe1 Mn1,129,P4/nmm,Fe,As,3,2,2D layer,2,101.73 101.73 113.47 113.47 113.47 113.47,101.73 x2; 113.47 x4,101.73,113.47,11.74,2.413 2.413 2.413 2.413,2.413,SPLIT-B
+93238,ICSD (local cache),As1 Fe1 Mn1,129,P4/nmm,Fe,As,3,2,2D layer,2,100.97 100.97 113.88 113.88 113.88 113.88,100.97 x2; 113.88 x4,100.97,113.88,12.92,2.426 2.426 2.426 2.426,2.426,SPLIT-B
+610492,ICSD (local cache),As1 Fe1 Mn1,129,P4/nmm,Fe,As,3,2,2D layer,2,100.93 100.93 113.90 113.90 113.90 113.90,100.93 x2; 113.90 x4,100.93,113.9,12.97,2.427 2.427 2.427 2.427,2.427,SPLIT-B
+166456,ICSD (local cache),Fe1 Li1 P1,129,P4/nmm,Fe,P,3,2,2D layer,2,91.61 91.61 119.07 119.07 119.07 119.07,91.61 x2; 119.07 x4,91.61,119.07,27.46,2.575 2.575 2.575 2.575,2.575,SPLIT-B
+169253,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,100.12 100.12 114.34 114.34 114.34 114.34,100.12 x2; 114.34 x4,100.12,114.34,14.22,2.456 2.456 2.456 2.456,2.456,SPLIT-B
+169255,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,100.08 100.08 114.36 114.36 114.36 114.36,100.08 x2; 114.36 x4,100.08,114.36,14.28,2.448 2.448 2.448 2.448,2.448,SPLIT-B
+169257,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,100.28 100.28 114.25 114.25 114.25 114.25,100.28 x2; 114.25 x4,100.28,114.25,13.97,2.436 2.436 2.436 2.436,2.436,SPLIT-B
+169259,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,99.25 99.25 114.81 114.81 114.81 114.81,99.25 x2; 114.81 x4,99.25,114.81,15.56,2.443 2.443 2.443 2.443,2.443,SPLIT-B
+169261,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,100.70 100.70 114.03 114.03 114.03 114.03,100.70 x2; 114.03 x4,100.7,114.03,13.33,2.410 2.410 2.410 2.410,2.41,SPLIT-B
+169263,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,99.30 99.30 114.78 114.78 114.78 114.78,99.30 x2; 114.78 x4,99.3,114.78,15.48,2.423 2.423 2.423 2.423,2.423,SPLIT-B
+169265,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,97.19 97.19 115.94 115.94 115.94 115.94,97.19 x2; 115.94 x4,97.19,115.94,18.75,2.449 2.449 2.449 2.449,2.449,SPLIT-B
+169267,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,96.48 96.48 116.33 116.33 116.33 116.33,96.48 x2; 116.33 x4,96.48,116.33,19.85,2.449 2.449 2.449 2.449,2.449,SPLIT-B
+169269,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,96.24 96.24 116.46 116.46 116.46 116.46,96.24 x2; 116.46 x4,96.24,116.46,20.22,2.441 2.441 2.441 2.441,2.441,SPLIT-B
+169271,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,98.97 98.97 114.97 114.97 114.97 114.97,98.97 x2; 114.97 x4,98.97,114.97,16.0,2.375 2.375 2.375 2.375,2.375,SPLIT-B
+169299,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,101.22 101.22 113.58 113.58 113.91 113.91,101.22 x2; 113.75 x4,101.22,113.91,12.7,2.363 2.363 2.363 2.363,2.363,SPLIT-B
+169303,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,100.99 100.99 113.65 113.65 114.09 114.09,100.99 x2; 113.87 x4,100.99,114.09,13.1,2.343 2.343 2.343 2.343,2.343,SPLIT-B
+169306,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,101.38 101.38 113.49 113.49 113.84 113.84,101.38 x2; 113.66 x4,101.38,113.84,12.46,2.319 2.319 2.319 2.319,2.319,SPLIT-B
+169309,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,97.88 97.88 115.06 115.06 116.06 116.06,97.88 x2; 115.56 x4,97.88,116.06,18.18,2.309 2.309 2.309 2.309,2.309,SPLIT-B
+169311,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,98.88 98.88 114.78 114.78 115.25 115.25,98.88 x2; 115.02 x4,98.88,115.25,16.38,2.285 2.285 2.285 2.285,2.285,SPLIT-B
+169313,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,96.91 96.91 115.59 115.59 116.60 116.60,96.91 x2; 116.10 x4,96.91,116.6,19.69,2.315 2.315 2.315 2.315,2.315,SPLIT-B
+169315,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,96.49 96.49 116.03 116.03 116.62 116.62,96.49 x2; 116.32 x4,96.49,116.62,20.13,2.313 2.313 2.313 2.313,2.313,SPLIT-B
+290701,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,99.30 99.30 114.78 114.78 114.78 114.78,99.30 x2; 114.78 x4,99.3,114.78,15.48,2.472 2.472 2.472 2.472,2.472,SPLIT-B
+610530,ICSD (local cache),As1 Fe1 Ti1,189,P-62m,Fe,As,3,3,3D network,3,97.29 98.22 115.63 115.63 115.63 115.63,97.75 x2; 115.63 x4,97.29,115.63,18.34,2.392 2.392 2.414 2.414,2.403,SPLIT-B
+16844,ICSD (local cache),As1 Fe2,129,P4/nmm,Fe,As,3,3,3D network,4,97.77 97.77 115.62 115.62 115.62 115.62,97.77 x2; 115.62 x4,97.77,115.62,17.86,2.412 2.412 2.412 2.412,2.412,SPLIT-B
+415628,ICSD (local cache),As1 Fe2,129,P4/nmm,Fe,As,3,3,3D network,4,96.57 96.57 116.28 116.28 116.28 116.28,96.57 x2; 116.28 x4,96.57,116.28,19.72,2.437 2.437 2.437 2.437,2.437,SPLIT-B
+610464,ICSD (local cache),As1 Fe2,129,P4/nmm,Fe,As,3,3,3D network,4,97.77 97.77 115.62 115.62 115.62 115.62,97.77 x2; 115.62 x4,97.77,115.62,17.85,2.410 2.410 2.410 2.410,2.41,SPLIT-B
+610470,ICSD (local cache),As1 Fe2,129,P4/nmm,Fe,As,3,3,3D network,4,97.69 97.69 115.66 115.66 115.66 115.66,97.69 x2; 115.66 x4,97.69,115.66,17.97,2.409 2.409 2.409 2.409,2.409,SPLIT-B
+610472,ICSD (local cache),As1 Fe2,129,P4/nmm,Fe,As,3,3,3D network,4,97.75 97.75 115.63 115.63 115.63 115.63,97.75 x2; 115.63 x4,97.75,115.63,17.88,2.409 2.409 2.409 2.409,2.409,SPLIT-B
+290889,ICSD (local cache),Fe1 P1 Ti1,189,P-62m,Fe,P,3,3,3D network,3,97.50 98.71 115.43 115.43 115.43 115.43,98.11 x2; 115.43 x4,97.5,115.43,17.94,2.312 2.312 2.342 2.342,2.327,SPLIT-B
+COD-1524708,COD,,,,Fe,Se,3,1,1D chain/ladder,4,108.09 108.94 109.57 109.57 110.33 110.33,109.47 x6,108.09,110.33,2.25,2.344 2.344 2.355 2.355,2.349,REGULAR
+COD-9011992,COD,,,,Fe,S,3,1,1D chain/ladder,4,107.21 107.21 108.60 109.67 112.10 112.10,107.68 x3; 109.67 x1; 112.10 x2,107.21,112.1,4.89,2.272 2.272 2.316 2.316,2.294,REGULAR
+23081,ICSD (local cache),Ba1 Fe2 S4,87,I4/m,Fe,S,3,1,1D chain/ladder,4,106.76 106.76 110.85 110.85 110.85 110.85,106.76 x2; 110.85 x4,106.76,110.85,4.09,2.218 2.218 2.218 2.218,2.218,REGULAR
+187535,ICSD (local cache),Cs1 Fe2 Se3,63,Cmcm,Fe,Se,3,1,1D chain/ladder,8,107.12 107.12 109.44 109.44 111.68 112.08,107.12 x2; 109.44 x2; 111.88 x2,107.12,112.08,4.96,2.342 2.342 2.452 2.452,2.397,REGULAR
+30011,ICSD (local cache),Fe1 S2 Tl1,12,C2/m,Fe,S,3,1,1D chain/ladder,4,106.61 107.03 110.69 110.69 110.94 110.94,106.82 x2; 110.81 x4,106.61,110.94,4.33,2.221 2.221 2.232 2.232,2.227,REGULAR
+63381,ICSD (local cache),Fe1 S2 Tl1,12,C2/m,Fe,S,3,1,1D chain/ladder,4,107.21 107.21 108.60 109.67 112.10 112.10,107.68 x3; 109.67 x1; 112.10 x2,107.21,112.1,4.89,2.272 2.272 2.316 2.316,2.294,REGULAR
+600815,ICSD (local cache),Fe1 S2 Tl1,12,C2/m,Fe,S,3,1,1D chain/ladder,4,107.72 108.32 108.32 109.81 111.34 111.34,108.12 x3; 109.81 x1; 111.34 x2,107.72,111.34,3.62,2.262 2.262 2.302 2.302,2.282,REGULAR
+659748,ICSD (local cache),Fe1 S2 Tl1,12,C2/m,Fe,S,3,1,1D chain/ladder,4,107.70 108.26 108.26 109.72 111.45 111.45,108.07 x3; 109.72 x1; 111.45 x2,107.7,111.45,3.75,2.257 2.257 2.295 2.295,2.276,REGULAR
+424671,ICSD (local cache),Fe2 K1 Se3,63,Cmcm,Fe,Se,3,1,1D chain/ladder,8,107.75 107.75 108.60 108.60 111.36 112.83,108.17 x4; 112.09 x2,107.75,112.83,5.08,2.360 2.360 2.440 2.440,2.4,REGULAR
+424672,ICSD (local cache),Fe2 K1 Se3,63,Cmcm,Fe,Se,3,1,1D chain/ladder,8,108.28 108.28 108.63 108.63 111.21 111.83,108.46 x4; 111.52 x2,108.28,111.83,3.55,2.352 2.352 2.450 2.450,2.401,REGULAR
+COD-4123005,COD,,,,Fe,As,3,2,2D layer,4,108.63 108.63 108.63 108.63 111.18 111.18,108.63 x4; 111.18 x2,108.63,111.18,2.55,2.401 2.401 2.401 2.401,2.401,REGULAR
+162808,ICSD (local cache),As1 F1 Fe1 Sr1,129,P4/nmm,Fe,As,3,2,2D layer,2,108.65 108.65 108.65 108.65 111.13 111.13,108.65 x4; 111.13 x2,108.65,111.13,2.48,2.425 2.425 2.425 2.425,2.425,REGULAR
+163915,ICSD (local cache),As1 F1 Fe1 Sr1,129,P4/nmm,Fe,As,3,2,2D layer,2,108.62 108.62 108.62 108.62 111.19 111.19,108.62 x4; 111.19 x2,108.62,111.19,2.57,2.420 2.420 2.420 2.420,2.42,REGULAR
+168775,ICSD (local cache),As1 F1 Fe1 Sr1,129,P4/nmm,Fe,As,3,2,2D layer,2,108.39 108.39 108.39 108.39 111.65 111.65,108.39 x4; 111.65 x2,108.39,111.65,3.26,2.417 2.417 2.417 2.417,2.417,REGULAR
+602489,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,108.14 108.14 108.14 108.14 112.17 112.17,108.14 x4; 112.17 x2,108.14,112.17,4.03,2.429 2.429 2.429 2.429,2.429,REGULAR
+166457,ICSD (local cache),As1 Fe1 Li1,129,P4/nmm,Fe,As,3,2,2D layer,2,109.43 109.43 109.43 109.43 109.55 109.55,109.47 x6,109.43,109.55,0.12,2.320 2.320 2.320 2.320,2.32,REGULAR
+290700,ICSD (local cache),As1 Fe1 Li1,129,P4/nmm,Fe,As,3,2,2D layer,2,109.39 109.39 109.39 109.39 109.63 109.63,109.47 x6,109.39,109.63,0.23,2.319 2.319 2.319 2.319,2.319,REGULAR
+163143,ICSD (local cache),As1 Fe1 Na1,129,P4/nmm,Fe,As,3,2,2D layer,2,108.27 108.27 110.07 110.07 110.07 110.07,108.27 x2; 110.07 x4,108.27,110.07,1.8,2.437 2.437 2.437 2.437,2.437,REGULAR
+163144,ICSD (local cache),As1 Fe1 Na1,129,P4/nmm,Fe,As,3,2,2D layer,2,108.74 108.74 109.84 109.84 109.84 109.84,109.47 x6,108.74,109.84,1.1,2.428 2.428 2.428 2.428,2.428,REGULAR
+182276,ICSD (local cache),As2 Ca1 Fe2,139,I4/mmm,Fe,As,3,2,2D layer,4,108.80 108.80 109.81 109.81 109.81 109.81,109.47 x6,108.8,109.81,1.01,2.401 2.401 2.401 2.401,2.401,REGULAR
+192309,ICSD (local cache),As2 Ca1 Fe2,139,I4/mmm,Fe,As,3,2,2D layer,4,108.96 108.96 108.96 108.96 110.50 110.50,108.96 x4; 110.50 x2,108.96,110.5,1.54,2.372 2.372 2.372 2.372,2.372,REGULAR
+192310,ICSD (local cache),As2 Ca1 Fe2,139,I4/mmm,Fe,As,3,2,2D layer,4,109.12 109.12 109.12 109.12 110.17 110.17,109.47 x6,109.12,110.17,1.05,2.373 2.373 2.373 2.373,2.373,REGULAR
+192311,ICSD (local cache),As2 Ca1 Fe2,139,I4/mmm,Fe,As,3,2,2D layer,4,109.46 109.46 109.47 109.47 109.47 109.47,109.47 x6,109.46,109.47,0.01,2.383 2.383 2.383 2.383,2.383,REGULAR
+74877,ICSD (local cache),As2 Cs1 Fe2,139,I4/mmm,Fe,As,3,2,2D layer,4,109.42 109.42 109.42 109.42 109.58 109.58,109.47 x6,109.42,109.58,0.16,2.383 2.383 2.383 2.383,2.383,REGULAR
+247248,ICSD (local cache),Fe1 Li1 P1,129,P4/nmm,Fe,P,3,2,2D layer,2,108.59 108.59 109.91 109.91 109.91 109.91,109.47 x6,108.59,109.91,1.32,2.273 2.273 2.273 2.273,2.273,REGULAR
+42977,ICSD (local cache),Fe1 S1,129,P4/nmm,Fe,S,3,2,2D layer,2,108.62 108.62 108.62 108.62 111.19 111.19,108.62 x4; 111.19 x2,108.62,111.19,2.58,2.230 2.230 2.230 2.230,2.23,REGULAR
+43391,ICSD (local cache),Fe1 S1,129,P4/nmm,Fe,S,3,2,2D layer,2,108.66 108.66 108.66 108.66 111.11 111.11,108.66 x4; 111.11 x2,108.66,111.11,2.45,2.231 2.231 2.231 2.231,2.231,REGULAR
+81087,ICSD (local cache),Fe1 S1,129,P4/nmm,Fe,S,3,2,2D layer,2,109.03 109.03 109.69 109.69 109.69 109.69,109.47 x6,109.03,109.69,0.67,2.256 2.256 2.256 2.256,2.256,REGULAR
+182250,ICSD (local cache),Fe1 S1,129,P4/nmm,Fe,S,3,2,2D layer,2,108.08 108.08 108.08 108.08 112.30 112.30,108.08 x4; 112.30 x2,108.08,112.3,4.22,2.259 2.259 2.259 2.259,2.259,REGULAR
+238590,ICSD (local cache),Fe1 S1,129,P4/nmm,Fe,S,3,2,2D layer,2,108.81 108.81 108.81 108.81 110.81 110.81,108.81 x4; 110.81 x2,108.81,110.81,2.0,2.235 2.235 2.235 2.235,2.235,REGULAR
+633302,ICSD (local cache),Fe1 S1,129,P4/nmm,Fe,S,3,2,2D layer,2,108.62 108.62 108.62 108.62 111.19 111.19,108.62 x4; 111.19 x2,108.62,111.19,2.57,2.229 2.229 2.229 2.229,2.229,REGULAR
+191661,ICSD (local cache),As1 Co1 Fe1 Ti1,216,F-43m,Fe,As,3,3,3D network,4,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.524 2.524 2.524 2.524,2.524,REGULAR
+191667,ICSD (local cache),As1 Co1 Fe1 V1,216,F-43m,Fe,As,3,3,3D network,4,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.490 2.490 2.490 2.490,2.49,REGULAR
+186059,ICSD (local cache),As1 Fe2 Ti1,225,Fm-3m,Fe,As,3,3,3D network,8,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.485 2.485 2.485 2.485,2.485,REGULAR
+675102,ICSD (local cache),Fe2 P1 Zr1,225,Fm-3m,Fe,P,3,3,3D network,8,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.555 2.555 2.555 2.555,2.555,REGULAR
+COD-1008338,COD,,,,Fe,S,3,1,1D chain/ladder,4,105.70 105.70 110.26 110.26 110.28 114.69,105.70 x2; 110.27 x3; 114.69 x1,105.7,114.69,8.99,2.230 2.230 2.237 2.237,2.234,OTHER
+COD-1527523,COD,,,,Fe,S,3,1,1D chain/ladder,8,107.63 108.15 108.15 108.90 108.90 114.89,108.35 x5; 114.89 x1,107.63,114.89,7.25,2.269 2.269 2.285 2.285,2.277,OTHER
+290594,ICSD (local cache),Ba1 Fe2 Se3,63,Cmcm,Fe,Se,3,1,1D chain/ladder,8,105.83 105.83 110.67 110.67 111.15 112.78,105.83 x2; 110.83 x3; 112.78 x1,105.83,112.78,6.94,2.269 2.269 2.395 2.395,2.332,OTHER
+290596,ICSD (local cache),Ba1 Fe2 Se3,63,Cmcm,Fe,Se,3,1,1D chain/ladder,8,105.22 105.22 111.00 111.00 111.42 113.10,105.22 x2; 111.14 x3; 113.10 x1,105.22,113.1,7.88,2.422 2.422 2.436 2.436,2.429,OTHER
+25697,ICSD (local cache),Cs1 Fe1 S2,71,Immm,Fe,S,3,1,1D chain/ladder,4,104.31 105.97 111.67 111.67 111.67 111.67,104.31 x1; 105.97 x1; 111.67 x4,104.31,111.67,7.36,2.179 2.179 2.279 2.279,2.229,OTHER
+53234,ICSD (local cache),Cs1 Fe1 S2,71,Immm,Fe,S,3,1,1D chain/ladder,4,104.40 106.73 111.45 111.45 111.45 111.45,104.40 x1; 106.73 x1; 111.45 x4,104.4,111.45,7.05,2.220 2.220 2.262 2.262,2.241,OTHER
+201112,ICSD (local cache),Cs1 Fe1 S2,71,Immm,Fe,S,3,1,1D chain/ladder,4,104.90 105.51 111.64 111.64 111.64 111.64,105.21 x2; 111.64 x4,104.9,111.64,6.74,2.226 2.226 2.236 2.236,2.231,OTHER
+99504,ICSD (local cache),Cs1 Fe2 S3,63,Cmcm,Fe,S,3,1,1D chain/ladder,8,105.92 105.92 109.65 111.13 111.13 113.15,105.92 x2; 110.63 x3; 113.15 x1,105.92,113.15,7.24,2.212 2.212 2.343 2.343,2.277,OTHER
+81549,ICSD (local cache),Cs1 Fe2 Se3,63,Cmcm,Fe,Se,3,1,1D chain/ladder,8,107.34 107.34 108.99 108.99 111.09 113.13,107.34 x2; 108.99 x2; 111.09 x1; 113.13 x1,107.34,113.13,5.78,2.345 2.345 2.446 2.446,2.396,OTHER
+633207,ICSD (local cache),Fe1 Rb1 S2,71,Immm,Fe,S,3,1,1D chain/ladder,4,103.46 104.82 112.20 112.20 112.20 112.20,104.14 x2; 112.20 x4,103.46,112.2,8.74,2.163 2.163 2.271 2.271,2.217,OTHER
+99507,ICSD (local cache),Fe2 K1 S3,63,Cmcm,Fe,S,3,1,1D chain/ladder,8,106.28 106.28 107.44 111.39 111.39 113.95,106.66 x3; 111.39 x2; 113.95 x1,106.28,113.95,7.67,2.211 2.211 2.310 2.310,2.26,OTHER
+632396,ICSD (local cache),Fe2 K1 S3,63,Cmcm,Fe,S,3,1,1D chain/ladder,8,92.62 98.55 108.39 108.39 125.86 125.86,92.62 x1; 98.55 x1; 108.39 x2; 125.86 x2,92.62,125.86,33.24,2.238 2.238 2.384 2.384,2.311,OTHER
+81547,ICSD (local cache),Fe2 Rb1 Se3,63,Cmcm,Fe,Se,3,1,1D chain/ladder,8,107.45 107.45 108.76 108.76 110.94 113.52,108.10 x4; 110.94 x1; 113.52 x1,107.45,113.52,6.07,2.329 2.329 2.439 2.439,2.384,OTHER
+166049,ICSD (local cache),Fe2 S3 Tl1,63,Cmcm,Fe,S,3,1,1D chain/ladder,8,106.35 106.35 108.76 110.76 110.76 113.82,106.35 x2; 108.76 x1; 110.76 x2; 113.82 x1,106.35,113.82,7.48,2.208 2.208 2.311 2.311,2.26,OTHER
+163497,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,105.64 105.64 105.64 105.64 117.44 117.44,105.64 x4; 117.44 x2,105.64,117.44,11.81,2.364 2.364 2.364 2.364,2.364,OTHER
+163835,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,105.80 105.80 105.80 105.80 117.10 117.10,105.80 x4; 117.10 x2,105.8,117.1,11.3,2.342 2.342 2.342 2.342,2.342,OTHER
+163868,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,107.41 107.41 107.41 107.41 113.68 113.68,107.41 x4; 113.68 x2,107.41,113.68,6.27,2.407 2.407 2.407 2.407,2.407,OTHER
+173432,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,107.47 107.47 107.47 107.47 113.55 113.55,107.47 x4; 113.55 x2,107.47,113.55,6.08,2.412 2.412 2.412 2.412,2.412,OTHER
+180438,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,107.29 107.29 107.29 107.29 113.93 113.93,107.29 x4; 113.93 x2,107.29,113.93,6.64,2.402 2.402 2.402 2.402,2.402,OTHER
+180439,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,107.33 107.33 107.33 107.33 113.85 113.85,107.33 x4; 113.85 x2,107.33,113.85,6.52,2.404 2.404 2.404 2.404,2.404,OTHER
+180440,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,107.41 107.41 107.41 107.41 113.67 113.67,107.41 x4; 113.67 x2,107.41,113.67,6.26,2.408 2.408 2.408 2.408,2.408,OTHER
+184645,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,105.95 105.95 105.95 105.95 116.78 116.78,105.95 x4; 116.78 x2,105.95,116.78,10.83,2.367 2.367 2.367 2.367,2.367,OTHER
+192739,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,107.48 107.48 107.48 107.48 113.53 113.53,107.48 x4; 113.53 x2,107.48,113.53,6.05,2.413 2.413 2.413 2.413,2.413,OTHER
+421998,ICSD (local cache),As1 Fe1 La1 O1,129,P4/nmm,Fe,As,3,2,2D layer,2,107.44 107.44 107.44 107.44 113.62 113.62,107.44 x4; 113.62 x2,107.44,113.62,6.18,2.412 2.412 2.412 2.412,2.412,OTHER
+162250,ICSD (local cache),As1 Fe1 Li1,129,P4/nmm,Fe,As,3,2,2D layer,2,103.11 103.11 112.74 112.74 112.74 112.74,103.11 x2; 112.74 x4,103.11,112.74,9.64,2.421 2.421 2.421 2.421,2.421,OTHER
+163870,ICSD (local cache),As1 Fe1 Li1,129,P4/nmm,Fe,As,3,2,2D layer,2,103.11 103.11 112.74 112.74 112.74 112.74,103.11 x2; 112.74 x4,103.11,112.74,9.64,2.421 2.421 2.421 2.421,2.421,OTHER
+168206,ICSD (local cache),As1 Fe1 Li1,67,Cmme,Fe,As,3,2,2D layer,4,103.95 103.95 111.22 111.22 113.38 113.38,103.95 x2; 111.22 x2; 113.38 x2,103.95,113.38,9.43,2.395 2.395 2.395 2.395,2.395,OTHER
+169175,ICSD (local cache),As1 Fe1 Li1,129,P4/nmm,Fe,As,3,2,2D layer,2,103.24 103.24 112.67 112.67 112.67 112.67,103.24 x2; 112.67 x4,103.24,112.67,9.43,2.403 2.403 2.403 2.403,2.403,OTHER
+610480,ICSD (local cache),As1 Fe1 Li1,129,P4/nmm,Fe,As,3,2,2D layer,2,102.19 102.19 113.23 113.23 113.23 113.23,102.19 x2; 113.23 x4,102.19,113.23,11.04,2.426 2.426 2.426 2.426,2.426,OTHER
+182278,ICSD (local cache),As2 Ca1 Fe2,139,I4/mmm,Fe,As,3,2,2D layer,4,106.11 106.11 106.11 106.11 116.43 116.43,106.11 x4; 116.43 x2,106.11,116.43,10.32,2.317 2.317 2.317 2.317,2.317,OTHER
+182279,ICSD (local cache),As2 Ca1 Fe2,139,I4/mmm,Fe,As,3,2,2D layer,4,106.11 106.11 106.11 106.11 116.43 116.43,106.11 x4; 116.43 x2,106.11,116.43,10.32,2.202 2.202 2.202 2.202,2.202,OTHER
+180528,ICSD (local cache),As2 Fe2 O6 Sc2 Sr4,129,P4/nmm,Fe,As,3,2,2D layer,2,107.92 107.92 107.92 107.92 112.62 112.62,107.92 x4; 112.62 x2,107.92,112.62,4.69,2.434 2.434 2.434 2.434,2.434,OTHER
+42327,ICSD (local cache),Fe1 Li1 P1,129,P4/nmm,Fe,P,3,2,2D layer,2,103.86 103.86 112.35 112.35 112.35 112.35,103.86 x2; 112.35 x4,103.86,112.35,8.49,2.344 2.344 2.344 2.344,2.344,OTHER
+247089,ICSD (local cache),Fe1 Li1 P1,129,P4/nmm,Fe,P,3,2,2D layer,2,103.85 103.85 112.35 112.35 112.35 112.35,103.85 x2; 112.35 x4,103.85,112.35,8.5,2.350 2.350 2.350 2.350,2.35,OTHER
+632441,ICSD (local cache),Fe1 Li1 P1,129,P4/nmm,Fe,P,3,2,2D layer,2,103.86 103.86 112.35 112.35 112.35 112.35,103.86 x2; 112.35 x4,103.86,112.35,8.49,2.344 2.344 2.344 2.344,2.344,OTHER
+182249,ICSD (local cache),Fe1 S1,129,P4/nmm,Fe,S,3,2,2D layer,2,107.70 107.70 107.70 107.70 113.07 113.07,107.70 x4; 113.07 x2,107.7,113.07,5.37,2.191 2.191 2.191 2.191,2.191,OTHER
+182251,ICSD (local cache),Fe1 S1,129,P4/nmm,Fe,S,3,2,2D layer,2,107.89 107.89 107.89 107.89 112.69 112.69,107.89 x4; 112.69 x2,107.89,112.69,4.8,2.379 2.379 2.379 2.379,2.379,OTHER
+26889,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,105.38 105.38 111.56 111.56 111.56 111.56,105.38 x2; 111.56 x4,105.38,111.56,6.18,2.367 2.367 2.367 2.367,2.367,OTHER
+162901,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,104.72 104.72 111.90 111.90 111.90 111.90,104.72 x2; 111.90 x4,104.72,111.9,7.19,2.261 2.261 2.261 2.261,2.261,OTHER
+163559,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,104.26 104.26 112.14 112.14 112.14 112.14,104.26 x2; 112.14 x4,104.26,112.14,7.88,2.385 2.385 2.385 2.385,2.385,OTHER
+163560,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,104.09 104.09 112.23 112.23 112.23 112.23,104.09 x2; 112.23 x4,104.09,112.23,8.14,2.385 2.385 2.385 2.385,2.385,OTHER
+163561,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,103.98 103.98 112.28 112.28 112.28 112.28,103.98 x2; 112.28 x4,103.98,112.28,8.31,2.383 2.383 2.383 2.383,2.383,OTHER
+163562,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,103.88 103.88 112.34 112.34 112.34 112.34,103.88 x2; 112.34 x4,103.88,112.34,8.46,2.381 2.381 2.381 2.381,2.381,OTHER
+165958,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,104.11 104.11 112.22 112.22 112.22 112.22,104.11 x2; 112.22 x4,104.11,112.22,8.1,2.390 2.390 2.390 2.390,2.39,OTHER
+165959,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,104.17 104.17 112.19 112.19 112.19 112.19,104.17 x2; 112.19 x4,104.17,112.19,8.02,2.390 2.390 2.390 2.390,2.39,OTHER
+165960,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,104.18 104.18 112.18 112.18 112.18 112.18,104.18 x2; 112.18 x4,104.18,112.18,8.0,2.391 2.391 2.391 2.391,2.391,OTHER
+166441,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,103.22 103.22 112.47 112.47 112.90 112.90,103.22 x2; 112.69 x4,103.22,112.9,9.69,2.300 2.300 2.300 2.300,2.3,OTHER
+169283,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,106.22 106.22 110.92 110.92 111.32 111.32,106.22 x2; 111.12 x4,106.22,111.32,5.09,2.334 2.334 2.334 2.334,2.334,OTHER
+169285,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,102.54 102.54 112.71 112.71 113.38 113.38,102.54 x2; 113.05 x4,102.54,113.38,10.85,2.386 2.386 2.386 2.386,2.386,OTHER
+169295,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,2,2D layer,4,102.40 102.40 112.83 112.83 113.40 113.40,102.40 x2; 113.12 x4,102.4,113.4,11.0,2.363 2.363 2.363 2.363,2.363,OTHER
+169970,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,105.42 105.42 111.54 111.54 111.54 111.54,105.42 x2; 111.54 x4,105.42,111.54,6.12,2.298 2.298 2.298 2.298,2.298,OTHER
+182544,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,105.94 105.94 111.26 111.26 111.26 111.26,105.94 x2; 111.26 x4,105.94,111.26,5.32,2.295 2.295 2.295 2.295,2.295,OTHER
+185464,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,104.34 104.34 112.10 112.10 112.10 112.10,104.34 x2; 112.10 x4,104.34,112.1,7.75,2.380 2.380 2.380 2.380,2.38,OTHER
+196297,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,103.92 103.92 112.32 112.32 112.32 112.32,103.92 x2; 112.32 x4,103.92,112.32,8.4,2.394 2.394 2.394 2.394,2.394,OTHER
+196298,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,103.98 103.98 112.29 112.29 112.29 112.29,103.98 x2; 112.29 x4,103.98,112.29,8.31,2.393 2.393 2.393 2.393,2.393,OTHER
+633480,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,70.69 70.69 70.69 70.69 109.80 109.80,70.69 x4; 109.80 x2,70.69,109.8,39.11,2.307 2.307 2.307 2.307,2.307,OTHER
+977901,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,104.06 104.06 112.24 112.24 112.24 112.24,104.06 x2; 112.24 x4,104.06,112.24,8.19,2.428 2.428 2.428 2.428,2.428,OTHER
+977903,ICSD (local cache),Fe1 Se1,129,P4/nmm,Fe,Se,3,2,2D layer,2,104.00 104.00 112.27 112.27 112.27 112.27,104.00 x2; 112.27 x4,104.0,112.27,8.27,2.393 2.393 2.393 2.393,2.393,OTHER
+186572,ICSD (local cache),Fe2 K1 S2,139,I4/mmm,Fe,S,3,2,2D layer,4,106.89 106.89 106.89 106.89 114.77 114.77,106.89 x4; 114.77 x2,106.89,114.77,7.87,2.209 2.209 2.209 2.209,2.209,OTHER
+607619,ICSD (local cache),Al2 Fe1 S4,160,R3m,Fe,S,3,-1,EXCLUDED,3,,,,,,,,not-tetrahedral: 5th neighbour at 2.45 A (coordination > 4)
+30413,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.46 A (coordination > 4)
+34036,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.45 A (coordination > 4)
+42447,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.45 A (coordination > 4)
+42448,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.44 A (coordination > 4)
+42449,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.42 A (coordination > 4)
+42450,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.43 A (coordination > 4)
+42451,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.43 A (coordination > 4)
+48031,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.45 A (coordination > 4)
+48033,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.44 A (coordination > 4)
+48034,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.42 A (coordination > 4)
+48035,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.42 A (coordination > 4)
+48036,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.41 A (coordination > 4)
+610452,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.45 A (coordination > 4)
+610474,ICSD (local cache),As1 Fe1,62,Pnma,Fe,As,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.45 A (coordination > 4)
+187133,ICSD (local cache),As1 Fe1 Li1,194,P63/mmc,Fe,As,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.87 A (coordination > 4)
+260895,ICSD (local cache),B1 Fe2 O12 P3,176,P63/m,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.30 A > cutoff 2.98 A (not bonded)
+420638,ICSD (local cache),B1 Fe2 O12 P3,176,P63/m,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.29 A > cutoff 2.98 A (not bonded)
+109429,ICSD (local cache),C2 H12 F6 Fe1 O12 S2,12,C2/m,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+280328,ICSD (local cache),C2 H12 F6 Fe1 O12 S2,12,C2/m,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+194586,ICSD (local cache),C4 H12 Cl4 Fe1 P1,186,P63mc,Fe,P,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 P neighbours
+203234,ICSD (local cache),C4 H12 Fe1 O6 S4,2,P-1,Fe,S,3,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+10452,ICSD (local cache),C4 H8 Fe1 N6 S4,2,P-1,Fe,S,3,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: square-planar / trans (max angle 180.0 deg)
+250699,ICSD (local cache),C8 H12 Fe1 N2 O2 S2,2,P-1,Fe,S,3,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+245667,ICSD (local cache),Cs1 Fe1 O8 S2,147,P-3,Fe,S,3,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.24 A > cutoff 2.96 A (not bonded)
+180389,ICSD (local cache),F1 Fe1 Li1 O4 S1,2,P-1,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.39 A > cutoff 2.96 A (not bonded)
+182944,ICSD (local cache),F1 Fe1 Li1 O4 S1,2,P-1,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.43 A > cutoff 2.96 A (not bonded)
+194597,ICSD (local cache),F1 Fe1 Li1 O4 S1,2,P-1,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.47 A > cutoff 2.96 A (not bonded)
+100706,ICSD (local cache),Fe1 Ga2 S4,164,P-3m1,Fe,S,3,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 5th neighbour at 2.47 A (coordination > 4)
+602041,ICSD (local cache),Fe1 Ga2 S4,164,P-3m1,Fe,S,3,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 5th neighbour at 2.48 A (coordination > 4)
+191281,ICSD (local cache),Fe1 K2 O7 P2,113,P-421m,Fe,P,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.16 A > cutoff 2.98 A (not bonded)
+380402,ICSD (local cache),Fe1 La3 O6 S3 W1,176,P63/m,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.46 A (coordination > 4)
+38209,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.24 A > cutoff 2.98 A (not bonded)
+56291,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+72545,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+92198,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+97764,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.25 A > cutoff 2.98 A (not bonded)
+97766,ICSD (local cache),Fe1 Li1 O4 P1,63,Cmcm,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.39 A > cutoff 2.98 A (not bonded)
+99860,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.30 A > cutoff 2.98 A (not bonded)
+153699,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.30 A > cutoff 2.98 A (not bonded)
+154117,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+155580,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+155635,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.26 A > cutoff 2.98 A (not bonded)
+159107,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: fewer than 4 P neighbours
+160776,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+161479,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+162282,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.26 A > cutoff 2.98 A (not bonded)
+166815,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.28 A > cutoff 2.98 A (not bonded)
+183874,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.26 A > cutoff 2.98 A (not bonded)
+184652,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.31 A > cutoff 2.98 A (not bonded)
+184862,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.25 A > cutoff 2.98 A (not bonded)
+184863,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.25 A > cutoff 2.98 A (not bonded)
+185308,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+189057,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.28 A > cutoff 2.98 A (not bonded)
+190771,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.28 A > cutoff 2.98 A (not bonded)
+190772,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+193797,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+193799,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+193800,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+194331,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+200155,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+241942,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.29 A > cutoff 2.98 A (not bonded)
+246855,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+246857,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.26 A > cutoff 2.98 A (not bonded)
+260569,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.25 A > cutoff 2.98 A (not bonded)
+260570,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.26 A > cutoff 2.98 A (not bonded)
+260571,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.26 A > cutoff 2.98 A (not bonded)
+260572,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.24 A > cutoff 2.98 A (not bonded)
+290334,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+290335,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.30 A > cutoff 2.98 A (not bonded)
+290336,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.27 A > cutoff 2.98 A (not bonded)
+290339,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.26 A > cutoff 2.98 A (not bonded)
+290718,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.29 A > cutoff 2.98 A (not bonded)
+290719,ICSD (local cache),Fe1 Li1 O4 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.30 A > cutoff 2.98 A (not bonded)
+187134,ICSD (local cache),Fe1 Li1 P1,63,Cmcm,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.53 A (coordination > 4)
+15057,ICSD (local cache),Fe1 P1,33,Pna21,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+43248,ICSD (local cache),Fe1 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.35 A (coordination > 4)
+43400,ICSD (local cache),Fe1 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.35 A (coordination > 4)
+62607,ICSD (local cache),Fe1 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.35 A (coordination > 4)
+633046,ICSD (local cache),Fe1 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.35 A (coordination > 4)
+633050,ICSD (local cache),Fe1 P1,62,Pnma,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.35 A (coordination > 4)
+26756,ICSD (local cache),Fe1 S2,58,Pnnm,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.25 A (coordination > 4)
+42415,ICSD (local cache),Fe1 S2,58,Pnnm,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.25 A (coordination > 4)
+42416,ICSD (local cache),Fe1 S2,58,Pnnm,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.25 A (coordination > 4)
+42726,ICSD (local cache),Fe1 S2,34,Pnn2,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.28 A (coordination > 4)
+109374,ICSD (local cache),Fe1 S2,58,Pnnm,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.25 A (coordination > 4)
+633255,ICSD (local cache),Fe1 S2,58,Pnnm,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.26 A (coordination > 4)
+633275,ICSD (local cache),Fe1 S2,58,Pnnm,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.25 A (coordination > 4)
+633304,ICSD (local cache),Fe1 S2,58,Pnnm,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.26 A (coordination > 4)
+29308,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.56 A (coordination > 4)
+53541,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.74 A (coordination > 4)
+53542,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.57 A (coordination > 4)
+53543,ICSD (local cache),Fe1 Se1,123,P4/mmm,Fe,Se,3,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.16 A > cutoff 3.13 A (not bonded)
+166442,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.54 A (coordination > 4)
+166443,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.47 A (coordination > 4)
+166444,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.41 A (coordination > 4)
+169252,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.57 A (coordination > 4)
+169254,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.55 A (coordination > 4)
+169256,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.54 A (coordination > 4)
+169258,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.53 A (coordination > 4)
+169260,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.52 A (coordination > 4)
+169262,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.51 A (coordination > 4)
+169264,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.49 A (coordination > 4)
+169266,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.47 A (coordination > 4)
+169268,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.45 A (coordination > 4)
+169270,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.44 A (coordination > 4)
+169272,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.41 A (coordination > 4)
+169284,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.54 A (coordination > 4)
+169286,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.52 A (coordination > 4)
+169288,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.52 A (coordination > 4)
+169290,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.51 A (coordination > 4)
+169292,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.50 A (coordination > 4)
+169294,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.50 A (coordination > 4)
+169296,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.49 A (coordination > 4)
+169298,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.48 A (coordination > 4)
+169300,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.46 A (coordination > 4)
+169302,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.46 A (coordination > 4)
+169307,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.44 A (coordination > 4)
+182545,ICSD (local cache),Fe1 Se1,67,Cmme,Fe,Se,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 4th neighbour at 3.24 A > cutoff 3.13 A (not bonded)
+290407,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.55 A (coordination > 4)
+290410,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.48 A (coordination > 4)
+633467,ICSD (local cache),Fe1 Se1,123,P4/mmm,Fe,Se,3,-1,EXCLUDED,1,,,,,,,,not-tetrahedral: 4th neighbour at 3.16 A > cutoff 3.13 A (not bonded)
+633482,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.57 A (coordination > 4)
+633490,ICSD (local cache),Fe1 Se1,194,P63/mmc,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.56 A (coordination > 4)
+25680,ICSD (local cache),Fe1 Se2,58,Pnnm,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+42041,ICSD (local cache),Fe1 Se2,58,Pnnm,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+42115,ICSD (local cache),Fe1 Se2,58,Pnnm,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+44751,ICSD (local cache),Fe1 Se2,58,Pnnm,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.39 A (coordination > 4)
+633469,ICSD (local cache),Fe1 Se2,58,Pnnm,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.39 A (coordination > 4)
+633479,ICSD (local cache),Fe1 Se2,58,Pnnm,Fe,Se,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+80554,ICSD (local cache),Fe2 O5 P1,141,I41/amd,Fe,P,3,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 4th neighbour at 3.36 A > cutoff 2.98 A (not bonded)
+80555,ICSD (local cache),Fe2 O5 P1,141,I41/amd,Fe,P,3,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 4th neighbour at 3.38 A > cutoff 2.98 A (not bonded)
+108812,ICSD (local cache),Fe2 O5 P1,141,I41/amd,Fe,P,3,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 4th neighbour at 3.32 A > cutoff 2.98 A (not bonded)
+108813,ICSD (local cache),Fe2 O5 P1,141,I41/amd,Fe,P,3,-1,EXCLUDED,8,,,,,,,,not-tetrahedral: 4th neighbour at 3.37 A > cutoff 2.98 A (not bonded)
+42537,ICSD (local cache),Fe3 S4,166,R-3m,Fe,S,3,-1,EXCLUDED,9,,,,,,,,not-tetrahedral: 5th neighbour at 2.43 A (coordination > 4)
+172377,ICSD (local cache),H12 Cs1 Fe1 O10 P1,216,F-43m,Fe,P,3,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: fewer than 4 P neighbours
+169110,ICSD (local cache),H4 F1 Fe1 Na1 O6 S1,11,P21/m,Fe,S,3,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 S neighbours
+248365,ICSD (local cache),As1 Ba1 F1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,108.85 108.85 108.85 108.85 110.72 110.72,108.85 x4; 110.72 x2,108.85,110.72,1.87,2.591 2.591 2.591 2.591,2.591,REGULAR
+40573,ICSD (local cache),As1 Cs1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,108.65 108.65 108.65 108.65 111.12 111.12,108.65 x4; 111.12 x2,108.65,111.12,2.47,2.706 2.706 2.706 2.706,2.706,REGULAR
+189940,ICSD (local cache),As1 F1 Mn1 Sr1,129,P4/nmm,Mn,As,4,2,2D layer,2,108.01 108.01 110.21 110.21 110.21 110.21,108.01 x2; 110.21 x4,108.01,110.21,2.2,2.558 2.558 2.558 2.558,2.558,REGULAR
+60745,ICSD (local cache),As1 K1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,108.03 108.03 108.03 108.03 112.39 112.39,108.03 x4; 112.39 x2,108.03,112.39,4.36,2.657 2.657 2.657 2.657,2.657,REGULAR
+26459,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.26 109.26 109.26 109.26 109.90 109.90,109.47 x6,109.26,109.9,0.64,2.604 2.604 2.604 2.604,2.604,REGULAR
+60739,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.00 109.00 109.00 109.00 110.43 110.43,109.47 x6,109.0,110.43,1.43,2.589 2.589 2.589 2.589,2.589,REGULAR
+60740,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.01 109.01 109.01 109.01 110.40 110.40,109.47 x6,109.01,110.4,1.4,2.598 2.598 2.598 2.598,2.598,REGULAR
+60741,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.00 109.00 109.00 109.00 110.42 110.42,109.47 x6,109.0,110.42,1.42,2.602 2.602 2.602 2.602,2.602,REGULAR
+60742,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,108.89 108.89 108.89 108.89 110.65 110.65,108.89 x4; 110.65 x2,108.89,110.65,1.76,2.602 2.602 2.602 2.602,2.602,REGULAR
+192817,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.30 109.30 109.30 109.30 109.82 109.82,109.47 x6,109.3,109.82,0.53,2.600 2.600 2.600 2.600,2.6,REGULAR
+192818,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.29 109.29 109.29 109.29 109.84 109.84,109.47 x6,109.29,109.84,0.55,2.604 2.604 2.604 2.604,2.604,REGULAR
+192819,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.09 109.09 109.09 109.09 110.24 110.24,109.47 x6,109.09,110.24,1.15,2.598 2.598 2.598 2.598,2.598,REGULAR
+192820,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.01 109.01 109.01 109.01 110.40 110.40,109.47 x6,109.01,110.4,1.4,2.598 2.598 2.598 2.598,2.598,REGULAR
+192821,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.39 109.39 109.51 109.51 109.51 109.51,109.47 x6,109.39,109.51,0.12,2.616 2.616 2.616 2.616,2.616,REGULAR
+192822,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.04 109.04 109.04 109.04 110.33 110.33,109.47 x6,109.04,110.33,1.29,2.603 2.603 2.603 2.603,2.603,REGULAR
+192823,ICSD (local cache),As1 Li1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.00 109.00 109.00 109.00 110.42 110.42,109.47 x6,109.0,110.42,1.42,2.602 2.602 2.602 2.602,2.602,REGULAR
+26461,ICSD (local cache),As1 Mn1 Na1,129,P4/nmm,Mn,As,4,2,2D layer,2,108.74 108.74 109.84 109.84 109.84 109.84,109.47 x6,108.74,109.84,1.11,2.587 2.587 2.587 2.587,2.587,REGULAR
+60730,ICSD (local cache),As1 Mn1 Na1,129,P4/nmm,Mn,As,4,2,2D layer,2,108.10 108.10 110.16 110.16 110.16 110.16,108.10 x2; 110.16 x4,108.1,110.16,2.06,2.594 2.594 2.594 2.594,2.594,REGULAR
+60731,ICSD (local cache),As1 Mn1 Na1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.19 109.19 109.61 109.61 109.61 109.61,109.47 x6,109.19,109.61,0.43,2.588 2.588 2.588 2.588,2.588,REGULAR
+60732,ICSD (local cache),As1 Mn1 Na1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.30 109.30 109.56 109.56 109.56 109.56,109.47 x6,109.3,109.56,0.26,2.604 2.604 2.604 2.604,2.604,REGULAR
+610878,ICSD (local cache),As1 Mn1 Na1,129,P4/nmm,Mn,As,4,2,2D layer,2,108.04 108.04 110.19 110.19 110.19 110.19,108.04 x2; 110.19 x4,108.04,110.19,2.16,2.603 2.603 2.603 2.603,2.603,REGULAR
+89596,ICSD (local cache),As1 Mn1 Rb1,129,P4/nmm,Mn,As,4,2,2D layer,2,108.84 108.84 108.84 108.84 110.74 110.74,108.84 x4; 110.74 x2,108.84,110.74,1.91,2.674 2.674 2.674 2.674,2.674,REGULAR
+89597,ICSD (local cache),As1 Mn1 Rb1,129,P4/nmm,Mn,As,4,2,2D layer,2,109.14 109.14 109.64 109.64 109.64 109.64,109.47 x6,109.14,109.64,0.5,2.716 2.716 2.716 2.716,2.716,REGULAR
+41792,ICSD (local cache),As2 Ca1 Mn2,164,P-3m1,Mn,As,4,2,2D layer,2,109.14 109.15 109.15 109.79 109.79 109.81,109.47 x6,109.14,109.81,0.67,2.585 2.585 2.586 2.587,2.586,REGULAR
+609906,ICSD (local cache),As2 Ca1 Mn2,164,P-3m1,Mn,As,4,2,2D layer,2,109.07 109.07 109.07 109.86 109.86 109.88,109.47 x6,109.07,109.88,0.82,2.587 2.589 2.589 2.590,2.589,REGULAR
+49017,ICSD (local cache),Ca1 Mn2 P2,164,P-3m1,Mn,P,4,2,2D layer,2,108.30 108.30 108.30 110.61 110.61 110.63,108.30 x3; 110.62 x3,108.3,110.63,2.34,2.489 2.491 2.491 2.491,2.49,REGULAR
+189939,ICSD (local cache),F1 Mn1 P1 Sr1,129,P4/nmm,Mn,P,4,2,2D layer,2,109.04 109.04 109.04 109.04 110.33 110.33,109.47 x6,109.04,110.33,1.29,2.465 2.465 2.465 2.465,2.465,REGULAR
+41882,ICSD (local cache),K1 Mn1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,108.22 108.22 108.22 108.22 112.01 112.01,108.22 x4; 112.01 x2,108.22,112.01,3.79,2.578 2.578 2.578 2.578,2.578,REGULAR
+26458,ICSD (local cache),Li1 Mn1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,108.47 108.47 108.47 108.47 111.50 111.50,108.47 x4; 111.50 x2,108.47,111.5,3.03,2.500 2.500 2.500 2.500,2.5,REGULAR
+26460,ICSD (local cache),Mn1 Na1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,108.85 108.85 108.85 108.85 110.73 110.73,108.85 x4; 110.73 x2,108.85,110.73,1.88,2.483 2.483 2.483 2.483,2.483,REGULAR
+60726,ICSD (local cache),Mn1 Na1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,109.11 109.11 109.11 109.11 110.20 110.20,109.47 x6,109.11,110.2,1.09,2.481 2.481 2.481 2.481,2.481,REGULAR
+60727,ICSD (local cache),Mn1 Na1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,109.09 109.09 109.09 109.09 110.23 110.23,109.47 x6,109.09,110.23,1.14,2.483 2.483 2.483 2.483,2.483,REGULAR
+60728,ICSD (local cache),Mn1 Na1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,108.94 108.94 108.94 108.94 110.54 110.54,108.94 x4; 110.54 x2,108.94,110.54,1.61,2.486 2.486 2.486 2.486,2.486,REGULAR
+60729,ICSD (local cache),Mn1 Na1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,108.98 108.98 108.98 108.98 110.45 110.45,109.47 x6,108.98,110.45,1.47,2.505 2.505 2.505 2.505,2.505,REGULAR
+601595,ICSD (local cache),Mn1 Na1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,109.31 109.31 109.31 109.31 109.80 109.80,109.47 x6,109.31,109.8,0.49,2.531 2.531 2.531 2.531,2.531,REGULAR
+89595,ICSD (local cache),Mn1 P1 Rb1,129,P4/nmm,Mn,P,4,2,2D layer,2,108.36 108.36 108.36 108.36 111.72 111.72,108.36 x4; 111.72 x2,108.36,111.72,3.36,2.588 2.588 2.588 2.588,2.588,REGULAR
+49019,ICSD (local cache),Mn2 P2 Sr1,164,P-3m1,Mn,P,4,2,2D layer,2,107.68 107.69 107.69 111.19 111.19 111.21,107.69 x3; 111.19 x3,107.68,111.21,3.53,2.476 2.526 2.526 2.526,2.513,REGULAR
+77669,ICSD (local cache),Mn2 P2 Sr1,164,P-3m1,Mn,P,4,2,2D layer,2,109.37 109.37 109.39 109.56 109.57 109.57,109.47 x6,109.37,109.57,0.2,2.514 2.550 2.550 2.551,2.541,REGULAR
+191648,ICSD (local cache),As1 Co1 Mn2,216,F-43m,Mn,As,4,3,3D network,8,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.460 2.460 2.460 2.460,2.46,REGULAR
+192816,ICSD (local cache),As1 Li1 Mn1,216,F-43m,Mn,As,4,3,3D network,4,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.665 2.665 2.665 2.665,2.665,REGULAR
+184925,ICSD (local cache),As1 Mn1,216,F-43m,Mn,As,4,3,3D network,4,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.346 2.346 2.346 2.346,2.346,REGULAR
+191787,ICSD (local cache),As1 Mn1,216,F-43m,Mn,As,4,3,3D network,4,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.443 2.443 2.443 2.443,2.443,REGULAR
+191788,ICSD (local cache),Mn1 P1,216,F-43m,Mn,P,4,3,3D network,4,109.47 109.47 109.47 109.47 109.47 109.47,109.47 x6,109.47,109.47,0.0,2.298 2.298 2.298 2.298,2.298,REGULAR
+40572,ICSD (local cache),As1 Cs1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,107.99 107.99 107.99 107.99 112.47 112.47,107.99 x4; 112.47 x2,107.99,112.47,4.48,2.657 2.657 2.657 2.657,2.657,OTHER
+610293,ICSD (local cache),As1 Cs1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,107.75 107.75 107.75 107.75 112.96 112.96,107.75 x4; 112.96 x2,107.75,112.96,5.21,2.677 2.677 2.677 2.677,2.677,OTHER
+41883,ICSD (local cache),As1 K1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,107.94 107.94 107.94 107.94 112.58 112.58,107.94 x4; 112.58 x2,107.94,112.58,4.64,2.639 2.639 2.639 2.639,2.639,OTHER
+60743,ICSD (local cache),As1 K1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,107.95 107.95 107.95 107.95 112.56 112.56,107.95 x4; 112.56 x2,107.95,112.56,4.6,2.634 2.634 2.634 2.634,2.634,OTHER
+60744,ICSD (local cache),As1 K1 Mn1,129,P4/nmm,Mn,As,4,2,2D layer,2,107.80 107.80 107.80 107.80 112.87 112.87,107.80 x4; 112.87 x2,107.8,112.87,5.07,2.640 2.640 2.640 2.640,2.64,OTHER
+610910,ICSD (local cache),As1 Mn1 Rb1,129,P4/nmm,Mn,As,4,2,2D layer,2,105.67 105.67 105.67 105.67 117.38 117.38,105.67 x4; 117.38 x2,105.67,117.38,11.72,2.605 2.605 2.605 2.605,2.605,OTHER
+89598,ICSD (local cache),Cs1 Mn1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,105.83 105.83 105.83 105.83 117.03 117.03,105.83 x4; 117.03 x2,105.83,117.03,11.2,2.509 2.509 2.509 2.509,2.509,OTHER
+89599,ICSD (local cache),Cs1 Mn1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,107.25 107.25 107.25 107.25 114.01 114.01,107.25 x4; 114.01 x2,107.25,114.01,6.76,2.566 2.566 2.566 2.566,2.566,OTHER
+627022,ICSD (local cache),Cs1 Mn1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,106.51 106.51 106.51 106.51 115.57 115.57,106.51 x4; 115.57 x2,106.51,115.57,9.06,2.559 2.559 2.559 2.559,2.559,OTHER
+89592,ICSD (local cache),K1 Mn1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,107.46 107.46 107.46 107.46 113.58 113.58,107.46 x4; 113.58 x2,107.46,113.58,6.12,2.531 2.531 2.531 2.531,2.531,OTHER
+89593,ICSD (local cache),K1 Mn1 P1,129,P4/nmm,Mn,P,4,2,2D layer,2,106.85 106.85 106.85 106.85 114.84 114.84,106.85 x4; 114.84 x2,106.85,114.84,7.99,2.522 2.522 2.522 2.522,2.522,OTHER
+89594,ICSD (local cache),Mn1 P1 Rb1,129,P4/nmm,Mn,P,4,2,2D layer,2,107.58 107.58 107.58 107.58 113.32 113.32,107.58 x4; 113.32 x2,107.58,113.32,5.74,2.553 2.553 2.553 2.553,2.553,OTHER
+643229,ICSD (local cache),Mn1 P1 Rb1,129,P4/nmm,Mn,P,4,2,2D layer,2,107.52 107.52 107.52 107.52 113.45 113.45,107.52 x4; 113.45 x2,107.52,113.45,5.93,2.569 2.569 2.569 2.569,2.569,OTHER
+77670,ICSD (local cache),Mn2 P2 Sr1,164,P-3m1,Mn,P,4,2,2D layer,2,104.25 104.25 104.27 114.28 114.29 114.29,104.25 x3; 114.29 x3,104.25,114.29,10.04,2.509 2.632 2.632 2.633,2.601,OTHER
+423230,ICSD (local cache),As1 Cu1 Mn1,129,P4/nmm,Mn,As,4,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.73 A (coordination > 4)
+93237,ICSD (local cache),As1 Fe1 Mn1,129,P4/nmm,Mn,As,4,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.68 A (coordination > 4)
+93238,ICSD (local cache),As1 Fe1 Mn1,129,P4/nmm,Mn,As,4,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.69 A (coordination > 4)
+610492,ICSD (local cache),As1 Fe1 Mn1,129,P4/nmm,Mn,As,4,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.70 A (coordination > 4)
+9496,ICSD (local cache),As1 Mn1,62,Pnma,Mn,As,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.58 A (coordination > 4)
+16543,ICSD (local cache),As1 Mn1,62,Pnma,Mn,As,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.58 A (coordination > 4)
+41759,ICSD (local cache),As1 Mn1,62,Pnma,Mn,As,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.57 A (coordination > 4)
+250011,ICSD (local cache),As1 Mn1,62,Pnma,Mn,As,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.57 A (coordination > 4)
+610846,ICSD (local cache),As1 Mn1,62,Pnma,Mn,As,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.61 A (coordination > 4)
+107955,ICSD (local cache),As1 Mn1 Pd2,225,Fm-3m,Mn,As,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 3.09 A (coordination > 4)
+44009,ICSD (local cache),As1 Mn1 V1,129,P4/nmm,Mn,As,4,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 5th neighbour at 2.68 A (coordination > 4)
+33267,ICSD (local cache),C8 H4 Mn2 O8 P2,2,P-1,Mn,P,4,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: fewer than 4 P neighbours
+39871,ICSD (local cache),H1 Cs1 Mn1 O10 P3,5,C2,Mn,P,4,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.28 A > cutoff 3.08 A (not bonded)
+51089,ICSD (local cache),H1 Cs1 Mn1 O10 P3,5,C2,Mn,P,4,-1,EXCLUDED,2,,,,,,,,not-tetrahedral: 4th neighbour at 3.26 A > cutoff 3.08 A (not bonded)
+30412,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+43246,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.39 A (coordination > 4)
+43399,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.39 A (coordination > 4)
+60880,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.39 A (coordination > 4)
+61136,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+76089,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+76090,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.37 A (coordination > 4)
+76091,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+643200,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+643213,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+643217,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
+643220,ICSD (local cache),Mn1 P1,62,Pnma,Mn,P,4,-1,EXCLUDED,4,,,,,,,,not-tetrahedral: 5th neighbour at 2.38 A (coordination > 4)
