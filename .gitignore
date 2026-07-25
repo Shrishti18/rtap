@@ -8,3 +8,13 @@ data/priority2_flatbands/records/
 
 # logs
 *.log
+
+# Stage-2 working data: extracted Wannier Hamiltonians (1.1 GB, re-extractable
+# from the JARVIS archives with extract_hr_dat.py + stage2_jids.txt)
+screen/hr/
+screen/cb_*_hr.dat
+screen/*.cif
+
+# python bytecode
+__pycache__/
+*.pyc

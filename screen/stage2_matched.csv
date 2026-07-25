@@ -1,0 +1,110 @@
+icsd,material_id,formula,space_group_number,curated,best,atomic,pass_sites,shells,doublet_kinds,chem_flag,lone_pair,jt_ions,jid,match,jarvis_formula,jarvis_spg,dimensionality,num_wann,hr_bytes,has_wout
+1610,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+1611,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+1612,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+16621,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+23591,23591,H2 Mn1 O2,164,1,0,0,Mn1,3d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-27913,composition+spg,MnH2O2,164,2D,28,4743875,True
+25519,25519,Cl4 O1 W1,79,1,0,0,W1|O1,-|5d,"p{x,y}|{xz,yz}",0,,,JVASP-13822,icsd,WCl4O,79,3D,42,26020556,True
+28624,28624,O3 Pb1 Ti1,123,1,0,0,Pb1|Ti1|O2,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-4957,icsd,TiPbO3,221,3D,38,24766399,True
+28779,28779,F6 K2 Rh1,164,1,0,0,Rh1,4d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-16001,icsd,K2RhF6,164,3D,72,24624543,True
+28780,28780,F6 Rb2 Rh1,164,1,0,0,Rh1,4d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-18176,icsd,Rb2RhF6,164,3D,72,24624543,True
+31152,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+33673,33673,I2 Mn1,164,1,0,0,Mn1,3d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-6031,composition+spg,MnI2,164,2D,28,6782538,True
+42600,42600,Pb1 Pd3,221,1,1,0,Pb1,-,"e_g{z2,x2-y2}",1,Pb,,JVASP-17852,icsd,Pd3Pb,221,3D,44,33204199,True
+44824,44824,Li1 P1 Zn1,216,1,0,0,Li1|Zn1|P1,-|3d,"e_g{z2,x2-y2}",0,,,JVASP-40811,composition+spg,LiZnP,216,3D,28,20817952,True
+51838,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+51839,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+51840,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+51841,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+55054,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|O1|Ti1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+55055,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|O1|Ti1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+55056,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|O1|Ti1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+55057,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|O1|Ti1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+55058,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|O1|Ti1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+55059,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|O1|Ti1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+55060,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|O1|Ti1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+55061,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|O1|Ti1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+59476,59476,In1 Pd3,123,1,0,0,In1|Pd1,-|4d,"p{x,y}|{xz,yz}",0,,,JVASP-14383,icsd,InPd3,221,3D,44,33204199,True
+60188,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O2,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+61168,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+61169,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+77865,77865,Pb1 S1,221,1,0,0,Pb1|S1,-,"e_g{z2,x2-y2}",1,Pb,,JVASP-17941,icsd,PbS,221,3D,14,7147955,True
+83724,83724,Co1 F6 Zr1,225,1,0,0,Co1|Zr1,3d|4d,"e_g{z2,x2-y2}",0,,,JVASP-34485,icsd,ZrCoF6,225,3D,60,22500695,True
+90693,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O2,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+93553,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O2,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+95110,95110,C1 Nb2 S2,166,1,0,0,C1,-,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-4456,icsd,Nb2CS2,166,3D,44,21587591,True
+95112,95110,C1 Nb2 S2,166,1,0,0,C1,-,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-4456,icsd,Nb2CS2,166,3D,44,21587591,True
+95777,95777,F6 Ir1 Li1,148,0,0,1,Ir1|Li1,-|5d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-16408,icsd,LiIrF6,148,3D,50,15625695,True
+95779,95779,F6 Ir1 K2,164,0,0,1,Ir1,5d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-16409,icsd,K2IrF6,164,3D,72,24624543,True
+102052,102052,Cd1 Pt1,123,1,0,0,Cd1|Pt1,4d|5d,"p{x,y}|{xz,yz}",0,,,JVASP-19619,icsd,CdPt,123,3D,48,50805496,True
+102053,102052,Cd1 Pt1,123,1,0,0,Cd1|Pt1,4d|5d,"p{x,y}|{xz,yz}",0,,,JVASP-19619,icsd,CdPt,123,3D,48,50805496,True
+103092,103092,Cu1 Rh2 Sn1,225,1,0,0,Cu1|Sn1,-|3d,"e_g{z2,x2-y2}",1,Sn,,JVASP-18688,icsd,CuSnRh2,225,3D,44,22555642,True
+103473,103473,Fe2 Ga1 V1,225,1,1,0,Ga1|V1,-|3d,"e_g{z2,x2-y2}",0,,,JVASP-18133,icsd,VGaFe2,225,3D,44,22362032,True
+103474,103473,Fe2 Ga1 V1,225,1,1,0,Ga1|V1,-|3d,"e_g{z2,x2-y2}",0,,,JVASP-18133,icsd,VGaFe2,225,3D,44,22362032,True
+103856,103856,Ga1 Ni3,221,1,1,0,Ga1,-,"e_g{z2,x2-y2}",0,,,JVASP-19846,icsd,GaNi3,221,3D,44,33204199,True
+103857,103856,Ga1 Ni3,221,1,1,0,Ga1,-,"e_g{z2,x2-y2}",0,,,JVASP-19846,icsd,GaNi3,221,3D,44,33204199,True
+104332,104332,Hg1 Ni1,123,1,0,0,Hg1|Ni1,3d|5d,"p{x,y}|{xz,yz}",0,,,JVASP-7636,composition+spg,NiHg,123,3D,60,79382296,True
+104337,104337,Hg1 Pt1,123,1,0,0,Hg1|Pt1,5d,"p{x,y}|{xz,yz}",0,,,JVASP-18913,icsd,HgPt,123,3D,60,79382296,True
+104770,104770,Li1 Pd1,187,1,0,0,Li1|Pd1,-|4d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-15040,icsd,LiPd,187,3D,14,5696805,True
+104771,104770,Li1 Pd1,187,1,0,0,Li1|Pd1,-|4d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-15040,icsd,LiPd,187,3D,14,5696805,True
+105353,105353,Ni3 Sn1,221,1,1,0,Sn1,-,"e_g{z2,x2-y2}",1,Sn,,JVASP-16591,icsd,Ni3Sn,221,3D,44,33204199,True
+105689,105689,Pd3 Sn1,221,1,1,0,Sn1,-,"e_g{z2,x2-y2}",1,Sn,,JVASP-18948,icsd,SnPd3,221,3D,44,33204199,True
+105690,105689,Pd3 Sn1,221,1,1,0,Sn1,-,"e_g{z2,x2-y2}",1,Sn,,JVASP-18948,icsd,SnPd3,221,3D,44,33204199,True
+105707,105707,Pd5 Sr1,191,1,1,0,Sr1,-,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-19645,icsd,SrPd5,191,3D,72,74391916,True
+105819,105819,Pt1 Tl1,191,1,0,0,Pt1,5d,"p{x,y}|{xy,x2-y2}|{xz,yz}",1,Tl,,JVASP-13733,icsd,TlPt,191,3D,60,23940735,True
+105996,105995,Ru1 Ta1,123,1,0,0,Ru1|Ta1,4d|5d,"p{x,y}|{xz,yz}",0,,,JVASP-7736,icsd,TaRu,221,3D,24,20998955,True
+107089,107089,In1 Ir1 Li2,216,1,0,0,Li1|Li2|Ir1|In1,-|5d,"e_g{z2,x2-y2}",0,,,JVASP-18860,icsd,Li2InIr,216,3D,24,6769252,True
+108128,108128,C1 Ca1 Pd3,221,1,0,0,C1|Ca1,-,"e_g{z2,x2-y2}",0,,,JVASP-16776,icsd,CaPd3C,221,3D,56,53784199,True
+108294,108294,Co1 Hf1 Sb1,216,1,0,0,Co1|Hf1|Sb1,-|3d|5d,"e_g{z2,x2-y2}",1,Sb,,JVASP-54893,icsd,HfCoSb,216,3D,32,27189952,True
+153406,153406,O3 Pb1 Ti1,221,1,0,0,Pb1|Ti1,-|3d,"e_g{z2,x2-y2}",1,Pb,,JVASP-4957,icsd,TiPbO3,221,3D,38,24766399,True
+161709,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+162043,153406,O3 Pb1 Ti1,221,1,0,0,Pb1|Ti1,-|3d,"e_g{z2,x2-y2}",1,Pb,,JVASP-4957,icsd,TiPbO3,221,3D,38,24766399,True
+162044,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O2,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+162045,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+162046,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+162047,153406,O3 Pb1 Ti1,221,1,0,0,Pb1|Ti1,-|3d,"e_g{z2,x2-y2}",1,Pb,,JVASP-4957,icsd,TiPbO3,221,3D,38,24766399,True
+162048,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+165207,95777,F6 Ir1 Li1,148,0,0,1,Li1|Ir1,-|5d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-16408,icsd,LiIrF6,148,3D,50,15625695,True
+165498,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+183162,183162,C1 Zr1,216,1,0,0,Zr1|C1,-|4d,"e_g{z2,x2-y2}",0,,,JVASP-36428,composition+spg,ZrC,216,3D,20,12343188,True
+183242,183242,Pb1 S1,221,1,0,0,Pb1|S1,-,"e_g{z2,x2-y2}",1,Pb,,JVASP-17941,composition+spg,PbS,221,3D,14,7147955,True
+186727,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|Ti1|O1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+187295,153406,O3 Pb1 Ti1,221,1,0,0,Pb1|Ti1,-|3d,"e_g{z2,x2-y2}",1,Pb,,JVASP-4957,composition+spg,TiPbO3,221,3D,38,24766399,True
+187505,153406,O3 Pb1 Ti1,221,1,0,0,Pb1|Ti1,-|3d,"e_g{z2,x2-y2}",1,Pb,,JVASP-4957,composition+spg,TiPbO3,221,3D,38,24766399,True
+236933,1610,O3 Pb1 Ti1,99,1,0,0,Pb1|O2|Ti1,-|3d,"p{x,y}|{xz,yz}",1,Pb,,JVASP-6244,composition+spg,TiPbO3,99,2D,38,8736875,True
+237032,237032,Nb1 S2,164,1,0,0,Nb1,4d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-5947,composition+spg,NbS2,164,2D,24,6596422,True
+240955,240955,F6 Ir1 Rb2,164,0,0,1,Ir1,5d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-26528,icsd,Rb2IrF6,164,3D,72,24624543,True
+240981,240981,Ba1 F6 Ir1,148,0,0,1,Ir1,5d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-17265,icsd,BaIrF6,148,3D,60,22500695,True
+247193,247193,In1 Pd3,221,1,1,0,In1,-,"e_g{z2,x2-y2}",0,,,JVASP-14383,icsd,InPd3,221,3D,44,33204199,True
+247197,247193,In1 Pd3,221,1,1,0,In1,-,"e_g{z2,x2-y2}",0,,,JVASP-14383,icsd,InPd3,221,3D,44,33204199,True
+250594,237032,Nb1 S2,164,1,0,0,Nb1,4d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-5947,composition+spg,NbS2,164,2D,24,6596422,True
+262090,153406,O3 Pb1 Ti1,221,1,0,0,Pb1|Ti1,-|3d,"e_g{z2,x2-y2}",1,Pb,,JVASP-4957,icsd,TiPbO3,221,3D,38,24766399,True
+419683,419683,C1 Al1 O1 Sc1,166,1,0,0,Sc1|Sc2,3d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-39126,icsd,ScAlCO,166,3D,68,54333252,True
+421491,421491,C2 K2 Pt1,164,1,0,0,Pt1,5d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-38655,icsd,K2PtC2,164,3D,52,38803916,True
+421492,421491,C2 K2 Pt1,164,1,0,0,Pt1,5d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-38655,icsd,K2PtC2,164,3D,52,38803916,True
+426524,25519,Cl4 O1 W1,79,1,0,0,W1|O1,-|5d,"p{x,y}|{xz,yz}",0,,,JVASP-13822,composition+spg,WCl4O,79,3D,42,26020556,True
+609965,609965,As1 Cd1 Li1,216,1,0,0,As1|Cd1|Li1,-|4d,"e_g{z2,x2-y2}",0,,,JVASP-36286,composition+spg,LiCdAs,216,3D,22,14934588,True
+609966,609965,As1 Cd1 Li1,216,1,0,0,Li1|Cd1|As1,-|4d,"e_g{z2,x2-y2}",0,,,JVASP-36286,composition+spg,LiCdAs,216,3D,22,14934588,True
+620293,102052,Cd1 Pt1,123,1,0,0,Cd1|Pt1,4d|5d,"p{x,y}|{xz,yz}",0,,,JVASP-19619,icsd,CdPt,123,3D,48,50805496,True
+620295,102052,Cd1 Pt1,123,1,0,0,Cd1|Pt1,4d|5d,"p{x,y}|{xz,yz}",0,,,JVASP-19619,icsd,CdPt,123,3D,48,50805496,True
+620296,102052,Cd1 Pt1,123,1,0,0,Cd1|Pt1,4d|5d,"p{x,y}|{xz,yz}",0,,,JVASP-19619,icsd,CdPt,123,3D,48,50805496,True
+626718,626718,Cr1 Se2,164,1,0,0,Cr1,3d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-6889,composition+spg,CrSe2,164,2D,28,6625718,True
+631850,103473,Fe2 Ga1 V1,225,1,1,0,Ga1|V1,-|3d,"e_g{z2,x2-y2}",0,,,JVASP-18133,icsd,VGaFe2,225,3D,44,22362032,True
+634857,103856,Ga1 Ni3,221,1,1,0,Ga1,-,"e_g{z2,x2-y2}",0,,,JVASP-19846,icsd,GaNi3,221,3D,44,33204199,True
+634864,103856,Ga1 Ni3,221,1,1,0,Ga1,-,"e_g{z2,x2-y2}",0,,,JVASP-19846,icsd,GaNi3,221,3D,44,33204199,True
+639119,104332,Hg1 Ni1,123,1,0,0,Hg1|Ni1,3d|5d,"p{x,y}|{xz,yz}",0,,,JVASP-7636,composition+spg,NiHg,123,3D,60,79382296,True
+642242,44824,Li1 P1 Zn1,216,1,0,0,Li1|P1|Zn1,-|3d,"e_g{z2,x2-y2}",0,,,JVASP-40811,composition+spg,LiZnP,216,3D,28,20817952,True
+648357,42600,Pb1 Pd3,221,1,1,0,Pb1,-,"e_g{z2,x2-y2}",1,Pb,,JVASP-17852,icsd,Pd3Pb,221,3D,44,33204199,True
+648912,105689,Pd3 Sn1,221,1,1,0,Sn1,-,"e_g{z2,x2-y2}",1,Sn,,JVASP-18948,icsd,SnPd3,221,3D,44,33204199,True
+648916,105689,Pd3 Sn1,221,1,1,0,Sn1,-,"e_g{z2,x2-y2}",1,Sn,,JVASP-18948,icsd,SnPd3,221,3D,44,33204199,True
+648921,105689,Pd3 Sn1,221,1,1,0,Sn1,-,"e_g{z2,x2-y2}",1,Sn,,JVASP-18948,icsd,SnPd3,221,3D,44,33204199,True
+648964,105707,Pd5 Sr1,191,1,1,0,Sr1,-,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-19645,icsd,SrPd5,191,3D,72,74391916,True
+650690,650690,Ru1 Ta1,221,1,0,0,Ru1|Ta1,4d|5d,"e_g{z2,x2-y2}",0,,,JVASP-7736,icsd,TaRu,221,3D,24,20998955,True
+659883,104770,Li1 Pd1,187,1,0,0,Li1|Pd1,-|4d,"p{x,y}|{xy,x2-y2}|{xz,yz}",0,,,JVASP-15040,icsd,LiPd,187,3D,14,5696805,True
+670561,44824,Li1 P1 Zn1,216,1,0,0,Li1|Zn1|P1,-|3d,"e_g{z2,x2-y2}",0,,,JVASP-40811,composition+spg,LiZnP,216,3D,28,20817952,True
+670567,609965,As1 Cd1 Li1,216,1,0,0,Li1|Cd1|As1,-|4d,"e_g{z2,x2-y2}",0,,,JVASP-36286,composition+spg,LiCdAs,216,3D,22,14934588,True
+671094,105353,Ni3 Sn1,221,1,1,0,Sn1,-,"e_g{z2,x2-y2}",1,Sn,,JVASP-16591,composition+spg,Ni3Sn,221,3D,44,33204199,True
+672133,105689,Pd3 Sn1,221,1,1,0,Sn1,-,"e_g{z2,x2-y2}",1,Sn,,JVASP-18948,composition+spg,SnPd3,221,3D,44,33204199,True
+672655,153406,O3 Pb1 Ti1,221,1,0,0,Pb1|Ti1,-|3d,"e_g{z2,x2-y2}",1,Pb,,JVASP-4957,composition+spg,TiPbO3,221,3D,38,24766399,True
+673003,153406,O3 Pb1 Ti1,221,1,0,0,Pb1|Ti1,-|3d,"e_g{z2,x2-y2}",1,Pb,,JVASP-4957,composition+spg,TiPbO3,221,3D,38,24766399,True
+673496,673496,O3 Sn1 Zn1,221,1,1,0,Zn1|Sn1,-|3d,"e_g{z2,x2-y2}",1,Sn,,JVASP-36625,composition+spg,ZnSnO3,221,3D,44,33204199,True

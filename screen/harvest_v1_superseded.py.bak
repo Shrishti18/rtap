@@ -1,0 +1,180 @@
+"""
+Spec harvester for RTAP flat-band candidates.
+
+Screens Wannier90 _hr.dat against the derived specification:
+    Tc = min( U*lam/4 ,  BKT/3D-XY stiffness bound )
+    lam = lam_max(A),  A_ab = <rho_a rho_b>_k,  rho_a(k) = P_aa(k)
+    lam <= 1/2 at uniform pairing (exact); breaking it always loses.
+
+Quantities per band:
+    M        = int tr g dk /(2pi)^d      (gauge-invariant, = Omega_I/V_cell)
+    lam      = lam_max(A)                (amplitude channel; Tc_MF = U*lam/4)
+    W        = bandwidth
+    d_iso    = min(gap above, gap below)
+    unif     = max_a |w_a - 1/nphi|      (uniform-pairing deviation)
+
+g_ij = (1/2) Tr[d_i P  d_j P]. P(k) is gauge-invariant, so finite-differencing
+P avoids all gauge/branch problems. No Wannierization gauge fixing required.
+"""
+import numpy as np
+
+KB_MEV = 0.086173  # meV/K
+C2D = 0.068        # D_s ~ C2D * U * M, calibrated in-class (2D). See calib note.
+
+
+# ---------------- I/O ----------------
+
+def read_hr(path):
+    """Parse Wannier90 _hr.dat -> (R (nr,3) int, H (nr,n,n) complex, deg (nr,))."""
+    with open(path) as f:
+        lines = [l for l in f.read().splitlines()]
+    n = int(lines[1].split()[0])
+    nr = int(lines[2].split()[0])
+    deg, i = [], 3
+    while len(deg) < nr:
+        deg += [int(x) for x in lines[i].split()]
+        i += 1
+    deg = np.array(deg[:nr], float)
+    body = np.array([[float(x) for x in l.split()] for l in lines[i:] if l.strip()])
+    R = body[:, :3].astype(int).reshape(nr, n * n, 3)[:, 0, :]
+    hh = (body[:, 5] + 1j * body[:, 6]).reshape(nr, n, n)
+    H = np.transpose(hh, (0, 2, 1))          # file is column-major in (m,n)
+    return R, H, deg
+
+
+def write_hr(path, R, H, deg=None, comment="synthetic"):
+    nr, n, _ = H.shape
+    deg = np.ones(nr) if deg is None else deg
+    with open(path, "w") as f:
+        f.write(comment + "\n%d\n%d\n" % (n, nr))
+        for j in range(0, nr, 15):
+            f.write(" ".join("%d" % d for d in deg[j:j + 15]) + "\n")
+        for r in range(nr):
+            for b in range(n):
+                for a in range(n):
+                    z = H[r, a, b]
+                    f.write("%5d%5d%5d%5d%5d%14.8f%14.8f\n"
+                            % (R[r, 0], R[r, 1], R[r, 2], a + 1, b + 1, z.real, z.imag))
+
+
+# ---------------- Bloch Hamiltonian ----------------
+
+def hk_grid(R, H, deg, nk, dim=2):
+    """H(k) on a uniform grid. Returns (shape..., n, n)."""
+    ks = [2 * np.pi * (np.arange(nk) + 0.5) / nk for _ in range(dim)]
+    mesh = np.meshgrid(*ks, indexing="ij")
+    phase = np.zeros(mesh[0].shape, complex)
+    out = np.zeros(mesh[0].shape + H.shape[1:], complex)
+    for r in range(R.shape[0]):
+        phase = np.exp(1j * sum(mesh[d] * R[r, d] for d in range(dim)))
+        out += phase[..., None, None] * (H[r] / deg[r])
+    return out, [2 * np.pi / nk] * dim
+
+
+# ---------------- Geometry ----------------
+
+def projector(Hk, bands):
+    """P(k) for the band manifold `bands` (list of indices)."""
+    E, V = np.linalg.eigh(Hk)
+    U = V[..., :, bands]                       # (...,n,nb)
+    return np.einsum('...ia,...ja->...ij', U, U.conj()), E
+
+
+def metric_trace(P, dks):
+    """tr g(k) with g_ij = (1/2) Tr[d_i P d_j P], central differences."""
+    d = len(dks)
+    trg = np.zeros(P.shape[:-2])
+    for i in range(d):
+        dP = (np.roll(P, -1, i) - np.roll(P, 1, i)) / (2 * dks[i])
+        trg += 0.5 * np.real(np.einsum('...ij,...ji->...', dP, dP))
+    return trg
+
+
+def descriptors(Hk, dks, band):
+    P, E = projector(Hk, [band])
+    trg = metric_trace(P, dks)
+    d = len(dks)
+    # int tr g d^dk / (2pi)  -> reads directly as multiples of the Chern floor |C|
+    M = trg.mean() * (2 * np.pi) ** (d - 1)
+    rho = np.real(np.einsum('...ii->...i', P))              # (...,norb)
+    rf = rho.reshape(-1, rho.shape[-1])
+    A = (rf.T @ rf) / rf.shape[0]
+    lam = float(np.linalg.eigvalsh(A)[-1])
+    w = rf.mean(0)
+    nphi = 1.0 / np.sum(w ** 2)
+    unif = float(np.max(np.abs(w - 1.0 / len(w))))
+    Eb = E[..., band]
+    W = float(Eb.max() - Eb.min())
+    nb = E.shape[-1]
+    gl = float(Eb.min() - E[..., band - 1].max()) if band > 0 else np.inf
+    gu = float(E[..., band + 1].min() - Eb.max()) if band < nb - 1 else np.inf
+    return dict(M=float(M), lam=lam, W=W, d_iso=float(min(gl, gu)),
+                unif=unif, nphi=float(nphi), w=w, Emid=float(Eb.mean()))
+
+
+# ---------------- Spec ----------------
+
+def spec(dsc, Tc_K=300.0, dim=2):
+    """Required U and metric threshold for target Tc. Energies in eV."""
+    Tc = Tc_K * KB_MEV / 1000.0
+    lam = dsc['lam']
+    U_req = 4 * Tc / lam                       # from Tc_MF = U*lam/4
+    if dim == 2:
+        M_req = 2 * lam / (np.pi * C2D)        # from (pi/8)*C2D*U*M >= Tc
+        cal = True
+    else:
+        M_req = 2 * lam / (np.pi * C2D) / 5.0  # 3D ~5x looser; coefficient UNCALIBRATED
+        cal = False
+    return dict(Tc_K=Tc_K, U_req=U_req, iso_req=2 * U_req, M_req=M_req,
+                pass_iso=dsc['d_iso'] >= 2 * U_req,
+                pass_M=dsc['M'] >= M_req,
+                pass_unif=dsc['unif'] < 0.05,
+                calibrated=cal)
+
+
+def auto_bands(Hk, wmax=0.5, iso_min=0.2):
+    """Candidate isolated narrow bands."""
+    E = np.linalg.eigvalsh(Hk)
+    nb = E.shape[-1]
+    out = []
+    for b in range(nb):
+        Eb = E[..., b]
+        W = Eb.max() - Eb.min()
+        gl = Eb.min() - E[..., b - 1].max() if b > 0 else np.inf
+        gu = E[..., b + 1].min() - Eb.max() if b < nb - 1 else np.inf
+        iso = min(gl, gu)
+        if W <= wmax and iso >= iso_min:
+            out.append((b, float(W), float(iso)))
+    return out
+
+
+# ---------------- flat-band-pair criterion (2-orbital manifold) ----------------
+
+def pair_criterion(R, H, deg, bands, nk=40, dim=3, U=0.207):
+    """
+    For a 2-band manifold: decompose H(k) = eps0(k)*1 + d(k).sigma.
+    Derived requirements (U in eV, defaults to the 300 K value):
+        min 2|d(k)| >= 2U        isolation of the two bands
+        spread(eps0) <= 0.5*U    flatness (pairing dies by W ~ 2U)
+        max|d|/min|d| - 1 <= 0.2 |d| near-constant
+    Equivalently: inter-orbital (sigma) hopping must dominate the
+    orbital-averaged (identity) hopping by a factor of roughly 4-8.
+    """
+    Hk, dks = hk_grid(R, H, deg, nk, dim)
+    sub = np.ix_(*([np.arange(s) for s in Hk.shape[:-2]] + [bands, bands]))
+    h = Hk[sub] if len(bands) == 2 else Hk[..., bands, :][..., :, bands]
+    e0 = np.real(0.5 * (h[..., 0, 0] + h[..., 1, 1]))
+    dz = np.real(0.5 * (h[..., 0, 0] - h[..., 1, 1]))
+    dx = np.real(h[..., 0, 1])
+    dy = -np.imag(h[..., 0, 1])
+    dmag = np.sqrt(dx**2 + dy**2 + dz**2)
+    dzh = np.mean(dz / np.maximum(dmag, 1e-12))
+    W = float(e0.max() - e0.min())
+    return dict(gap_min=float(2 * dmag.min()), W_eps0=W,
+                d_var=float(dmag.max() / max(dmag.min(), 1e-12) - 1),
+                dzhat=float(dzh),
+                ratio=float(dmag.mean() / max(np.abs(e0).mean(), 1e-12)),
+                pass_iso=2 * dmag.min() >= 2 * U,
+                pass_flat=W <= 0.5 * U,
+                pass_const=(dmag.max() / max(dmag.min(), 1e-12) - 1) <= 0.2,
+                pass_unif=abs(dzh) < 0.05)
