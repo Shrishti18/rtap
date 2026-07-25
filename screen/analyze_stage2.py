@@ -72,8 +72,64 @@ if len(rat):
         print("       ratio > %.1f : %d / %d bands (%.1f%%)"
               % (thr, int((rat > thr).sum()), len(rat), 100.0 * (rat > thr).mean()))
 
+print("\n" + "#" * 124)
+print("lam / n_phi STRUCTURE")
+print("  lam = lam_max<rho_a rho_b>. Under uniform pairing lam = 1/n_phi, so the")
+print("  n_phi = 2 doublet target is lam ~ 0.5. lam -> 1 means n_phi -> 1: a")
+print("  single-orbital band has a k-INDEPENDENT projector, hence tr g = 0")
+print("  identically. Those bands are dead by theorem, not by measurement.")
+print("#" * 124)
+lam = np.array([f(b["lam"], np.nan) for b in bands])
+nph = np.array([f(b["nphi"], np.nan) for b in bands])
+print("  lam  : min %.4f  median %.4f  max %.4f" % (np.nanmin(lam), np.nanmedian(lam), np.nanmax(lam)))
+print("  nphi : min %.4f  median %.4f  max %.4f" % (np.nanmin(nph), np.nanmedian(nph), np.nanmax(nph)))
+print("\n  histogram of lam (%d candidate bands):" % len(bands))
+edges = [0.0, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 0.99, 1.001]
+for lo, hi in zip(edges[:-1], edges[1:]):
+    n = int(((lam >= lo) & (lam < hi)).sum())
+    bar = "#" * int(round(60.0 * n / max(len(bands), 1)))
+    tag = "  <- n_phi ~ 2 target" if (lo, hi) == (0.4, 0.5) or (lo, hi) == (0.5, 0.6) else ""
+    print("    [%.2f, %.2f) n_phi %5.2f-%5.2f : %4d %-60s%s"
+          % (lo, hi, 1.0 / hi if hi else np.inf, 1.0 / lo if lo else np.inf, n, bar, tag))
+
+SUB = [b for b in bands if 0.40 <= f(b["lam"], -1) <= 0.60]
+print("\n  GENUINE n_phi=2 DOUBLETS -- lam in [0.40, 0.60] (n_phi 1.67..2.50):")
+print("    %d of %d candidate bands (%.1f%%), on %d materials"
+      % (len(SUB), len(bands), 100.0 * len(SUB) / max(len(bands), 1),
+         len({b["jid"] for b in SUB})))
+if not SUB:
+    print("    -> EMPTY. No candidate band in the screened set is a genuine")
+    print("       two-orbital doublet; every one is effectively single-orbital")
+    print("       (lam -> 1, tr g -> 0 by theorem) or otherwise off-target.")
+else:
+    smm = np.array([f(b["M_min_trg"], np.nan) for b in SUB])
+    smt = np.array([f(b["M_trg"], np.nan) for b in SUB])
+    print("    max M_min_trg in subset : %.6f" % np.nanmax(smm))
+    print("    max M_trg     in subset : %.6f" % np.nanmax(smt))
+    for R in RS:
+        v = [(f(b[key(R)], -1), b) for b in SUB if b.get(key(R))]
+        if v:
+            top, b = max(v, key=lambda t: t[0])
+            print("    max Tc_max_K (M_min, R=%.2f) : %8.2f K   %s band %s (%s)"
+                  % (R, top, b["jid"], b["band"], b["formula"]))
+    print("\n  TOP 20 IN THE lam~0.5 SUBSET, by Tc_max (R=1.00, on M_min)")
+    print("  %-13s %-9s %3s %5s %4s | %9s %9s %6s | %6s %6s %8s %6s | %8s %8s %8s | %5s"
+          % ("jid", "formula", "dim", "norb", "band", "M_min_trg", "M_trg", "ratio",
+             "lam", "nphi", "d_iso", "W", "Tc R1.00", "Tc R0.85", "Tc R0.55", "binds"))
+    for b in sorted(SUB, key=lambda b: -(f(b.get(key(1.0)), -1) or -1))[:20]:
+        print("  %-13s %-9s %3s %5s %4s | %9.6f %9.6f %6s | %6.4f %6.3f %8.4f %6.3f | "
+              "%8.2f %8.2f %8.2f | %5s"
+              % (b["jid"], b["formula"], b["dim"], b["norb"], b["band"],
+                 f(b["M_min_trg"], np.nan), f(b["M_trg"], np.nan),
+                 ("%.2f" % f(b["M_ratio"])) if f(b["M_ratio"]) is not None
+                 and np.isfinite(f(b["M_ratio"])) else "-",
+                 f(b["lam"], np.nan), f(b["nphi"], np.nan),
+                 f(b["d_iso"], np.nan), f(b["W"], np.nan),
+                 f(b.get(key(1.0)), np.nan), f(b.get(key(0.85)), np.nan),
+                 f(b.get(key(0.55)), np.nan), b.get("binds_Mmin_R1.00", "?")))
+
 print("\n" + "-" * 124)
-print("TOP 20 BANDS BY Tc_max (R=1.00, on M_min)")
+print("TOP 20 BANDS BY Tc_max (R=1.00, on M_min) — ALL candidate bands, lam unrestricted")
 print("-" * 124)
 print("%-13s %-9s %3s %5s %4s | %9s %9s %6s | %6s %8s %6s %5s | %8s %8s %8s | %5s"
       % ("jid", "formula", "dim", "norb", "band", "M_min_trg", "M_trg", "ratio",
