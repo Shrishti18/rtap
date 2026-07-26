@@ -265,7 +265,85 @@ uncalibrated mean field until §3.1 is done.
 
 ---
 
-## 7. What I want
+## 8. THE THING I WOULD DO FIRST — and why
+
+### 8.1 The framework has never been validated against a single real superconductor
+
+**Measured, just now:** the 1,772-material set contains 23 entries for known
+superconductors — Nb3Sn (18.3 K), Nb (9.25 K), Pb (7.2 K), NbSe2 (7.2 K),
+Tc (7.8 K), V (5.4 K), Ta (4.5 K), Sn (3.7 K), Al (1.18 K), TaS2 (0.8 K), FeSe.
+The geometric screen found candidate bands in 179 of 1,772 materials.
+
+    known-SC entries producing a candidate band:  0
+    expected if geometry and superconductivity were independent:  2.32
+
+**Zero.** (Small numbers — Poisson p ~ 0.10, so this is suggestive of
+anti-correlation, not proof of it.) The physical reading is benign: those are
+broad-band BCS superconductors, not flat-band ones, so the screen is selecting a
+different mechanism rather than failing.
+
+**But the consequence is not benign.** It means there is **no material in this
+dataset on which the formula can be calibrated.** We have been predicting with a
+theory that has never reproduced a measured Tc — not once, not to a factor of
+ten. Every "348 K" and "330 K" in this project is an extrapolation from an
+unvalidated formula.
+
+### 8.2 Therefore: calibrate on magic-angle twisted bilayer graphene FIRST
+
+TBG is the one system where flat-band, quantum-geometric superconductivity is
+actually believed to operate, where the quantum metric has been computed, and
+where **Tc is measured: ~1.7 K.**
+
+Run `Tc = min(U·lam/4, 0.369·U·M_min)` on the TBG flat bands with literature
+values of U and the metric.
+
+- If it returns ~1–3 K, **the framework earns the right to predict** and every
+  number in this brief becomes meaningful.
+- If it returns 50 K or 500 K, the formula overpredicts by 30–300x and every Tc
+  here must be divided by that factor — which would close the whole route on
+  arithmetic, for a few days of work.
+
+**This is worth more than any new candidate.** It is the difference between a
+theory and a hope, and nobody in this project has done it. Do it before
+proposing a compound.
+
+Related caution: the empirical record of flat-band superconductivity is **1–3 K**
+(TBG ~1.7 K; kagome CsV3Sb5 ~2.5 K). The program's premise is "same mechanism,
+larger energy scale." That is a reasonable hope and it is not evidence.
+
+### 8.3 The search I would run: invert on the SCARCE ingredient
+
+C5 (attraction) is the binding constraint, not geometry — geometry is present in
+~44% of bands (1.9), attraction in **zero verified materials** (3.2). So do not
+search for geometry and hope for attraction. Enumerate the attraction first.
+
+**The set of valence-skipping (negative-U) ions is small and enumerable.** And
+almost all of them are dead on arrival for a reason we can state exactly:
+
+| ion class | example | active orbital | verdict |
+|---|---|---|---|
+| s2 lone pair | Bi3+/5+, Pb2+/4+, Tl1+/3+, Sn2+/4+, Sb3+/5+, In1+/3+, Ge2+/4+ | **s, singlet** | **DEAD** — n_phi = 1 so tr g == 0 IDENTICALLY, whatever U is. This is why BaBiO3's 1.9 eV is unusable. |
+| **d9** | **Au1+/3+, Ag1+/3+** | **e_g DOUBLET** | **ALIVE** — the metric is not forced to zero |
+| f-electron | Eu2+/3+, Yb2+/3+, Sm2+/3+, Tm2+/3+ | f, high degeneracy | check: large n_phi suppresses lam = 1/n_phi |
+
+**The d9 row is a two-element list.** That is the entire space of known
+valence-skipping ions with a non-singlet active manifold, and it is why Au2+ is
+the right instinct.
+
+**Ag is the under-examined half.** AgO is not Ag(II)O — it is **Ag(I)Ag(III)O2**,
+an ambient-stable, structurally characterised charge-ordered d9 valence skipper:
+the exact d-electron analogue of BaBiO3, already synthesised, already stable at
+ambient pressure, and lighter and cheaper than gold. AgF2 is a known d9 Ag(II)
+compound. **Neither has been examined in this project.** The BKBO precedent
+(dope the charge-ordered parent until the order melts) applies to AgO in exactly
+the form it applied to BaBiO3.
+
+That is a **family**, which is what I asked for: A-Ag-O and A-Ag-F systems,
+plus the A2Au2X6 halides, all sharing one mechanism.
+
+---
+
+## 9. What I want
 
 A **family**, not a single compound — materials that can actually be synthesized
 and survive synthesis. So prefer:
