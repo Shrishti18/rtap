@@ -99,6 +99,25 @@ for dz in [0.5, 1.0, 2.0]:
           f"   {r['w'][0]:.3f}/{r['w'][1]:.3f}")
 
 print("""
+CORRECTION (audit, accepted in full). The M_min values quoted in the verdict
+below were computed at nk = 24 and are UNDER-RESOLVED by up to 33%. tr g for a
+dimerised chain is sharply peaked near the smallest gap, and a 24-point grid
+misses the peak -- the same under-resolution error made once already on the
+TBG metric. The exact result is a closed form,
+        M_min = min(t1^2, t2^2) / (8 |t1^2 - t2^2|),
+verified against high-nk integration:
+    (t1,t2)     nk=24     nk=48     closed form
+    (1.1,0.9)  0.17122   0.22014     0.253125
+    (1.2,0.8)  0.08408   0.09461     0.100000
+    (1.4,0.6)  0.02486   0.02682     0.028125
+The correction makes the numbers LARGER, i.e. more favourable, and changes no
+conclusion: the closed form is monotonically decreasing in the dimerisation and
+diverges only as t1 -> t2, which is exactly the gapless folding limit. The
+family still tops out ~5x below the M_min >= 1.35 the proposal required, and
+does so for a reason now visible in one line rather than in a scan.
+""")
+
+print("""
 VERDICT FOR THE PROPOSAL.
   1. Pure folding (symmetry-equivalent sites, the rotation-doubled case) gives
      a BAND TOUCHING, not a gapped two-orbital manifold. C3 fails outright.
