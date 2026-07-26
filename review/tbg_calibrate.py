@@ -156,3 +156,48 @@ if __name__ == "__main__":
         tc = min(amp, geo)
         print(f"   {U*1000:>9.1f}{src:<34}{amp:>9.1f}{geo:>9.1f}{tc:>9.1f}"
               f"{tc/1.7:>9.1f}x")
+
+
+# ===========================================================================
+# RESULT, AND A THIRD BZ-BOUNDARY BUG CORRECTED
+# ===========================================================================
+#
+# THE CALIBRATION (theta = 1.05 deg, N = 4):
+#     W_flat     = 11.63 meV        (literature MATBG: ~5-15 meV)  OK
+#     Delta_iso  = 22.45 meV        (literature: ~20-30 meV)       OK
+#     lam        = 0.5              (two moire Wannier orbitals/valley/spin)
+#     U          = min(Coulomb, Delta_iso/2) = 11.22 meV
+#
+#     Tc(amplitude cap) = U*lam/4        = 16.3 K   <- BINDS
+#     Tc(geometric cap) = 0.369*U*M_trg  = 71.9 K
+#     Tc predicted      = 16.3 K
+#     Tc MEASURED       =  1.7 K
+#     ------------------------------------------------
+#     OVERESTIMATE      =  9.6x
+#
+# The binding cap is the AMPLITUDE cap, which uses only lam and U -- NOT the
+# metric. So this calibration is independent of the metric bug below.
+#
+# SECOND CALIBRATION POINT, already in ceiling.py: BKBO predicted 235 K,
+# measured 30 K -> 7.7x. Two unrelated systems (moire flat bands; s-orbital
+# valence skipping), two overestimates, 7.7x and 9.6x.
+#
+# METRIC BUG (third BZ-boundary occurrence in this project). The BM Hamiltonian
+# in the plane-wave basis satisfies H(k+G) = V(G) H(k) V(G)^dag where V(G)
+# PERMUTES the G-vector labels -- it is NOT periodic. np.roll across the BZ
+# boundary therefore differences two mismatched bases. Symptom: M_trg climbing
+# 0.836 -> 1.166 -> 1.451 at nk = 12/18/24 despite a POSITIVE 22 meV gap.
+# Recomputed with finite offsets that never cross the boundary, using
+# gauge-invariant projectors:
+#     theta = 0.95:  M_trg = 0.603 - 0.619   (converged in nk AND in offset)
+#     theta = 1.05:  M_trg = 0.575 - 0.583
+# So the true MATBG flat-band metric is ~0.58-0.62, not 1.5. It is BELOW the
+# 2D threshold of 0.84 -- consistent with MATBG being a 1.7 K superconductor
+# rather than a room-temperature one.
+#
+# CONSEQUENCE FOR EVERY NUMBER IN THIS PROJECT: divide predicted Tc by ~8-10.
+#   reaching 300 K requires the formula to predict 2400-3000 K
+#   the Kramers-Creutz proposal's 330 K  ->  ~35 K
+#   the required U rises from 158 meV    ->  1.3-1.6 eV, i.e. bismuthate scale
+# The correction does not kill the programme; it selects hard for the largest
+# available U, which is the s2 valence-skipping mechanism.
